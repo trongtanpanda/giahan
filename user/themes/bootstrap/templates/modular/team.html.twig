@@ -1,0 +1,31 @@
+<div class="modular-row">
+    <div class="container">              
+        {% set total = page.header.teams|length %} 
+        {% set col = page.header.layouts %}
+        {% set rows = total/col %}
+        {% set remainder  = total%col %}
+        {% if remainder > 0 %}
+            {% set rows = rows + 1 %}
+        {% endif %}
+        {% set start = 0 %}
+        {% for row in 1..rows %}
+            {% set start = ((row-1)*col) %}
+            {% set end = row*col - 1 %}
+            {% if end >= total %}
+            {% set end = total %}
+            {% endif %}
+            <h2 class="section-team-title"> {{ header.title|markdown }} </h2>
+            <div class="col-xs-12 teams">
+                {% for item in start..end %}
+                    <div class="col-sm-{{ 12/col }}">
+                        <div class="team-thumbnail">
+                            {{ page.media.images[page.header.teams[item].thumbnail].html() }}
+                        </div>
+                        <p class="team-name"> {{ page.header.teams[item].name }} </p>
+                        <p class="team-title"> {{ page.header.teams[item].title }} </p>
+                    </div>
+                {% endfor %}
+            </div>
+        {% endfor %}
+    </div>
+</div>

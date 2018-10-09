@@ -1,0 +1,31 @@
+title: Contact form
+'@extends':
+    type: default
+    context: blueprints://pages
+form:
+  fields:
+    tabs:
+      fields:  
+        contact:
+          type: tab
+          title: Form Config
+          fields:            
+            header.blacklist:
+              name: blacklist
+              type: textarea
+              label: Black List
+
+            header.whitelist:
+              name: whitelist
+              type: textarea
+              label: White List
+
+            header.competitor:
+              name: competitor
+              type: textarea
+              label: Competitor List
+
+            header.existingcustomer:
+              name: existingcustomer
+              type: textarea
+              label: Existing Customer List

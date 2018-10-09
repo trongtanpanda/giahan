@@ -1,6 +1,6 @@
 body {
     font-family : 'Roboto', sans-serif;
-    font-size   : 13px;
+    font-size   : 15px;
     line-height : 24px;
     color       : #969595;
     font-weight : 400;
@@ -163,8 +163,30 @@ button:focus,
 .btn:active:focus {
     outline : none;
     }
+.x-section {
+    padding: 85px 0;
+    border-top: 1px solid #F5F5F5;
+    box-shadow: 0 0 8px 3px rgba(243, 243, 243, 0.9);
+    -moz-box-shadow: 0 0 8px 3px rgba(243, 243, 243, 0.9);
+    -webkit-box-shadow: 0 0 8px 3px rgba(243, 243, 243, 0.9);
+    -o-box-shadow: 0 0 8px 3px rgba(243, 243, 243, 0.9);
+}
+.gh-btn-more {
+    display: inline-block;
+    margin-top: 20px;
+    color: #ffffff;
+    background-color: #26ab4a;
+    border:1px solid #26ab4a;   
+    padding: 8px 15px;
+    line-height: 1.5;
+    border-radius: 0;
+    font-size: 18px;
 
-
+}
+.gh-btn-more:hover,.gh-btn-more:focus {
+    color: #26ab4a;
+    background-color: #ffffff;
+}
 
 
 /* -------------------

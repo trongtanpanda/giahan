@@ -1,0 +1,45 @@
+title: What People Say
+'@extends': default
+
+form:
+  fields:
+    tabs:
+      fields:       
+        infos:
+          type: tab
+          title: What people say ss
+          fields:
+            header.title_left:
+              name: title_left
+              type:  text
+              label: Title left
+            header.content_left:
+              name: content_left
+              type:  text
+              label: Content left
+            header.background_img:
+              name: Background
+              type: filepicker
+              label: Background
+              folder: 'self@'
+              accept:
+                    - .png
+                    - .jpg
+              preview_images: true
+            header.what_people_say:
+              name: What people say
+              type: list
+              label: What people say
+              fields:               
+                .content:
+                  type: editor
+                  label: Content
+                .who:
+                  type: text
+                  label: Who
+                .address:
+                  type: text
+                  label: Address
+                .color:
+                  type: colorpicker
+                  label: Background color

@@ -1,0 +1,29 @@
+
+<div class="modular-row">
+    <div class="container">
+        <div class="policy-content">
+            {{ content }}
+        </div>
+        <div class="policy-items">        
+            {% for policy_item in page.header.policy_items %}
+                <div class="policy-item">
+                    {% if policy_item.layout == true %}
+                        <div class="policy-item-thumbnail col-sm-4">
+                            {{ page.media.images[policy_item.thumbnail].html() }}
+                        </div>
+                        <div class="policy-item-content col-sm-8">
+                            {{ policy_item.content|markdown }}
+                        </div>
+                    {% else %}
+                        <div class="policy-item-content col-sm-8">
+                            {{ policy_item.content|markdown }}
+                        </div>
+                        <div class="policy-item-thumbnail col-sm-4">
+                            {{ page.media.images[policy_item.thumbnail].html() }}
+                        </div>
+                    {% endif %}
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>

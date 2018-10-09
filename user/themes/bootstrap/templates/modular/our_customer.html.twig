@@ -1,0 +1,16 @@
+
+<link href="/user/themes/bootstrap/css/slick.css" type="text/css" rel="stylesheet" />
+<link href="/user/themes/bootstrap/css/slick-theme.css" type="text/css" rel="stylesheet" />
+{% do assets.add('theme://css/our-customer.css') %}
+<div class="container">
+    <div class="customer_branch">
+     {% for uc in page.header.our_customers %}
+        <div class="image-inside"> {{ page.media.images[uc.branch].html() }}</div>
+      
+    {% endfor %}
+    </div>
+</div>
+
+{% do assets.add('theme://js/slick.min.js') %}
+{% do assets.add('theme://js/our-customer.js') %}
+

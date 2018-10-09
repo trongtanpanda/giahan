@@ -1,0 +1,26 @@
+{% extends 'partials/simplesearch_base.html.twig' %}
+
+{% block content %}
+        <div class=" search-content-padding simplesearch">
+            <div class="search-header-pannel">
+                <h1 class="search-header">{{"PLUGIN_SIMPLESEARCH.SEARCH_RESULTS"|t}}</h1>
+                <div class="center">
+                    {% include 'partials/simplesearch_searchbox.html.twig' %}
+                </div>
+
+            </div>
+
+            <div class="container">
+                {% set count = search_results["collection"] ? search_results["collection"].count : 0 %}
+                {% if count == 0 %}
+                    <p style="margin-top: 10px"><strong>Sorry, we couldn't find any matches for "{{ query }}"</strong></p>
+                {% endif %}
+
+                {% for page in search_results["collection"] %}
+                    {% include 'partials/simplesearch_item.html.twig' with {'page':page, 'sum':search_results["textSum"][page.id] } %}
+                {% endfor %}
+            </div>
+
+        </div>
+{% endblock %}
+{% do assets.add('theme://js/simple-search.js') %}

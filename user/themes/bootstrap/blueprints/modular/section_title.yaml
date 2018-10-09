@@ -1,0 +1,29 @@
+title: Section Title
+'@extends': default
+
+form:
+  fields:
+    tabs:
+      fields:        
+        section_title:
+          type: tab
+          title: Section Title
+          fields:       
+            header.section_title:
+              name: title
+              type: text
+              label: Text              
+            header.section_title_align:
+              name: align
+              type: select
+              label: Text Align
+              size: small
+              options:
+                left: left
+                center: center
+                right: right
+            header.margin:
+              name: margin
+              type: text
+              label: margin
+              default: 70px 0 30px  

@@ -1,0 +1,64 @@
+{% do assets.add('theme://css/contact-us-form.css') %}
+{% do assets.add('theme://css/bootstrap-multiselect.css') %}
+<script type="text/javascript" src="/user/themes/bootstrap/js/jquery.validate.min.js"></script>
+<div id="sumit-form-preload"></div>
+<div class="contact-us-form container">
+    <div class="text-contact-form">
+        <h1>Leave a <strong>message</strong></h1>
+    </div>    
+{% include "forms/form.html.twig" %}
+</div>
+
+<div class="modal fade" id="myModal" role="dialog">
+<div class="modal-dialog">
+
+    <!-- Modal content-->
+    <div class="modal-content">
+    <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+    </div>
+    <div class="modal-body">
+        <div class="inside-body">
+            <img class="inside-img p-class" src="{{ base_url_absolute }}/user/themes/bootstrap/assets/email.png">
+        </div>
+        <div class="inside-text">
+            <p class="big p-class" ><strong>Thank you for contacting us!</strong></p>
+            <p class="below p-class">We have sent your email to a member of our sales team, and you can expect a reply soon.
+<p class="below p-class">A copy has been emailed directly to the email address that you have been provided.</p>
+            <p class="if-you-need">If you need to reach us sooner, please call us at<strong> +84 2363 655 336</strong></p>
+            <p class="learn-more"><strong>Learn more about MoWeDe</strong></p>
+            <div class="row email-phone-row">
+                <div class="col-xs-6">
+                    <div class="row phone-popup">
+                            <p>+84 2363 655 336</p>
+                            <img src="{{ base_url_absolute }}/user/themes/bootstrap/assets/phone-popup.png">
+                    </div>
+                </div>
+                 <div class="col-xs-6">
+                     <div class="row email-popup">
+                            <img src="{{ base_url_absolute }}/user/themes/bootstrap/assets/email-popup.png">
+                            <p><a href="mailto:sales@mowede.com">sales@mowede.com</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="by-submit">
+                <p><i>By submitting this form, you agree that you have read and understand MoWeDe's Privacy Policy. You can Opt-Out of communications at any time. We respect your privacy.</i></p>
+            </div>
+            <button type="button" class="btn btn-default p-class" data-dismiss="modal">OK</button>
+        </div>
+    </div>
+    </div>
+    
+</div>
+</div>
+<input type="hidden" class="hid-competitor" value={{ page.header.competitor|json_encode }}>
+<input type="hidden" class="hid-exitingcustomer" value={{ page.header.existingcustomer|json_encode }}>
+<input type="hidden" class="hid-blacklist" value={{ page.header.blacklist|json_encode }}>
+
+{% do assets.add('theme://js/bootstrap.min.js') %}
+{% do assets.add('theme://js/jquery.validate.min.js') %}
+{% do assets.add('theme://js/bootstrap-multiselect.js') %}
+{% do assets.add('theme://js/contact-us-form.js') %}
+
+
+

@@ -1,0 +1,33 @@
+title: Who We Are
+'@extends': default
+
+form:
+  fields:
+    tabs:
+      fields:        
+        content:
+          uploads:
+            label: Page Media (first one will be displayed next to your content)
+          fields:            
+            header.thumbnail:
+              type: filepicker
+              folder: 'self@'
+              label: Select a file
+              preview_images: true
+              toggleable: true
+              accept:
+                - .png
+                - .jpg
+                - .gif
+            header.alt:
+              type: text
+              label: Alt
+            header.layout:
+              type: toggle
+              label: Layout
+              default: 1
+              options:
+                  1: Left Thumnail
+                  0: Right Thumnail
+              validate:
+                  type: bool

@@ -1,0 +1,108 @@
+title: Career
+'@extends':
+    type: default
+    context: blueprints://pages
+form:
+  fields:
+    tabs:
+      fields:
+        general:
+          type: tab
+          title: Configuration
+          fields:
+            modular_title:
+              type: spacer
+              title: PLUGIN_ADMIN.MODULAR_SETUP
+
+            header.content.items:
+              type: text
+              label: PLUGIN_ADMIN.ITEMS
+              default: '@self.modular'
+              size: medium
+
+            header.content.order.by:
+              type: text
+              label: PLUGIN_ADMIN.ORDER_BY
+              placeholder: date
+              help:
+              size: small
+
+            header.content.order.dir:
+              type: text
+              label: PLUGIN_ADMIN.ORDER
+              help: '"desc" or "asc" are valid values'
+              placeholder: desc
+              size: small
+
+            header_image:
+              type: section
+              title: Header Image
+            
+            header.summary:
+              type: textarea
+              label: Summary
+
+            header.posting_date:
+              type: datetime
+              label: Posting Date
+
+            header.location:
+              type: select
+              label: Location
+              options:
+                'Danang': 'Danang'
+                'Ho Chi Minh': 'Ho Chi Minh'
+                'USA': 'USA'
+
+            header.schedule:
+              type: select
+              label: Schedule
+              options:
+                'Full-time': 'Full-time'
+                'Part-time': 'Part-time'
+
+            header.share:
+              type: toggle
+              toggleable: true
+              label: Share on Social
+              highlight: 1
+              options:
+                1: Enabled
+                0: Disabled
+            
+            header.header_image:
+              type: toggle
+              toggleable: true
+              label: Display Header Image
+              help: Enabled displaying of a header image
+              highlight: 1
+              options:
+                1: Enabled
+                0: Disabled
+            
+            header.min_height:
+              type: number              
+              label: Min-height             
+           
+            header.header_image_file:
+              type: filepicker
+              folder: 'self@'
+              label: Image File
+              preview_images: true
+              toggleable: true
+              accept:
+                - .png
+                - .jpg
+
+            header.header_main_text:
+              type: text
+              label: Heading Main Text
+
+            header.header_sub_text:
+              type: text
+              label: Heading Sub Text 
+
+            header.color:
+              type: colorpicker
+              label: Color
+            

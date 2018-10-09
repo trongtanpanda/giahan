@@ -1,0 +1,70 @@
+{% do assets.addCss('theme://css/what-people-say.css') %}
+<div id="part_wps" style="background-image: url('{{page.media.images[page.header.background_img].url}}');">
+    <div class="container">
+        <div class="left_part">
+            {{ page.header.title_left|markdown }}
+            {{ page.header.content_left|markdown }}
+        </div>
+        <div class="right_part">
+              <div id="wps" class="carousel slide" data-ride="carousel">
+                    <!-- Indicators -->
+                    <ol class="carousel-indicators wps">
+                    {% for wps in page.header.what_people_say %}
+                    {% if(loop.index==1) %}
+                         <li data-target="#wps" data-slide-to="{{ loop.index - 1}}" class="active"></li>
+                    {% else %}
+                         <li data-target="#wps" data-slide-to="{{ loop.index - 1 }}"></li>
+                    {% endif %}
+                    {% endfor %}
+                    </ol>
+                <div class="carousel-inner">
+                {% for wps in page.header.what_people_say %}
+                {% if(loop.index==1) %}
+                    <div class="item active">
+                        <div class="inside p_inside">
+                            <div>
+                                <p class="p_say" style="font-style: italic;background: {{ wps.color }};">
+                                    {{ wps.content }}
+                                </p>
+                            </div>
+                            <div>
+                                <p class="author f_left">
+                                    {{ wps.who }}
+                                </p>
+                            </div>
+                            <div>
+                                <p class="address f_left">
+                                    {{ wps.address }}
+                                </p>
+                            </div>
+                            
+                        </div>
+                    </div>
+                {% else %}
+                    <div class="item">
+                        <div class="inside p_inside">
+                            <div>
+                                <p class="p_say" style="font-style: italic;background:{{ wps.color }};">
+                                    {{ wps.content}}
+                                </p>
+                            </div>
+                            <div>
+                                <p class="author f_left">
+                                    {{ wps.who }}
+                                </p>
+                            </div>
+                            <div>
+                                <p class="address f_left">
+                                    {{ wps.address }}
+                                </p>
+                            </div>
+                            
+                        </div>
+                    </div>
+                {% endif %}
+                {% endfor %}
+                </div>
+            </div> 
+        </div>
+    </div>
+</div>

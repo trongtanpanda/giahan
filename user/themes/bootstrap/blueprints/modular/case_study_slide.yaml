@@ -1,0 +1,52 @@
+title: Case Study
+'@extends': default
+
+form:
+  fields:
+    tabs:
+      fields:       
+        infos:
+          type: tab
+          title: Case Study
+          fields: 
+            header.background_img:
+              name: Background
+              type: filepicker
+              lable: Background
+              folder: 'self@'
+              accept:
+                    - .png
+                    - .jpg
+              preview_images: true
+            header.studies:
+              name: Case Study
+              type: list
+              label: Case Study
+              fields:               
+                .title:
+                  type: text
+                  label: Title
+                .content:
+                  type: editor
+                  label: Content
+                .url:
+                  type: text
+                  label: Detail link
+                .image:
+                  type: filepicker
+                  folder: 'self@'
+                  label: Select image
+                  preview_images: true
+                  accept:
+                    - .png
+                    - .jpg
+                .postion_image:
+                  type: select
+                  label: Image position
+                  classes: fancy
+                  default: left
+                  options:
+                    'left': 'Left'
+                    'right': 'Right'
+                
+                

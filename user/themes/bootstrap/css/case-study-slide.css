@@ -1,0 +1,86 @@
+div#StudyCarousel .carousel-control {
+    display: flex;
+    align-items: center;
+}
+
+div#StudyCarousel .carousel-control.right.study span {
+    display: block;
+    padding-left: 60%;
+}
+
+div#StudyCarousel .carousel-control.left.study span {
+    display: block;
+    padding-left: 20%;
+}
+
+div#StudyCarousel .carousel-control.right.study {
+    background-image: none;
+}
+
+div#StudyCarousel .carousel-control.left.study {
+    background-image: none;
+}
+
+.item.container img {
+    float: right;
+    padding-right: 40px;
+    max-width: 100%;
+}
+
+.item .inside {
+    padding: 40px;
+}
+
+.item .content-img {
+    width: 50%;
+    float: left;
+}
+
+.item .content .link {
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+.item .text {
+    width: 50%;
+    float: right;
+    text-align: left;
+}
+
+#StudyCarousel {
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.slide_run {
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+@media (max-width: 768px) {
+    .item.container img {
+        padding-right: 0px;
+    }
+    .item .inside {
+        padding: 20px;
+    }
+    .slide_run {
+        height: 100%;
+        display: block;
+    }
+    #StudyCarousel {
+        background-image: none;
+    }
+    .item .content-img {
+        width: 100%;
+    }
+    .item .text {
+        width: 100%;
+        text-align: left;
+        padding-top: 0px;
+    }
+    .item.container img {
+        width: 100%;
+    }
+}

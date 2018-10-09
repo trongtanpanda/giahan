@@ -1,0 +1,24 @@
+title: Our customer
+'@extends': default
+
+form:
+  fields:
+    tabs:
+      fields:       
+        infos:
+          type: tab
+          title: Our customer
+          fields:
+            header.our_customers:
+              name: Ourcustomer
+              type: list
+              label: Our customer
+              fields:               
+                .branch:
+                  type: filepicker
+                  label: Customer branch
+                  folder: 'self@'
+                  accept:
+                        - .png
+                        - .jpg
+                  preview_images: true

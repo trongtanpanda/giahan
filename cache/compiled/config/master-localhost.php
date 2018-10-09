@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1538244861,
-    'checksum' => '22215e9196e1fdaaeb0f9e4777ed4f01',
+    'timestamp' => 1538825395,
+    'checksum' => '540d8c559ef4198194c22d4bc231cb5d',
     'files' => [
         'user/config' => [
             'media' => [
@@ -23,25 +23,29 @@ return [
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1538244860
+                'modified' => 1538825390
             ]
         ],
         'system/config' => [
             'media' => [
                 'file' => 'system/config/media.yaml',
-                'modified' => 1534989886
+                'modified' => 1538494403
+            ],
+            'security' => [
+                'file' => 'system/config/security.yaml',
+                'modified' => 1538494403
             ],
             'site' => [
                 'file' => 'system/config/site.yaml',
-                'modified' => 1534989886
+                'modified' => 1538494403
             ],
             'streams' => [
                 'file' => 'system/config/streams.yaml',
-                'modified' => 1534989886
+                'modified' => 1538494403
             ],
             'system' => [
                 'file' => 'system/config/system.yaml',
-                'modified' => 1534989886
+                'modified' => 1538494403
             ]
         ],
         'user/plugins' => [
@@ -531,6 +535,38 @@ return [
                 ]
             ]
         ],
+        'security' => [
+            'xss_whitelist' => [
+                0 => 'admin.super'
+            ],
+            'xss_enabled' => [
+                'on_events' => true,
+                'invalid_protocols' => true,
+                'moz_binding' => true,
+                'html_inline_styles' => true,
+                'dangerous_tags' => true
+            ],
+            'xss_dangerous_tags' => [
+                0 => 'applet',
+                1 => 'meta',
+                2 => 'xml',
+                3 => 'blink',
+                4 => 'link',
+                5 => 'style',
+                6 => 'script',
+                7 => 'embed',
+                8 => 'object',
+                9 => 'iframe',
+                10 => 'frame',
+                11 => 'frameset',
+                12 => 'ilayer',
+                13 => 'layer',
+                14 => 'bgsound',
+                15 => 'title',
+                16 => 'base'
+            ],
+            'salt' => 'ohyN4J0aOYWCk2'
+        ],
         'site' => [
             'title' => 'Grav',
             'default_lang' => 'en',
@@ -769,9 +805,6 @@ return [
                 'yaml_compat' => true,
                 'twig_compat' => true
             ]
-        ],
-        'security' => [
-            'salt' => 'ohyN4J0aOYWCk2'
         ]
     ]
 ];

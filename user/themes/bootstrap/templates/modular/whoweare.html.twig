@@ -1,0 +1,22 @@
+
+<div class="modular-row">
+    <div class="container">
+        <div class="whoweare">             
+            {% if header.layout == true %}
+                <div class="col-sm-6 whoweare-thumbnail">
+                    <img src="{{ page.media[header.thumbnail].url }}" alt="{{ header.alt }}" >
+                </div>
+                <div class="col-sm-6 whoweare-content">
+                    {{ content|markdown }}
+                </div>
+            {% else %}
+                <div class="col-sm-6 whoweare-content">
+                    {{ content|markdown }}
+                </div>
+                <div class="col-sm-6 whoweare-thumbnail">
+                    <img src="{{ page.media[header.thumbnail].url }}" alt="{{ header.alt }}" >
+                </div>
+            {% endif %}                  
+        </div>
+    </div>
+</div>

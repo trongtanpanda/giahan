@@ -1,0 +1,24 @@
+title: History
+'@extends': default
+
+form:
+  fields:
+    tabs:
+      fields:        
+        content:
+          uploads:
+            label: Page Media (first one will be displayed next to your content)
+          fields:            
+            header.background:
+              type: filepicker
+              folder: 'self@'
+              label: Select a file
+              preview_images: true
+              toggleable: true
+              accept:
+                - .png
+                - .jpg
+            header.title:
+              type: text
+              label: Title
+            

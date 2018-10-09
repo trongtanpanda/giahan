@@ -1,0 +1,22 @@
+{% extends 'partials/base.html.twig' %}
+
+{% block content %}
+	<div class="modular-row">
+    	<div class="container">
+			<div class="err-page">
+				<div class="col-sm-6">
+					<p style="font-size: 60px"><b>Oops!</b></p>
+					<p>The page you're looking for doesn't exist</p>
+					<p>Don't panic, just click big button to return home</p>
+					<a class="mwd-btn" href="{{ base_url_absolute }}">
+							GO HOME
+					</a>
+				</div>
+				<div class="col-sm-6">
+					<img src="{{ base_url_absolute }}/user/themes/bootstrap/images/404.gif" />
+				</div>
+			</div>
+		</div>
+	</div>
+	
+{% endblock %}

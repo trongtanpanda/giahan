@@ -1,0 +1,43 @@
+
+{% do assets.add('theme://css/info.css') %}
+   
+    <div class="info-container">        
+         {% for info in page.header.infos %}
+            {% if(info.postion_image == "right") %}
+                {% if info.background !="" %}
+                    <div class="info have-background left" style="background-color:{{info.color}};background-image:url('{{ page.media.images[info.background].url}}');">
+                {%else%}
+                    <div class="info" style="background-color:{{info.color}};">
+                {%endif%}
+                
+                    <div class="container main-row {{info.postion-image}} {{loop.index}}">           
+                        <div class="col first col-lg-6" style="color:{{info.content_color}}">
+                            {{ info.text|markdown }}
+                            {{ info.content|markdown }}
+                        </div>
+                        <div class="col second col-lg-6">
+                            {{ page.media.images[info.thumbnail].html() }}
+                        </div>
+                    </div>
+                </div>
+            {% else %}
+                {% if info.background !="" %}
+                    <div class="info have-background right" style="background-color:{{info.color}};background-image:url('{{ page.media.images[info.background].url}}');">
+                {%else%}
+                    <div class="info" style="background-color:{{info.color}};">
+                {%endif%}
+                    <div  class="container main-row {{info.postion-image}} {{loop.index}}">
+                        <div class="col first col-lg-6">
+                            {{ page.media.images[info.thumbnail].html() }}
+                        </div>
+                        <div class="col second col-lg-6" style="color:{{info.content_color}}">
+                            {{ info.text|markdown }}
+                            {{ info.content|markdown }}
+                        </div>
+                    </div>
+                </div>
+            {% endif %}
+        {% endfor %}
+    </div>
+
+  

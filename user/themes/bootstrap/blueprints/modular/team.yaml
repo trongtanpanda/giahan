@@ -1,0 +1,56 @@
+title: Teams
+'@extends': default
+
+form:
+  fields:
+    tabs:
+      fields:
+        advanced:
+          fields:
+            columns:
+              fields:
+                column1:
+                  fields:
+                    name:
+                      default: modular/teams
+                      '@data-options': '\Grav\Common\Page\Pages::modularTypes'
+            overrides:
+              fields:
+                header.template:
+                  default: modular/teams
+                  '@data-options': '\Grav\Common\Page\Pages::modularTypes'
+        teams:
+          type: tab
+          title: Teams
+          fields:       
+            header.layouts:
+              name: layout
+              type: select
+              label: Columns per Row
+              size: small
+              options:
+                2: 2 Columns
+                3: 3 Columns
+                4: 4 Columns
+                6: 6 Columns   
+                                     
+            header.teams:
+              name: teams
+              type: list
+              label: Teams
+              fields:
+                .name:
+                  type: text
+                  label: Name
+                .thumbnail:
+                  type: filepicker
+                  folder: 'self@'
+                  label: Thumbnail
+                  preview_images: true
+                  toggleable: true
+                  accept:
+                    - .png
+                    - .jpg                    
+                .title:
+                  type: text
+                  label: Title

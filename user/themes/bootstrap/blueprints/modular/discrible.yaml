@@ -1,0 +1,30 @@
+title: Discrible
+'@extends': default
+
+form:
+  fields:
+    tabs:
+      fields:       
+        discrible:
+          type: tab
+          title: Image
+          fields:
+            header.discribles:
+              name: Info
+              type: list
+              label: Discrible
+              fields:               
+                .text:
+                  type: text
+                  label: Title
+                .thumbnail:
+                  type: filepicker
+                  folder: 'self@'
+                  label: Select a icon
+                  preview_images: true
+                  accept:
+                    - .png
+                    - .jpg
+                .content:
+                  type: editor
+                  label: Content

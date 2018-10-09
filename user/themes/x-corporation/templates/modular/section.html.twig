@@ -1,0 +1,20 @@
+<section class="x-section" style="background-image:url('{{ page.media.images[header.background].url}}');">
+    <section class="section-title">
+        <div class="container text-center">
+            <h2>{{ page.title }}</h2>
+            <span class="bordered-icon"><i class="fa fa-circle-thin"></i></span>
+        </div>
+    </section>
+    <div class="container">
+        <div class="row">            
+            <div class="col-md-6">               
+                <div class="promo-block-wrapper clearfix">                    
+                    <div class="promo-content">
+                        {{ page.content }}
+                        <a class="gh-btn-more" href="{{ header.url }}" target="{{ header.target }}" >{{ header.url_text }}</a> 
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
