@@ -1,0 +1,49 @@
+1540203590
+a:2:{s:7:"content";s:2544:"<section class="x-features">
+    <section class="section-title">
+        <div class="container text-center">
+            <h2>RÈM CỬA TỰ ĐỘNG</h2>
+            <span class="bordered-icon"><i class="fa fa-circle-thin"></i></span>
+        </div>
+    </section>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 img-left">
+                                
+                            </div>
+            <div class="col-md-6">
+                                <div class="promo-block-wrapper clearfix">
+                    <div class="promo-icon">
+                                                <i class="fa fa-line-chart"></i>
+                                            </div>
+                    <div class="promo-content">
+                        <h3>Điều khiển trên điện thoại</h3>
+
+                        <p>Dù ở bất cứ nơi đâu, với chiếc smartphone được kết nối internet, 3G/4G bạn đều có thể điều khiển, kiểm soát hệ thống rèm trong ngôi nhà.</p>
+                    </div>
+                </div>
+                                <div class="promo-block-wrapper clearfix">
+                    <div class="promo-icon">
+                                                <i class="fa fa-life-ring"></i>
+                                            </div>
+                    <div class="promo-content">
+                        <h3>Điều khiển rèm bằng giọng nói</h3>
+
+                        <p>“OK Lumi ... chào buổi sáng” ngay lập tức rèm cửa sẽ tự động mở ra giúp bạn đón ánh ban mai trong lành của buổi sáng hay khi không rảnh tay, bạn chỉ cần “ra lệnh” thiết bị sẽ tuân thủ theo yêu cầu của bạn.</p>
+                    </div>
+                </div>
+                                <div class="promo-block-wrapper clearfix">
+                    <div class="promo-icon">
+                                                <i class="fa fa-calculator"></i>
+                                            </div>
+                    <div class="promo-content">
+                        <h3>Hẹn giờ đóng mở rèm</h3>
+
+                        <p>Hệ thống rèm cửa sẽ tự động mở vào buổi sáng và đóng vào buổi trưa hoặc theo một lịch hoạt động khác do bạn cài đặt trong app Lumi trên điện thoại.</p>
+                    </div>
+                </div>
+                            </div>
+        </div>
+    </div>
+</section>
+";s:12:"content_meta";N;}

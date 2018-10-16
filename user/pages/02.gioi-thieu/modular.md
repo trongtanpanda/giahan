@@ -31,3 +31,4 @@ shown_in_footer: true
 background_image: img-page-title.jpg
 ---
 
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="http://localhost/giahan/user/pages/02.gioi-thieu/img-page-title.jpg" alt="" width="500" /></p>
