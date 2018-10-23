@@ -1,0 +1,209 @@
+title: General
+'@extends':
+    type: default
+    context: blueprints://pages
+form:
+  fields:
+    tabs:
+      fields:
+        general:
+          type: tab
+          title: Header Image
+          fields:
+            modular_title:
+              type: spacer
+              title: PLUGIN_ADMIN.MODULAR_SETUP
+
+            header.content.items:
+              type: text
+              label: PLUGIN_ADMIN.ITEMS
+              default: '@self.modular'
+              size: medium
+
+            header.content.order.by:
+              type: text
+              label: PLUGIN_ADMIN.ORDER_BY
+              placeholder: date
+              help:
+              size: small
+
+            header.content.order.dir:
+              type: text
+              label: PLUGIN_ADMIN.ORDER
+              help: '"desc" or "asc" are valid values'
+              placeholder: desc
+              size: small
+            header_image:
+              type: section
+              title: Header Image
+
+            header.header_image:
+              type: toggle
+              toggleable: true
+              label: Display Header Image
+              help: Enabled displaying of a header image
+              highlight: 1
+              options:
+                1: Enabled
+                0: Disabled
+            header.min_height:
+              type: number              
+              label: Min-height             
+           
+            header.header_image_file:
+              type: filepicker
+              folder: 'self@'
+              label: Image File
+              preview_images: true
+              toggleable: true
+              accept:
+                - .png
+                - .jpg
+
+            header.header_main_text:
+              type: text
+              label: Heading Main Text
+
+            header.header_sub_text:
+              type: text
+              label: Heading Sub Text 
+
+            header.color:
+              type: colorpicker
+              label: Color
+        content:
+          type: tab
+          title: Content
+          fields:
+            header.summary:
+              type: textarea
+              label: Summary
+						header.name:
+						
+						header.contact:
+							type: toggle
+							toggleable: true
+							label: Liên Hệ
+							highlight: 1
+							options:
+								1: Bật
+								0: Tắt
+						header.recommended:
+						type: toggle
+						toggleable: true
+						label: Bài Viết Khác
+						highlight: 1
+						options:
+							1: Bật
+							0: Tắt
+						header.price:
+						type: number
+						label: Giá
+						header.header_image_file:
+						type: filepicker
+						folder: 'self@'
+						label: Ảnh Đại Diện
+						preview_images: true
+						toggleable: true
+						accept:
+							- .png
+							- .jpg  
+						header.state:
+						type: select
+						label: Trạng Thái
+						default: 1
+						highlight: 1
+						options:
+							1: Còn Hàng
+							0: Sắp về
+							2: Hết Hàng
+				feature:
+				type: tab
+				title: Đặc Điểm nổi Bật
+				fields:           
+					header.feature_items:
+					name: feature_items
+					type: list
+					label: Đặc Điểm
+					fields:
+						.thumbnail:
+						type: filepicker
+						folder: 'self@'
+						label: Select a file
+						preview_images: true
+						toggleable: true
+						accept:
+							- .png
+							- .jpg
+						.layout:
+							type: toggle
+							label: Layout
+							default: 1
+							options:
+								1: Left Thumnail
+								0: Right Thumnail
+							validate:
+								type: bool
+						.content:
+							type: editor
+							label: Content
+				technical:
+				type: tab
+				title: Thông Số Kỹ Thuật
+				fields:           
+					header.technical_item:
+					name: technical_item
+					type: list
+					label: Thông Số
+					fields:
+						.thumbnail:
+						type: filepicker
+						folder: 'self@'
+						label: Select a file
+						preview_images: true
+						toggleable: true
+						accept:
+							- .png
+							- .jpg
+						.layout:
+							type: toggle
+							label: Layout
+							default: 1
+							options:
+								1: Left Thumnail
+								0: Right Thumnail
+							validate:
+								type: bool
+						.content:
+							type: editor
+							label: Content
+				gallery:
+				type: tab
+				title: Hình Ảnh Sản Phẩm
+				fields:           
+					header.technical_item:
+					name: technical_item
+					type: list
+					label: Hình Ảnh Sản Phẩm
+					fields:
+						.thumbnail:
+						type: filepicker
+						folder: 'self@'
+						label: Select a file
+						preview_images: true
+						toggleable: true
+						accept:
+							- .png
+							- .jpg
+						.layout:
+							type: toggle
+							label: Layout
+							default: 1
+							options:
+								1: Left Thumnail
+								0: Right Thumnail
+							validate:
+								type: bool
+						.content:
+							type: editor
+							label: Content      

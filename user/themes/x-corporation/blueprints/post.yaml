@@ -1,0 +1,41 @@
+title: Bài Viết
+'@extends':
+    type: default
+    context: blueprints://pages
+form:
+  fields:
+    tabs:
+      fields:
+        content:
+          type: tab
+          title: Content
+          fields:
+            header.summary:
+              type: textarea
+              label: Summary
+
+        options:
+          type: tab
+          title: Options
+          fields:
+            modular_title:
+              type: spacer
+              title: PLUGIN_ADMIN.MODULAR_SETUP
+
+            header.content.contact:
+              type: toggle
+              toggleable: true
+              label: Liên Hệ
+              highlight: 1
+              options:
+                1: Bật
+                0: Tắt
+            header.content.recommended:
+              type: toggle
+              toggleable: true
+              label: Bài Viết Khác
+              highlight: 1
+              options:
+                1: Bật
+                0: Tắt
+            

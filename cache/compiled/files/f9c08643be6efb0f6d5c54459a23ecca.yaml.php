@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'themes://bootstrap/bootstrap.yaml',
-    'modified' => 1534495330,
+    'modified' => 1540290664,
     'data' => [
         'dropdown' => [
             'enabled' => false
