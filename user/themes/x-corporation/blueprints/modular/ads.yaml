@@ -1,0 +1,26 @@
+title: Quảng Cáo
+'@extends':
+    type: default
+    context: blueprints://pages
+form:
+  fields:
+    tabs:
+      fields:
+        content:
+          type: tab
+          title: Nội Dung
+          fields:
+            header.type:
+              type: toggle
+              toggleable: true
+              label: Liên Hệ
+              highlight: 1
+              options:
+                1: Ảnh
+                0: Video
+            header.file:
+              type: text
+              label: Tệp
+            header.url:
+              type: text
+              label: Link

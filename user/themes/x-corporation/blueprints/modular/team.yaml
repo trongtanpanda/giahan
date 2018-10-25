@@ -22,10 +22,6 @@ form:
                                     type: text
                                     label: THEME_X_CORPORATION.ADMIN.MEMBERS.NAME.LABEL
                                     help: THEME_X_CORPORATION.ADMIN.MEMBERS.NAME.HELP
-                                .position:
-                                    type: text
-                                    label: THEME_X_CORPORATION.ADMIN.MEMBERS.POSITION.LABEL
-                                    help: THEME_X_CORPORATION.ADMIN.MEMBERS.POSITION.HELP
                                 .url:
                                     type: text
                                     label: THEME_X_CORPORATION.ADMIN.MEMBERS.URL.LABEL

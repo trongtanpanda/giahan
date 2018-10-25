@@ -8,20 +8,8 @@ form:
       fields:
         content:
           type: tab
-          title: Content
+          title: Nội Dung
           fields:
-            header.summary:
-              type: textarea
-              label: Summary
-
-        options:
-          type: tab
-          title: Options
-          fields:
-            modular_title:
-              type: spacer
-              title: PLUGIN_ADMIN.MODULAR_SETUP
-
             header.content.contact:
               type: toggle
               toggleable: true
@@ -38,4 +26,3 @@ form:
               options:
                 1: Bật
                 0: Tắt
-            

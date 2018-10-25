@@ -10,48 +10,8 @@ form:
           type: tab
           title: Content
           fields:
-            header.summary:
-              type: textarea
-              label: Summary
-
-        options:
-          type: tab
-          title: Options
-          fields:
-            modular_title:
-              type: spacer
-              title: PLUGIN_ADMIN.MODULAR_SETUP
-
-            header.content.items:
+            header.catelogy:
               type: text
-              label: PLUGIN_ADMIN.ITEMS
-              default: '@self.children'
-              size: medium
+              label: Thể Loại
 
-            header.content.order.by:
-              type: text
-              label: PLUGIN_ADMIN.ORDER_BY
-              placeholder: date
-              help:
-              size: small
-
-            header.content.order.dir:
-              type: text
-              label: PLUGIN_ADMIN.ORDER
-              help: '"desc" or "asc" are valid values'
-              placeholder: desc
-              size: small     
-           
-            header.content.header_image_file:
-              type: filepicker
-              folder: 'self@'
-              label: Ảnh Banner
-              preview_images: true
-              toggleable: true
-              accept:
-                - .png
-                - .jpg  
-            header.content.color:
-              type: colorpicker
-              label: color
             
