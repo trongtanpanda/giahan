@@ -1,6 +1,7 @@
 ---
 title: 'ĐÈN LED 16 TRIỆU MÀU'
 media_order: led-16-trieu-mau.jpg
+layout: right
 features:
     -
         title: 'Không gian đa màu sắc'

@@ -1,0 +1,28 @@
+{% extends 'partials/base.html.twig' %}
+
+{% block content %}
+<section class="single-page-title">
+    <div class="container text-center">
+        <h2>{{ page.title }}</h2>
+    </div>
+</section>
+
+<section class="ptb-100">
+    <div class="container">
+        <div class="row">
+            {% set collection = page.collection() %}  
+            {% for p in collection %}
+                <div class="product-list">
+                    <div class="product-item col-sm-3">
+                        <a href="{{ p.url }}">
+                            <img class="img-responsive" src="{{p.media.images[p.header.thumbnail].url}}" >
+                        </a>
+                        <h3 class="product-title"><a href="{{ p.url }}">{{ p.title }}</a></h3>
+                        <p class="product-price">{{ p.header.price }}</p>
+                    </div>                                      
+                </div>
+            {% endfor %}            
+        </div>
+    </div>
+</section>
+{% endblock %}

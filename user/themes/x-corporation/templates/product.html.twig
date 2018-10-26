@@ -8,11 +8,53 @@
 {% endif %}
 <section class="single-page-title"{{ background_html }}>
     <div class="container text-center">
-        <h2>{{ page.title }}</h2>
+       <h2>{{ page.title }}</h2>
     </div>
 </section>
+<div class="container">
+    <div class="col-sm-6 post-image-feature">
+        <img class="img-responsive" src="{{p.media.images[p.header.thumbnail].url}}" >
+        </div>
+        <div class="col-sm-6 post-main-info">
+            <h3>{{ page.title }}</h3>
+            <p><span class="price">5.000.000đ</span> <span class="state"></span></p>
+            <button>Đặt Mua</button>
+        </div>
+        <div class="col-md-12 col-sm-12 tabWhy">
+            <h3>{{ page.header.why_heading }}</h3>
+            <div role="tabpanel">
+                <ul id="tabWhy" class="nav nav-tabs nav-justified">
+                    <li class="active">
+                        <a href="#tabWhy1" data-toggle="tab" aria-expanded="true">
+                            Đặc Điểm Nổi Bật
+                        </a>
+                    </li>   
+                    <li class="">
+                        <a href="#tabWhy2" data-toggle="tab" aria-expanded="true">
+                            Thông Số Kỹ Thuật
+                        </a>
+                    </li>
+                    <li class="">
+                        <a href="#tabWhy3" data-toggle="tab" aria-expanded="true">
+                            Hình Ảnh
+                        </a>
+                    </li>                 
+                </ul>
 
-{{ page.content }}
+                <div class="tab-content">                  
+                    <div class="tab-pane fade active in" id="tabWhy1">
+                        Đặc Điểm Nổi Bật
+                    </div>
+                    <div class="tab-pane fade" id="tabWhy2">
+                        dfgdfg2
+                    </div>
+                    <div class="tab-pane fade" id="tabWhy3">
+                        dfgdfg3
+                    </div>
+                </div>
+            </div>
+    </div>
+</div>
 {% for module in page.collection() %}
     {{ module.content }}
 {% endfor %}

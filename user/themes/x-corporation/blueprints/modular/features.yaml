@@ -12,6 +12,13 @@ form:
                     type: tab
                     title: THEME_X_CORPORATION.ADMIN.FEATURES.LABEL
                     fields:
+                        header.layout:
+                            type: toggle
+                            toggleable: true
+                            label: Vị Trí Ảnh
+                            options:
+                                left: Trái
+                                right: Phải
                         header.features:
                             name: features
                             type: list

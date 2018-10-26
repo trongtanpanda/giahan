@@ -4,8 +4,8 @@ media_order: main-kv.jpg
 url: lien-he
 url_text: 'Liên Hệ Ngay!'
 target: none
-align: center
+align: right
 background: main-kv.jpg
 ---
 
-Là ngôi nhà có hệ thống đèn chiếu sáng, điều hòa, bình nóng lạnh, rèm cửa, âm thanh đa vùng... được điều khiển, kiểm soát trên smartphone dù ở bất cứ nơi đâu và bằng chính giọng nói của gia chủ.
+<p>L&agrave; ng&ocirc;i nh&agrave; c&oacute; hệ thống đ&egrave;n chiếu s&aacute;ng, điều h&ograve;a, b&igrave;nh n&oacute;ng lạnh, r&egrave;m cửa, &acirc;m thanh đa v&ugrave;ng... được điều khiển, kiểm so&aacute;t tr&ecirc;n smartphone d&ugrave; ở bất cứ nơi đ&acirc;u v&agrave; bằng ch&iacute;nh giọng n&oacute;i của gia chủ.</p>

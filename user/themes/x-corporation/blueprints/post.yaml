@@ -26,3 +26,11 @@ form:
               options:
                 1: Bật
                 0: Tắt
+            header.thumbnail:
+              type: filepicker
+              preview_images: true
+              acccept:
+                  - .png
+                  - .jpg
+                  - .gif
+              label: Ảnh Đại Diện

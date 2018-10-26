@@ -1,6 +1,7 @@
 ---
 title: 'GIẢI PHÁP ĐIỀU HOÀ, TIVI'
 media_order: cam-bien-hong-ngoai-451x439.png
+layout: left
 features:
     -
         title: 'OK, Lumi Trời nóng quá...'

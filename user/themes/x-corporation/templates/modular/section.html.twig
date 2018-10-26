@@ -6,8 +6,15 @@
         </div>
     </section>
     <div class="container">
-        <div class="row">            
-            <div class="col-md-6">               
+        <div class="row">      
+            {% if page.header.align == 'left' %}
+                {% set class = 'col-sm-6 left' %}
+            {% elseif page.header.align == 'right' %}  
+                {% set class = 'col-sm-6 col-sm-offset-6' %}
+            {% else %} 
+                {% set class = 'col-sm-6 col-sm-offset-3' %}
+            {% endif %}
+            <div class="{{ class }}">               
                 <div class="promo-block-wrapper clearfix">                    
                     <div class="promo-content">
                         {{ page.content }}
