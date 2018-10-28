@@ -1,0 +1,40 @@
+
+<div class="container info-container">        
+     {% for info in page.header.infos %}
+        {% if(info.postion_image == "right") %}
+            {% if info.background !="" %}
+                <div class="info have-background left" style="background-color:{{info.color}};">
+            {%else%}
+                <div class="info" style="background-color:{{info.color}};">
+            {%endif%}
+            
+                <div class=" main-row {{info.postion-image}} {{loop.index}}">           
+                    <div class="col first col-lg-6" style="color:{{info.content_color}}">
+                        <h2 class="info-title">{{ info.text|markdown }}</h2>
+                        {{ info.content|markdown }}
+                    </div>
+                    <div class="col second col-lg-6">
+                        {{ page.media.images[info.thumbnail].html() }}
+                    </div>
+                </div>
+            </div>
+        {% else %}
+            {% if info.background !="" %}
+                <div class="info have-background right" style="background-color:{{info.color}};">
+            {%else%}
+                <div class="info" style="background-color:{{info.color}};">
+            {%endif%}
+                <div  class=" main-row {{info.postion-image}} {{loop.index}}">
+                    <div class="col first col-lg-6">
+                        {{ page.media.images[info.thumbnail].html() }}
+                    </div>
+                    <div class="col second col-lg-6" style="color:{{info.content_color}}">
+                        <h2 class="info-title">{{ info.text|markdown }}</h2>
+                        {{ info.content|markdown }}
+                    </div>
+                </div>
+            </div>
+        {% endif %}
+    {% endfor %}
+</div>
+

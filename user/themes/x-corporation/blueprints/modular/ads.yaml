@@ -1,7 +1,6 @@
 title: Quảng Cáo
 '@extends':
-    type: default
-    context: blueprints://pages
+  type: default
 form:
   fields:
     tabs:
@@ -13,13 +12,13 @@ form:
             header.type:
               type: toggle
               toggleable: true
-              label: Liên Hệ
+              label: Kiểu/Loại Quảng cáo
               highlight: 1
               options:
                 1: Ảnh
                 0: Video
             header.file:
-              type: text
+              type: filepicker
               label: Tệp
             header.url:
               type: text

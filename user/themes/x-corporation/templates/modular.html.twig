@@ -12,8 +12,13 @@
     </div>
 </section>
 
-{{ page.content }}
-{% for module in page.collection() %}
-    {{ module.content }}
-{% endfor %}
+
+<div class="ptb-60">
+	<div class="container">
+		{{ page.content }}
+	</div>
+	{% for module in page.collection() %}	
+	    {{ module.content }}   	
+	{% endfor %}
+</div>
 {% endblock %}

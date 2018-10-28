@@ -1,0 +1,21 @@
+<section class="event ptb-90">
+    <section class="section-title">
+        <div class="container text-center">
+            <h2>{{ page.title }}</h2>
+            <span class="bordered-icon"><i class="fa fa-circle-thin"></i></span>
+        </div>
+    </section>
+    <div class="container">
+        {% set collection = page.collection() %} 
+        {% for p in collection %}
+        	<div class="event-item grid-4">
+        		<div class="event-item-thumbail">
+        			<a href="{{ p.url }}"><img class="img-responsive" src="{{p.media.images[p.header.thumbnail].url}}" ></a>
+        		</div>
+        		<p class="event-item-title"><a href="{{ p.url }}">{{ p.title }}</a></p>
+        		<div class="event-item-desc">{{ p.header.description }} </div>
+        		<div class="event-item-link"><a class="read-more" href="{{ p.url }}">Chi Tiết</a> </div>
+        	</div>
+        {% endfor %}
+    </div>
+</section>

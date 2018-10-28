@@ -34,3 +34,6 @@ form:
                   - .jpg
                   - .gif
               label: Ảnh Đại Diện
+            header.description:
+              type: textarea
+              label: Mô Tả

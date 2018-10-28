@@ -1,0 +1,13 @@
+<section class="x-ads">
+{% if page.header.type %}
+	{% if page.header.url != "" %}
+		<a href="page.header.url"><img class="ads-img" src="{{ page.media.images[header.file].url}}"></a>
+	{%else%}
+		<img class="ads-img" src="{{ page.media.images[header.file].url}}">
+	{%endif%}	
+{%else%}
+	<video style="width: 100%;" autoplay="" muted="" loop="" id="myVideo">
+		<source src="{{ page.media[header.file].url}}" type="video/mp4">
+	</video>
+{%endif%}
+</section>

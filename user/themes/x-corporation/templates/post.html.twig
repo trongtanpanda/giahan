@@ -1,6 +1,7 @@
 {% extends 'partials/base.html.twig' %}
 
 {% block content %}
+
 {% if page.header.background_image != '' %}
     {% set background_html = 'style="background-image: url(' ~ page.media.images[page.header.background_image].url ~ ');"' %}
 {% else %}
@@ -11,9 +12,14 @@
         <h2>{{ page.title }}</h2>
     </div>
 </section>
-
+<div class="container">
+<section class="ptb-40">
 {{ page.content }}
+
 {% for module in page.collection() %}
     {{ module.content }}
 {% endfor %}
+</section>
+</div>
+
 {% endblock %}

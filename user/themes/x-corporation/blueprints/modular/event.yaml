@@ -1,15 +1,27 @@
-title: Bài Viết
+title: Danh Sách Bài Viết
 '@extends':
-    type: default
-    context: blueprints://pages
+        type: default
 form:
   fields:
     tabs:
       fields:
         content:
           type: tab
-          title: Nội Dung
+          title: Content
           fields:
-             header.catelogy:
+            header.content.items.@taxonomy.category:
               type: text
-              label: Thể Loại
+              label: Thể loại
+              default: 'tintuc'
+            header.content.order.by:
+              type: text
+              label: Xếp theo
+              default: 'date'
+            header.content.order.dir:
+              type: text
+              label: Xếp theo
+              default: 'desc'
+            header.content.limit:
+              type: number
+              label: Giới hạn
+              default: 4

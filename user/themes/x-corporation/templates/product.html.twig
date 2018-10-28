@@ -11,15 +11,34 @@
        <h2>{{ page.title }}</h2>
     </div>
 </section>
-<div class="container">
-    <div class="col-sm-6 post-image-feature">
-        <img class="img-responsive" src="{{p.media.images[p.header.thumbnail].url}}" >
+<section class="ptb-40">
+<div class="container">    
+        <div class="col-sm-6 product-image-feature">
+            <img class="img-responsive" src="{{page.media.images[page.header.thumbnail].url}}" >
         </div>
-        <div class="col-sm-6 post-main-info">
-            <h3>{{ page.title }}</h3>
-            <p><span class="price">5.000.000đ</span> <span class="state"></span></p>
-            <button>Đặt Mua</button>
+        <div class="col-sm-6 product-main-info">
+            <h2>{{ page.title }}</h2>
+            <p class="price"><span class="money">{{ page.header.price }}</span> <span class="state">{{ page.header.state }}</span></p>
+            <button class="read-more" data-toggle="modal" data-target="#myModal">Đặt Mua</button>
         </div>
+        <!-- Modal -->
+        <div id="myModal" class="modal fade" role="dialog">
+          <div class="modal-dialog">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+              <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">Đặt Mua</h4>
+              </div>
+              <div class="modal-body">
+                {% include "forms/buy.html.twig" %}
+              </div>              
+            </div>
+
+          </div>
+        </div>
+        <!-- END Modal -->
         <div class="col-md-12 col-sm-12 tabWhy">
             <h3>{{ page.header.why_heading }}</h3>
             <div role="tabpanel">
@@ -38,12 +57,12 @@
                         <a href="#tabWhy3" data-toggle="tab" aria-expanded="true">
                             Hình Ảnh
                         </a>
-                    </li>                 
+                    </li>                
                 </ul>
 
                 <div class="tab-content">                  
-                    <div class="tab-pane fade active in" id="tabWhy1">
-                        Đặc Điểm Nổi Bật
+                    <div class="product-content tab-pane fade active in" id="tabWhy1">
+                        {{ page.header.feature_content|markdown }}
                     </div>
                     <div class="tab-pane fade" id="tabWhy2">
                         dfgdfg2
@@ -52,9 +71,10 @@
                         dfgdfg3
                     </div>
                 </div>
-            </div>
-    </div>
+            </div>            
+        </div>
 </div>
+</section>
 {% for module in page.collection() %}
     {{ module.content }}
 {% endfor %}

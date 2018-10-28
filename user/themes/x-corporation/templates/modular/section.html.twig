@@ -1,7 +1,7 @@
-<section class="x-section" style="background-image:url('{{ page.media.images[header.background].url}}');">
+<section class="x-section" style="background-image:url('{{ page.media.images[header.background].url}}'); background-color: {{ page.header.bgcolor }}; color: {{ page.header.color }}">
     <section class="section-title">
         <div class="container text-center">
-            <h2>{{ page.title }}</h2>
+            <h2 style="color: {{ page.header.color }}">{{ page.title }}</h2>
             <span class="bordered-icon"><i class="fa fa-circle-thin"></i></span>
         </div>
     </section>
@@ -17,8 +17,11 @@
             <div class="{{ class }}">               
                 <div class="promo-block-wrapper clearfix">                    
                     <div class="promo-content">
+                        {% if page.header.thumbnail != "" %}
+                            <img class="img-responsive" src="{{ page.media.images[header.thumbnail].url}}" >
+                        {% endif %}
                         {{ page.content }}
-                        <a class="gh-btn-more" href="{{ header.url }}" target="{{ header.target }}" >{{ header.url_text }}</a> 
+                        <a class="read-more" href="{{ header.url }}" target="{{ header.target }}" >{{ header.url_text }}</a> 
                     </div>
                 </div>
             </div>

@@ -1,24 +1,19 @@
 <footer class="footer">
-    {% if theme_config.footer_blocks|length > 0 %}
     <div class="footer-widget-section">
-        <div class="container text-center">
-            <div class="row">
-                {% for block in theme_config.footer_blocks %}
-                <div class="col-sm-{{ (12 / theme_config.footer_blocks|length)|round }} footer-block">
+        <div class="container">
+            <div class="row">               
+                <div class="col-sm-3 footer-block text-center">
                     <div class="footer-widget widget_text">
                         {% if block.title %}
                         <h3>{{ block.title }}</h3>
                         {% endif %}
-                        {% if block.logo %}
                         <div class="footer-logo">
                             <a href="{{ base_url == '' ? '/' : base_url }}">
-                                <img src="{{ url('theme://img/' ~ logo) }}" alt="">
+                                <img src="{{ base_url_absolute }}/user/themes/x-corporation/img/giahan_logo_footer.png" alt="">
                             </a>
-                        </div>
-                        {% endif %}
-                        {% if block.content %}
-                        {{ block.content }}
-                        {% endif %}
+                        </div>                       
+                        <p>Giahangroup là đơn vị thi công và phân phối giải pháp nhà thông minh, đã và đang triển khai nhiều dự án tại Đà Nẵng và các tỉnh thành lân cận. Giahangroup được khách hàng lựa chọn bởi sự uy tín, chuyên nghiệp và tận tậm</p>
+                       
                         {% if block.icons and theme_config.footer_icons|length > 0 %}
                         <ul class="list-inline social-links">
                             {% for icon in theme_config.footer_icons %}
@@ -28,24 +23,52 @@
                         {% endif %}
                     </div>
                 </div>
-                {% endfor %}
+                <div class="col-sm-3 footer-block">
+                    <div class="footer-widget widget_menu">                        
+                        <h2>Về Chúng Tôi</h2>
+                        <ul class="footer-menu-item">
+                            <li><a href="{{ base_url_absolute }}">Trang Chủ</a></li>
+                            <li><a href="{{ base_url_absolute }}/tuyen-dung">Tuyển Dụng</a></li>
+                            <li><a href="{{ base_url_absolute }}/tai-lieu-huong-dan">Tài liệu hướng dẫn</a></li>
+                            <li><a href="{{ base_url_absolute }}/cong-trinh-tieu-bieu">Công trình tiêu biểu</a></li>
+                            <li><a href="{{ base_url_absolute }}/chinh-sach-bao-hanh">Chính sách bảo hành</a></li>
+                            <li><a href="{{ base_url_absolute }}/tu-van-giai-phap">Tư vấn giải pháp</a></li>
+                            <li><a href="{{ base_url_absolute }}/cau-hoi-thuong-gap">Câu hỏi thường gặp</a></li>                         
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-sm-3 footer-block">
+                    <div class="footer-widget widget_menu">                        
+                        <h2>Sản Phẩm</h2>
+                        <ul class="footer-menu-item">
+                            <li><a href="{{ base_url_absolute }}">Chiếu sáng thông minh</a></li>
+                            <li><a href="{{ base_url_absolute }}/tuyen-dung">Điều khiển rèm tự động</a></li>
+                            <li><a href="{{ base_url_absolute }}/tai-lieu-huong-dan">Âm thanh đa vùng</a></li>
+                            <li><a href="{{ base_url_absolute }}/cong-trinh-tieu-bieu">Điều khiển điều hoà, TV</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-widget widget_menu" style="margin-top: 43px">                        
+                        <h2>Bảng Giá</h2>
+                        <ul class="footer-menu-item">
+                            <li><a href="{{ base_url_absolute }}">Bảng giá Lumi</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-sm-3 footer-block">
+                    <div class="footer-widget widget_menu">
+                        <h2>Liên Hệ</h2>
+                        <p style="margin-top: 5px"><i class="fa fa-map-marker"></i>Số 304 Nguyễn Đình Tựu, Q.Thanh Khê TP. Đà Nẵng</p>
+                        <p><i class="fa fa-phone"></i><a href="tel:0968333268">0968.333.268</a> - <a href="tel:0935333268">0935.333.268</a></p>
+                        <p><i class="fa fa-envelope"></i><a href="mailto:GiahanGroup2018@gmail.com" target="_blank">GiahanGroup2018@gmail.com</a></p>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
-    {% endif %}
 
     <div class="copyright-section">
-        <div class="container clearfix">
-            <span class="copytext">{{ theme_config.copyright }}</span>
-
-            <ul class="list-inline pull-right">
-            {% for page in pages.children.visible %}
-                {% if page.header.shown_in_footer %}
-                {% set activeClass = (page.active) ? 'active' : '' %}
-                <li class="{{ activeClass }}"><a href="{{ page.url }}">{{ page.menu }}</a></li>
-                {% endif %}
-            {% endfor %}
-            </ul>
+        <div class="container clearfix text-center">
+            <span class="copytext">Gia Han Group © {{ "now"|date("Y") }}</span>           
         </div>
     </div>
 </footer>

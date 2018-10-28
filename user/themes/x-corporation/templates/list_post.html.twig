@@ -21,7 +21,7 @@
                     </div>
                     <div class="post-item-content col-xs-12 col-sm-9">
                         <h2><a href="{{ p.url }}">{{ p.title }}</a></h2>
-                        {{ p.content|markdown }}
+                        {{ p.summary }}
                     </div>                   
                 </div>
             {% endfor %}

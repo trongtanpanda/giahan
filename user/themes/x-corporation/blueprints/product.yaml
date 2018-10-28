@@ -31,9 +31,9 @@ form:
                 1: Bật
                 0: Tắt
             header.price:
-              type: number
+              type: text
               label: Giá
-            header.header_image_file:
+            header.thumbnail:
               type: filepicker
               folder: 'self@'
               label: Ảnh Đại Diện
@@ -48,9 +48,9 @@ form:
               default: 1
               highlight: 1
               options:
-                1: Còn Hàng
-                0: Sắp về
-                2: Hết Hàng
+                'Còn Hàng': Còn Hàng
+                'Sắp về': Sắp về
+                'Hết Hàng': Hết Hàng
             header.gallery:                
                 type: toggle
                 toggleable: true
@@ -59,6 +59,22 @@ form:
                 options:
                   1: Bật
                   0: Tắt
+            header.content.items.@taxonomy.category:
+              type: text
+              label: Thể loại
+              default: 'sanpham'
+            header.content.order.by:
+              type: text
+              label: Xếp theo
+              default: 'date'
+            header.content.order.dir:
+              type: text
+              label: Xếp theo
+              default: 'desc'
+            header.content.limit:
+              type: number
+              label: Giới hạn
+              default: 6
         feature:
           type: tab
           title: Đặc Điểm nổi Bật
@@ -66,6 +82,7 @@ form:
             header.feature_content:
               type: editor
               label: Nội Dung
+
         technical:
           type: tab
           title: Thông Số Kỹ Thuật

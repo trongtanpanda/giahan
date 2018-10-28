@@ -39,6 +39,17 @@ form:
                                 - .jpg
                                 - .gif
                             label: Ảnh Nền
+                        header.thumbnail:
+                            type: filepicker
+                            preview_images: true
+                            acccept:
+                                - .png
+                                - .jpg
+                                - .gif
+                            label: Ảnh Đại Diện
+                        header.bgcolor:
+                            type: colorpicker
+                            label: Màu nền
                         header.color:
                             type: colorpicker
                             label: Màu chữ
