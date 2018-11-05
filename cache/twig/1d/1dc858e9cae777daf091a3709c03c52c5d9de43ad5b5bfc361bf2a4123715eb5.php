@@ -18,7 +18,7 @@ class __TwigTemplate_6bf66a523eb23c179054c2d57e5c07818b4819eb9ce5b14e82a64c1336c
         // line 1
         ob_start();
         echo trim(preg_replace('/>\s+</', '><', ob_get_clean()));
-        // line 37
+        // line 28
         echo "
 <nav class=\"navbar m-menu navbar-default navbar-fixed-top\">
     <div class=\"container\">
@@ -31,47 +31,47 @@ class __TwigTemplate_6bf66a523eb23c179054c2d57e5c07818b4819eb9ce5b14e82a64c1336c
                 <span class=\"icon-bar\"></span>
             </button>
             ";
-        // line 48
+        // line 39
         if (((isset($context["logo"]) ? $context["logo"] : null) != "")) {
-            // line 49
+            // line 40
             echo "            <a class=\"navbar-brand\" href=\"";
             echo ((((isset($context["base_url"]) ? $context["base_url"] : null) == "")) ? ("/") : ((isset($context["base_url"]) ? $context["base_url"] : null)));
             echo "\">
                 <img src=\"";
-            // line 50
+            // line 41
             echo $this->env->getExtension('Grav\Common\Twig\TwigExtension')->urlFunc(("theme://img/" . (isset($context["logo"]) ? $context["logo"] : null)));
             echo "\" alt=\"\">
             </a>
             ";
         }
-        // line 53
+        // line 44
         echo "        </div>
 
         <div class=\"collapse navbar-collapse\" id=\"#navbar-collapse-1\">
             ";
-        // line 56
+        // line 47
         if ($this->getAttribute($this->getAttribute($this->getAttribute((isset($context["config"]) ? $context["config"] : null), "plugins", array()), "simplesearch", array()), "enabled", array())) {
-            // line 57
+            // line 48
             echo "            <ul class=\"nav-cta hidden-xs\">
                 <li class=\"dropdown\"><a href=\"#\" data-toggle=\"dropdown\" class=\"dropdown-toggle\"><i
                         class=\"fa fa-search\"></i></a>
                     <ul class=\"dropdown-menu\">
                         <li>
                             ";
-            // line 62
-            $this->loadTemplate("partials/simplesearch_searchbox.html.twig", "partials/navbar.html.twig", 62)->display($context);
-            // line 63
+            // line 53
+            $this->loadTemplate("partials/simplesearch_searchbox.html.twig", "partials/navbar.html.twig", 53)->display($context);
+            // line 54
             echo "                        </li>
                     </ul>
                 </li>
             </ul>
             ";
         }
-        // line 68
+        // line 59
         echo "
             <ul class=\"nav navbar-nav navbar-right main-nav\">
                 ";
-        // line 70
+        // line 61
         echo $this->getAttribute($this, "loop", array(0 => (isset($context["pages"]) ? $context["pages"] : null)), "method");
         echo "
             </ul>
@@ -127,61 +127,32 @@ class __TwigTemplate_6bf66a523eb23c179054c2d57e5c07818b4819eb9ce5b14e82a64c1336c
                         foreach ($context['_seq'] as $context["_key"] => $context["dropdownHeader"]) {
                             // line 13
                             echo "                        <li class=\"m-menu-content\">
-                            <ul class=\"col-sm-";
+                           <a href=\"";
                             // line 14
-                            echo twig_round((12 / $this->getAttribute($this->getAttribute($this->getAttribute($context["p"], "children", array()), "visible", array()), "count", array())));
-                            echo "\">
-                            ";
-                            // line 15
-                            if (($this->getAttribute($this->getAttribute($this->getAttribute($context["dropdownHeader"], "children", array()), "visible", array()), "count", array()) > 0)) {
-                                // line 16
-                                echo "                            <li class=\"dropdown-header\">";
-                                echo $this->getAttribute($context["dropdownHeader"], "menu", array());
-                                echo "</li>
-                            ";
-                                // line 17
-                                $context['_parent'] = $context;
-                                $context['_seq'] = twig_ensure_traversable($this->getAttribute($this->getAttribute($context["dropdownHeader"], "children", array()), "visible", array()));
-                                foreach ($context['_seq'] as $context["_key"] => $context["dropdownItem"]) {
-                                    // line 18
-                                    echo "                            <li>
-                                <a href=\"";
-                                    // line 19
-                                    echo $this->getAttribute($context["dropdownItem"], "url", array());
-                                    echo "\">";
-                                    echo $this->getAttribute($context["dropdownItem"], "menu", array());
-                                    echo "</a>
-                            </li>
-                            ";
-                                }
-                                $_parent = $context['_parent'];
-                                unset($context['_seq'], $context['_iterated'], $context['_key'], $context['dropdownItem'], $context['_parent'], $context['loop']);
-                                $context = array_intersect_key($context, $_parent) + $_parent;
-                                // line 22
-                                echo "                            ";
-                            }
-                            // line 23
-                            echo "                            </ul>
+                            echo $this->getAttribute($context["dropdownHeader"], "url", array());
+                            echo "\">";
+                            echo $this->getAttribute($context["dropdownHeader"], "menu", array());
+                            echo "</a>
                         </li>
                     ";
                         }
                         $_parent = $context['_parent'];
                         unset($context['_seq'], $context['_iterated'], $context['_key'], $context['dropdownHeader'], $context['_parent'], $context['loop']);
                         $context = array_intersect_key($context, $_parent) + $_parent;
-                        // line 26
+                        // line 17
                         echo "                    </ul>
                     ";
                     }
-                    // line 28
+                    // line 19
                     echo "            </li>
         ";
                 } else {
-                    // line 30
+                    // line 21
                     echo "            <li class=\"";
                     echo (isset($context["current_page"]) ? $context["current_page"] : null);
                     echo "\">
                 <a href=\"";
-                    // line 31
+                    // line 22
                     echo $this->getAttribute($context["p"], "url", array());
                     echo "\">";
                     echo $this->getAttribute($context["p"], "menu", array());
@@ -189,7 +160,7 @@ class __TwigTemplate_6bf66a523eb23c179054c2d57e5c07818b4819eb9ce5b14e82a64c1336c
             </li>
         ";
                 }
-                // line 34
+                // line 25
                 echo "    ";
             }
             $_parent = $context['_parent'];
@@ -220,7 +191,7 @@ class __TwigTemplate_6bf66a523eb23c179054c2d57e5c07818b4819eb9ce5b14e82a64c1336c
 
     public function getDebugInfo()
     {
-        return array (  193 => 34,  185 => 31,  180 => 30,  176 => 28,  172 => 26,  164 => 23,  161 => 22,  150 => 19,  147 => 18,  143 => 17,  138 => 16,  136 => 15,  132 => 14,  129 => 13,  125 => 12,  122 => 11,  120 => 10,  114 => 7,  109 => 6,  106 => 5,  103 => 4,  98 => 3,  86 => 2,  75 => 70,  71 => 68,  64 => 63,  62 => 62,  55 => 57,  53 => 56,  48 => 53,  42 => 50,  37 => 49,  35 => 48,  22 => 37,  19 => 1,);
+        return array (  164 => 25,  156 => 22,  151 => 21,  147 => 19,  143 => 17,  132 => 14,  129 => 13,  125 => 12,  122 => 11,  120 => 10,  114 => 7,  109 => 6,  106 => 5,  103 => 4,  98 => 3,  86 => 2,  75 => 61,  71 => 59,  64 => 54,  62 => 53,  55 => 48,  53 => 47,  48 => 44,  42 => 41,  37 => 40,  35 => 39,  22 => 28,  19 => 1,);
     }
 
     /** @deprecated since 1.27 (to be removed in 2.0). Use getSourceContext() instead */
@@ -246,16 +217,7 @@ class __TwigTemplate_6bf66a523eb23c179054c2d57e5c07818b4819eb9ce5b14e82a64c1336c
                     <ul class=\"dropdown-menu\">
                     {% for dropdownHeader in p.children.visible %}
                         <li class=\"m-menu-content\">
-                            <ul class=\"col-sm-{{ (12 / p.children.visible.count)|round }}\">
-                            {% if dropdownHeader.children.visible.count > 0 %}
-                            <li class=\"dropdown-header\">{{ dropdownHeader.menu }}</li>
-                            {% for dropdownItem in dropdownHeader.children.visible %}
-                            <li>
-                                <a href=\"{{ dropdownItem.url }}\">{{ dropdownItem.menu }}</a>
-                            </li>
-                            {% endfor %}
-                            {% endif %}
-                            </ul>
+                           <a href=\"{{ dropdownHeader.url }}\">{{ dropdownHeader.menu }}</a>
                         </li>
                     {% endfor %}
                     </ul>

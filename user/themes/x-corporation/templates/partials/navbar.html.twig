@@ -11,16 +11,7 @@
                     <ul class="dropdown-menu">
                     {% for dropdownHeader in p.children.visible %}
                         <li class="m-menu-content">
-                            <ul class="col-sm-{{ (12 / p.children.visible.count)|round }}">
-                            {% if dropdownHeader.children.visible.count > 0 %}
-                            <li class="dropdown-header">{{ dropdownHeader.menu }}</li>
-                            {% for dropdownItem in dropdownHeader.children.visible %}
-                            <li>
-                                <a href="{{ dropdownItem.url }}">{{ dropdownItem.menu }}</a>
-                            </li>
-                            {% endfor %}
-                            {% endif %}
-                            </ul>
+                           <a href="{{ dropdownHeader.url }}">{{ dropdownHeader.menu }}</a>
                         </li>
                     {% endfor %}
                     </ul>

@@ -601,8 +601,8 @@ Shortcode Content
 .m-menu .m-menu-content {}
 
 .m-menu .dropdown.m-menu-fw .dropdown-menu {
-    left: 15px;
-    right: 15px;
+  /*  left: 15px;
+    right: 15px;*/
 }
 
 .m-menu-content ul {
@@ -1945,3 +1945,16 @@ div.main-row {
     padding: 0 15px;
     font-size: 18px;
 }
+.post-item img:hover,
+.product-item img:hover,
+.product-image-feature img:hover,
+.team img:hover,
+.event-item-thumbail img:hover,
+.x-features img:hover
+ {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+}
+   

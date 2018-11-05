@@ -72,7 +72,7 @@ class __TwigTemplate_3a6014cd6ff37d912f4b79dc0fa5457287f33dcd45547c5594e3b54dfd1
             echo "</a></h2>
                         ";
             // line 24
-            echo $this->getAttribute($context["p"], "summary", array());
+            echo $this->getAttribute($this->getAttribute($context["p"], "header", array()), "description", array());
             echo "
                     </div>                   
                 </div>
@@ -137,7 +137,7 @@ class __TwigTemplate_3a6014cd6ff37d912f4b79dc0fa5457287f33dcd45547c5594e3b54dfd1
                     </div>
                     <div class=\"post-item-content col-xs-12 col-sm-9\">
                         <h2><a href=\"{{ p.url }}\">{{ p.title }}</a></h2>
-                        {{ p.summary }}
+                        {{ p.header.description }}
                     </div>                   
                 </div>
             {% endfor %}
