@@ -1,0 +1,27 @@
+---
+title: 'Thay đổi thói quen của khách hàng'
+media_order: nha_thong_minh.jpg
+thumbnail: nha_thong_minh.jpg
+description: 'Thực tế hiện nay, trên thị trường đang bày bán tràn lan các thiết bị điện cơ truyền thống,và dần các thiết bị cơ đã có thay đổi mẫu mã cũng như tính năng sử dụng ,làm thế nào để thay đổi được thói quen cũng như cách nhìn nhận của mọi người về Nhà Thông Minh Lumi'
+twittercardoptions: summary
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+---
+
+<p>Thực tế hiện nay, tr&ecirc;n thị trường đang b&agrave;y b&aacute;n tr&agrave;n lan c&aacute;c thiết bị điện cơ truyền thống,v&agrave; dần c&aacute;c thiết bị cơ đ&atilde; c&oacute; thay đổi mẫu m&atilde; cũng như t&iacute;nh năng sử dụng ,l&agrave;m thế n&agrave;o để thay đổi được th&oacute;i quen cũng như c&aacute;ch nh&igrave;n nhận của mọi người về Nh&agrave; Th&ocirc;ng Minh Lumi</p>
+<p>Như ch&uacute;ng ta đ&atilde; biết tr&ecirc;n thị trường nh&agrave; th&ocirc;ng minh, b&ecirc;n cạnh những giải ph&aacute;p nh&agrave; th&ocirc;ng minh của c&aacute;c h&atilde;ng lớn tr&ecirc;n thế giới đến từ Đức, Ph&aacute;p, Mỹ, Singapore&nbsp; &nbsp;sneijder acis&hellip; được ph&acirc;n phối tại Việt Nam th&ocirc;ng qua c&aacute;c đại l&yacute; ủy quyền trong nước, giải ph&aacute;p nh&agrave; th&ocirc;ng minh của Bkav v&agrave; Lumi Việt Nam l&agrave; 2 thương hiệu Việt đ&atilde; phần n&agrave;o tạo dựng được chỗ đứng tr&ecirc;n thị trường.</p>
+<p>Sau&nbsp;8 năm ph&aacute;t triển, giải ph&aacute;p Bkav SmartHome do Bkav ph&aacute;t triển l&agrave; một hệ thống kết nối tất cả c&aacute;c thiết bị trong ng&ocirc;i nh&agrave; th&agrave;nh một hệ thống mạng, để c&oacute; thể điều khiển ch&uacute;ng theo c&aacute;c kịch bản th&ocirc;ng minh, bao gồm: hệ thống đ&egrave;n chiếu s&aacute;ng, r&egrave;m cửa, điều ho&agrave; nhiệt độ, ti vi, d&agrave;n &acirc;m thanh, cảm biến m&ocirc;i trường, chu&ocirc;ng cửa c&oacute; h&igrave;nh, camera an ninh, h&agrave;ng r&agrave;o điện tử, cảnh b&aacute;o r&ograve; rỉ kh&iacute; gas... Bkav hiện cung cấp giải ph&aacute;p nh&agrave; th&ocirc;ng minh cho c&aacute;c kh&aacute;ch h&agrave;ng theo 2 hướng, trong đ&oacute; Bkav SmartHome Luxury l&agrave; giải ph&aacute;p ho&agrave;n chỉnh, c&oacute; gi&aacute; th&agrave;nh &ldquo;tương đối&rdquo;, ph&ugrave; hợp với c&aacute;c dự &aacute;n si&ecirc;u biệt thự hay căn hộ sang trọng; Bkav SmartHome 2 l&agrave; hệ thống nh&agrave; th&ocirc;ng minh được sản xuất c&ocirc;ng nghiệp, dễ lắp đặt v&agrave; đặc biệt l&agrave; c&oacute; mức gi&aacute; th&agrave;nh thấp hơn nhiều, chỉ khoảng 30 triệu đồng nhằm gi&uacute;p nhiều kh&aacute;ch h&agrave;ng c&oacute; thể dễ d&agrave;ng tiếp cận</p>
+<p><img src="/giahan/tu-van-giai-phap/thay-doi-thoi-quen-cua-khach-hang/nha_thong_minh.jpg" alt="" /></p>
+<p>C&ograve;n với Lumia Việt Nam, doanh nghiệp cung cấp giải ph&aacute;p nh&agrave; th&ocirc;ng minh &ldquo;Made in Vietnam&rdquo; do 3 kỹ sư từ l&ograve; đ&agrave;o tạo B&aacute;ch khoa H&agrave; Nội s&aacute;ng lập đến nay cũng đ&atilde; ph&aacute;t triển qua h&agrave;ng chục phi&ecirc;n bản kh&aacute;c nhau để đ&aacute;p ứng được nhu cầu thị trường. Hồi th&aacute;ng 8 năm ngo&aacute;i, Lumi Vietnam đ&atilde; nghi&ecirc;n cứu t&iacute;ch hợp th&agrave;nh c&ocirc;ng c&ocirc;ng nghệ nhận dạng giọng n&oacute;i của Amazon - trợ l&yacute; ảo Amazon Alexa v&agrave;o giải ph&aacute;p nh&agrave; th&ocirc;ng minh Lumi, cho ph&eacute;p chủ nh&acirc;n c&aacute;c ng&ocirc;i nh&agrave; c&oacute; thể điều khiển c&aacute;c chiếu s&aacute;ng, đ&oacute;ng mở r&egrave;m, điều chỉnh chiết &aacute;p, thay đổi m&agrave;u sắc đ&egrave;n led&hellip; bằng giọng n&oacute;i. S&oacute; liệu của Lumi Việt Nam cho hay, đến nay đơn vị n&agrave;y đ&atilde; cung cấp giải ph&aacute;p nh&agrave; th&ocirc;ng minh cho nhiều dự &aacute;n lớn như: khu đ&ocirc; thị An Kh&aacute;nh, Mandarin, Spendora, Time City, Royal City, Water Mark, ThangLong Number 01, Ecopark&hellip;, với khoảng 40.000 ng&ocirc;i nh&agrave; đ&atilde; ho&agrave;n thiện.</p>
+<p>Cho rằng nh&agrave; th&ocirc;ng minh l&agrave; xu hướng ph&aacute;t triển v&agrave; sẽ ng&agrave;y c&agrave;ng phổ biến tại Việt Nam trong thời gian tới, tuy nhi&ecirc;n c&aacute;c chuy&ecirc;n gia cũng chỉ ra rằng để thị trường nh&agrave; th&ocirc;ng minh tại Việt Nam thực sự &ldquo;b&ugrave;ng nổ&rdquo; th&igrave; vẫn cần c&oacute; thời gian v&agrave; c&aacute;c đơn vị cung cấp giải ph&aacute;p phải vượt qua được 4 th&aacute;ch thức lớn, đ&oacute; l&agrave;: giải ph&aacute;p chưa ho&agrave;n thiện; gi&aacute; th&agrave;nh; th&oacute;i quen v&agrave; sự kh&ocirc;ng th&iacute;ch lệ thuộc c&ocirc;ng nghệ; v&agrave; t&acirc;m l&yacute; lo ngại đối với an ninh bảo mật của hệ thống.</p>
+<p>D&ugrave; đ&atilde; c&oacute; nhiều người quan t&acirc;m hơn đến nh&agrave; th&ocirc;ng minh nhưng với phần lớn người d&acirc;n Việt Nam vẫn chưa quen với kh&aacute;i niệm mới n&agrave;y, c&ograve;n c&oacute; t&acirc;m l&yacute; e ngại khi sử dụng c&aacute;c thiết bị, giải ph&aacute;p IoT, hệ thống nh&agrave; th&ocirc;ng minh&hellip; Để thay đổi nhận thức của người d&ugrave;ng vẫn cần c&oacute; thời gian nhất định. Ch&uacute;ng t&ocirc;i đang c&oacute; kế hoạch để l&agrave;m sao thời gian tới tiếp cận được nhiều hơn c&aacute;c kh&aacute;ch h&agrave;ng</p>

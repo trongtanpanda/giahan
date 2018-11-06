@@ -1,5 +1,5 @@
 ---
-title: 'NHỮNG LỢI ÍCH CỦA NHÀ THÔNG MINH CÓ THỂ BẠN CHƯA BIẾT'
+title: 'Những lợi ích của nhà thông minh có thể bạn chưa biết'
 media_order: '16.png,268x205_17_1.png'
 thumbnail: 268x205_17_1.png
 description: 'Giải pháp nhà thông minh sử dụng công nghệ tiên tiến với những giải pháp thông minh, mang đến cho quý khách hàng không gian hiện đại và tiện ích nhất. Hãy cùng tìm hiểu những lợi ích của nhà thông minh qua bài viết sau đây....'

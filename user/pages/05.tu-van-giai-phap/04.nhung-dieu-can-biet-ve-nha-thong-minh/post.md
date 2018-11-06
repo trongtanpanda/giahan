@@ -1,5 +1,5 @@
 ---
-title: 'NHỮNG ĐIỀU CẦN BIẾT VỀ NHÀ THÔNG MINH'
+title: 'Những điều cần biết về nhà thông minh'
 media_order: '2_7.png,19.png'
 thumbnail: 19.png
 description: 'Nhiều người vẫn chưa biết rõ về giải pháp này. Tất cả những thông tin về nhà thông minh cũng như những điều cần biết về nhà thông minh sẽ được chia sẻ qua bài viết dưới đây. ...'

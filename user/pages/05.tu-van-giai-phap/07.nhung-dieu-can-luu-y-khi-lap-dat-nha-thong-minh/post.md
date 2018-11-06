@@ -1,5 +1,5 @@
 ---
-title: 'NHỮNG ĐIỀU CẦN LƯU Ý KHI LẮP ĐẶT NHÀ THÔNG MINH'
+title: 'Những điều cần lưu ý khi lắp đặt nhà thông minh'
 media_order: '12.png,2_8.jpg,9_3.jpg'
 thumbnail: 12.png
 description: 'không phải ai cũng biết cách xây một ngôi nhà thông minh đúng cách và tiết kiệm. Vậy điều bạn cần làm khi lắp đặt nhà thông minh là gì. Hãy cùng theo dõi bài viết dưới đây nhé...'
