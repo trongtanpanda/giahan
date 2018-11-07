@@ -3,6 +3,9 @@ title: 'Những điều cần biết để ngôi nhà thông minh của bạn tr
 media_order: goi-lumihome-giai-phap-nha-thong-minh-lumi-1-cad1fc30-54be-474d-aa05-25de29f3a2dd_2.jpg
 thumbnail: goi-lumihome-giai-phap-nha-thong-minh-lumi-1-cad1fc30-54be-474d-aa05-25de29f3a2dd_2.jpg
 description: 'Nhà thông minh đã trở thành một khái niệm lạ mà quen trong thiết kế. Để xây dựng một căn nhà thông minh đúng nghĩa mà tiết kiệm chi phí nhất, chúng ta cần phải lưu ý những gì'
+taxonomy:
+    category:
+        - tintuc
 twittercardoptions: summary
 articleenabled: false
 musiceventenabled: false

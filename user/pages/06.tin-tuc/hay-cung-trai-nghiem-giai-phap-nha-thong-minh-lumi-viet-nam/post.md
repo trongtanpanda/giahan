@@ -3,6 +3,9 @@ title: 'Hãy cùng trải nghiệm giải pháp nhà thông minh Lumi Việt Nam
 media_order: 39203103_258083248139374_6749001614821949440_n.jpg
 thumbnail: 39203103_258083248139374_6749001614821949440_n.jpg
 description: 'Bạn sẽ bị lạc vào thế giới "Diệu Kỳ" nơi mà các thiết bị trong nhà có thể điều khiển bằng giọng nói và điện thoại chưa đầy 3 giây khi kết hợp với nhà thông minh Lumi'
+taxonomy:
+    category:
+        - tintuc
 twittercardoptions: summary
 articleenabled: false
 musiceventenabled: false

@@ -3,6 +3,9 @@ title: 'Khám phá nhà thông minh Billgate'
 media_order: 'nha-thong-minh-tri-gia-125-trieu-usd-cua-ty-phu-bill-gates-7.jpg,nha-thong-minh-tri-gia-125-trieu-usd-cua-ty-phu-bill-gates-3.jpg,nha-thong-minh-tri-gia-125-trieu-usd-cua-ty-phu-bill-gates-4.jpg,nha-thong-minh-tri-gia-125-trieu-usd-cua-ty-phu-bill-gates-5.jpg,nha-thong-minh-tri-gia-125-trieu-usd-cua-ty-phu-bill-gates-1.jpg'
 thumbnail: nha-thong-minh-tri-gia-125-trieu-usd-cua-ty-phu-bill-gates-1.jpg
 description: 'Ngôi biệt thự thông minh Xanadu 2.0 nằm trên trên sườn đồi bao quanh bởi những hàng cây cao vút. Được xây dựng trên diện tích 6.000 mét vuông, biệt thự Xanadu 2.0 được phủ xanh với rất nhiều cây cỏ.'
+taxonomy:
+    category:
+        - tintuc
 twittercardoptions: summary
 articleenabled: false
 musiceventenabled: false

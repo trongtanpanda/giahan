@@ -3,6 +3,9 @@ title: 'Hiện đại sự lựa chọn thông minh cho mọi gia đình Việt'
 media_order: '42325040_1916424505115675_4926761336043470848_n_1.jpg,42638814_1922524327839026_5104873513844473856_n.jpg,Aiau_khian_chiau_sAng_thAng_minh_2.png,41991084_1911308062293986_1468903910725910528_n.jpg'
 thumbnail: 41991084_1911308062293986_1468903910725910528_n.jpg
 description: 'Lắp đặt nhà thông minh Lumi xu hướng cải thiện cuộc sống, sư lựa chọn thông minh cho người việt'
+taxonomy:
+    category:
+        - tintuc
 twittercardoptions: summary
 articleenabled: false
 musiceventenabled: false

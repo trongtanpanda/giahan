@@ -3,6 +3,9 @@ title: 'Ứng dựng trí tuệ nhân tạo vào cuộc sống'
 media_order: 'tai_xuang_2.jpg,ung-dung-tri-tue-nhan-tao-trong-cuoc-song-10-.7972.jpg,_MILO.jpg'
 thumbnail: ung-dung-tri-tue-nhan-tao-trong-cuoc-song-10-.7972.jpg
 description: 'Cuộc đua trí tuệ nhân tạo (AI) đang và trong tương lại sẽ không có điểm dừng, các doanh nghiêp, công ty phát triển công nghệ phần mềm Việt Nam đang cố tạo ra các sản phẩm gần gũi hơn tiện lợi hơn cho tất cả người sử dụng. Và liệu rằng các công ty này sẽ trình làng những sản phẩm trí tuệ nhân tạo nào trong thời sắp tới. Hiện tại trí tuệ nhân tạo đang được ứng dụng nhiều nhất trong các lĩnh vưc như giáo dục, tài chính ngân hàng, trợ lí ảo giúp các gia đinh giảm bớt công việc thường ngày. các ông lớn trong nghành công nghệ đã tạo ra AI (Artificial Intelligence) giúp hoặc thay thế con người 1 hoặc nhiều lĩnh vực nào đó'
+taxonomy:
+    category:
+        - tintuc
 twittercardoptions: summary
 articleenabled: false
 musiceventenabled: false

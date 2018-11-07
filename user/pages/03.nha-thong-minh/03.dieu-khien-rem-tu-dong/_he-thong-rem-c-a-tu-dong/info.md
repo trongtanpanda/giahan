@@ -23,7 +23,7 @@ infos:
     -
         text: ' ĐIỀU KHIỂN RÈM BẰNG GIỌNG NÓI'
         content: '“OK Lumi ... chào buổi sáng” ngay lập tức rèm cửa sẽ tự động mở ra giúp bạn đón ánh ban mai trong lành của buổi sáng hay khi không rảnh tay, bạn chỉ cần “ra lệnh” thiết bị sẽ tuân thủ theo yêu cầu của bạn.'
-        postion_image: left
+        postion_image: center
     -
         text: 'HẸN GIỜ  ĐÓNG MỞ RÈM'
         content: 'Hệ thống rèm cửa sẽ tự động mở vào buổi sáng và đóng vào buổi trưa hoặc theo một lịch hoạt động khác do bạn cài đặt trong app Lumi trên điện thoại.'

@@ -270,6 +270,6 @@ class __TwigTemplate_6bf66a523eb23c179054c2d57e5c07818b4819eb9ce5b14e82a64c1336c
         </div>
     </div>
 </nav>
-", "partials/navbar.html.twig", "D:\\wamp64\\www\\giahan\\user\\themes\\x-corporation\\templates\\partials\\navbar.html.twig");
+", "partials/navbar.html.twig", "C:\\wamp64\\www\\giahan\\user\\themes\\x-corporation\\templates\\partials\\navbar.html.twig");
     }
 }

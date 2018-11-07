@@ -3,6 +3,9 @@ title: 'Tương lai Smarthome ở Việt Nam'
 media_order: 'internet_of_things_xu_huong_nha_thong_minh_viet_1.png,39906001_318443068904725_2134873654083715072_n_4.jpg,giai-phap-dieu-khien-phong-khach-san.png,anh_1_1.png'
 thumbnail: internet_of_things_xu_huong_nha_thong_minh_viet_1.png
 description: "Theo phân tích số liệu\_ của các cá nhân cũng như các tổ chức chuyên nguyên cứu đánh giá về tỷ lệ tăng trưởng, doanh thu nền công nghiệp 4.0 gọi tắt là AI , để đáp ứng lại nhu cầu quan tâm sử dụng và dự kiến nhu cầu sử dụng nhà thông minh\_ dự kiến\_ sẽ tăng mạnh vào các năm tới lộ trình tới năm\_ 2025. Bước chạy đà hoàn hảo mở ra cơ hội phát triển kinh doanh\_ kinh tế mạnh mẽ và bùng nổ cho những quốc gia, tổ chức các cá nhân\_ có định hướng phát triển theo ngành hàng này."
+taxonomy:
+    category:
+        - tintuc
 twittercardoptions: summary
 articleenabled: false
 musiceventenabled: false

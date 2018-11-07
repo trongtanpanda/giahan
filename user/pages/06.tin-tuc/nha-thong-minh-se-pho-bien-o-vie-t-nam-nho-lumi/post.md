@@ -3,6 +3,9 @@ title: 'Nhà thông minh sẽ phổ biến ở Việt Nam nhờ LUMI'
 media_order: 'Lumi_1.jpg,anh_3.jpg'
 thumbnail: Lumi_1.jpg
 description: 'Theo  chuyên gia đầu nghành về sản phẩm  điện thông minh nhận định, sự phát triển mạnh mẽ của cuộc cách mạng công nghiệp 4.0 với các công nghệ mới như IoT, Trí tuệ nhân tạo thì nhà sản xuất LUMI… đã và sẽ tạo động lực để việc ứng dụng các giải pháp nhà thông minh ngày càng trở nên phổ biến hơn tại Việt Nam.'
+taxonomy:
+    category:
+        - tintuc
 twittercardoptions: summary
 articleenabled: false
 musiceventenabled: false

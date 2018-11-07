@@ -188,6 +188,6 @@ class __TwigTemplate_da172e8e7b9556cc5b70370f3e15d53b9897a87be19e5f20feb292ab04d
     <script src=\"//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js\"></script>
 {% endblock %}
 {% endblock head %}
-", "partials/head.html.twig", "D:\\wamp64\\www\\giahan\\user\\themes\\x-corporation\\templates\\partials\\head.html.twig");
+", "partials/head.html.twig", "C:\\wamp64\\www\\giahan\\user\\themes\\x-corporation\\templates\\partials\\head.html.twig");
     }
 }

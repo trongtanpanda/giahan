@@ -3,6 +3,9 @@ title: 'Nhà thông minh Lumi công nghệ Việt thương hiệu Việt'
 media_order: 'tinh-nang-nha-thong-minh1_1.jpg,bt-500m_goc-2-1.jpg'
 thumbnail: bt-500m_goc-2-1.jpg
 description: 'Bạn đang tìm giải pháp nhà thông minh tốt nhất, một thành tựu lớn của công nghệ 4.0- để lắp đặt cho ngôi nhà của mình? Nhưng đâu mới thực sự là nhãn hiệu nhà thông minh Việt Nam chất lượng tốt nhất, an tâm nhất dành cho khách hàng? Lumi chính là nhà thông minh thương hiệu Việt tuyệt vời dành cho bạn.'
+taxonomy:
+    category:
+        - tintuc
 twittercardoptions: summary
 articleenabled: false
 musiceventenabled: false

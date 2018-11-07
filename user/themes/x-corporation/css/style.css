@@ -1146,7 +1146,7 @@ Team
     background-size: cover;
     width: 100%;
     background-attachment: fixed;
-    padding: 15% 0 5%;
+    padding: 10% 0 5%;
     position: relative;
 }
 
@@ -1756,6 +1756,7 @@ service-icon-style
 /* ---------------------------------------------- */
 
 .post-item {
+    width: 100%;
     display: inline-block;
     margin: 25px 0;
     border: solid 1px #F5F5F5;
@@ -1800,6 +1801,9 @@ service-icon-style
     color: #31aae2;
     margin-bottom: 0px;
 }
+.event-item-desc {
+    min-height: 200px;
+}
 .event-item-title,
 .event-item-desc,
 .event-item-link
@@ -1814,7 +1818,10 @@ service-icon-style
 
 .info {
     padding: 25px 0;
-    border-top: 1px solid #f9f9f9;
+    border-top: 2px solid #31aae2;
+}
+.info:first-child {
+    border-top: none;   
 }
 .info-title {
     color: #31aae2;
@@ -1957,4 +1964,6 @@ div.main-row {
     -webkit-transition: .3s ease-in-out;
     transition: .3s ease-in-out;
 }
-   
+.center {
+    text-align: center;
+}

@@ -219,6 +219,6 @@ class __TwigTemplate_f983d521b4a5b71cd0be9690ff3583dc9fe69af62724747ec2436d50b92
 </div>
 {% endblock %}
 
-", "forms/fields/colorpicker/colorpicker.html.twig", "D:\\wamp64\\www\\giahan\\user\\plugins\\admin\\themes\\grav\\templates\\forms\\fields\\colorpicker\\colorpicker.html.twig");
+", "forms/fields/colorpicker/colorpicker.html.twig", "C:\\wamp64\\www\\giahan\\user\\plugins\\admin\\themes\\grav\\templates\\forms\\fields\\colorpicker\\colorpicker.html.twig");
     }
 }

@@ -263,6 +263,6 @@ class __TwigTemplate_e8756120d9c4d12c49b25b48dcb3aaad1815dc8bdaaafa7e3bcc7f5c05f
         </div>
     </div>
 </footer>
-", "partials/footer.html.twig", "D:\\wamp64\\www\\giahan\\user\\themes\\x-corporation\\templates\\partials\\footer.html.twig");
+", "partials/footer.html.twig", "C:\\wamp64\\www\\giahan\\user\\themes\\x-corporation\\templates\\partials\\footer.html.twig");
     }
 }

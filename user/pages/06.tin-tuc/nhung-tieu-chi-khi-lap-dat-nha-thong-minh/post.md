@@ -3,6 +3,9 @@ title: 'Những tiêu chí khi lắp đặt nhà thông minh'
 media_order: 'anh_page_1.jpg,_MILO.jpg,anh_2_1.jpg,anh_3_1.jpg'
 thumbnail: anh_page_1.jpg
 description: "Để khẳng định rằng\_nhà thông minh\_\_của nhà sản xuất\_LUMI\_chính là giải pháp hiện nay được rất nhiều người chọn lựa bởi\_ tiện ích, lắp đặt, thi công dễ dàng, độ bảo mật cao hiện đại cũng như độ an toàn tuyệt vời của nó. Để giúp bạn hiểu rõ hơn trước khi lắp đặt nhà thông minh bài viết dưới đây sẽ đưa ra\_những tiêu chí quan trọng và cần thiết khi lắp đặt cũng như sử dụng\_hệ thống nhà thông minh\_\"Smarthome\""
+taxonomy:
+    category:
+        - tintuc
 twittercardoptions: summary
 articleenabled: false
 musiceventenabled: false

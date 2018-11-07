@@ -41,12 +41,12 @@
             {%else%}
                 <div class="info" style="background-color:{{info.color}};">
             {%endif%}
-                <div  class=" main-row {{info.postion-image}} {{loop.index}}">
-                    <div class="col first col-lg-6">
-                         <h2 class="info-title">{{ info.text|markdown }}</h2>
+                <div  class="row {{info.postion-image}} {{loop.index}}">
+                    <div class="col-sm-12 center">
+                        <h2 class="info-title">{{ info.text|markdown }}</h2>
                         {{ info.content|markdown }}
                     </div>
-                    <div class="col second col-lg-6" style="color:{{info.content_color}}">                       
+                    <div class="col-sm-12" style="color:{{info.content_color}}">                       
                         {{ page.media.images[info.thumbnail].html() }}
                     </div>
                 </div>

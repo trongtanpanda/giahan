@@ -10,7 +10,7 @@
         {% for p in collection %}
         	<div class="event-item grid-4">
         		<div class="event-item-thumbail">
-        			<a href="{{ p.url }}"><img class="img-responsive" src="{{p.media.images[p.header.thumbnail].url}}" ></a>
+        			<a href="{{ p.url }}">{{ p.media.images[p.header.thumbnail].cropZoom(252, 158).html() }}</a>
         		</div>
         		<p class="event-item-title"><a href="{{ p.url }}">{{ p.title }}</a></p>
         		<div class="event-item-desc">{{ p.header.description }} </div>

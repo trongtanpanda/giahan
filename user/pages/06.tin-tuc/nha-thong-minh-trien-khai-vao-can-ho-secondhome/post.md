@@ -3,6 +3,9 @@ title: 'Nhà thông minh triển khai vào căn hộ Secondhome'
 media_order: 4906phatdien3-1515378076557-13-24-632-1126-crop-1515378084325.jpg
 thumbnail: 4906phatdien3-1515378076557-13-24-632-1126-crop-1515378084325.jpg
 description: 'Ngày nay việc sở hữu biệt thự nghỉ dưỡng không còn đơn thuần chỉ là thú vui xa hoa của giới thượng lưu. Ngôi nhà thứ hai – Second home - loại sản phẩm ven biển nhưng giá trị chỉ khoảng trên dưới 1 tỷ đồng đã trở thành xu hướng của giới trẻ thành đạt Sở hữu căn nhà thứ 2 trở thành xu hướng chung của bất động sản toàn cầu. Tại Anh, có đến 600.000 hộ gia đình sở hữu Second Home. Còn ở Trung Quốc, cũng có khoảng 15% hộ gia đình sở hữu hình thức bất động sản này.'
+taxonomy:
+    category:
+        - tintuc
 twittercardoptions: summary
 articleenabled: false
 musiceventenabled: false

@@ -3,6 +3,9 @@ title: 'Người sử dụng đặt dấu hỏi về nhà thông minh'
 media_order: '39992331_318443038904728_5387804166640893952_n.jpg,9_1.jpg,1_5.jpg'
 thumbnail: 39992331_318443038904728_5387804166640893952_n.jpg
 description: 'Những lầm tưởng của người sử dụng tuy rất đơn giản nhưng rất khó để vượt qua của giải pháp nhà thông minh'
+taxonomy:
+    category:
+        - tintuc
 twittercardoptions: summary
 articleenabled: false
 musiceventenabled: false

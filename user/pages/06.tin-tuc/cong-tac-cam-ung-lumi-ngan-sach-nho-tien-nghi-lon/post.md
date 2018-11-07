@@ -3,6 +3,9 @@ title: 'Công tắc cảm ứng Lumi - ngân sách nhỏ, tiện nghi lớn'
 media_order: '6.png,5_2.png,coogn_tac_2_nAtvuAng_Aen._ma_vAng.png'
 thumbnail: coogn_tac_2_nAtvuAng_Aen._ma_vAng.png
 description: 'Vẻ ngoài sang trọng, lấp lánh, tiện tích sử dụng đa dạng, chi phí đầu tư hợp lý...Có quá nhiều lý do để công tắc cảm ứng Lumi trở thành thiết bị điện thông minh được ưa chuộng hiện nay trong gia đình Việt.'
+taxonomy:
+    category:
+        - tintuc
 twittercardoptions: summary
 articleenabled: false
 musiceventenabled: false

@@ -3,6 +3,9 @@ title: 'Những lưu ý khi sử dụng thiết bị điện thông minh'
 media_order: '100.jpg,goi-lumihome-giai-phap-nha-thong-minh-lumi.jpg,nhung-luu-y-khi-su-dung.jpg'
 thumbnail: nhung-luu-y-khi-su-dung.jpg
 description: "Khí hậu việt nam là khí hậu nhiệt đới nhưng\_khí hậu Việt Nam\_phân bố thành 3 vùng khí hậu riêng biệt, mưa rét trong mùa đông thường được xem là nguyên nhân chính khiến cho các thiết bị điện trong gia đình luôn ở trong trạng thái chập chờn, ẩm mốc hoặc có nguy cơ hỏng hẳn. Để khắc phục hiện tượng này, bên cạnh những lưu ý quan trọng như ưu tiên các biện pháp chống ẩm, bảo quản thiết bị điện đúng cách thì việc thay đổi và đưa vào sử dụng giải pháp nhà thông minh với những tính năng ưu việt cũng là lựa chọn đang được rất nhiều người tiêu dùng tin tưởng áp dụng."
+taxonomy:
+    category:
+        - tintuc
 twittercardoptions: summary
 articleenabled: false
 musiceventenabled: false

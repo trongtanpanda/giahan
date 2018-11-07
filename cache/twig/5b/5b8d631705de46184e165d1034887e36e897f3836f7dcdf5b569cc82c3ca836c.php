@@ -53,6 +53,6 @@ class __TwigTemplate_16a2b5452e49837096b006f7a77405f92575fb720980d8ad653f7268d9e
         return new Twig_Source("<div class=\"spinning-wheel\" style=\"display: none\">
 \t{{ \"PLUGIN_ADMIN.LOADING\"|tu|e }} <i class=\"fa fa-spinner fa-spin\"></i>
 </div>
-", "partials/spinning-wheel.html.twig", "D:\\wamp64\\www\\giahan\\user\\plugins\\admin\\themes\\grav\\templates\\partials\\spinning-wheel.html.twig");
+", "partials/spinning-wheel.html.twig", "C:\\wamp64\\www\\giahan\\user\\plugins\\admin\\themes\\grav\\templates\\partials\\spinning-wheel.html.twig");
     }
 }

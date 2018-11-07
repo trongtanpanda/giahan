@@ -3,6 +3,9 @@ title: 'Lắp đặt nhà thông minh ngay hôm nay'
 media_order: 'giai-phap-am-thanh-da-vung-lumi-1_1.jpg,he-thong-chieu-sang-nha-thong-minh-500x250.jpg'
 thumbnail: giai-phap-am-thanh-da-vung-lumi-1_1.jpg
 description: 'lắp đặt nhà thông minh ngay hôm nay, thông tin lợi ích và giá cả cảu nhà thông minh lumi hợp lý với mọi gia đình'
+taxonomy:
+    category:
+        - tintuc
 twittercardoptions: summary
 articleenabled: false
 musiceventenabled: false

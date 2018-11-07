@@ -42,9 +42,9 @@ class __TwigTemplate_eaede574c805aac904749fb0b7d0ce54248b52877bf3c6154449513ffd0
         \t\t\t<a href=\"";
             // line 13
             echo $this->getAttribute($context["p"], "url", array());
-            echo "\"><img class=\"img-responsive\" src=\"";
-            echo $this->getAttribute($this->getAttribute($this->getAttribute($this->getAttribute($context["p"], "media", array()), "images", array()), $this->getAttribute($this->getAttribute($context["p"], "header", array()), "thumbnail", array()), array(), "array"), "url", array());
-            echo "\" ></a>
+            echo "\">";
+            echo $this->getAttribute($this->getAttribute($this->getAttribute($this->getAttribute($this->getAttribute($context["p"], "media", array()), "images", array()), $this->getAttribute($this->getAttribute($context["p"], "header", array()), "thumbnail", array()), array(), "array"), "cropZoom", array(0 => 252, 1 => 158), "method"), "html", array(), "method");
+            echo "</a>
         \t\t</div>
         \t\t<p class=\"event-item-title\"><a href=\"";
             // line 15
@@ -108,7 +108,7 @@ class __TwigTemplate_eaede574c805aac904749fb0b7d0ce54248b52877bf3c6154449513ffd0
         {% for p in collection %}
         \t<div class=\"event-item grid-4\">
         \t\t<div class=\"event-item-thumbail\">
-        \t\t\t<a href=\"{{ p.url }}\"><img class=\"img-responsive\" src=\"{{p.media.images[p.header.thumbnail].url}}\" ></a>
+        \t\t\t<a href=\"{{ p.url }}\">{{ p.media.images[p.header.thumbnail].cropZoom(252, 158).html() }}</a>
         \t\t</div>
         \t\t<p class=\"event-item-title\"><a href=\"{{ p.url }}\">{{ p.title }}</a></p>
         \t\t<div class=\"event-item-desc\">{{ p.header.description }} </div>
@@ -116,6 +116,6 @@ class __TwigTemplate_eaede574c805aac904749fb0b7d0ce54248b52877bf3c6154449513ffd0
         \t</div>
         {% endfor %}
     </div>
-</section>", "modular/event.html.twig", "D:\\wamp64\\www\\giahan\\user\\themes\\x-corporation\\templates\\modular\\event.html.twig");
+</section>", "modular/event.html.twig", "C:\\wamp64\\www\\giahan\\user\\themes\\x-corporation\\templates\\modular\\event.html.twig");
     }
 }

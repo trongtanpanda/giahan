@@ -3,6 +3,9 @@ title: 'Thiết bị nhà thông minh Lumi nên mua nó ở đâu?'
 media_order: 'images_4.jpg,khachhangtrainghiemgiaiphapnhathongminhlumi_jpxo.jpg'
 thumbnail: images_4.jpg
 description: 'Nhiều khách hàng đã và đang biết được tiện ích của nhà thông minh Lumi và cũng đang muốn tìm hiểu để lắp đặt nhưng hiện tại vẫn chưa biết được nên mua những thiết bị đó ở đâu cho đảm bảo và an toàn, Vì đó thật ra đây cũng là phải bỏ một số tiến không nhỏ để lắp đặt hệ thống nhà thông minh này. Chính vì vậy việc băn khoăn không biết mua thiết bị đó ở đâu là câu hỏi của nhiều khách hàng.'
+taxonomy:
+    category:
+        - tintuc
 twittercardoptions: summary
 articleenabled: false
 musiceventenabled: false

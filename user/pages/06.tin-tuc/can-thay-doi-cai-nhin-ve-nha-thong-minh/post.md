@@ -3,6 +3,9 @@ title: 'Cần thay đổi cái nhìn về nhà thông minh'
 media_order: 'anh_page_2.jpg,chieu-sang-thong-minh.jpg,5-1474864165592.jpg'
 thumbnail: 5-1474864165592.jpg
 description: 'Các thương hiệu nhà thông minh xuất hiện ở Việt Nam cũng dc tầm 6 đến 10 năm trở lại đây. Nhưng những giải pháp nhà thông minh chỉ thực sự được quan tâm và bùng nổ thực sự kể từ thời điểm 2015 cùng với cuộc cách mạng công nghiệp 4.0 ( CMCN 4.0 ). Không thể phủ nhận những cố gắng của các đơn vị đi đầu trong lĩnh vực này đặc biệt là các thương hiệu Việt Nam như Lumi hay Bkav, thế nhưng thực tế cuộc chạy đua của nhà thông minh Việt Nam để bắt kịp với thế giới là cả một quá trình dài hơi'
+taxonomy:
+    category:
+        - tintuc
 twittercardoptions: summary
 articleenabled: false
 musiceventenabled: false

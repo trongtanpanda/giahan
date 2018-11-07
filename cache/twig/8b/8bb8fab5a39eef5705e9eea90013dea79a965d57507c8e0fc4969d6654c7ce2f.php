@@ -231,6 +231,6 @@ class __TwigTemplate_3733527c85c8b002cee8cddf5a2f3160f2eb57e4606d600d97cd3c5a9b5
         </div>
     </div>
 </section>
-", "modular/features.html.twig", "D:\\wamp64\\www\\giahan\\user\\themes\\x-corporation\\templates\\modular\\features.html.twig");
+", "modular/features.html.twig", "C:\\wamp64\\www\\giahan\\user\\themes\\x-corporation\\templates\\modular\\features.html.twig");
     }
 }

@@ -119,6 +119,6 @@ class __TwigTemplate_51cfbe60aac36513854b31323e5d2189ab87daa7a9f745cf07bbf79250e
     </div>
     {% endif %}
 {% endfor %}
-", "media-list-content.html.twig", "D:\\wamp64\\www\\giahan\\user\\plugins\\admin\\themes\\grav\\templates\\media-list-content.html.twig");
+", "media-list-content.html.twig", "C:\\wamp64\\www\\giahan\\user\\plugins\\admin\\themes\\grav\\templates\\media-list-content.html.twig");
     }
 }

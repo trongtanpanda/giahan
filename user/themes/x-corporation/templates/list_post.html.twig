@@ -16,7 +16,7 @@
                 <div class="post-item">
                     <div class="post-item-thumbnail col-xs-12 col-sm-3">
                         <a href="{{ p.url }}">
-                            <img class="img-responsive" src="{{p.media.images[p.header.thumbnail].url}}" >
+                            {{ p.media.images[p.header.thumbnail].cropZoom(252, 158).html() }}
                         </a>
                     </div>
                     <div class="post-item-content col-xs-12 col-sm-9">

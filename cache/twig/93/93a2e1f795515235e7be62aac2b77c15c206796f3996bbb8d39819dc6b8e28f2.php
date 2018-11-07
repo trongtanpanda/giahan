@@ -286,6 +286,6 @@ class __TwigTemplate_fe7021da3a8827b08d7bcf9b6405f93a67352f3fd77029ad8776bd8e1f9
         {% include 'partials/footer.html.twig' %}
     </body>
 </html>
-", "partials/base.html.twig", "D:\\wamp64\\www\\giahan\\user\\themes\\x-corporation\\templates\\partials\\base.html.twig");
+", "partials/base.html.twig", "C:\\wamp64\\www\\giahan\\user\\themes\\x-corporation\\templates\\partials\\base.html.twig");
     }
 }

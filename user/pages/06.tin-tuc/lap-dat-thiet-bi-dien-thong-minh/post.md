@@ -2,7 +2,10 @@
 title: 'lắp đặt thiết bị điện thông minh'
 media_order: '9_2.jpg,Sa_dang_vA_kiam_soAt_nhA_thAng_minh_da_dAng_ngay_trAn_Aian_thoai.png,Quy_trAnh_lap_Aat_thiat_ba_Aian_thAng_minh_dian_ra_nhanh_chAng.png,5_1.png'
 thumbnail: 9_2.jpg
-description: 'Là một trong những nhà cung cấp thiết bị điện thông minh chính tại Đà Nẵng, Gia Hân cung cấp đầy đủ và đa dạng các thiết bị điện thông minh cũng như thi công lắp đặt. '
+description: 'Là một trong những nhà cung cấp thiết bị điện thông minh chính tại Đà Nẵng, Gia Hân cung cấp đầy đủ và đa dạng các thiết bị điện thông minh cũng như thi công lắp đặt.'
+taxonomy:
+    category:
+        - tintuc
 twittercardoptions: summary
 articleenabled: false
 musiceventenabled: false

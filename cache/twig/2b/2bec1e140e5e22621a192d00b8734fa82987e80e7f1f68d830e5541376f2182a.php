@@ -187,6 +187,6 @@ class __TwigTemplate_ab682fb0dd68d2dbf31006eb70d00b6578eef7e50766b6783ecd284f05c
         <span class=\"sr-only\">Next</span>
     </a>
 </div>
-", "modular/carousel.html.twig", "D:\\wamp64\\www\\giahan\\user\\themes\\x-corporation\\templates\\modular\\carousel.html.twig");
+", "modular/carousel.html.twig", "C:\\wamp64\\www\\giahan\\user\\themes\\x-corporation\\templates\\modular\\carousel.html.twig");
     }
 }
