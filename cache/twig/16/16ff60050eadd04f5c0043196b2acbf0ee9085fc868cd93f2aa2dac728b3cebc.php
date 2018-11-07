@@ -16,7 +16,7 @@ class __TwigTemplate_9036bcc5187cee7db39a0bdff29d37822f30bcff553baf17870a910c7f4
     protected function doDisplay(array $context, array $blocks = array())
     {
         // line 1
-        $this->loadTemplate("partials/login-form.html.twig", "partials/login-form.html.twig", 1, "269922938")->display(array_merge($context, array("title" => "Grav Admin Login")));
+        $this->loadTemplate("partials/login-form.html.twig", "partials/login-form.html.twig", 1, "121709656")->display(array_merge($context, array("title" => "Grav Admin Login")));
     }
 
     public function getTemplateName()
@@ -74,13 +74,13 @@ class __TwigTemplate_9036bcc5187cee7db39a0bdff29d37822f30bcff553baf17870a910c7f4
 
 {% endblock %}
 
-{% endembed %}", "partials/login-form.html.twig", "C:\\wamp64\\www\\giahan\\user\\plugins\\admin\\themes\\grav\\templates\\partials\\login-form.html.twig");
+{% endembed %}", "partials/login-form.html.twig", "D:\\wamp64\\www\\giahan\\user\\plugins\\admin\\themes\\grav\\templates\\partials\\login-form.html.twig");
     }
 }
 
 
 /* partials/login-form.html.twig */
-class __TwigTemplate_9036bcc5187cee7db39a0bdff29d37822f30bcff553baf17870a910c7f4add0d_269922938 extends Twig_Template
+class __TwigTemplate_9036bcc5187cee7db39a0bdff29d37822f30bcff553baf17870a910c7f4add0d_121709656 extends Twig_Template
 {
     public function __construct(Twig_Environment $env)
     {
@@ -277,6 +277,6 @@ class __TwigTemplate_9036bcc5187cee7db39a0bdff29d37822f30bcff553baf17870a910c7f4
 
 {% endblock %}
 
-{% endembed %}", "partials/login-form.html.twig", "C:\\wamp64\\www\\giahan\\user\\plugins\\admin\\themes\\grav\\templates\\partials\\login-form.html.twig");
+{% endembed %}", "partials/login-form.html.twig", "D:\\wamp64\\www\\giahan\\user\\plugins\\admin\\themes\\grav\\templates\\partials\\login-form.html.twig");
     }
 }

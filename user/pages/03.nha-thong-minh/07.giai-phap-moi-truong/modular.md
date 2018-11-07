@@ -18,3 +18,4 @@ restaurant:
     priceRange: $
 ---
 
+<p>Cảm biến chuyển động v&agrave; cảm biến cửa của Lumi được t&iacute;ch hợp cảm biến m&ocirc;i trường, c&oacute; thể xem l&agrave; người &ldquo;b&aacute;c sỹ&rdquo; cung cấp th&ocirc;ng tin nhiệt độ, độ ẩm, &aacute;nh s&aacute;ng trong ng&ocirc;i nh&agrave; bạn. Khi nhiệt độ trong nh&agrave; qu&aacute; n&oacute;ng, cảm biến sẽ truyền th&ocirc;ng tin đến bộ điều khiển trung t&acirc;m - HC, HC sẽ &ldquo;ra lệnh&rdquo; gửi tin đến smartphone của bạn, đồng thời k&iacute;ch hoạt bật điều h&ograve;a, quạt gi&oacute;, đ&oacute;ng r&egrave;m cửa... để bạn lu&ocirc;n c&oacute; một m&ocirc;i trường sống đảm bảo sức khỏe.</p>

@@ -151,6 +151,6 @@ class __TwigTemplate_272cce2734517b1e309a3bdfa9a2d3a79f3aebed557ab9d27514cbf2d04
             {% endif %}
         </div>
     {% endif %}
-</div>", "partials/media-list-wrapper.html.twig", "C:\\wamp64\\www\\giahan\\user\\plugins\\admin\\themes\\grav\\templates\\partials\\media-list-wrapper.html.twig");
+</div>", "partials/media-list-wrapper.html.twig", "D:\\wamp64\\www\\giahan\\user\\plugins\\admin\\themes\\grav\\templates\\partials\\media-list-wrapper.html.twig");
     }
 }

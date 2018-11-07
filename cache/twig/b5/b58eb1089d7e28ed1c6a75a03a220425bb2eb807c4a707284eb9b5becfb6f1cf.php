@@ -361,6 +361,6 @@ class __TwigTemplate_d0ddde149b7cfcd26b0135c531b6f3b0420c5e33a9f39dd6d445e011c4e
         {%- endif -%}
     </div>
 {% endblock %}
-", "dashboard.html.twig", "C:\\wamp64\\www\\giahan\\user\\plugins\\admin\\themes\\grav\\templates\\dashboard.html.twig");
+", "dashboard.html.twig", "D:\\wamp64\\www\\giahan\\user\\plugins\\admin\\themes\\grav\\templates\\dashboard.html.twig");
     }
 }

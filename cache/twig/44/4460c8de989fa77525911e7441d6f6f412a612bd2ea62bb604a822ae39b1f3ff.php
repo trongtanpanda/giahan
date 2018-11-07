@@ -84,6 +84,6 @@ class __TwigTemplate_b576e4c14af932cfa711478ea566cba8333436a30fc065652c01b1e6876
 </div>
 
 
-", "partials/page-legend.html.twig", "C:\\wamp64\\www\\giahan\\user\\plugins\\admin\\themes\\grav\\templates\\partials\\page-legend.html.twig");
+", "partials/page-legend.html.twig", "D:\\wamp64\\www\\giahan\\user\\plugins\\admin\\themes\\grav\\templates\\partials\\page-legend.html.twig");
     }
 }

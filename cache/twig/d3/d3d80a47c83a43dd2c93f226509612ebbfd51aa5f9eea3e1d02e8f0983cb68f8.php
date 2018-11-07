@@ -159,6 +159,6 @@ class __TwigTemplate_6c78bebc085b4dc4e2b186ef21ce515ec9d500ddaeacbc325a0ce44d0a8
     {% endfor %}
     </div>
 </section>
-", "modular/team.html.twig", "C:\\wamp64\\www\\giahan\\user\\themes\\x-corporation\\templates\\modular\\team.html.twig");
+", "modular/team.html.twig", "D:\\wamp64\\www\\giahan\\user\\themes\\x-corporation\\templates\\modular\\team.html.twig");
     }
 }

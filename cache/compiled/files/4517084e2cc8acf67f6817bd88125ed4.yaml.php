@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'plugins://tinymce-editor/tinymce-editor.yaml',
-    'modified' => 1539598555,
+    'modified' => 1541503598,
     'data' => [
         'enabled' => true,
         'apikey' => '',

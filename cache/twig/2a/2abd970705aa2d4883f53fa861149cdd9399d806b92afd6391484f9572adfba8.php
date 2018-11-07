@@ -116,6 +116,6 @@ class __TwigTemplate_c10fac6190289ce5da4d28bf691eb89af24595a4d5923be87347b7cc69a
         </div>
     </div>
 {% endif %}
-", "partials/dashboard-statistics.html.twig", "C:\\wamp64\\www\\giahan\\user\\plugins\\admin\\themes\\grav\\templates\\partials\\dashboard-statistics.html.twig");
+", "partials/dashboard-statistics.html.twig", "D:\\wamp64\\www\\giahan\\user\\plugins\\admin\\themes\\grav\\templates\\partials\\dashboard-statistics.html.twig");
     }
 }

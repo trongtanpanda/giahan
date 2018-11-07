@@ -116,6 +116,6 @@ class __TwigTemplate_eaede574c805aac904749fb0b7d0ce54248b52877bf3c6154449513ffd0
         \t</div>
         {% endfor %}
     </div>
-</section>", "modular/event.html.twig", "C:\\wamp64\\www\\giahan\\user\\themes\\x-corporation\\templates\\modular\\event.html.twig");
+</section>", "modular/event.html.twig", "D:\\wamp64\\www\\giahan\\user\\themes\\x-corporation\\templates\\modular\\event.html.twig");
     }
 }

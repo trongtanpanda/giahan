@@ -75,6 +75,6 @@ class __TwigTemplate_c5d2f9825e4b83a82988103850a6ff0afe16cc52dc56c5a3d7bac796a33
     </div>
 </div>
 
-", "partials/dashboard-feed.html.twig", "C:\\wamp64\\www\\giahan\\user\\plugins\\admin\\themes\\grav\\templates\\partials\\dashboard-feed.html.twig");
+", "partials/dashboard-feed.html.twig", "D:\\wamp64\\www\\giahan\\user\\plugins\\admin\\themes\\grav\\templates\\partials\\dashboard-feed.html.twig");
     }
 }

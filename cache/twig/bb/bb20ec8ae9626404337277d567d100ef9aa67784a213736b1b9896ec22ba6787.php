@@ -72,6 +72,6 @@ class __TwigTemplate_62efab58268a7e924646b0be6291320e34b9e3fdd3f3f09c26f1b38c2bb
     type=\"email\"
     {% if field.multiple in ['on', 'true', 1] %}multiple=\"multiple\"{% endif %}
     {{ parent() }}
-{% endblock %}", "forms/fields/email/email.html.twig", "C:\\wamp64\\www\\giahan\\user\\plugins\\form\\templates\\forms\\fields\\email\\email.html.twig");
+{% endblock %}", "forms/fields/email/email.html.twig", "D:\\wamp64\\www\\giahan\\user\\plugins\\form\\templates\\forms\\fields\\email\\email.html.twig");
     }
 }

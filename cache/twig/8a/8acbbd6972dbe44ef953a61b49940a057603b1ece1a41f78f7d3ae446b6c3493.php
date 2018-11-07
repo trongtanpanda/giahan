@@ -109,6 +109,6 @@ data-grav-mediapicker-unique-identifier=\"{{ unique_identifier }}\"
     {% include 'partials/media-list-wrapper.html.twig' with { is_modal: true } %}
 </div>
 {% endblock %}
-", "forms/fields/mediapicker/mediapicker.html.twig", "C:\\wamp64\\www\\giahan\\user\\plugins\\admin\\themes\\grav\\templates\\forms\\fields\\mediapicker\\mediapicker.html.twig");
+", "forms/fields/mediapicker/mediapicker.html.twig", "D:\\wamp64\\www\\giahan\\user\\plugins\\admin\\themes\\grav\\templates\\forms\\fields\\mediapicker\\mediapicker.html.twig");
     }
 }

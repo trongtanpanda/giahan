@@ -125,6 +125,6 @@ class __TwigTemplate_c0db992f67c7268a77c103d910f70d15a8cb6f7d4ccf8b33e4f12107353
 </div>
 
 {% include 'partials/spinning-wheel.html.twig' %}
-", "partials/media-list-wrapper__list.html.twig", "C:\\wamp64\\www\\giahan\\user\\plugins\\admin\\themes\\grav\\templates\\partials\\media-list-wrapper__list.html.twig");
+", "partials/media-list-wrapper__list.html.twig", "D:\\wamp64\\www\\giahan\\user\\plugins\\admin\\themes\\grav\\templates\\partials\\media-list-wrapper__list.html.twig");
     }
 }

@@ -89,6 +89,6 @@ class __TwigTemplate_47a759a144e0397f169817c1fb4a95e02d340d67eba7912d3e277a7a2d2
 \t\t<source src=\"{{ page.media[header.file].url}}\" type=\"video/mp4\">
 \t</video>
 {%endif%}
-</section>", "modular/ads.html.twig", "C:\\wamp64\\www\\giahan\\user\\themes\\x-corporation\\templates\\modular\\ads.html.twig");
+</section>", "modular/ads.html.twig", "D:\\wamp64\\www\\giahan\\user\\themes\\x-corporation\\templates\\modular\\ads.html.twig");
     }
 }

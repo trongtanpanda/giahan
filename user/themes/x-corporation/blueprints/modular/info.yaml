@@ -25,22 +25,22 @@ form:
                   label: Màu chữ                
                 .color:
                   type: colorpicker
-                  label: Choose a color
+                  label: Màu nền
                 .thumbnail:
                   type: filepicker
                   folder: 'self@'
-                  label: Select a image
+                  label: Ảnh nền
                   preview_images: true
                   accept:
                     - .png
                     - .jpg
                 .postion_image:
                   type: select
-                  label: Image position
-                  classes: fancy
+                  label: Vị Trí Hình
                   default: left
                   options:
-                    'left': 'Left'
-                    'right': 'Right'
+                    'left': 'Trái'                    
+                    'center': 'Giữa'
+                    'right': 'Phải'
 
                 

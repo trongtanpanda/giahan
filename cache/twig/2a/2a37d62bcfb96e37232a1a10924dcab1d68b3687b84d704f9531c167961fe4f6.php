@@ -251,6 +251,6 @@ class __TwigTemplate_4492c6a0ac73ddc404f4d47e1b23f9e3aade63f9478fc6d47bab069e7b3
         {% endfor %}
         </div>
     {% endif %}
-", "forms/fields/twitter/twitter.html.twig", "C:\\wamp64\\www\\giahan\\user\\plugins\\seo\\templates\\forms\\fields\\twitter\\twitter.html.twig");
+", "forms/fields/twitter/twitter.html.twig", "D:\\wamp64\\www\\giahan\\user\\plugins\\seo\\templates\\forms\\fields\\twitter\\twitter.html.twig");
     }
 }
