@@ -14,7 +14,7 @@
             <div class="col-md-4">
                 <figure class="thumbnail">
                     <a href="{{ member.url }}">
-                        {{ page.media.images[member.image].html('', member.name) }}
+                        {{ page.media.images[member.image].cropZoom(360, 240).html() }}
                     </a>
                     <figcaption class="caption text-center">
                         <h3>{{ member.name }}                            

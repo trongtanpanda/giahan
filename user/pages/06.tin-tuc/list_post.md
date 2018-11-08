@@ -6,6 +6,8 @@ content:
         by: date
         dir: desc
     limit: 10
+    pagination: true
+pagination: true
 menu: 'Tin Tức'
 twittercardoptions: summary
 articleenabled: false
