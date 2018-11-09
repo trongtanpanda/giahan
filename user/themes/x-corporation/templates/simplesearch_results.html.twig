@@ -35,6 +35,9 @@
             {% include 'partials/simplesearch_item.html.twig' with {'page':page} %}
         {% endfor %}
         {% endif %}
+            <div class="col-sm-12 text-center">            
+                {% include 'partials/pagination.html.twig' with {'base_url':page.url, 'pagination':collection.params.pagination} %}
+            </div>
         </div>
     </div>
 </section>

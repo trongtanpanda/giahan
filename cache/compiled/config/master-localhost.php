@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1541672675,
-    'checksum' => '08dd555fcd346feecf576b72b16469a5',
+    'timestamp' => 1541743410,
+    'checksum' => 'a77044fb0042bb345e8ab04c8b248a22',
     'files' => [
         'user/config' => [
             'media' => [
@@ -16,6 +16,10 @@ return [
             'plugins/pagination' => [
                 'file' => 'user/config/plugins/pagination.yaml',
                 'modified' => 1541671592
+            ],
+            'plugins/simplesearch' => [
+                'file' => 'user/config/plugins/simplesearch.yaml',
+                'modified' => 1541743410
             ],
             'security' => [
                 'file' => 'user/config/security.yaml',
@@ -96,6 +100,10 @@ return [
             'plugins/seo' => [
                 'file' => 'user/plugins/seo/seo.yaml',
                 'modified' => 1541503598
+            ],
+            'plugins/simplesearch' => [
+                'file' => 'user/plugins/simplesearch/simplesearch.yaml',
+                'modified' => 1541742779
             ],
             'plugins/tinymce-editor' => [
                 'file' => 'user/plugins/tinymce-editor/tinymce-editor.yaml',
@@ -292,6 +300,27 @@ return [
                 'organization' => true,
                 'musicevent' => true,
                 'person' => true
+            ],
+            'simplesearch' => [
+                'enabled' => true,
+                'built_in_css' => true,
+                'built_in_js' => true,
+                'display_button' => false,
+                'min_query_length' => 3,
+                'route' => '/search',
+                'search_content' => 'rendered',
+                'template' => 'simplesearch_results',
+                'filters' => [
+                    'category' => [
+                        0 => '@none'
+                    ]
+                ],
+                'filter_combinator' => 'and',
+                'ignore_accented_characters' => false,
+                'order' => [
+                    'by' => 'date',
+                    'dir' => 'desc'
+                ]
             ],
             'tinymce-editor' => [
                 'enabled' => true,

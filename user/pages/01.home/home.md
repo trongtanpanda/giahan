@@ -1,6 +1,7 @@
 ---
 title: 'Hệ Thống Nhà Thông Minh - Gia Hân Group'
 menu: 'Trang Chủ'
+visible: false
 admin:
     children_display_order: default
 googletitle: 'Hệ Thống Nhà Thông Minh - Gia Hân Group'
