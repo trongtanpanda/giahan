@@ -1,8 +1,8 @@
 body {
     font-family: 'Roboto', sans-serif;
-    font-size: 15px;
+    font-size: 16px;
     line-height: 24px;
-    color: #969595;
+    color: #000;
     font-weight: 400;
     background: #fff;
 }
@@ -24,34 +24,28 @@ h6 {
 }
 
 h1 {
-    font-size: 30px;
-    line-height: 24px;
+    font-size: 30px;    
 }
 
 h2 {
     font-size: 24px;
-    line-height: 24px;
 }
 
 h3 {
     font-size: 20px;
-    line-height: 24px;
 }
 
 h4 {
     font-size: 18px;
-    line-height: 24px;
 }
 
 h5 {
     font-size: 16px;
-    line-height: 24px;
     font-weight: 600;
 }
 
 h6 {
     font-size: 14px;
-    line-height: 24px;
 }
 
 
@@ -1144,12 +1138,13 @@ Team
 ----------------------------------------------- */
 
 .single-page-title {
+    background-image: url('../img/banner-nha-thong-minh.jpg');
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: cover;
     width: 100%;
     background-attachment: fixed;
-    padding: 10% 0 5%;
+    padding: 13% 0 8%;
     position: relative;
 }
 
@@ -1591,6 +1586,7 @@ service-icon-style
 
 .footer {
     background: #313131;
+    color: #fff;
 }
 
 .footer .footer-block {
@@ -1834,7 +1830,7 @@ service-icon-style
 
 .info {
     padding: 25px 0;
-    border-top: 2px solid #31aae2;
+    border-top: 2px solid #999;
 }
 
 .info:first-child {
@@ -1923,18 +1919,20 @@ div.main-row {
 .price {
     color: #31aae2;
     padding: 15px;
-    border-top: 1px solid #31aae2;
-    border-bottom: 1px solid #31aae2;
+    border-top: 1px dashed #31aae2;
+    border-bottom: 1px dashed #31aae2;
     font-size: 24px;
 }
 
 .state {
     float: right;
     padding: 5px 15px;
-    background-color: #29487d;
+    background-color: #6dbe14;
     color: #fff;
+    border-radius: 15px;
     margin-top: -5px;
     font-size: 16px;
+    text-transform: uppercase;
 }
 
 .product-main-info {
@@ -1975,11 +1973,13 @@ div.main-row {
 
 .product-title {
     padding: 0 15px;
+    margin-top: 20px;
 }
 
 .product-price {
     padding: 0 15px;
     font-size: 18px;
+    color: #178434;
 }
 
 .post-item img:hover,
@@ -1987,7 +1987,8 @@ div.main-row {
 .product-image-feature img:hover,
 .team img:hover,
 .event-item-thumbail img:hover,
-.x-features img:hover {
+.x-features img:hover,
+.multi-item-carousel .item img:hover {
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
     -webkit-transition: .3s ease-in-out;
@@ -1996,4 +1997,70 @@ div.main-row {
 
 .center {
     text-align: center;
+}
+img {
+    max-width: 100%;
+}
+
+.multi-item-carousel .carousel-inner > .item {
+  transition: 500ms ease-in-out left;
+}
+.multi-item-carousel .carousel-inner .active.left {
+  left: -33%;
+}
+.multi-item-carousel .carousel-inner .active.right {
+  left: 33%;
+}
+.multi-item-carousel .carousel-inner .next {
+  left: 33%;
+}
+.multi-item-carousel .carousel-inner .prev {
+  left: -33%;
+}
+@media all and (transform-3d), (-webkit-transform-3d) {
+  .multi-item-carousel .carousel-inner > .item {
+    transition: 500ms ease-in-out left;
+    transition: 500ms ease-in-out all;
+    backface-visibility: visible;
+    transform: none!important;
+  }
+}
+.multi-item-carousel .carouse-control.left,
+.multi-item-carousel .carouse-control.right {
+  background-image: none;
+}
+.multi-item-carousel .item {
+    text-align: center;
+}
+
+.multi-item-carousel .item img {
+    margin: 0 auto;
+    display: block;
+}
+.carousel-control {
+    width: 0;
+}
+.product-recomended {
+    padding: 15px;
+    border: 1px solid #eee;
+}
+.no-padding {
+    padding: 0px;
+}
+.glyphicon-chevron-right:before {
+    content: "\e258";
+    color: #000;
+}
+.glyphicon-chevron-left:before {
+    content:"\e257";
+    color: #000;
+}
+.item.active .col-sm-4 {
+    border-right: 1px solid #eee;
+}
+.item.active .col-sm-4:last-child {
+    border:none;
+}
+.featherlight-content img{
+    max-height: 480px;
 }

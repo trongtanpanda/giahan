@@ -7,7 +7,7 @@
     </div>
 </section>
 
-<section class="ptb-100">
+<section class="ptb-40">
     <div class="container">
         <div class="row">
         <div class="head-search">
@@ -36,7 +36,7 @@
         {% endfor %}
         {% endif %}
             <div class="col-sm-12 text-center">            
-                {% include 'partials/pagination.html.twig' with {'base_url':page.url, 'pagination':collection.params.pagination} %}
+                {% include 'partials/pagination.html.twig' with {'base_url':page.url, 'pagination':search_results.params.pagination} %}
             </div>
         </div>
     </div>

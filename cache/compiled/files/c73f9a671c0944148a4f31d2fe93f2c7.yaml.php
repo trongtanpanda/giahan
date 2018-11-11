@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'plugins://pagination/pagination.yaml',
-    'modified' => 1541671545,
+    'modified' => 1541692289,
     'data' => [
         'enabled' => true,
         'built_in_css' => true,

@@ -32,8 +32,12 @@ class __TwigTemplate_48d5da5c813dc3f3fec07ae6f1e6ca1c9e69722c58e7f2f069ae8f4d5e7
 ";
         // line 2
         $this->displayBlock('head', $context, $blocks);
+        // line 46
+        echo "
+";
     }
 
+    // line 2
     public function block_head($context, array $blocks = array())
     {
         // line 3
@@ -122,6 +126,13 @@ class __TwigTemplate_48d5da5c813dc3f3fec07ae6f1e6ca1c9e69722c58e7f2f069ae8f4d5e7
         echo "
 
     <script src=\"//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js\"></script>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PCR9DS8');</script>
+    <!-- End Google Tag Manager -->
 ";
     }
 
@@ -137,7 +148,7 @@ class __TwigTemplate_48d5da5c813dc3f3fec07ae6f1e6ca1c9e69722c58e7f2f069ae8f4d5e7
 
     public function getDebugInfo()
     {
-        return array (  121 => 34,  118 => 33,  115 => 32,  112 => 31,  109 => 30,  107 => 29,  104 => 28,  99 => 25,  96 => 24,  93 => 23,  86 => 20,  84 => 19,  82 => 18,  80 => 17,  78 => 16,  73 => 13,  70 => 12,  66 => 23,  63 => 22,  61 => 12,  58 => 11,  52 => 9,  50 => 8,  47 => 7,  45 => 6,  40 => 3,  34 => 2,  22 => 1,);
+        return array (  125 => 34,  122 => 33,  119 => 32,  116 => 31,  113 => 30,  111 => 29,  108 => 28,  103 => 25,  100 => 24,  97 => 23,  90 => 20,  88 => 19,  86 => 18,  84 => 17,  82 => 16,  77 => 13,  74 => 12,  70 => 23,  67 => 22,  65 => 12,  62 => 11,  56 => 9,  54 => 8,  51 => 7,  49 => 6,  44 => 3,  41 => 2,  36 => 46,  34 => 2,  22 => 1,);
     }
 
     /** @deprecated since 1.27 (to be removed in 2.0). Use getSourceContext() instead */
@@ -186,8 +197,16 @@ class __TwigTemplate_48d5da5c813dc3f3fec07ae6f1e6ca1c9e69722c58e7f2f069ae8f4d5e7
     {{ assets.js() }}
 
     <script src=\"//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js\"></script>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PCR9DS8');</script>
+    <!-- End Google Tag Manager -->
 {% endblock %}
 {% endblock head %}
-", "partials/head.html.twig", "D:\\wamp64\\www\\giahan\\user\\themes\\x-corporation\\templates\\partials\\head.html.twig");
+
+", "partials/head.html.twig", "C:\\wamp64\\www\\giahan\\user\\themes\\x-corporation\\templates\\partials\\head.html.twig");
     }
 }

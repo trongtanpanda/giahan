@@ -40,3 +40,6 @@ form:
                                     type: text
                                     label: THEME_X_CORPORATION.ADMIN.SLIDES.BACKGROUND_IMAGE_DESCRIPTION.LABEL
                                     help: THEME_X_CORPORATION.ADMIN.SLIDES.BACKGROUND_IMAGE_DESCRIPTION.HELP
+                                .link:
+                                    type: text
+                                    label: link

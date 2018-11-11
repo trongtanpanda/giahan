@@ -233,6 +233,6 @@ class __TwigTemplate_30595a524a91f5a7a59d3a508dbb76e936e06b11e341cdde16c102bd6f6
             {% endif %}
         </li>
     {% endfor %}
-{% endmacro %}", "partials/media-list-wrapper__sidebar.html.twig", "D:\\wamp64\\www\\giahan\\user\\plugins\\admin\\themes\\grav\\templates\\partials\\media-list-wrapper__sidebar.html.twig");
+{% endmacro %}", "partials/media-list-wrapper__sidebar.html.twig", "C:\\wamp64\\www\\giahan\\user\\plugins\\admin\\themes\\grav\\templates\\partials\\media-list-wrapper__sidebar.html.twig");
     }
 }

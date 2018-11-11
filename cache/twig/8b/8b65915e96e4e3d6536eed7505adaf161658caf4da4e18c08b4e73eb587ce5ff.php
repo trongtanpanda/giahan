@@ -87,6 +87,6 @@ class __TwigTemplate_267d39125881b8dd880ab55a02140b8aa3bdcb2241b181d0d42a81af696
     type=\"text\"
     {{ parent() }}
 {% endblock %}
-", "forms/fields/selectize/selectize.html.twig", "D:\\wamp64\\www\\giahan\\user\\plugins\\admin\\themes\\grav\\templates\\forms\\fields\\selectize\\selectize.html.twig");
+", "forms/fields/selectize/selectize.html.twig", "C:\\wamp64\\www\\giahan\\user\\plugins\\admin\\themes\\grav\\templates\\forms\\fields\\selectize\\selectize.html.twig");
     }
 }

@@ -206,6 +206,6 @@ class __TwigTemplate_a6125f260729a234ee59885625486785aff30107ff4f1b0b2f659bfb936
 
     {{ nonce_field('admin-form', 'admin-nonce')|raw }}
 </form>
-", "partials/blueprints.html.twig", "D:\\wamp64\\www\\giahan\\user\\plugins\\admin\\themes\\grav\\templates\\partials\\blueprints.html.twig");
+", "partials/blueprints.html.twig", "C:\\wamp64\\www\\giahan\\user\\plugins\\admin\\themes\\grav\\templates\\partials\\blueprints.html.twig");
     }
 }

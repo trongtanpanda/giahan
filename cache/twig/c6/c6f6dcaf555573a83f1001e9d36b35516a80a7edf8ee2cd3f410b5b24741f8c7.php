@@ -115,19 +115,19 @@ class __TwigTemplate_c7bb84e67270fe1b8e8f3f950bd79293f14e9e868b7253da856202a7359
                             <li><a href=\"";
         // line 44
         echo (isset($context["base_url_absolute"]) ? $context["base_url_absolute"] : null);
-        echo "\">Chiếu sáng thông minh</a></li>
+        echo "/nha-thong-minh/chieu-sang-thong-minh\">Chiếu sáng thông minh</a></li>
                             <li><a href=\"";
         // line 45
         echo (isset($context["base_url_absolute"]) ? $context["base_url_absolute"] : null);
-        echo "/tuyen-dung\">Điều khiển rèm tự động</a></li>
+        echo "/nha-thong-minh/dieu-khien-rem-tu-dong\">Điều khiển rèm tự động</a></li>
                             <li><a href=\"";
         // line 46
         echo (isset($context["base_url_absolute"]) ? $context["base_url_absolute"] : null);
-        echo "/tai-lieu-huong-dan\">Âm thanh đa vùng</a></li>
+        echo "/nha-thong-minh/am-thanh-da-vung\">Âm thanh đa vùng</a></li>
                             <li><a href=\"";
         // line 47
         echo (isset($context["base_url_absolute"]) ? $context["base_url_absolute"] : null);
-        echo "/cong-trinh-tieu-bieu\">Điều khiển điều hoà, TV</a></li>
+        echo "/nha-thong-minh/dieu-hoa-tivi-thong-minh\">Điều khiển điều hoà, TV</a></li>
                         </ul>
                     </div>
                     <div class=\"footer-widget widget_menu\" style=\"margin-top: 43px\">                        
@@ -136,7 +136,7 @@ class __TwigTemplate_c7bb84e67270fe1b8e8f3f950bd79293f14e9e868b7253da856202a7359
                             <li><a href=\"";
         // line 53
         echo (isset($context["base_url_absolute"]) ? $context["base_url_absolute"] : null);
-        echo "\">Bảng giá Lumi</a></li>
+        echo "/bang-bao-gia-cac-thiet-bi-thong-minh-lumi\">Bảng giá Lumi</a></li>
                         </ul>
                     </div>
                 </div>
@@ -232,16 +232,16 @@ class __TwigTemplate_c7bb84e67270fe1b8e8f3f950bd79293f14e9e868b7253da856202a7359
                     <div class=\"footer-widget widget_menu\">                        
                         <h2>Sản Phẩm</h2>
                         <ul class=\"footer-menu-item\">
-                            <li><a href=\"{{ base_url_absolute }}\">Chiếu sáng thông minh</a></li>
-                            <li><a href=\"{{ base_url_absolute }}/tuyen-dung\">Điều khiển rèm tự động</a></li>
-                            <li><a href=\"{{ base_url_absolute }}/tai-lieu-huong-dan\">Âm thanh đa vùng</a></li>
-                            <li><a href=\"{{ base_url_absolute }}/cong-trinh-tieu-bieu\">Điều khiển điều hoà, TV</a></li>
+                            <li><a href=\"{{ base_url_absolute }}/nha-thong-minh/chieu-sang-thong-minh\">Chiếu sáng thông minh</a></li>
+                            <li><a href=\"{{ base_url_absolute }}/nha-thong-minh/dieu-khien-rem-tu-dong\">Điều khiển rèm tự động</a></li>
+                            <li><a href=\"{{ base_url_absolute }}/nha-thong-minh/am-thanh-da-vung\">Âm thanh đa vùng</a></li>
+                            <li><a href=\"{{ base_url_absolute }}/nha-thong-minh/dieu-hoa-tivi-thong-minh\">Điều khiển điều hoà, TV</a></li>
                         </ul>
                     </div>
                     <div class=\"footer-widget widget_menu\" style=\"margin-top: 43px\">                        
                         <h2>Bảng Giá</h2>
                         <ul class=\"footer-menu-item\">
-                            <li><a href=\"{{ base_url_absolute }}\">Bảng giá Lumi</a></li>
+                            <li><a href=\"{{ base_url_absolute }}/bang-bao-gia-cac-thiet-bi-thong-minh-lumi\">Bảng giá Lumi</a></li>
                         </ul>
                     </div>
                 </div>
@@ -263,6 +263,6 @@ class __TwigTemplate_c7bb84e67270fe1b8e8f3f950bd79293f14e9e868b7253da856202a7359
         </div>
     </div>
 </footer>
-", "partials/footer.html.twig", "D:\\wamp64\\www\\giahan\\user\\themes\\x-corporation\\templates\\partials\\footer.html.twig");
+", "partials/footer.html.twig", "C:\\wamp64\\www\\giahan\\user\\themes\\x-corporation\\templates\\partials\\footer.html.twig");
     }
 }

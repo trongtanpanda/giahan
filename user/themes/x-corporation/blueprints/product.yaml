@@ -74,15 +74,7 @@ form:
             header.content.limit:
               type: number
               label: Giới hạn
-              default: 6
-        feature:
-          type: tab
-          title: Đặc Điểm nổi Bật
-          fields:
-            header.feature_content:
-              type: editor
-              label: Nội Dung
-
+              default: 6      
         technical:
           type: tab
           title: Thông Số Kỹ Thuật

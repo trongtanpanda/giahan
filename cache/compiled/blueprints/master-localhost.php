@@ -1,81 +1,85 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledBlueprints',
-    'timestamp' => 1541742784,
-    'checksum' => 'f1522ba4bbd5823c680af845165acd67',
+    'timestamp' => 1541953651,
+    'checksum' => 'a528ffb545aba3f70aa59bceff521bf8',
     'files' => [
         'user/plugins/admin/blueprints/config' => [
             'media' => [
                 'file' => 'user/plugins/admin/blueprints/config/media.yaml',
-                'modified' => 1541503596
+                'modified' => 1534989886
             ]
         ],
         'system/blueprints/config' => [
             'media' => [
                 'file' => 'system/blueprints/config/media.yaml',
-                'modified' => 1541503594
+                'modified' => 1540581017
             ],
             'security' => [
                 'file' => 'system/blueprints/config/security.yaml',
-                'modified' => 1541503594
+                'modified' => 1540581017
             ],
             'site' => [
                 'file' => 'system/blueprints/config/site.yaml',
-                'modified' => 1541503594
+                'modified' => 1540581017
             ],
             'streams' => [
                 'file' => 'system/blueprints/config/streams.yaml',
-                'modified' => 1541503594
+                'modified' => 1540581017
             ],
             'system' => [
                 'file' => 'system/blueprints/config/system.yaml',
-                'modified' => 1541503594
+                'modified' => 1540581017
             ]
         ],
         'user/plugins' => [
             'plugins/admin' => [
                 'file' => 'user/plugins/admin/blueprints.yaml',
-                'modified' => 1541503596
+                'modified' => 1534989886
             ],
             'plugins/email' => [
                 'file' => 'user/plugins/email/blueprints.yaml',
-                'modified' => 1541503596
+                'modified' => 1534989886
             ],
             'plugins/error' => [
                 'file' => 'user/plugins/error/blueprints.yaml',
-                'modified' => 1541503596
+                'modified' => 1534989886
+            ],
+            'plugins/featherlight' => [
+                'file' => 'user/plugins/featherlight/blueprints.yaml',
+                'modified' => 1541873653
             ],
             'plugins/form' => [
                 'file' => 'user/plugins/form/blueprints.yaml',
-                'modified' => 1541503597
+                'modified' => 1534989886
             ],
             'plugins/login' => [
                 'file' => 'user/plugins/login/blueprints.yaml',
-                'modified' => 1541503598
+                'modified' => 1534989886
             ],
             'plugins/markdown-notices' => [
                 'file' => 'user/plugins/markdown-notices/blueprints.yaml',
-                'modified' => 1541503598
+                'modified' => 1534989886
             ],
             'plugins/pagination' => [
                 'file' => 'user/plugins/pagination/blueprints.yaml',
-                'modified' => 1541671545
+                'modified' => 1541692289
             ],
             'plugins/problems' => [
                 'file' => 'user/plugins/problems/blueprints.yaml',
-                'modified' => 1541503598
+                'modified' => 1534989886
             ],
             'plugins/seo' => [
                 'file' => 'user/plugins/seo/blueprints.yaml',
-                'modified' => 1541503598
+                'modified' => 1537978837
             ],
             'plugins/simplesearch' => [
                 'file' => 'user/plugins/simplesearch/blueprints.yaml',
-                'modified' => 1541742779
+                'modified' => 1541772214
             ],
             'plugins/tinymce-editor' => [
                 'file' => 'user/plugins/tinymce-editor/blueprints.yaml',
-                'modified' => 1541503598
+                'modified' => 1539598555
             ]
         ]
     ],
@@ -2838,6 +2842,133 @@ return [
                 'name' => 'plugins.error.routes.404',
                 'validation' => 'strict'
             ],
+            'plugins.featherlight' => [
+                'type' => '_root',
+                'form_field' => false,
+                'form' => [
+                    'validation' => 'strict'
+                ]
+            ],
+            'plugins.featherlight.enabled' => [
+                'type' => 'toggle',
+                'label' => 'PLUGIN_ADMIN.PLUGIN_STATUS',
+                'hightlight' => 1,
+                'default' => 1,
+                'options' => [
+                    1 => 'PLUGIN_ADMIN.ENABLED',
+                    0 => 'PLUGIN_ADMIN.DISABLED'
+                ],
+                'validate' => [
+                    'type' => 'bool'
+                ],
+                'name' => 'plugins.featherlight.enabled',
+                'validation' => 'strict'
+            ],
+            'plugins.featherlight.active' => [
+                'type' => 'toggle',
+                'label' => 'Active',
+                'hightlight' => 1,
+                'default' => 1,
+                'options' => [
+                    1 => 'PLUGIN_ADMIN.ENABLED',
+                    0 => 'PLUGIN_ADMIN.DISABLED'
+                ],
+                'validate' => [
+                    'type' => 'bool'
+                ],
+                'name' => 'plugins.featherlight.active',
+                'validation' => 'strict'
+            ],
+            'plugins.featherlight.requirejs' => [
+                'type' => 'toggle',
+                'label' => 'RequireJS',
+                'hightlight' => 1,
+                'default' => 0,
+                'options' => [
+                    1 => 'PLUGIN_ADMIN.ENABLED',
+                    0 => 'PLUGIN_ADMIN.DISABLED'
+                ],
+                'validate' => [
+                    'type' => 'bool'
+                ],
+                'name' => 'plugins.featherlight.requirejs',
+                'validation' => 'strict'
+            ],
+            'plugins.featherlight.gallery' => [
+                'type' => 'toggle',
+                'label' => 'Gallery',
+                'hightlight' => 1,
+                'default' => 0,
+                'options' => [
+                    1 => 'PLUGIN_ADMIN.ENABLED',
+                    0 => 'PLUGIN_ADMIN.DISABLED'
+                ],
+                'validate' => [
+                    'type' => 'bool'
+                ],
+                'name' => 'plugins.featherlight.gallery',
+                'validation' => 'strict'
+            ],
+            'plugins.featherlight.openSpeed' => [
+                'type' => 'text',
+                'size' => 'medium',
+                'label' => 'Open Speed',
+                'default' => '250',
+                'name' => 'plugins.featherlight.openSpeed',
+                'validation' => 'strict'
+            ],
+            'plugins.featherlight.closeSpeed' => [
+                'type' => 'text',
+                'size' => 'medium',
+                'label' => 'Close Speed',
+                'default' => '250',
+                'name' => 'plugins.featherlight.closeSpeed',
+                'validation' => 'strict'
+            ],
+            'plugins.featherlight.closeOnClick' => [
+                'type' => 'select',
+                'size' => 'medium',
+                'classes' => 'fancy',
+                'label' => 'Close on Click',
+                'options' => [
+                    'background' => 'background',
+                    'anywhere' => 'anywhere',
+                    'false' => 'false'
+                ],
+                'name' => 'plugins.featherlight.closeOnClick',
+                'validation' => 'strict'
+            ],
+            'plugins.featherlight.closeOnEsc' => [
+                'type' => 'toggle',
+                'label' => 'Close on Esc',
+                'hightlight' => 1,
+                'default' => 0,
+                'options' => [
+                    1 => 'PLUGIN_ADMIN.ENABLED',
+                    0 => 'PLUGIN_ADMIN.DISABLED'
+                ],
+                'validate' => [
+                    'type' => 'bool'
+                ],
+                'name' => 'plugins.featherlight.closeOnEsc',
+                'validation' => 'strict'
+            ],
+            'plugins.featherlight.root' => [
+                'type' => 'text',
+                'size' => 'medium',
+                'label' => 'Root',
+                'default' => 'body',
+                'name' => 'plugins.featherlight.root',
+                'validation' => 'strict'
+            ],
+            'plugins.featherlight.initTemplate' => [
+                'type' => 'text',
+                'size' => 'medium',
+                'label' => 'Init script',
+                'default' => 'plugin://featherlight/js/featherlight.init.js',
+                'name' => 'plugins.featherlight.initTemplate',
+                'validation' => 'strict'
+            ],
             'plugins.form' => [
                 'type' => '_root',
                 'form_field' => false,
@@ -4391,6 +4522,18 @@ return [
                     'routes' => [
                         404 => 'plugins.error.routes.404'
                     ]
+                ],
+                'featherlight' => [
+                    'enabled' => 'plugins.featherlight.enabled',
+                    'active' => 'plugins.featherlight.active',
+                    'requirejs' => 'plugins.featherlight.requirejs',
+                    'gallery' => 'plugins.featherlight.gallery',
+                    'openSpeed' => 'plugins.featherlight.openSpeed',
+                    'closeSpeed' => 'plugins.featherlight.closeSpeed',
+                    'closeOnClick' => 'plugins.featherlight.closeOnClick',
+                    'closeOnEsc' => 'plugins.featherlight.closeOnEsc',
+                    'root' => 'plugins.featherlight.root',
+                    'initTemplate' => 'plugins.featherlight.initTemplate'
                 ],
                 'form' => [
                     'enabled' => 'plugins.form.enabled',

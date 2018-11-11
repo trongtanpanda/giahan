@@ -2,7 +2,7 @@
 title: Compellingly implement distinctive outsourcing<br>and 24/365 customer service energistically.
 
 form:
-    action: /contact
+    action: /lien-he
     name: contact-form
     fields:
         - name: name
@@ -43,12 +43,18 @@ form:
             from: "{{ config.plugins.email.from }}"
             to:
               - "{{ config.plugins.email.to }}"
-            subject: "[Contact] {{ form.value.name|e }}"
-            body: "{% include 'forms/data.html.twig' %}"
+            subject: "Liên Hệ"
+            body: '{% include ''forms/contact_admin_mail.html.twig'' %}'
+        - email:
+            from: "{{ config.plugins.email.from }}"
+            to:
+              - '{{ form.value.email }}'
+            subject: "Liên Hệ"
+            body: '{% include ''forms/contact_client_mail.html.twig'' %}'
         - save:
             fileprefix: contact-
             dateformat: Ymd-His-u
             extension: txt
             body: "{% include 'forms/data.txt.twig' %}"
-        - display: thank-you
+        - display: /thank-you
 ---

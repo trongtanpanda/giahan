@@ -4,18 +4,15 @@ media_order: 'nha-pho.jpg,biet-thu.jpg,chung_cu.jpg'
 members:
     -
         name: 'Biệt thự'
-        position: Director
-        url: '#'
+        url: giai-phap-nha-thong-minh-cho-biet-thu
         image: biet-thu.jpg
     -
         name: 'Chung Cư'
-        position: Founder
-        url: '#'
+        url: giai-phap-nha-thong-minh-cho-chung-cu
         image: chung_cu.jpg
     -
         name: 'Nhà Phố'
-        position: Marketing
-        url: '#'
+        url: giai-phap-nha-thong-minh-cho-nha-pho
         image: nha-pho.jpg
 ---
 

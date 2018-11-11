@@ -98,10 +98,7 @@ class __TwigTemplate_cd0326fd59576949282fcc152108f828762ef2c7911a8bbc9303e3967c2
         echo trim(preg_replace('/>\s+</', '><', ob_get_clean()));
         // line 31
         echo "<!DOCTYPE HTML>
-<html lang=\"";
-        // line 32
-        echo (($this->getAttribute($this->getAttribute((isset($context["grav"]) ? $context["grav"] : null), "language", array()), "getActive", array())) ? ($this->getAttribute($this->getAttribute((isset($context["grav"]) ? $context["grav"] : null), "language", array()), "getActive", array())) : ($this->getAttribute((isset($context["theme_config"]) ? $context["theme_config"] : null), "default_lang", array())));
-        echo "\">
+<html lang=\"vi\">
     <head>
         ";
         // line 34
@@ -109,6 +106,10 @@ class __TwigTemplate_cd0326fd59576949282fcc152108f828762ef2c7911a8bbc9303e3967c2
         // line 35
         echo "    </head>
     <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-PCR9DS8\"
+    height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
         <div id=\"main-wrapper\">
             <div id=\"preloader\">
                 <div id=\"status\">
@@ -119,14 +120,14 @@ class __TwigTemplate_cd0326fd59576949282fcc152108f828762ef2c7911a8bbc9303e3967c2
             <div class=\"uc-mobile-menu-pusher\">
                 <div class=\"content-wrapper\">
                     ";
-        // line 46
-        $this->loadTemplate("partials/navbar.html.twig", "partials/base.html.twig", 46)->display($context);
-        // line 47
+        // line 50
+        $this->loadTemplate("partials/navbar.html.twig", "partials/base.html.twig", 50)->display($context);
+        // line 51
         echo "
                     ";
-        // line 48
+        // line 52
         $this->displayBlock('content', $context, $blocks);
-        // line 49
+        // line 53
         echo "                </div>
             </div>
 
@@ -137,22 +138,22 @@ class __TwigTemplate_cd0326fd59576949282fcc152108f828762ef2c7911a8bbc9303e3967c2
                     <div>
                         <ul id=\"menu\">
                         ";
-        // line 58
+        // line 62
         $context['_parent'] = $context;
         $context['_seq'] = twig_ensure_traversable($this->getAttribute($this->getAttribute((isset($context["pages"]) ? $context["pages"] : null), "children", array()), "visible", array()));
         foreach ($context['_seq'] as $context["_key"] => $context["p"]) {
-            // line 59
+            // line 63
             echo "                            ";
             $context["current_page"] = ((($this->getAttribute($context["p"], "active", array()) || $this->getAttribute($context["p"], "activeChild", array()))) ? ("active") : (""));
-            // line 60
+            // line 64
             echo "                            ";
             if (($this->getAttribute($this->getAttribute($this->getAttribute($context["p"], "children", array()), "visible", array()), "count", array()) == 0)) {
-                // line 61
+                // line 65
                 echo "                                <li class=\"";
                 echo (isset($context["current_page"]) ? $context["current_page"] : null);
                 echo "\">
                                     <a href=\"";
-                // line 62
+                // line 66
                 echo $this->getAttribute($context["p"], "url", array());
                 echo "\">";
                 echo $this->getAttribute($context["p"], "menu", array());
@@ -160,13 +161,13 @@ class __TwigTemplate_cd0326fd59576949282fcc152108f828762ef2c7911a8bbc9303e3967c2
                                 </li>
                             ";
             }
-            // line 65
+            // line 69
             echo "                        ";
         }
         $_parent = $context['_parent'];
         unset($context['_seq'], $context['_iterated'], $context['_key'], $context['p'], $context['_parent'], $context['loop']);
         $context = array_intersect_key($context, $_parent) + $_parent;
-        // line 66
+        // line 70
         echo "                        </ul>
                     </div>
                 </div>
@@ -174,15 +175,15 @@ class __TwigTemplate_cd0326fd59576949282fcc152108f828762ef2c7911a8bbc9303e3967c2
         </div>
 
         ";
-        // line 72
-        $this->loadTemplate("partials/footer.html.twig", "partials/base.html.twig", 72)->display($context);
-        // line 73
+        // line 76
+        $this->loadTemplate("partials/footer.html.twig", "partials/base.html.twig", 76)->display($context);
+        // line 77
         echo "    </body>
 </html>
 ";
     }
 
-    // line 48
+    // line 52
     public function block_content($context, array $blocks = array())
     {
     }
@@ -199,7 +200,7 @@ class __TwigTemplate_cd0326fd59576949282fcc152108f828762ef2c7911a8bbc9303e3967c2
 
     public function getDebugInfo()
     {
-        return array (  186 => 48,  180 => 73,  178 => 72,  170 => 66,  164 => 65,  156 => 62,  151 => 61,  148 => 60,  145 => 59,  141 => 58,  130 => 49,  128 => 48,  125 => 47,  123 => 46,  110 => 35,  108 => 34,  103 => 32,  100 => 31,  96 => 29,  92 => 27,  90 => 26,  87 => 25,  80 => 23,  77 => 22,  72 => 21,  70 => 20,  67 => 19,  65 => 18,  62 => 17,  58 => 15,  56 => 14,  53 => 13,  49 => 11,  42 => 9,  39 => 8,  34 => 7,  32 => 6,  29 => 5,  27 => 4,  24 => 3,  22 => 2,  20 => 1,);
+        return array (  187 => 52,  181 => 77,  179 => 76,  171 => 70,  165 => 69,  157 => 66,  152 => 65,  149 => 64,  146 => 63,  142 => 62,  131 => 53,  129 => 52,  126 => 51,  124 => 50,  107 => 35,  105 => 34,  100 => 31,  96 => 29,  92 => 27,  90 => 26,  87 => 25,  80 => 23,  77 => 22,  72 => 21,  70 => 20,  67 => 19,  65 => 18,  62 => 17,  58 => 15,  56 => 14,  53 => 13,  49 => 11,  42 => 9,  39 => 8,  34 => 7,  32 => 6,  29 => 5,  27 => 4,  24 => 3,  22 => 2,  20 => 1,);
     }
 
     /** @deprecated since 1.27 (to be removed in 2.0). Use getSourceContext() instead */
@@ -243,11 +244,15 @@ class __TwigTemplate_cd0326fd59576949282fcc152108f828762ef2c7911a8bbc9303e3967c2
 
 {% endspaceless %}
 <!DOCTYPE HTML>
-<html lang=\"{{ grav.language.getActive ?: theme_config.default_lang }}\">
+<html lang=\"vi\">
     <head>
         {% include 'partials/head.html.twig' %}
     </head>
     <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-PCR9DS8\"
+    height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
         <div id=\"main-wrapper\">
             <div id=\"preloader\">
                 <div id=\"status\">
@@ -286,6 +291,6 @@ class __TwigTemplate_cd0326fd59576949282fcc152108f828762ef2c7911a8bbc9303e3967c2
         {% include 'partials/footer.html.twig' %}
     </body>
 </html>
-", "partials/base.html.twig", "D:\\wamp64\\www\\giahan\\user\\themes\\x-corporation\\templates\\partials\\base.html.twig");
+", "partials/base.html.twig", "C:\\wamp64\\www\\giahan\\user\\themes\\x-corporation\\templates\\partials\\base.html.twig");
     }
 }
