@@ -21,7 +21,7 @@
                             <img class="img-responsive" src="{{ page.media.images[header.thumbnail].url}}" >
                         {% endif %}
                         {{ page.content }}
-                        <a class="read-more" href="{{ header.url }}" target="{{ header.target }}" >{{ header.url_text }}</a> 
+                        <a class="{{ header.type }}" href="{{ header.url }}" target="{{ header.target }}" >{{ header.url_text }}</a> 
                     </div>
                 </div>
             </div>

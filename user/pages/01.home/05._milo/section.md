@@ -2,7 +2,7 @@
 title: MILO
 media_order: 'page-1_img07.jpg,sp1.png'
 url_text: 'Xem Thêm'
-target: none
+target: _self
 align: center
 background: page-1_img07.jpg
 thumbnail: sp1.png

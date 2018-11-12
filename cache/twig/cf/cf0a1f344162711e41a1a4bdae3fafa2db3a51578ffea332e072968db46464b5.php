@@ -52,7 +52,7 @@ class __TwigTemplate_723cfe3c3619ba375fd685db447ebf6c15f481fccd00f9ac19f5ae94d91
         // line 47
         if ($this->getAttribute($this->getAttribute($this->getAttribute((isset($context["config"]) ? $context["config"] : null), "plugins", array()), "simplesearch", array()), "enabled", array())) {
             // line 48
-            echo "            <ul class=\"nav-cta hidden-xs\">
+            echo "            <ul class=\"nav-cta\">
                 <li class=\"dropdown\"><a href=\"#\" data-toggle=\"dropdown\" class=\"dropdown-toggle\"><i
                         class=\"fa fa-search\"></i></a>
                     <ul class=\"dropdown-menu\">
@@ -251,7 +251,7 @@ class __TwigTemplate_723cfe3c3619ba375fd685db447ebf6c15f481fccd00f9ac19f5ae94d91
 
         <div class=\"collapse navbar-collapse\" id=\"#navbar-collapse-1\">
             {% if config.plugins.simplesearch.enabled %}
-            <ul class=\"nav-cta hidden-xs\">
+            <ul class=\"nav-cta\">
                 <li class=\"dropdown\"><a href=\"#\" data-toggle=\"dropdown\" class=\"dropdown-toggle\"><i
                         class=\"fa fa-search\"></i></a>
                     <ul class=\"dropdown-menu\">
@@ -270,6 +270,6 @@ class __TwigTemplate_723cfe3c3619ba375fd685db447ebf6c15f481fccd00f9ac19f5ae94d91
         </div>
     </div>
 </nav>
-", "partials/navbar.html.twig", "C:\\wamp64\\www\\giahan\\user\\themes\\x-corporation\\templates\\partials\\navbar.html.twig");
+", "partials/navbar.html.twig", "D:\\wamp64\\www\\giahan\\user\\themes\\x-corporation\\templates\\partials\\navbar.html.twig");
     }
 }

@@ -22,8 +22,15 @@ form:
                             type: select
                             label: Kiểu Mở Link
                             options:                                        
-                                none: Tab hiện tại
+                                _self: Tab hiện tại
                                 _blank: Tab mới
+                        header.type:
+                            type: select
+                            label: Loại
+                            options:                                        
+                                read-more: Loại 1
+                                read-more-second: Loại 2
+                            default: read-more
                         header.align:
                             type: select
                             label: Canh chỉnh

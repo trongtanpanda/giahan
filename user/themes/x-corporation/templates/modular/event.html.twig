@@ -12,8 +12,8 @@
         		<div class="event-item-thumbail">
         			<a href="{{ p.url }}">{{ p.media.images[p.header.thumbnail].cropZoom(252, 158).html() }}</a>
         		</div>
-        		<p class="event-item-title"><a href="{{ p.url }}">{{ p.title }}</a></p>
-        		<div class="event-item-desc">{{ p.header.description }} </div>
+        		<h3 class="event-item-title"><a href="{{ p.url }}">{{ p.title }}</a></h3>
+        		<div class="event-item-desc">{{ p.header.description }}</div>
         		<div class="event-item-link"><a class="read-more" href="{{ p.url }}">Chi Tiết</a> </div>
         	</div>
         {% endfor %}

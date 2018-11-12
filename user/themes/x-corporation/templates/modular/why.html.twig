@@ -17,13 +17,12 @@
         <div class="row">
         {% endif %}
         <div class="col-sm-6 col-md-{{ (12 / column_count)|round }}">
-            <div class="promo-block-wrapper clearfix">
-                <div class="promo-icon">
-                    <i class="fa {{ solution.icon }}"></i>
+            <div class="promo-block-wrapper clearfix ">
+                <div class="media">
+                    <div class="{{ solution.icon }}"> </div>                  
                 </div>
                 <div class="promo-content">
-                    <h3>{{ solution.title }}</h3>
-
+                    <h2 class="why-title">{{ solution.title }}</h2>
                     <p>{{ solution.description }}</p>
                 </div>
             </div>

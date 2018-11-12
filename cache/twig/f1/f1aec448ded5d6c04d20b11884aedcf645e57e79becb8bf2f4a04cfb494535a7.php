@@ -32,7 +32,7 @@ class __TwigTemplate_48d5da5c813dc3f3fec07ae6f1e6ca1c9e69722c58e7f2f069ae8f4d5e7
 ";
         // line 2
         $this->displayBlock('head', $context, $blocks);
-        // line 46
+        // line 47
         echo "
 ";
     }
@@ -63,10 +63,10 @@ class __TwigTemplate_48d5da5c813dc3f3fec07ae6f1e6ca1c9e69722c58e7f2f069ae8f4d5e7
 ";
         // line 12
         $this->displayBlock('stylesheets', $context, $blocks);
-        // line 22
+        // line 23
         echo "
 ";
-        // line 23
+        // line 24
         $this->displayBlock('javascripts', $context, $blocks);
     }
 
@@ -83,45 +83,47 @@ class __TwigTemplate_48d5da5c813dc3f3fec07ae6f1e6ca1c9e69722c58e7f2f069ae8f4d5e7
         // line 17
         $this->getAttribute((isset($context["assets"]) ? $context["assets"] : null), "add", array(0 => "theme://css/style.css", 1 => 101), "method");
         // line 18
-        $this->getAttribute((isset($context["assets"]) ? $context["assets"] : null), "add", array(0 => "theme://css/mobile-menu.css", 1 => 101), "method");
+        $this->getAttribute((isset($context["assets"]) ? $context["assets"] : null), "add", array(0 => "theme://css/material-icons.css", 1 => 101), "method");
         // line 19
-        $this->getAttribute((isset($context["assets"]) ? $context["assets"] : null), "add", array(0 => "theme://css/custom.css", 1 => 101), "method");
+        $this->getAttribute((isset($context["assets"]) ? $context["assets"] : null), "add", array(0 => "theme://css/mobile-menu.css", 1 => 101), "method");
         // line 20
+        $this->getAttribute((isset($context["assets"]) ? $context["assets"] : null), "add", array(0 => "theme://css/custom.css", 1 => 101), "method");
+        // line 21
         echo " ";
         echo $this->getAttribute((isset($context["assets"]) ? $context["assets"] : null), "css", array(), "method");
         echo "
 ";
     }
 
-    // line 23
+    // line 24
     public function block_javascripts($context, array $blocks = array())
     {
-        // line 24
+        // line 25
         echo "    ";
         if ((($this->getAttribute((isset($context["browser"]) ? $context["browser"] : null), "getBrowser", array()) == "msie") && ($this->getAttribute((isset($context["browser"]) ? $context["browser"] : null), "getVersion", array()) <= 9))) {
-            // line 25
+            // line 26
             echo "        <script src=\"//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js\"></script>
         <script src=\"//oss.maxcdn.com/respond/1.4.2/respond.min.js\"></script>
     ";
         }
-        // line 28
+        // line 29
         echo "
     ";
-        // line 29
-        $this->getAttribute((isset($context["assets"]) ? $context["assets"] : null), "addJs", array(0 => "jquery", 1 => 101), "method");
         // line 30
-        echo "    ";
-        $this->getAttribute((isset($context["assets"]) ? $context["assets"] : null), "add", array(0 => "theme://js/mobile-menu.js"), "method");
+        $this->getAttribute((isset($context["assets"]) ? $context["assets"] : null), "addJs", array(0 => "jquery", 1 => 101), "method");
         // line 31
         echo "    ";
-        $this->getAttribute((isset($context["assets"]) ? $context["assets"] : null), "add", array(0 => "theme://js/flexSlider/jquery.flexslider-min.js"), "method");
+        $this->getAttribute((isset($context["assets"]) ? $context["assets"] : null), "add", array(0 => "theme://js/mobile-menu.js"), "method");
         // line 32
         echo "    ";
-        $this->getAttribute((isset($context["assets"]) ? $context["assets"] : null), "add", array(0 => "theme://js/scripts.js"), "method");
+        $this->getAttribute((isset($context["assets"]) ? $context["assets"] : null), "add", array(0 => "theme://js/flexSlider/jquery.flexslider-min.js"), "method");
         // line 33
+        echo "    ";
+        $this->getAttribute((isset($context["assets"]) ? $context["assets"] : null), "add", array(0 => "theme://js/scripts.js"), "method");
+        // line 34
         echo "
     ";
-        // line 34
+        // line 35
         echo $this->getAttribute((isset($context["assets"]) ? $context["assets"] : null), "js", array(), "method");
         echo "
 
@@ -148,7 +150,7 @@ class __TwigTemplate_48d5da5c813dc3f3fec07ae6f1e6ca1c9e69722c58e7f2f069ae8f4d5e7
 
     public function getDebugInfo()
     {
-        return array (  125 => 34,  122 => 33,  119 => 32,  116 => 31,  113 => 30,  111 => 29,  108 => 28,  103 => 25,  100 => 24,  97 => 23,  90 => 20,  88 => 19,  86 => 18,  84 => 17,  82 => 16,  77 => 13,  74 => 12,  70 => 23,  67 => 22,  65 => 12,  62 => 11,  56 => 9,  54 => 8,  51 => 7,  49 => 6,  44 => 3,  41 => 2,  36 => 46,  34 => 2,  22 => 1,);
+        return array (  127 => 35,  124 => 34,  121 => 33,  118 => 32,  115 => 31,  113 => 30,  110 => 29,  105 => 26,  102 => 25,  99 => 24,  92 => 21,  90 => 20,  88 => 19,  86 => 18,  84 => 17,  82 => 16,  77 => 13,  74 => 12,  70 => 24,  67 => 23,  65 => 12,  62 => 11,  56 => 9,  54 => 8,  51 => 7,  49 => 6,  44 => 3,  41 => 2,  36 => 47,  34 => 2,  22 => 1,);
     }
 
     /** @deprecated since 1.27 (to be removed in 2.0). Use getSourceContext() instead */
@@ -178,6 +180,7 @@ class __TwigTemplate_48d5da5c813dc3f3fec07ae6f1e6ca1c9e69722c58e7f2f069ae8f4d5e7
 <link rel=\"stylesheet\" href=\"//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css\">
 {% do assets.add('theme://fonts/font-awesome/css/font-awesome.min.css', 101) %}
 {% do assets.add('theme://css/style.css', 101) %}
+{% do assets.add('theme://css/material-icons.css', 101) %}
 {% do assets.add('theme://css/mobile-menu.css', 101) %}
 {% do assets.add('theme://css/custom.css', 101) %}
  {{ assets.css() }}
@@ -207,6 +210,6 @@ class __TwigTemplate_48d5da5c813dc3f3fec07ae6f1e6ca1c9e69722c58e7f2f069ae8f4d5e7
 {% endblock %}
 {% endblock head %}
 
-", "partials/head.html.twig", "C:\\wamp64\\www\\giahan\\user\\themes\\x-corporation\\templates\\partials\\head.html.twig");
+", "partials/head.html.twig", "D:\\wamp64\\www\\giahan\\user\\themes\\x-corporation\\templates\\partials\\head.html.twig");
     }
 }

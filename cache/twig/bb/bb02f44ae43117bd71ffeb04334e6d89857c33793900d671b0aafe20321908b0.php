@@ -82,6 +82,6 @@ class __TwigTemplate_3233fa10dc01bea20c7b4c8b95e74f85398da92b1616e0e7c3f3a9b205b
         return new Twig_Source("{% for meta in page.metadata %}
 <meta {% if meta.name %}name=\"{{ meta.name }}\" {% endif %}{% if meta.http_equiv %}http-equiv=\"{{ meta.http_equiv }}\" {% endif %}{% if meta.charset %}charset=\"{{ meta.charset }}\" {% endif %}{% if meta.property %}property=\"{{ meta.property }}\" {% endif %}{% if meta.content %}content=\"{{ meta.content }}\" {% endif %}/>
 {% endfor %}
-", "partials/metadata.html.twig", "C:\\wamp64\\www\\giahan\\user\\themes\\x-corporation\\templates\\partials\\metadata.html.twig");
+", "partials/metadata.html.twig", "D:\\wamp64\\www\\giahan\\user\\themes\\x-corporation\\templates\\partials\\metadata.html.twig");
     }
 }

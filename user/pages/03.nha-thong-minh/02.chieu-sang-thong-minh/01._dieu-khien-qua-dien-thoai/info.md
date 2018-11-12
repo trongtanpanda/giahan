@@ -31,7 +31,7 @@ infos:
         postion_image: center
 url: ''
 url_text: ''
-target: none
+target: _self
 align: left
 background: ''
 thumbnail: ''
