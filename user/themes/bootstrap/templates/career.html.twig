@@ -54,19 +54,32 @@
         {{ page.content }}
         {% set collection = search_results["collection"] ?: page.collection() %}
 
+
+        {% if search_results["collection"]  %}
+            {% set count = search_results["collection"] ? search_results["collection"].count : 0 %}
+            {% if count == 0 %}
+                <p style="margin-top: 10px"><strong>Sorry, we couldn't find any matches for "{{ query }}"</strong></p>
+            {% endif %}
+        {% endif %}
+
+
         <div class="col-xs-12 career-list">
-            <h1 class="career-heading section-title">Featured Job</h1>
-            <div class="col-sm-12 hidden-xs career-item-label">
-                <div class="col-sm-4 career-label"><b>JOB</b></div>
-                <div class="col-sm-7 career-label"><b>DESCRIPTION</b></div>
-                <div class="col-sm-1 career-label"><b>LOCATION</b></div>
-            </div>
+
+            {% if not (search_results["collection"] and count ==0) %}
+                <h1 class="career-heading section-title">Featured Job</h1>
+                <div class="col-sm-12 hidden-xs career-item-label">
+                    <div class="col-sm-4 career-label"><b>JOB</b></div>
+                    <div class="col-sm-7 career-label"><b>DESCRIPTION</b></div>
+                    <div class="col-sm-1 career-label"><b>LOCATION</b></div>
+                </div>
+            {% endif %}
+
             {% set i = 0 %}
             {% for p in collection %}
                 <div class="col-xs-12 career-item">
                     <div class="col-sm-4 career-item-title"><h3><a href="{{ p.url }}"><b>{{ p.title }}</b></a></h3></div>
                     <div class="col-sm-7 career-item-description">{% if search_results["textSum"][i] %} {{ search_results["textSum"][i] }} {% else %} {{ p.header.summary }} {% endif %}</div>
-                    <div class="col-sm-1 career-item-location"><h4>{{ p.header.location }}</h4></div>
+                    <div class="col-sm-1 hidden-xs career-item-location"><h4>{{ p.header.location }}</h4></div>
 
                 </div>
                 {% set i = i+1 %}
@@ -99,6 +112,12 @@
     </div>
     {% endif %} 
 </div>
-
+<script>
+      {% if search_results["collection"]  %}
+        $('html, body').animate({
+            scrollTop: $("#search-career-box").offset().top
+        }, 0);
+        {% endif %} 
+</script>
     {% do assets.add('theme://js/career.js') %}
 {% endblock %}

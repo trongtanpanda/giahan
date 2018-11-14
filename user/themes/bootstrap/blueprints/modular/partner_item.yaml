@@ -1,0 +1,37 @@
+title: Partner Item
+'@extends': default
+
+form:
+  fields:
+    tabs:
+      fields:        
+        partner_items:
+          type: tab
+          title: Partner Item
+          fields:
+            header.partner_items:
+              name: partner_item
+              type: list
+              label: Partner Item
+              fields:
+                .thumbnail:
+                  type: filepicker
+                  folder: 'self@'
+                  label: Select a file
+                  preview_images: true
+                  toggleable: true
+                  accept:
+                    - .png
+                    - .jpg
+                .layout:
+                    type: toggle
+                    label: Layout
+                    default: 1
+                    options:
+                        1: Left Thumnail
+                        0: Right Thumnail
+                    validate:
+                        type: bool
+                .content:
+                    type: editor
+                    label: Content

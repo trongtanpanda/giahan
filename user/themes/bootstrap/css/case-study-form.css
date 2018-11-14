@@ -1,0 +1,183 @@
+.case-study-form {
+    padding-bottom: 120px;
+}
+
+.case-study-form .text-contact-form {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.send-button {
+    background: #222222;
+    color: #ffffff;
+    margin-top: 10px;
+    border: 1px solid;
+    border-radius: 35px;
+    padding: 10px 50px;
+}
+
+.p-top {
+    padding-top: 30px;
+}
+
+.buttons.col-sm-6.p-top {
+    text-align: right;
+}
+
+.modal-body {
+    text-align: center;
+}
+
+.inside-text .big {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+div.inside-text p.below.p-class {
+    padding: 10px 10px 0px 10px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+}
+
+.btn.btn-default.p-class {
+    background: #222222;
+    color: #ffffff;
+    text-shadow: none;
+    padding: 5px 60px;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+
+.modal-header {
+    padding: 5px 10px 0px 0px;
+    border-bottom: none;
+}
+
+.modal-body {
+    position: relative;
+    padding: 0px 15px 15px 15px;
+}
+
+.close {
+    opacity: unset;
+}
+
+.inside-text {
+    padding-bottom: 20px;
+}
+
+.modal-content {
+    border-radius: 10px;
+}
+
+
+/*end*/
+
+label.error,
+label.capcha-error {
+    position: absolute;
+    font-size: 13px;
+    color: #ff0000;
+    line-height: 1;
+}
+
+
+/* select box */
+
+.multiselect-selected-text {
+    float: left;
+}
+
+.caret {
+    float: right;
+    margin-top: 8px;
+}
+
+
+/* popup */
+
+.inside-text .if-you-need {
+    padding-top: 0px;
+}
+
+.inside-text .learn-more {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+div.row.email-phone-row {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.row.phone-popup p,
+.row.phone-popup img {
+    float: right;
+}
+
+.row.email-popup p,
+.row.email-popup img {
+    float: left;
+}
+
+.row.email-popup {
+    margin-left: 10px;
+}
+
+.row.phone-popup {
+    margin-right: 10px;
+}
+
+.row.row.phone-popup img,
+.row.email-popup img {
+    padding-top: 5px;
+}
+
+.row.phone-popup img {
+    padding-right: 10px;
+}
+
+.row.email-popup p {
+    padding-left: 10px;
+}
+
+.btn-group {
+    width: 100%;
+}
+
+.btn-group button {
+    width: 100%;
+}
+
+.row.email-popup p a {
+    color: #333;
+}
+
+@media (max-width: 1200px) {
+    .p-top {
+        padding-top: 40px;
+    }
+}
+
+@media (max-width: 768px) {
+    .buttons.col-sm-6.p-top {
+        text-align: center;
+        padding-top: 40px;
+    }
+    .email-phone-row .col-xs-6 {
+        width: 100%;
+    }
+    .row.email-popup,
+    .row.phone-popup {
+        margin: 0 auto;
+        display: inline-block;
+    }
+}
+
+@media (min-width: 768px) {
+    .modal-dialog {
+        width: 650px;
+        margin: 30px auto;
+    }
+}

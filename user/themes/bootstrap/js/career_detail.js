@@ -86,32 +86,51 @@ function HideSubmitIcon() {
     document.getElementById('sumit-form-preload').style.display = "none";
 }
 
-function FileUploadValidate(){
-    if (! $( "div.dz-preview" ).is( ".dz-success" ) ) {
-        var errorText = "<label id='data-file--error' class='error'>This field is required.</label>";
-        $("#data-file--error").remove();
-        $(".grav-input-file").append(errorText);
+function FileUploadValidate() {
+    var errorText = "<label id='data-file--error' class='error'>This field is required.</label>";
+    var errorFileAccpet = "<label id='data-file--error' class='error'>Invalid file format. It should be .xlsx, .xls, .pdf, .doc, .docx, .csv.</label>";
+    var errorFileSize = "<label id='data-file--error' class='error'>The file size exceeds the limit allowed 2MB</label>";
+    if (!$("div.dz-preview").is(".dz-success")) {
+        if ($("div.dz-preview").is(".dz-error")) {
+            var contentError = $(".dz-error-message").children().text();
+            if (contentError.indexOf("File is too big") > -1) {
+                $("#data-file--error").remove();
+                $(".grav-input-file").append(errorFileSize);
+            } else {
+                $("#data-file--error").remove();
+                $(".grav-input-file").append(errorFileAccpet);
+            }
+
+        } else {
+            $("#data-file--error").remove();
+            $(".grav-input-file").append(errorText);
+        }
         return false;
-    }else{
+    } else {
         $("#data-file--error").remove();
         return true;
     }
+    $("#sumit-form-preload").css("display", "none");
 }
 
+var getThis = null;
+
 $(document).ready(function() {
+
+    var this_emlement = $("div.form-input-wrapper.dropzone.files-upload.form-input-file.dz-clickable");
+
     $('input[name="data[position]"]').val($('h1.header-main-text p').text());
     $('input[name="data[url]"]').val(window.location.href);
     $('input[type="file"]').change(function(e) {
         var fileName = e.target.files[0].name;
         $(".file-name").text(fileName);
     });
-
-    $(".dz-default.dz-message").children().text("Chosse file");
-    $(".dz-default.dz-message").children().append("<img id='img-inside-choose-file' src='/user/themes/bootstrap/assets/choose-file.png'>");
+    $(".dz-default.dz-message").children().text("Choose file");
+    $(".dz-default.dz-message").children().append("<img id='img-inside-choose-file' src='http://www.mowede.com/user/themes/bootstrap/assets/choose-file.png'>");
 
 
     var form = $('#career-form');
-    let responseOutput = $('#myModal');
+    var responseOutput = $('#myModal');
     validate(form);
     if ($('form').has("#g-recaptcha-response").length && $("#g-recaptcha-response").val() === '') {
         return false;
@@ -121,9 +140,10 @@ $(document).ready(function() {
         // prevent form submission
         e.preventDefault();
 
-        if(!FileUploadValidate()){
+        if (!FileUploadValidate()) {
             return false;
         };
+
         showSubmitIcon();
         // submit the form via Ajax
         $.ajax({
@@ -135,10 +155,16 @@ $(document).ready(function() {
                 HideSubmitIcon();
                 if (result.indexOf('success') > -1) {
                     responseOutput.modal('toggle');
-                    form.reset();
-                    $(".file-name").text("No file chosen");
+                    form.trigger("reset");
+                    if (getThis != null) {
+                        getThis.removeAllFiles();
+                    }
                     grecaptcha.reset();
+                    $("#data-file--error").remove();
                 }
+            },
+            error: function(result) {
+                console.log(result);
             }
         });
     });

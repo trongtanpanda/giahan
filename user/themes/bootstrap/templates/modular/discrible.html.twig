@@ -1,7 +1,7 @@
 {% do assets.addCss('theme://css/discrible.css') %} 
 
     <div class="container discrible-container">        
-        <div class="row discrible">
+        <div class="row discrible" style="padding: {{ page.header.padding }}">
         {% for discrible in page.header.discribles %}
                <div class="col-sm-4">
                         <div class="image">

@@ -1,0 +1,29 @@
+
+<div class="modular-row">
+    <div class="container">
+        <div class="partner-content">
+            {{ content }}
+        </div>
+        <div class="partner-items">        
+            {% for partner_item in page.header.partner_items %}
+                <div class="partner-item">
+                    {% if partner_item.layout == true %}
+                        <div class="partner-item-thumbnail col-xs-12 col-sm-3">
+                            {{ page.media.images[partner_item.thumbnail].html() }}
+                        </div>
+                        <div class="partner-item-content col-xs-12 col-sm-9">
+                            {{ partner_item.content|markdown }}
+                        </div>
+                    {% else %}
+                        <div class="partner-item-content col-xs-12 col-sm-9">
+                            {{ partner_item.content|markdown }}
+                        </div>
+                        <div class="partner-item-thumbnail col-xs-12 col-sm-3">
+                            {{ page.media.images[partner_item.thumbnail].html() }}
+                        </div>
+                    {% endif %}
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>

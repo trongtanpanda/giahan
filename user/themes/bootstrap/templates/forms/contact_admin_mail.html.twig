@@ -137,11 +137,11 @@
                                                             <td align="left" valign="top" style="padding:16px 0px 16px 0px;">
                                                                 <table width="600" border="0" cellspacing="0" cellpadding="0" class="main">
                                                                     <tr>
-                                                                    {% set status="Pass" %}
+                                                                    {% set status="Passed" %}
                                                                     {% set cssType="green" %}
                                                                     {% set requestType="Normal User" %}
                                                                     {% if form.value.typed == 'competitor' %}
-                                                                        {% set status="False" %}
+                                                                        {% set status="Failed" %}
                                                                         {% set cssType="red" %}
                                                                         {% set requestType="Competitor" %}
                                                                     {% elseif form.value.typed == 'existing' %}

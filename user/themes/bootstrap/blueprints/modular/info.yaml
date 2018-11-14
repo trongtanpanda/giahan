@@ -9,6 +9,9 @@ form:
           type: tab
           title: information
           fields:
+            header.padding:
+              type: text
+              label: Padding
             header.infos:
               name: Info
               type: list

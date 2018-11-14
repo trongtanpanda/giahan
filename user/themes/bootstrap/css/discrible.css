@@ -1,5 +1,5 @@
 .title p {
-    font-size: 18px;
+    font-size: 20px;
 }
 
 .discrible-container .discrible {
@@ -16,10 +16,17 @@ div.discrible-container .content {
     padding-left: 55px;
 }
 
-@media (max-width: 768px) {
+@media (max-width:768px) {
     .discrible-container .discrible {
-        display: unset;
+        display: block;
         text-align: center;
+        padding: 30px !important;
+    }
+    .discrible-container .discrible p {
+        margin: 0px;
+    }
+    .discrible-container .discrible .col-sm-4 {
+        padding-bottom: 20px;
     }
     div.discrible-container .image {
         float: unset;

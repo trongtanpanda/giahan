@@ -50,7 +50,7 @@ form:
               type: select
               label: Location
               options:
-                'Danang': 'Danang'
+                'Da Nang': 'Da Nang'
                 'Ho Chi Minh': 'Ho Chi Minh'
                 'USA': 'USA'
 

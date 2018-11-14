@@ -38,6 +38,22 @@ jQuery(function($) {
         $('#preloader').delay(200).fadeOut('slow');
     }());
 
+    function deleteClass(array) {
+        $.each(array, function(key, value) {
+            $(value).removeClass('open');
+        });
+    }
+    (function ($) {
+    $(document).ready(function () {
+        $('ul.dropdown-menu [data-toggle=dropdown]').on('click', function (event) {
+            event.preventDefault();
+            event.stopPropagation();
+            $(this).parent().siblings().removeClass('open');
+            $(this).parent().toggleClass('open');
+        });
+    });
+})(jQuery);
+
     $(document).ready(function() {
         stickyFooter();
         var navHeight = $('nav').height();
@@ -46,6 +62,9 @@ jQuery(function($) {
             navHeight = $('nav').height();
             $('body').css('margin-top', navHeight);
         });
+
+        
+
     });
     $('#site_search').on('click', function() {
         $('.search_view').show('slow');

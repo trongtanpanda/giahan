@@ -13,7 +13,7 @@
             value="{{ uri.route == "/search" ? query|e : '' }}"
             data-search-invalid="{{ "PLUGIN_SIMPLESEARCH.SEARCH_FIELD_MINIMUM_CHARACTERS"|t(min_chars)|raw }}"
             data-search-separator="{{ config.system.param_sep }}"
-            data-search-input="{{ home_url }}search/query"
+            data-search-input="{{ base_url }}/search/query"
         />
         {% if config.plugins.simplesearch.display_button %}
             <button class="search-button" id="search-btn">SEARCH</button>
@@ -22,4 +22,4 @@
 </div>
 
 
-{% do assets.add('theme://js/site-search.js') %}
+{#{% do assets.add('theme://js/site-search.js') %}#}

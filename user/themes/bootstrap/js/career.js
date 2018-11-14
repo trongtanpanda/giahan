@@ -17,8 +17,4 @@
         }
     });
 
-    $('html, body').animate({
-        scrollTop: $("#search-career-box").offset().top
-    }, 0);
-
 }());

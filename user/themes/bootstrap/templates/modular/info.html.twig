@@ -10,7 +10,7 @@
                     <div class="info" style="background-color:{{info.color}};">
                 {%endif%}
                 
-                    <div class="container main-row {{info.postion-image}} {{loop.index}}">           
+                    <div class="container main-row {{info.postion-image}} {{loop.index}}" {% if page.header.padding !="" %} style="padding: {{ page.header.padding }}"{%endif%}>           
                         <div class="col first col-lg-6" style="color:{{info.content_color}}">
                             {{ info.text|markdown }}
                             {{ info.content|markdown }}
@@ -26,7 +26,7 @@
                 {%else%}
                     <div class="info" style="background-color:{{info.color}};">
                 {%endif%}
-                    <div  class="container main-row {{info.postion-image}} {{loop.index}}">
+                    <div  class="container main-row {{info.postion-image}} {{loop.index}}" {% if page.header.padding !="" %} style="padding: {{ page.header.padding }}"{%endif%}>
                         <div class="col first col-lg-6">
                             {{ page.media.images[info.thumbnail].html() }}
                         </div>

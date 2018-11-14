@@ -168,6 +168,9 @@ div.row.email-phone-row{
         margin: 0 auto;
         display: inline-block;
     }
+    .form-field.captcha-field{
+        padding-top: 40px;
+    }
 }
 
 @media (min-width: 768px){

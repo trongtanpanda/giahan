@@ -16,15 +16,30 @@
 
 				<div>
 					<i class="location-footer"><img src="{{ base_url_absolute }}/user/themes/bootstrap/assets/location-footer.png"></i>
-					<p>7th floor, 346 2 Thang 9 Street, Hai Chau District, Da Nang, Vietnam</p>
+					<p>8th floor, 346 2 Thang 9 Street, Hai Chau District, Da Nang, Vietnam</p>
 				</div>
 			</div>
 
 			<div class="footer-center">
                 <ul class="list-unstyled">
                    {% for page in pages.children.visible %}
+				   		{% set url = page.url %}
+						{% if page.children.visible.count > 0 %} 
+							{% for child in page.children.visible %}
+								{% if loop.last %}
+									{% set url = child.url %}
+									{% if child.children.visible.count > 0 %} 
+										{% for sub in child.children.visible %}
+											{% if loop.last %}
+												{% set url = sub.url %}
+											{%endif%}
+										{%endfor%}
+									{%endif%}
+								{%endif%}
+							{%endfor%}
+						{%endif%}
                         <li>
-                           <a href="{{ page.url }}">{{ page.menu }}</a>
+                           <a href="{{ url }}">{{ page.menu }}</a>
                         </li>
                 {% endfor %}
                 </ul>
@@ -32,8 +47,13 @@
 
 			<div class="footer-right">
 				<div class="footer-icons">
-					<a class="linkedin" href="#" target="_blank"><img src="{{ base_url_absolute }}/user/themes/bootstrap/assets/linkedin.png"></a>
+					<a class="linkedin" href="https://www.linkedin.com/company/mowede/" target="_blank"><img src="{{ base_url_absolute }}/user/themes/bootstrap/assets/linkedin.png"></a>
 					<a href="https://www.facebook.com/MOWEDE-215261059074489/" target="_blank"><img src="{{ base_url_absolute }}/user/themes/bootstrap/assets/facebook.png"></a>
+					<a href="https://www.youtube.com/channel/UC7DHzxzqTTaUn0KybjG7zww/featured?view_as=subscriber" target="_blank"><img src="{{ base_url_absolute }}/user/themes/bootstrap/assets/youtube.png"></a>
+					<a href="https://twitter.com/mowedecompany" target="_blank"><img src="{{ base_url_absolute }}/user/themes/bootstrap/assets/twitter.png"></a>
+				</div>
+				<div class="scurity-footer">
+					<a href="{{ base_url_absolute }}/security-policy">Security Policy</a>
 				</div>
 			</div>
             </div>

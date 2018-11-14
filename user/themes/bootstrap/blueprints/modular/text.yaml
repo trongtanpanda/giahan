@@ -30,5 +30,13 @@ form:
               default: left
               options:
                 'left': 'Left'
+                'right': 'Right'                
+            header.text_align:
+              type: select
+              label: Text Align
+              options:
+                'left': 'Left'
+                'center': 'Center'
                 'right': 'Right'
-              type:
+
+

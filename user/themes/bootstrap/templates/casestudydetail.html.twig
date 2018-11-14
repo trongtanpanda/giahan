@@ -1,0 +1,114 @@
+{% extends 'partials/base.html.twig' %}
+
+{% block body_classes %}{{ parent() }} {% if show_onpage_menu %}fixed-nav{% endif %} {% endblock %}
+
+{% block header_navigation %}
+    {% if show_onpage_menu %}
+        <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="{{ base_url == '' ? '/' : base_url }}">{{ site.title|e('html') }}</a>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    {% for module in page.collection() %}
+
+                        {% set current_module = (module.active or module.activeChild) ? 'active' : '' %}
+                        <li class="{{ current_module }}"><a href="#{{ _self.pageLinkName(module.menu) }}">{{ module.menu }}</a></li>
+
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </nav>
+    {% else %}
+        {{  parent() }}
+    {% endif %}
+{% endblock %}
+
+{% block banner %}
+    {% if page.header.header_image == true %}
+        <div class="banner" style="color: {{ page.header.color }};background-image: url('{{ page.media[header.header_image_file].url }}');min-height: {{ page.header.min_height }}px;">       
+            <div class="heading-content">
+                <h1 class="header-main-text">{{ page.header.header_main_text|markdown }}</h1>
+                <p class="header-sub-text">{{ page.header.header_sub_text }}</p>
+            </div>
+        </div>
+    {% endif %}    
+{% endblock %}
+
+{% block content %}
+
+{% do assets.add('theme://css/career_detail.css') %}
+{{ assets.css() }}
+<div id="sumit-form-preload"></div>
+<div class="modular-row">
+    <div class="container">  
+        <div class="career-detail">
+            <h2><strong>{{ page.title }}</strong></h2>      
+            <p>{{ page.header.description }}</p>        
+        </div>    
+       <div class="case-study-thumbnail">
+            <img class="img-responsive" src="{{ page.media[header.thumbnail].url }}" >
+       </div>
+
+<div class="modal fade" id="myModal" role="dialog">
+<div class="modal-dialog">
+
+    <!-- Modal content-->
+    <div class="modal-content">
+    <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+    </div>
+    <div class="modal-body">
+        <div class="inside-body">
+            <img class="inside-img p-class" src="{{ base_url_absolute }}/user/themes/bootstrap/assets/email.png">
+        </div>
+        <div class="inside-text">
+            <p class="big p-class" ><strong>Thank you for requesting a Case Study!</strong></p>
+            <p class="below p-class">We have sent you an email with the download link.
+            </p>
+            <p class="if-you-need">If you have trouble with the automatic download, and you still would like to get the Case Study, please contact us at: +84 2363 655 336.</strong></p>
+            <p class="learn-more"><strong>Learn more about MOWEDE</strong></p>
+            <div class="row email-phone-row">
+                <div class="col-xs-6">
+                    <div class="row phone-popup">
+                            <p>+84 2363 655 336</p>
+                            <img src="{{ base_url_absolute }}/user/themes/bootstrap/assets/phone-popup.png">
+                    </div>
+                </div>
+                 <div class="col-xs-6">
+                     <div class="row email-popup">
+                            <img src="{{ base_url_absolute }}/user/themes/bootstrap/assets/email-popup.png">
+                            <p><a href="mailto:sales@mowede.com">sales@mowede.com</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="by-submit">
+                <p><i>By submitting this form, you agree that you have read and understand MOWEDE's Privacy Policy. You can Opt-Out of communications at any time. We respect your privacy.</i></p>
+            </div>
+            <button type="button" class="btn btn-default p-class" data-dismiss="modal">OK</button>
+        </div>
+    </div>
+    </div>
+    <input type="hidden" class="hid-file-path" value="{{ page.media[header.file].url }}">
+    <input type="hidden" class="hid-competitor" value={{ page.header.competitor|json_encode }}>
+    <input type="hidden" class="hid-exitingcustomer" value={{ page.header.existingcustomer|json_encode }}>
+    <input type="hidden" class="hid-blacklist" value={{ page.header.blacklist|json_encode }}>
+</div>
+</div>
+<center><h2 style="margin-top: 50px;"><b>Download</b> Full Version of Case Study</h2></center>
+
+    {% include "forms/form.html.twig" %}
+{% do assets.add('theme://css/case-study-form.css') %}
+{% do assets.add('theme://js/jquery.validate.min.js') %}
+{% do assets.add('theme://js/case-study-form.js') %}
+    </div>
+</div>
+{% endblock %}

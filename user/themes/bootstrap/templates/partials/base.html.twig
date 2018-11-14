@@ -17,21 +17,31 @@
         {{ assets.css() }}
 
         {% block javascripts %}
-            <script type="text/javascript" src="/system/assets/jquery/jquery-2.x.min.js"></script>
-            <script type="text/javascript" src="/user/themes/bootstrap/js/modernizr.custom.71422.js"></script>
-            <script type="text/javascript" src="/user/themes/bootstrap/js/custom.js"></script>
-            {% do assets.add('theme://js/jquery-ui.js') %}
+            <script type="text/javascript" src="{{ base_url_absolute }}/system/assets/jquery/jquery-2.x.min.js"></script>
+            {% do assets.add('theme://js/modernizr.custom.71422.js') %}
+            {% do assets.add('theme://js/custom.js') %}
             {% if browser.getBrowser == 'msie' and browser.getVersion >= 8 and browser.getVersion <= 9 %}
                 {% do assets.add('https://oss.maxcdn.com/respond/1.4.2/respond.min.js') %}
                 {% do assets.add('theme://js/html5shiv-printshiv.min.js') %}
             {% endif %}
-            {{ assets.js() }}
+            {{ assets.js('top') }}
+	<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TFNN9ZH');</script>
+<!-- End Google Tag Manager -->
         {% endblock %}
 
         {% endblock head%}
     </head>
 
       <body class="{% block body_classes %}{{ page.header.body_classes }}{% endblock %}">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TFNN9ZH"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
         <div id="preloader">
             <div id="status">
                 <div class="status-mes"></div>
@@ -63,7 +73,10 @@
         {% endblock %}
         {% block bottom %}{% endblock %} 
     </body>
+
     {{ assets.css() }}
     {{ assets.js() }}
     {{ assets.js('bottom') }}
+
+
 </html>

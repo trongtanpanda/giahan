@@ -38,11 +38,11 @@ function getLocation() {
 $.validator.addMethod("regx", function(value, element, regexpr) {
     return regexpr.test(value);
 }, "Please remove special characters.");
-jQuery.validator.addMethod('nofreeemail', function (value) {
-    var whitelist = "";    
-    if(blacklist.indexOf(value.split('@').pop().toLowerCase())>=0 && whitelist.indexOf(value.trim()) == -1){   
+jQuery.validator.addMethod('nofreeemail', function(value) {
+    var whitelist = "";
+    if (blacklist.indexOf(value.split('@').pop().toLowerCase()) >= 0 && whitelist.indexOf(value.trim()) == -1) {
         return false;
-    } else {              
+    } else {
         return true;
     }
 }, 'Your email address is not allowed for registration. Please enter a valid email address from a corporate (i.e. non-free) domain.');
@@ -121,7 +121,7 @@ function setErrorForSelectCheckBox() {
     if (str == "Select") {
         $("#select-check-box-error").remove();
         var errorText = "<label id='select-check-box-error' class='error'>This field is required.</label>";
-        $(".multiselect-native-select").parent().append(errorText);
+        $(".multiselect-native-select").parent().parent().append(errorText);
         check = false;
     } else {
         if (str != "Select") {
@@ -149,10 +149,10 @@ function check_Customer_Type(email) {
 }
 
 $(document).ready(function() {
-
     $.validator.setDefaults({
         ignore: []
     });
+
     $(document).bind("hidden.bs.dropdown", function() {
         set_text_for_ICInput();
         setErrorForSelectCheckBox();
@@ -178,8 +178,8 @@ $(document).ready(function() {
 
 
     getLocation();
-    let contactForm = $('#contact-us-form');
-    let responseOutput = $('#myModal');
+    var contactForm = $('#contact-us-form');
+    var responseOutput = $('#myModal');
     validate(contactForm);
     //$('#myModal').modal('toggle');
     // FORM SUBMISSION
@@ -195,9 +195,8 @@ $(document).ready(function() {
         }
         showSubmitIcon();
         var email = $("input[name='data[email]']").val();
-        var formdata = contactForm.serialize();
-        formdata = formdata.replace("data%5Btyped%5D=", "data%5Btyped%5D="+check_Customer_Type(email));
-       
+        var formdata = contactForm.serialize().replace("data%5Btyped%5D=", "data%5Btyped%5D=" + check_Customer_Type(email));
+        var lib = window.location.origin + "/lib/contact_form/pardot.php";
         // SUBMIT THE FORM VIA AJAX
         $.ajax({
             url: contactForm.attr('action'),
@@ -205,10 +204,10 @@ $(document).ready(function() {
             data: formdata,
             dataType: 'html',
             // ON AJAX SUCCES
-            success: (message, status) => {
+            success: function(message, status){
                 HideSubmitIcon();
                 // IF JSON RETURN 'success' as statut
-                if (message.indexOf('<p>success<p>') > -1) {
+                if (message.indexOf('success') > -1) {
                     responseOutput.modal('toggle');
                     //contactForm.find("input, textarea").val("");
                     grecaptcha.reset();
@@ -224,14 +223,14 @@ $(document).ready(function() {
                 }
             }
         });
-        if(check_Customer_Type(email)!="competitor"){
+        if (check_Customer_Type(email) != "competitor") {
             $.ajax({
-                url: 'lib/contact_form/pardot.php',
+                url: lib,
                 type: 'POST',
                 data: contactForm.serialize(),
                 dataType: 'html',
                 // ON AJAX SUCCES
-                success: (message, status) => {
+                success: function(message, status){
                     // IF JSON RETURN 'error' as statut
                     if (status === 'error' || message.indexOf('error') > -1) {
                         console.log('this is an ERROR !!!')

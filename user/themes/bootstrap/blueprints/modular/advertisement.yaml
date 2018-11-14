@@ -1,0 +1,42 @@
+title: Advertisement
+'@extends': default
+
+form:
+  fields:
+    tabs:
+      fields:       
+        content:
+          type: tab
+          title: Content
+          fields:
+            header.btn:
+              type: text
+              label: Button Text
+            header.btn_url:
+              type: text
+              label: Button Link
+            header.btn_url_target:
+              type: toggle
+              label: URL Target
+              default: 1
+              options:
+                '_self': Current Tab
+                '_blank': New Tab
+            header.background:
+              type: filepicker
+              folder: 'self@'
+              label: Background Image
+              preview_images: true
+              accept:
+                - .png
+                - .jpg
+            header.height:
+              type: number
+              label: Height
+            header.content_align:
+              type: select
+              label: Content Align
+              options:
+                'left': Left
+                'center': Center
+                'right': Right

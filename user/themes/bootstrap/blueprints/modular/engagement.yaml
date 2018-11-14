@@ -1,0 +1,34 @@
+title: Engagement
+'@extends': default
+
+form:
+  fields:
+    tabs:
+      fields:       
+        engagement:
+          type: tab
+          title: Image
+          fields:
+            header.engagement:
+              type: text
+              label: Padding
+              default: 50px 0px
+            header.engagements:
+              name: Info
+              type: list
+              label: Engagement
+              fields:               
+                .text:
+                  type: text
+                  label: Title
+                .thumbnail:
+                  type: filepicker
+                  folder: 'self@'
+                  label: Select a icon
+                  preview_images: true
+                  accept:
+                    - .png
+                    - .jpg
+                .content:
+                  type: editor
+                  label: Content

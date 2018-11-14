@@ -1,0 +1,21 @@
+     <div class="container engagement-container">        
+        <div class="row engagement" style="padding: {{ page.header.padding }}">
+        {% for engagement in page.header.engagements %}
+               <div class="col-sm-12">
+                        <div class="col-md-1 image">
+                            {{ page.media.images[engagement.thumbnail].html() }}
+                        </div>
+                        <div class='col-md-11 content'>
+                            <div class="title" style="font-size: 20px;"> 
+                                {{ engagement.text }}
+                            </div>
+                            <div class="info">
+                                {{ engagement.content|markdown }}
+                            </div>
+                        </div>
+                </div>
+        {% endfor %}
+        </div>
+    </div>
+
+  

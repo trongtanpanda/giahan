@@ -9,6 +9,10 @@ form:
           type: tab
           title: Image
           fields:
+            header.padding:
+              type: text
+              label: Padding
+              default: 50px 0px
             header.discribles:
               name: Info
               type: list

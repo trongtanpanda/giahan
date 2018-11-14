@@ -10,7 +10,10 @@ $( function() {
             success: function( data ) {
                 localStorage.setItem("wordlist",data);
                 datat = data;
+            },error: function (request, status, error) {
+                console(request.responseText);
             }
+
         } );
     }
     if (datat === null) {

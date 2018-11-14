@@ -1,73 +1,16 @@
-
-div.info .col {
-    width:50%;
-}
-div.info .col h1{
-    font-size:32px;
-}
-
-div.info.have-background.right{
-    background-size: 50% 100%;
-    background-repeat: no-repeat;
-    background-position: right;
-}
-div.info.have-background.left{
-    background-size: 50% 100%;
-    background-repeat: no-repeat;
-    background-position: left;
-}
-
-
-div.main-row {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.first {
-    float:left;
-}
-
-.second img{
-    width:100%;
-}
-
-.second {
-    float:right;
-}
-
-@media (max-width: 768px){
-
-    div.info.have-background.right{
-        background-size: 100%;
-        background-position: bottom;
-    }
-    div.info.have-background.left{
-        background-size: 100%;
-        background-position: top;
-    }
-
-    div.main-row {
-        display: block;
-
-    }
-    div.info .col {
-        width:100%;
-    }
-    .first {
-        float:unset;
-        background-position:0 -32;
-        left:0px;
-        padding-bottom: 20px;
-        padding-top: 20px;
-
-    }
-    .second {
-        float:unset;
-    }
-    .second {
-        float:unset;
-    }
-    .second img{
-        display:block;
-    }
+div.info .col{width:50%;}
+div.info .col h1{font-size:32px;}
+div.info.have-background.right{background-size:50% 100%;background-repeat:no-repeat;background-position:right;}
+div.info.have-background.left{background-size:50% 100%;background-repeat:no-repeat;background-position:left;}
+div.main-row{display:flex;justify-content:center;align-items:center;}
+.first{float:left;}
+.second img{width:100%;}
+.second{float:right;}
+@media (max-width:768px){div.info.have-background.right{background-size:100%;background-position:bottom;}
+div.info.have-background.left{background-size:100%;background-position:top;}
+div.main-row{display:block;}
+div.info .col{width:100%;}
+.first{float:unset;background-position:0 -32;left:0px;padding-bottom:20px;padding-top:20px;}
+.second{float:unset;}
+.second{float:unset;}
+.second img{display:block;}

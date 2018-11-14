@@ -1,66 +1,80 @@
+.contact-us-form {
+    padding-bottom: 120px;
+}
 
-.contact-us-form{
-    padding-bottom:120px;
-}
-.contact-us-form .text-contact-form{
+.contact-us-form .text-contact-form {
     text-align: center;
-    padding-bottom:30px;
+    padding-bottom: 30px;
 }
+
 .discrible-container .discrible {
-    padding-bottom:0px;
+    padding-bottom: 0px;
 }
-.contact-us-button{
-    background:#222222;
-    color:#ffffff;
-    margin-top:10px;
+
+.contact-us-button {
+    background: #222222;
+    color: #ffffff;
+    margin-top: 10px;
     border: 1px solid;
-    border-radius:30px;
-    padding:10px;
+    border-radius: 30px;
+    padding: 10px;
 }
+
 .p-top {
     padding-top: 30px;
 }
-.buttons.col-sm-6.p-top{
-    text-align:right;
+
+.buttons.col-sm-6.p-top {
+    text-align: right;
 }
-.modal-body{
-    text-align:center;
+
+.modal-body {
+    text-align: center;
 }
-.inside-text .big{
-    font-size:30px;
-    font-weight:bold;
+
+.inside-text .big {
+    font-size: 30px;
+    font-weight: bold;
     margin-bottom: 30px;
 }
-div.inside-text p.below.p-class{
-    padding:10px 10px 0px 10px;
+
+div.inside-text p.below.p-class {
+    padding: 10px 10px 0px 10px;
     margin-bottom: 0px;
     padding-top: 0px;
 }
-.btn.btn-default.p-class{
-    background:#222222;
-    color:#ffffff;
+
+.btn.btn-default.p-class {
+    background: #222222;
+    color: #ffffff;
     text-shadow: none;
     padding: 5px 60px;
     border-radius: 20px;
     margin-top: 30px;
 }
+
 .modal-header {
     padding: 5px 10px 0px 0px;
     border-bottom: none;
 }
+
 .modal-body {
     position: relative;
     padding: 0px 15px 15px 15px;
 }
-.close{
+
+.close {
     opacity: unset;
 }
-.inside-text{
-    padding-bottom:20px;
+
+.inside-text {
+    padding-bottom: 20px;
 }
-.modal-content{
-    border-radius:10px;
+
+.modal-content {
+    border-radius: 10px;
 }
+
 
 /* part of select check box*/
 
@@ -70,11 +84,13 @@ div.inside-text p.below.p-class{
 
 .selectBox select {
     width: 100%;
-    border:none;
+    border: none;
 }
+
 #checkboxes label {
     font-weight: normal;
 }
+
 .overSelect {
     position: absolute;
     left: 0;
@@ -86,9 +102,9 @@ div.inside-text p.below.p-class{
 #checkboxes {
     display: none;
     border: 1px #dadada solid;
-    position:absolute;
-    background-color:#fff;
-    z-index:999;
+    position: absolute;
+    background-color: #fff;
+    z-index: 999;
 }
 
 #checkboxes label {
@@ -100,95 +116,135 @@ div.inside-text p.below.p-class{
     background-color: #C1BBBA;
 }
 
-.s_text{
-    padding-left:10px;
+.s_text {
+    padding-left: 10px;
 }
+
+
 /*end*/
-label.error, label.capcha-error{
-    position:absolute;
+
+label.error,
+label.capcha-error {
+    position: absolute;
     font-size: 13px;
-    color:#ff0000;
+    color: #ff0000;
+    line-height: 1;
 }
+
+
 /* select box */
-.multiselect-selected-text{
+
+.multiselect-selected-text {
     float: left;
 }
-.caret{
+
+.caret {
     float: right;
     margin-top: 8px;
 }
+
+
 /* popup */
-.inside-text .if-you-need{
+
+.inside-text .if-you-need {
     padding-top: 0px;
 }
-.inside-text .learn-more{
+
+.inside-text .learn-more {
     margin-top: 30px;
     margin-bottom: 20px;
 }
-div.row.email-phone-row{
+
+div.row.email-phone-row {
     margin-top: 20px;
     margin-bottom: 20px;
 }
 
-.row.phone-popup p, .row.phone-popup img {
+.row.phone-popup p,
+.row.phone-popup img {
     float: right;
 }
-.row.email-popup p, .row.email-popup img {
+
+.row.email-popup p,
+.row.email-popup img {
     float: left;
 }
-.row.email-popup{
+
+.row.email-popup {
     margin-left: 10px;
 }
-.row.phone-popup{
+
+.row.phone-popup {
     margin-right: 10px;
 }
-.row.row.phone-popup img, .row.email-popup img{
+
+.row.row.phone-popup img,
+.row.email-popup img {
     padding-top: 5px;
 }
-.row.phone-popup img{
+
+.row.phone-popup img {
     padding-right: 10px;
 }
-.row.email-popup p{
+
+.row.email-popup p {
     padding-left: 10px;
 }
 
-.btn-group{
+.btn-group {
     width: 100%;
 }
-.btn-group button{
+
+.btn-group button {
     width: 100%;
 }
-.multiselect-container{
+
+.multiselect-container {
     width: 100%;
 }
-ul.dropdown-menu>.active>a, ul.dropdown-menu>.active>a:hover{
+
+.multiselect-container.dropdown-menu>.active>a,
+.multiselect-container.dropdown-menu>.active>a:hover {
     background-image: none;
-    background-color: #e6e6e6;
+    background-color: #fff;
     color: #333;
 }
-.row.email-popup p a{
+
+.multiselect-container.dropdown-menu li a {
+    border-bottom: none;
+}
+
+.row.email-popup p a {
     color: #333;
 }
-#multipleTest-error{
+
+#multipleTest-error {
     z-index: 100;
     padding-top: 35px;
 }
 
-@media (max-width: 768px){
-    .buttons.col-sm-6.p-top{
-        text-align:center;
-        padding-top:40px;
+@media (max-width: 1200px) {
+    .p-top {
+        padding-top: 40px;
     }
-    .email-phone-row .col-xs-6{
+}
+
+@media (max-width: 768px) {
+    .buttons.col-sm-6.p-top {
+        text-align: center;
+        padding-top: 40px;
+    }
+    .email-phone-row .col-xs-6 {
         width: 100%;
     }
-    .row.email-popup, .row.phone-popup{
+    .row.email-popup,
+    .row.phone-popup {
         margin: 0 auto;
         display: inline-block;
     }
-
 }
-@media (min-width: 768px){
+
+@media (min-width: 768px) {
     .modal-dialog {
         width: 650px;
         margin: 30px auto;

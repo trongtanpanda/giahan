@@ -6,14 +6,20 @@
     {% endif %}
     <div class="search-item">
         <div class="search-title">
-            <h4><a href="{{ page.url }}">{{ page.title }}</a></h4>
+            <h4><a href="{{ page.url }}">
+                    {% if page.menu %}
+                    {{ page.menu }}
+                    {% else %}
+                    {{ page.title }}
+                    {% endif %}
+                </a></h4>
         </div>
 
         <div class="search-details">
 
         </div>
 
-        <p>{% if sum %} {{ sum }} {% else %} {{ page.summary() }} {% endif %}</p>
+        <p>{% if sum %} {{ sum }} {% else %} {{ page.header.summary }} {% endif %}</p>
         <p class="result-url">{{ page.url(true) }}</p>
         <hr />
 
