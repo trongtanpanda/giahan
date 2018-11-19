@@ -11,6 +11,7 @@ use Grav\Common\Utils;
 use Grav\Common\Data\Data;
 use Grav\Common\Config\Config;
 use RocketTheme\Toolbox\Event\Event;
+use Grav\Common\Grav;
 
 class SimplesearchPlugin extends Plugin
 {
@@ -32,6 +33,15 @@ class SimplesearchPlugin extends Plugin
     /**
      * @return array
      */
+
+    /**
+     * @var textSum
+     */
+    protected $textSum;
+
+
+
+
     public static function getSubscribedEvents()
     {
         return [
@@ -138,7 +148,6 @@ class SimplesearchPlugin extends Plugin
             $pages = $this->grav['pages'];
             $this->collection = $pages->all();
         } else {
-
             foreach ($filters as $key => $filter) {
                 // flatten item if it's wrapped in an array
                 if (is_int($key)) {
@@ -174,33 +183,12 @@ class SimplesearchPlugin extends Plugin
         $this->collection->published()->routable();
 
         //Check if user has permission to view page
-        if($this->grav['config']->get('plugins.login.enabled')) {
+        if ($this->grav['config']->get('plugins.login.enabled')) {
             $this->collection = $this->checkForPermissions($this->collection);
         }
-        $extras = [];
 
         if ($query) {
-            foreach ($this->collection as $cpage) {
-                foreach ($this->query as $query) {
-                    $query = trim($query);
-
-                    if ($this->notFound($query, $cpage, $taxonomies)) {
-                        $this->collection->remove($cpage);
-                        continue;
-                    }
-
-                    if ($cpage->modular()) {
-                        $this->collection->remove($cpage);
-                        $parent = $cpage->parent();
-                        $extras[$parent->path()] = ['slug' => $parent->slug()];
-                    }
-
-                }
-            }
-        }
-
-        if (!empty($extras)) {
-            $this->collection->append($extras);
+            $this->getPages($taxonomies);
         }
 
         // use a configured sorting order if not already done
@@ -230,6 +218,35 @@ class SimplesearchPlugin extends Plugin
         }
     }
 
+    private function getPages($taxonomies)
+    {
+
+        foreach ($this->collection as $page) {
+            $text = "";
+            if (!$this->searchPage($page, $taxonomies, $text)) {
+                $this->collection->remove($page);
+            } else {
+                $this->textSum[$page->id()] = $text;
+            }
+        }
+    }
+    private function searchPage($page, $taxonomies, &$sum)
+    {
+        foreach ($this->query as $query) {
+            $query = trim($query);
+            if (!$this->notFound($query, $page, $taxonomies, $sum)) {
+                return true;
+            } else {
+                foreach ($page->children() as $pagec) {
+                    if ($this->searchPage($pagec, $taxonomies, $sum)) {
+                        return true;
+                    }
+                }
+                return false;
+            }
+        }
+    }
+
     /**
      * Filter the pages, and return only the pages the user has access to.
      * Implementation based on Login Plugin authorizePage() function.
@@ -239,7 +256,6 @@ class SimplesearchPlugin extends Plugin
         $user = $this->grav['user'];
         $returnCollection = new Collection();
         foreach ($collection as $page) {
-
             $header = $page->header();
             $rules = isset($header->access) ? (array)$header->access : [];
 
@@ -289,7 +305,7 @@ class SimplesearchPlugin extends Plugin
 
         if ($this->query) {
             $twig->twig_vars['query'] = implode(', ', $this->query);
-            $twig->twig_vars['search_results'] = $this->collection;
+            $twig->twig_vars['search_results'] = ["collection" => $this->collection, "textSum" => $this->textSum];
         }
 
         if ($this->config->get('plugins.simplesearch.built_in_css')) {
@@ -301,7 +317,8 @@ class SimplesearchPlugin extends Plugin
         }
     }
 
-    private function matchText($haystack, $needle) {
+    private function matchText($haystack, $needle)
+    {
         if ($this->config->get('plugins.simplesearch.ignore_accented_characters')) {
             setlocale(LC_ALL, 'en_US');
             try {
@@ -322,15 +339,16 @@ class SimplesearchPlugin extends Plugin
      * @param $taxonomies
      * @return bool
      */
-    private function notFound($query, $page, $taxonomies)
+    private function notFound($query, $page, $taxonomies, &$textResult = null)
     {
+        $sumaryLength = 300;
         $searchable_types = ['title', 'content', 'taxonomy'];
         $results = true;
         $search_content = $this->config->get('plugins.simplesearch.search_content');
 
         foreach ($searchable_types as $type) {
             if ($type === 'title') {
-                $result = $this->matchText(strip_tags($page->title()), $query) === false;
+                $result = $this->matchText(strip_tags($page->title()), $query);
             } elseif ($type === 'taxonomy') {
                 if ($taxonomies === false) {
                     continue;
@@ -343,26 +361,62 @@ class SimplesearchPlugin extends Plugin
                         continue;
                     }
 
-                    $taxonomy_values = implode('|',$values);
+                    $taxonomy_values = implode('|', $values);
                     if ($this->matchText($taxonomy_values, $query) !== false) {
                         $taxonomy_match = true;
                         break;
                     }
                 }
-                $result = !$taxonomy_match;
+                $result = $taxonomy_match;
             } else {
+                
                 if ($search_content == 'raw') {
                     $content = $page->rawMarkdown();
                 } else {
                     $content = $page->content();
                 }
-                $result = $this->matchText(strip_tags($content), $query) === false;
+                $content = strip_tags($content);
+
+                $result = $this->matchText($content, $query) ;
+                if ($result !== false) {
+                    $startPos=$result > $sumaryLength/2 ? $result - $sumaryLength/2 : 0;
+                    $startPos = strpos($content, " ", $startPos);
+                    if (($startPos+$sumaryLength) > strlen($content)) {
+                        $sub = substr($content, $startPos, strlen($content)-$startPos);
+                    } else {
+                        $sub = substr($content, $startPos, $sumaryLength);
+                    }
+                    $textResult = "...".$this->formatSumaryText($sub, $query)  . "...";
+                    $results = false;
+                }
             }
-            $results = $results && $result;
-            if ($results === false ) {
-                break;
+            if ($result !== false) {
+                $results = false;
             }
         }
+       
         return $results;
+    }
+
+    private function formatSumaryText($string, $query)
+    {
+        
+        $positions = array();
+        $lastPos = 0;
+        while (($lastPos = stripos($string, $query, $lastPos))!== false) {
+            $positions[] = $lastPos;
+            $lastPos = $lastPos + strlen($query);
+        }
+        
+        $insert = '<span class="result-hightlight">';
+        $endInsert = '</span>';
+        $i = 0;
+        foreach ($positions as $pos) {
+            $start = $pos+(strlen($insert) +strlen($endInsert))*$i;
+            $string = substr_replace($string, $insert, $start, 0);
+            $string = substr_replace($string, $endInsert, $start+strlen($query)+strlen($insert), 0);
+            $i++;
+        }       
+        return $string;
     }
 }

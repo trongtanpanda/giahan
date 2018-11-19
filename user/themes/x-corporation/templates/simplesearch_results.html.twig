@@ -23,21 +23,18 @@
             </form>
         </div>
 
-        {% if search_results %}
-        <p>
-            {% if search_results.count == 1 %}
-                {{ "PLUGIN_SIMPLESEARCH.SEARCH_RESULTS_SUMMARY_SINGULAR"|t(query) }}
-            {% else %}
-                {{ "PLUGIN_SIMPLESEARCH.SEARCH_RESULTS_SUMMARY_PLURAL"|t(query, search_results.count) }}
-            {% endif %}
-        </p>
-        {% for page in search_results %}
-            {% include 'partials/simplesearch_item.html.twig' with {'page':page} %}
-        {% endfor %}
+        {% set count = search_results["collection"] ? search_results["collection"].count : 0 %}
+        {% if count == 0 %}
+            <p style="margin-top: 10px"><strong>Sorry, we couldn't find any matches for "{{ query }}"</strong></p>
         {% endif %}
-            <div class="col-sm-12 text-center">            
-                {% include 'partials/pagination.html.twig' with {'base_url':page.url, 'pagination':search_results.params.pagination} %}
-            </div>
+
+        {% for page in search_results["collection"] %}
+            {% include 'partials/simplesearch_item.html.twig' with {'page':page, 'sum':search_results["textSum"][page.id] } %}
+        {% endfor %}
+
+        <div class="col-sm-12 text-center">            
+            {% include 'partials/pagination.html.twig' with {'base_url':page.url, 'pagination':search_results.params.pagination} %}
+        </div>
         </div>
     </div>
 </section>
@@ -60,3 +57,4 @@ jQuery(document).ready(function($){
 });
 </script>
 {% endblock %}
+{% do assets.add('theme://js/simple-search.js') %}

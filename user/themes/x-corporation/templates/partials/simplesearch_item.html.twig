@@ -1,0 +1,27 @@
+<section class="search-row">
+
+    {% set banner = page.media.images|first %}
+
+    {% if banner %}
+    {% endif %}
+    <div class="search-item">
+        <div class="search-title">
+            <h4><a href="{{ page.url }}">
+                    {% if page.menu %}
+                    {{ page.menu }}
+                    {% else %}
+                    {{ page.title }}
+                    {% endif %}
+                </a></h4>
+        </div>
+
+        <div class="search-details">
+
+        </div>
+
+        <p>{% if sum %} {{ sum }} {% else %} {{ page.header.summary }} {% endif %}</p>
+        <p class="result-url">{{ page.url(true) }}</p>
+        <hr />
+
+    </div>
+</section>
