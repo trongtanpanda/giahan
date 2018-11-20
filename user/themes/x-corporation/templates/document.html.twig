@@ -1,0 +1,55 @@
+{% extends 'partials/base.html.twig' %}
+
+{% block content %}
+
+{% if page.header.background_image != '' %}
+    {% set background_html = 'style="background-image: url(' ~ page.media.images[page.header.background_image].url ~ ');"' %}
+{% else %}
+    {% set  background_html = "" %}
+{% endif %}
+<section class="single-page-title"{{ background_html }}>
+    <div class="container text-center">
+        <h2>{{ page.title }}</h2>
+    </div>
+</section>
+<div class="container">
+<section class="ptb-40">
+<h2 class="ptb-40">Nhập vào form dưới đây để nhận được tệp hướng dẫn</h2>
+
+    <form name="contact-form" action="/giahan/lien-he" method="POST" id="contact-form">    
+        <div class="row">            
+            <div class="col-md-6">
+                <div class="form-group user-name">
+                    <label for="name" class="sr-only">Name</label>
+                    <input name="data[name]" value="" type="text" class="form-control form-control" placeholder="Họ Và Tên" required="required">
+                </div>
+                <div class="form-group user-email">
+                    <label for="email" class="sr-only">Email</label>
+                    <input name="data[email]" value="" type="email" class="form-control form-control" placeholder="Email" required="required">
+                </div>
+                <div class="form-group user-phone">
+                    <label for="phone" class="sr-only">Phone</label>
+                    <input name="data[phone]" value="" type="text" class="form-control form-control" placeholder="Điện Thoại" required="required">
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="form-group user-message">
+                    <label for="message" class="sr-only">Message</label>
+                    <textarea class="form-control" name="data[message]" placeholder="Nội Dung" required="required" rows="6"></textarea>
+                </div>
+            </div>
+        </div>
+        <input type="hidden" name="__form-name__" value="contact-form">    
+        <div class="buttons">    
+            <button class="btn btn-primary" type="submit">
+                Gửi
+            </button>    
+        </div>    
+        <input type="hidden" name="__unique_form_id__" value="rzKv3EuOVsNtfq8CPpd6"> 
+        <input type="hidden" name="form-nonce" value="86ec9cd4171357b817c13d0f8d54266b">
+    </form>
+
+</section>
+</div>
+
+{% endblock %}

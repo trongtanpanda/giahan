@@ -1,0 +1,22 @@
+title: Tài liệu
+'@extends':
+    type: default
+    context: blueprints://pages
+form:
+  fields:
+    tabs:
+      fields:
+        content:
+          type: tab
+          title: Content
+          fields:           
+            header.file:
+              type: filepicker
+              folder: 'self@'
+              label: Tệp tài liệu
+              preview_images: true
+              toggleable: true
+              accept:
+                - .pdf
+
+            
