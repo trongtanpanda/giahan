@@ -1,0 +1,38 @@
+{% extends 'partials/base.html.twig' %}
+
+{% block content %}
+
+{% if page.header.background_image != '' %}
+    {% set background_html = 'style="background-image: url(' ~ page.media.images[page.header.background_image].url ~ ');"' %}
+{% else %}
+    {% set  background_html = "" %}
+{% endif %}
+<section class="single-page-title"{{ background_html }}>
+    <div class="container text-center">
+        <h2>{{ page.title }}</h2>
+    </div>
+</section>
+
+<div class="container">
+<section class="ptb-40">
+    <div class="container center download-page">
+        <div id="countDown">            
+        </div>    
+        {% set file = uri.query('file') %}
+        {% set us = uri.query('us') %}
+        <input id="file_dl" type="hidden" value="{{ file|base64_decode }}"> 
+        <input id="email_dl" type="hidden" value="{{ us|base64_decode }}"> 
+        {{ page.content }}
+        <div class="downloading-content">
+            <h3><b>Tìm Hiểu Thêm Về <a href="/">Gia Hân Group</a></b></h3>
+            <div class="download-contact">
+                <img src="{{ base_url_absolute }}/user/themes/x-corporation/img/phone.png">0968.333.268 - 0935.333.268
+                <img src="{{ base_url_absolute }}/user/themes/x-corporation/img/email.png"> <a href="mailto:GiahanGroup2018@gmail.com">GiahanGroup2018@gmail.com</a>
+            </div>           
+        </div>
+    </div>
+    {% do assets.add('theme://js/download.js') %}
+</section>
+</div>
+{% endblock %}
+

@@ -193,9 +193,10 @@ class FormPlugin extends Plugin
 
             // Post the form
             if ($this->form) {
-                if ($uri->post('__form-file-uploader__') && $uri->extension() === 'json') {
+                $isJson = $uri->extension() === 'json';
+                if ($isJson && $uri->post('__form-file-uploader__')) {
                     $this->json_response = $this->form->uploadFiles();
-                } else if ($this->form && isset($_POST['__form-file-remover__']) && $this->grav['uri']->extension() === 'json') {
+                } elseif ($isJson && $uri->post('__form-file-remover__')) {
                     $this->json_response = $this->form->filesSessionRemove();
                 } else {
                     $this->form->post();
@@ -387,6 +388,7 @@ class FormPlugin extends Plugin
                 /** @var Pages $pages */
                 $pages = $this->grav['pages'];
                 $page = $pages->dispatch($route, true);
+
                 if (!$page) {
                     throw new \RuntimeException('Display page not found. Please check the page exists.', 400);
                 }

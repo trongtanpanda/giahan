@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1542624095,
-    'checksum' => '0adbf99296b953a52521ff9fe812bb50',
+    'timestamp' => 1542801103,
+    'checksum' => 'f28a400a6e9e39271eb39bd900cb85ba',
     'files' => [
         'user/config' => [
             'media' => [
@@ -35,7 +35,7 @@ return [
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1542623936
+                'modified' => 1542799731
             ],
             'themes/x-corporation' => [
                 'file' => 'user/config/themes/x-corporation.yaml',
@@ -67,7 +67,11 @@ return [
         'user/plugins' => [
             'plugins/admin' => [
                 'file' => 'user/plugins/admin/admin.yaml',
-                'modified' => 1541503596
+                'modified' => 1542801068
+            ],
+            'plugins/admin-addon-user-manager' => [
+                'file' => 'user/plugins/admin-addon-user-manager/admin-addon-user-manager.yaml',
+                'modified' => 1542801100
             ],
             'plugins/email' => [
                 'file' => 'user/plugins/email/email.yaml',
@@ -83,11 +87,11 @@ return [
             ],
             'plugins/form' => [
                 'file' => 'user/plugins/form/form.yaml',
-                'modified' => 1541503597
+                'modified' => 1542801072
             ],
             'plugins/login' => [
                 'file' => 'user/plugins/login/login.yaml',
-                'modified' => 1541503598
+                'modified' => 1542801076
             ],
             'plugins/markdown-notices' => [
                 'file' => 'user/plugins/markdown-notices/markdown-notices.yaml',
@@ -174,6 +178,13 @@ return [
                         'monthly' => 12,
                         'visitors' => 20
                     ]
+                ]
+            ],
+            'admin-addon-user-manager' => [
+                'enabled' => true,
+                'default_list_style' => 'list',
+                'pagination' => [
+                    'per_page' => 20
                 ]
             ],
             'email' => [
@@ -284,6 +295,7 @@ return [
                         'set_user_disabled' => false,
                         'login_after_registration' => false,
                         'send_activation_email' => false,
+                        'manually_enable' => false,
                         'send_notification_email' => false,
                         'send_welcome_email' => false
                     ]

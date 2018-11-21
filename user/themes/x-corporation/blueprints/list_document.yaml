@@ -1,0 +1,30 @@
+title: Danh Sách Tài Liệu Hướng dẫn
+'@extends':
+    type: default
+    context: blueprints://pages
+form:
+  fields:
+    tabs:
+      fields:
+        content:
+          type: tab
+          title: Content
+          fields:
+            header.content.items.@taxonomy.category:
+              type: text
+              label: Thể loại
+              default: 'tailieu'
+            header.content.order.by:
+              type: text
+              label: Xếp theo
+              default: 'date'
+            header.content.order.dir:
+              type: text
+              label: Xếp theo
+              default: 'desc'
+            header.content.limit:
+              type: number
+              label: Giới hạn
+              default: 10
+
+            

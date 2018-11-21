@@ -1,13 +1,13 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledBlueprints',
-    'timestamp' => 1542624582,
-    'checksum' => 'c84e642e70c5a612b0a89a1ed99ca69f',
+    'timestamp' => 1542801111,
+    'checksum' => '20f5fc2fcb0dcf1de65d7a33dab9a129',
     'files' => [
         'user/plugins/admin/blueprints/config' => [
             'media' => [
                 'file' => 'user/plugins/admin/blueprints/config/media.yaml',
-                'modified' => 1541503596
+                'modified' => 1542801068
             ]
         ],
         'system/blueprints/config' => [
@@ -35,7 +35,11 @@ return [
         'user/plugins' => [
             'plugins/admin' => [
                 'file' => 'user/plugins/admin/blueprints.yaml',
-                'modified' => 1541503596
+                'modified' => 1542801068
+            ],
+            'plugins/admin-addon-user-manager' => [
+                'file' => 'user/plugins/admin-addon-user-manager/blueprints.yaml',
+                'modified' => 1542801100
             ],
             'plugins/email' => [
                 'file' => 'user/plugins/email/blueprints.yaml',
@@ -51,11 +55,11 @@ return [
             ],
             'plugins/form' => [
                 'file' => 'user/plugins/form/blueprints.yaml',
-                'modified' => 1541503597
+                'modified' => 1542801072
             ],
             'plugins/login' => [
                 'file' => 'user/plugins/login/blueprints.yaml',
-                'modified' => 1541503598
+                'modified' => 1542801076
             ],
             'plugins/markdown-notices' => [
                 'file' => 'user/plugins/markdown-notices/blueprints.yaml',
@@ -2581,6 +2585,68 @@ return [
                 'name' => 'plugins.admin.popularity.history.visitors',
                 'validation' => 'loose'
             ],
+            'plugins.admin-addon-user-manager' => [
+                'type' => '_root',
+                'form_field' => false,
+                'form' => [
+                    'validation' => 'strict'
+                ]
+            ],
+            'plugins.admin-addon-user-manager.enabled' => [
+                'type' => 'toggle',
+                'label' => 'PLUGIN_ADMIN.PLUGIN_STATUS',
+                'highlight' => 1,
+                'default' => 0,
+                'options' => [
+                    1 => 'PLUGIN_ADMIN.ENABLED',
+                    0 => 'PLUGIN_ADMIN.DISABLED'
+                ],
+                'validate' => [
+                    'type' => 'bool'
+                ],
+                'name' => 'plugins.admin-addon-user-manager.enabled',
+                'validation' => 'strict'
+            ],
+            'plugins.admin-addon-user-manager.default_list_style' => [
+                'label' => 'PLUGIN_ADMIN_ADDON_USER_MANAGER.DEFAULT_LIST_STYLE',
+                'type' => 'select',
+                'options' => [
+                    'grid' => 'PLUGIN_ADMIN_ADDON_USER_MANAGER.GRID',
+                    'list' => 'PLUGIN_ADMIN_ADDON_USER_MANAGER.LIST'
+                ],
+                'name' => 'plugins.admin-addon-user-manager.default_list_style',
+                'validation' => 'strict'
+            ],
+            'plugins.admin-addon-user-manager.pagination' => [
+                'type' => '_parent',
+                'name' => 'plugins.admin-addon-user-manager.pagination',
+                'form_field' => false
+            ],
+            'plugins.admin-addon-user-manager.pagination.per_page' => [
+                'label' => 'PLUGIN_ADMIN_ADDON_USER_MANAGER.USERS_PER_PAGE',
+                'type' => 'select',
+                'options' => [
+                    10 => 10,
+                    20 => 20,
+                    30 => 30,
+                    40 => 40,
+                    50 => 50,
+                    60 => 60,
+                    70 => 70,
+                    80 => 80,
+                    90 => 90,
+                    100 => 100
+                ],
+                'name' => 'plugins.admin-addon-user-manager.pagination.per_page',
+                'validation' => 'strict'
+            ],
+            'plugins.admin-addon-user-manager.custom_permissions' => [
+                'label' => 'PLUGIN_ADMIN_ADDON_USER_MANAGER.CUSTOM_PERMISSIONS',
+                'type' => 'array',
+                'value_only' => true,
+                'name' => 'plugins.admin-addon-user-manager.custom_permissions',
+                'validation' => 'strict'
+            ],
             'plugins.email' => [
                 'type' => '_root',
                 'form_field' => false,
@@ -3448,7 +3514,7 @@ return [
             'plugins.login.user_registration.options.set_user_disabled' => [
                 'type' => 'toggle',
                 'label' => 'PLUGIN_LOGIN.SET_USER_DISABLED',
-                'highlight' => 1,
+                'highlight' => 0,
                 'options' => [
                     1 => 'PLUGIN_ADMIN.YES',
                     0 => 'PLUGIN_ADMIN.NO'
@@ -3476,7 +3542,7 @@ return [
             'plugins.login.user_registration.options.send_activation_email' => [
                 'type' => 'toggle',
                 'label' => 'PLUGIN_LOGIN.SEND_ACTIVATION_EMAIL',
-                'highlight' => 1,
+                'highlight' => 0,
                 'options' => [
                     1 => 'PLUGIN_ADMIN.YES',
                     0 => 'PLUGIN_ADMIN.NO'
@@ -3487,10 +3553,24 @@ return [
                 'name' => 'plugins.login.user_registration.options.send_activation_email',
                 'validation' => 'loose'
             ],
+            'plugins.login.user_registration.options.manually_enable' => [
+                'type' => 'toggle',
+                'label' => 'PLUGIN_LOGIN.MANUALLY_ENABLE',
+                'highlight' => 0,
+                'options' => [
+                    1 => 'PLUGIN_ADMIN.YES',
+                    0 => 'PLUGIN_ADMIN.NO'
+                ],
+                'validate' => [
+                    'type' => 'bool'
+                ],
+                'name' => 'plugins.login.user_registration.options.manually_enable',
+                'validation' => 'loose'
+            ],
             'plugins.login.user_registration.options.send_notification_email' => [
                 'type' => 'toggle',
                 'label' => 'PLUGIN_LOGIN.SEND_NOTIFICATION_EMAIL',
-                'highlight' => 1,
+                'highlight' => 0,
                 'options' => [
                     1 => 'PLUGIN_ADMIN.YES',
                     0 => 'PLUGIN_ADMIN.NO'
@@ -3504,10 +3584,13 @@ return [
             'plugins.login.user_registration.options.send_welcome_email' => [
                 'type' => 'toggle',
                 'label' => 'PLUGIN_LOGIN.SEND_WELCOME_EMAIL',
-                'highlight' => 1,
+                'highlight' => 0,
                 'options' => [
                     1 => 'PLUGIN_ADMIN.YES',
                     0 => 'PLUGIN_ADMIN.NO'
+                ],
+                'validate' => [
+                    'type' => 'bool'
                 ],
                 'name' => 'plugins.login.user_registration.options.send_welcome_email',
                 'validation' => 'loose'
@@ -4488,6 +4571,14 @@ return [
                         'days_of_stats' => 'plugins.admin.dashboard.days_of_stats'
                     ]
                 ],
+                'admin-addon-user-manager' => [
+                    'enabled' => 'plugins.admin-addon-user-manager.enabled',
+                    'default_list_style' => 'plugins.admin-addon-user-manager.default_list_style',
+                    'pagination' => [
+                        'per_page' => 'plugins.admin-addon-user-manager.pagination.per_page'
+                    ],
+                    'custom_permissions' => 'plugins.admin-addon-user-manager.custom_permissions'
+                ],
                 'email' => [
                     'enabled' => 'plugins.email.enabled',
                     'mailer' => [
@@ -4585,6 +4676,7 @@ return [
                             'set_user_disabled' => 'plugins.login.user_registration.options.set_user_disabled',
                             'login_after_registration' => 'plugins.login.user_registration.options.login_after_registration',
                             'send_activation_email' => 'plugins.login.user_registration.options.send_activation_email',
+                            'manually_enable' => 'plugins.login.user_registration.options.manually_enable',
                             'send_notification_email' => 'plugins.login.user_registration.options.send_notification_email',
                             'send_welcome_email' => 'plugins.login.user_registration.options.send_welcome_email'
                         ]

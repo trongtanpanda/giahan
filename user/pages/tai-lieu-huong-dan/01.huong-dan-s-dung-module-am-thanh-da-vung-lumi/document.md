@@ -1,5 +1,10 @@
 ---
 title: 'HƯỚNG DẪN SỬ DỤNG MODULE ÂM THANH ĐA VÙNG LUMI'
+file: HD_lap_Aat_Am_Thanh_Aa_VAng.pdf
+thumbnail: huong_dan_su_dung.jpg
+taxonomy:
+    category:
+        - tailieu
 visible: true
 twittercardoptions: summary
 articleenabled: false
@@ -14,61 +19,5 @@ restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
     priceRange: $
-form:
-    action: /lien-he
-    name: contact-form
-    fields:
-        - name: name
-          label: Name
-          placeholder: 'Họ Và Tên'
-          type: text
-          validate:
-            required: true
-          classes: form-control
-        - name: email
-          label: Email
-          placeholder: 'Email'
-          type: email
-          validate:
-            required: true
-          classes: form-control
-        - name: phone
-          label: Phone
-          placeholder: 'Điện Thoại'
-          type: text
-          validate:
-            required: true
-          classes: form-control
-        - name: message
-          label: Message
-          placeholder: 'Nội Dung'
-          type: textarea
-          rows: 6
-          validate:
-            required: true
-          classes: form-control
-    buttons:
-        - type: submit
-          value: 'Gửi'
-          classes: 'btn btn-primary'
-    process:
-        - email:
-            from: "{{ config.plugins.email.from }}"
-            to:
-              - "{{ config.plugins.email.to }}"
-            subject: "Liên Hệ"
-            body: '{% include ''forms/contact_admin_mail.html.twig'' %}'
-        - email:
-            from: "{{ config.plugins.email.from }}"
-            to:
-              - '{{ form.value.email }}'
-            subject: "Liên Hệ"
-            body: '{% include ''forms/contact_client_mail.html.twig'' %}'
-        - save:
-            fileprefix: contact-
-            dateformat: Ymd-His-u
-            extension: txt
-            body: "{% include 'forms/data.txt.twig' %}"
-        - display: /thank-you
 ---
 

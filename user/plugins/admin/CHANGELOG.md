@@ -1,3 +1,58 @@
+# v1.8.14
+## 11/12/2018
+
+1. [](#bugfix)
+    * Fixed Grav core update potentially spinning forever because of an error which happens after a successful upgrade
+    * Saving in expert mode can cause `undefined index: header` error [#1537](https://github.com/getgrav/grav-plugin-admin/issues/1537)
+
+# v1.8.13
+## 11/05/2018
+
+1. [](#new)
+    * Added new `|nested()` Twig filter to access array objects with dot notation syntax
+1. [](#bugfix)
+    * Fixed issue with complex lists structure and nested dot-notation [admin#2236](https://github.com/getgrav/grav/issues/2236)
+
+# v1.8.12
+## 10/24/2018
+
+1. [](#improved)
+    * Updated various lang strings
+    * Removed duplicate lang strings
+1. [](#bugfix)
+    * Fix XSS checking when empty content [#1533](https://github.com/getgrav/grav-plugin-admin/issues/1533)
+    * Fix DirectInstall not working [#1535](https://github.com/getgrav/grav-plugin-admin/issues/1535)
+
+# v1.8.11
+## 10/08/2018
+
+1. [](#improved)
+    * Change usage of basename where possible [#1480](https://github.com/getgrav/grav-plugin-admin/pull/1480)
+    * Improved filename validation (requires Grav 1.5.3)
+    * Updated various lang codes
+1. [](#bugfix)
+    * File Uploads: Do not trust mimetype sent by the browser
+    * Fixed file extension detection
+    * Fix for HTML entities in page slug [#1524](https://github.com/getgrav/grav-plugin-admin/issues/1524)
+    * Fix for port in backup download links [#1521](https://github.com/getgrav/grav-plugin-admin/issues/1521)
+
+# v1.8.10
+## 10/01/2018
+
+1. [](#new)
+    * IMPORTANT: Non `admin.super` users are now subject to XSS validation in Page content.  Configurable via Configuration / Security
+    * New XSS content warnings and integration into page save
+    * Added new event `onAdminPage()` which allows plugins to customize `Page` object in `$event['page']`
+1. [](#improved)
+    * Use `Url:post()` to get the `$_POST` variable (allows common security checks/filtering for the POST data)
+    * Requires Grav 1.5.2
+1. [](#bugfix)
+    * Fixed redirect to correct URL after failed login
+    * Fixed issue in `filepicker` where missing images would cause a loop to try to load them
+    * Twig 2 compatibility fixes for macros
+    * Updated `composer.json` to better match Grav 1.5
+    * Remove `package-lock.json` as it was referencing an insecure JS package
+
 # v1.8.9
 ## 08/23/2018
 

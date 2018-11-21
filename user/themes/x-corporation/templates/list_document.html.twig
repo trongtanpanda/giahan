@@ -1,0 +1,33 @@
+{% extends 'partials/base.html.twig' %}
+
+{% block content %}
+<section class="single-page-title">
+    <div class="container text-center">
+        <h2>{{ page.title }}</h2>
+    </div>
+</section>
+
+<section class="ptb-40">
+    <div class="container">
+        <div class="row">
+            <div class="product-list"> 
+                {% set collection = page.collection() %}  
+                {% for p in collection %}                                   
+                    <div class="product-item grid-4">
+                       <a href="{{ p.url }}">
+                             {{ p.media.images[p.header.thumbnail].cropZoom(250, 283).html() }}
+                        </a>
+                        <h3 class="product-title"><a href="{{ p.url }}">{{ p.title }}</a></h3>                        
+                    </div>
+                {% endfor %}            
+            </div>            
+        </div>
+        <div class="row">
+            <div class="col-sm-12 text-center">    
+            {{ dump(collection.params.pagination) }}        
+                {% include 'partials/pagination.html.twig' with {'base_url':page.url, 'pagination':collection.params.pagination} %}
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}

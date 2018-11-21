@@ -1,0 +1,33 @@
+state: enabled
+_json:
+  avatar: 'null'
+  state: '"enabled"'
+email: dungthau89@gmail.com
+fullname: 'Dung Nguyen'
+language: vi
+twofa_enabled: false
+twofa_secret: 3RULY62NCZB2VJF3MT7X35724B3BTGSS
+access:
+  site:
+    login: 'true'
+  admin:
+    super: 'true'
+    login: 'true'
+    cache: 'true'
+    configuration: 'true'
+    configuration_system: 'true'
+    configuration_site: 'true'
+    configuration_media: 'true'
+    configuration_info: 'true'
+    settings: 'true'
+    pages: 'true'
+    maintenance: 'true'
+    statistics: 'true'
+    plugins: 'true'
+    themes: 'true'
+    users: 'true'
+  admin-addon-user-manager:
+    users: 'true'
+    groups: 'true'
+    users_expert: 'true'
+hashed_password: $2y$10$qFVw4HUHBU5pCM4ww2vI3uz./9twO8OWRMf92U4RiE7EF4xz6kxu2

@@ -2126,3 +2126,127 @@ img {
     -o-transition-duration: 1s;
     transition-duration: 1s;
 }
+
+.download-page {
+    margin: 50px auto 80px;
+}
+
+.download-contact {
+    margin: 30px auto;
+}
+
+.download-contact img {
+    margin-left: 50px;
+    margin-right: 5px;
+}
+
+#countDown {
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'SourceSansProRegular';
+    margin-bottom: 15px;
+}
+
+#sumit-form-preload {
+    display: none;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 9999;
+    background: url(../img/ajax-loader.gif) center center no-repeat rgba(255, 255, 255, .5)
+}
+
+
+/* popup */
+
+.inside-text .if-you-need {
+    padding-top: 0px;
+}
+
+.inside-text .learn-more {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+div.row.email-phone-row {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.row.phone-popup p,
+.row.phone-popup img {
+    float: right;
+}
+
+.row.email-popup p,
+.row.email-popup img {
+    float: left;
+}
+
+.row.email-popup {
+    margin-left: 10px;
+}
+
+.row.phone-popup {
+    margin-right: 10px;
+}
+
+.row.row.phone-popup img,
+.row.email-popup img {
+    padding-top: 5px;
+}
+
+.row.phone-popup img {
+    padding-right: 10px;
+}
+
+.row.email-popup p {
+    padding-left: 10px;
+}
+
+.modal-dialog.document-popup {
+    text-align: center;
+    padding: 5px 10px 0px 0px;
+}
+
+.modal-header {
+    border-bottom: none;
+}
+
+.inside-text .big {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    line-height: 1.2;
+}
+
+@media (max-width: 1200px) {
+    .p-top {
+        padding-top: 40px;
+    }
+}
+
+@media (max-width: 768px) {
+    .buttons.col-sm-6.p-top {
+        text-align: center;
+        padding-top: 40px;
+    }
+    .email-phone-row .col-xs-6 {
+        width: 100%;
+    }
+    .row.email-popup,
+    .row.phone-popup {
+        margin: 0 auto;
+        display: inline-block;
+    }
+}
+
+@media (min-width: 768px) {
+    .modal-dialog.document-popup {
+        width: 650px;
+        margin: 30px auto;
+    }
+}
