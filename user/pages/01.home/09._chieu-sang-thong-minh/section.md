@@ -2,7 +2,7 @@
 title: 'CHIẾU SÁNG THÔNG MINH'
 media_order: chuyendong.jpg
 url: nha-thong-minh/chieu-sang-thong-minh
-url_text: 'Xem Thêm'
+url_text: 'Xem Thêm >>'
 target: _self
 type: read-more
 align: left

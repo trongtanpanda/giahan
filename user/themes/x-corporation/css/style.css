@@ -1,5 +1,5 @@
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     line-height: 24px;
     color: #000;
@@ -54,7 +54,7 @@ LINK STYLE
 ------------------------------------------*/
 
 a {
-    color: #21AC48;
+    color: #26AB4A;
     text-decoration: none;
     -webkit-transition: all 0.3s ease 0s;
     -moz-transition: all 0.3s ease 0s;
@@ -717,7 +717,7 @@ Shortcode Content
 }
 
 .hero-slide .carousel-caption h1 {
-    font-size: 60px;
+    font-size: 140px;
     line-height: 1;
     font-weight: bold;
     text-transform: uppercase;
@@ -876,12 +876,15 @@ features start
 -----------------------------------------------------*/
 
 .x-features {
-    background-image: linear-gradient(to right, rgba(33, 172, 72, 1), rgba(33, 172, 72, 0.8));
     padding: 100px 0 85px;
+    box-shadow: 0 0 8px 3px rgba(243, 243, 243, 0.9);
+    -moz-box-shadow: 0 0 8px 3px rgba(243, 243, 243, 0.9);
+    -webkit-box-shadow: 0 0 8px 3px rgba(243, 243, 243, 0.9);
+    -o-box-shadow: 0 0 8px 3px rgba(243, 243, 243, 0.9);
 }
 
 .x-features .section-title h2 {
-    color: #ffffff;
+    color: #000;
 }
 
 .x-features .img-left {
@@ -899,7 +902,7 @@ features start
     float: left;
     margin-right: 25px;
     font-size: 30px;
-    color: #fff;
+    color: #000;
 }
 
 .x-features .promo-icon.right {
@@ -909,7 +912,7 @@ features start
 }
 
 .x-features .promo-content {
-    color: #fff;
+    color: #000;
     overflow: hidden;
     border-bottom: 1px solid rgba(157, 209, 246, 0.4);
     margin-bottom: 20px;
@@ -962,8 +965,8 @@ Team
 
 .team .thumbnail .caption {
     padding: 15px 0;
-    background-color: #f9f9f9;
-    color: #313131;
+    border: 1px solid #f5f5f5;
+    color: #000;
 }
 
 .team .thumbnail h3 small {
@@ -1284,6 +1287,10 @@ service-icon-style
 
 .service-icon-style {
     padding-top: 85px;
+    box-shadow: 0 0 8px 3px rgba(243, 243, 243, 0.9);
+    -moz-box-shadow: 0 0 8px 3px rgba(243, 243, 243, 0.9);
+    -webkit-box-shadow: 0 0 8px 3px rgba(243, 243, 243, 0.9);
+    -o-box-shadow: 0 0 8px 3px rgba(243, 243, 243, 0.9);
 }
 
 
@@ -1793,24 +1800,23 @@ service-icon-style
     margin-left: -1rem;
 }
 
+.read-more-second,
 .read-more {
-    border: none;
-    background-color: #21AC48;
-    color: #fff;
+    background-color: #fff;
+    border: 1px solid #f7931e;
+    color: #f7931e;
+    font-weight: bold;
     text-transform: uppercase;
-    padding: 8px 20px;
+    padding: 10px 35px;
     margin-top: 10px;
+    border-radius: 25px;
     display: inline-block;
 }
 
-.read-more-second {
-    border: none;
-    background-color: #fff;
-    color: #21AC48;
-    text-transform: uppercase;
-    padding: 8px 20px;
-    margin-top: 10px;
-    display: inline-block;
+.read-more-second:hover,
+.read-more:hover {
+    background-color: #f7931e;
+    color: #fff;
 }
 
 .read-more:hover {}

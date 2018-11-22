@@ -1,8 +1,10 @@
 ---
 title: MILO
 media_order: 'page-1_img07.jpg,sp1.png'
-url_text: 'Xem Thêm'
+url: nha-thong-minh/loa-thong-minh-milo-giong-noi-tieng-viet
+url_text: 'Xem Thêm >>'
 target: _self
+type: read-more-second
 align: center
 background: page-1_img07.jpg
 thumbnail: sp1.png

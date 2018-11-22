@@ -1,13 +1,13 @@
 ---
 title: 'NHÀ THÔNG MINH LÀ GÌ?'
 url: lien-he
-url_text: 'Liên Hệ Ngay!'
+url_text: 'Liên Hệ Ngay >>'
 target: _self
 type: read-more-second
 align: center
 background: main-kv.jpg
-bgcolor: '#21AC48'
-color: '#ffffff'
+bgcolor: '#ffffff'
+color: '#000000'
 background-color: '#4d7ecc'
 ---
 
