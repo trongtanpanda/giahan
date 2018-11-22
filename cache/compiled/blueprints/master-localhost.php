@@ -1,89 +1,89 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledBlueprints',
-    'timestamp' => 1542801111,
-    'checksum' => '20f5fc2fcb0dcf1de65d7a33dab9a129',
+    'timestamp' => 1542806164,
+    'checksum' => '4076b68939a173c8fb3f495d9e55bf9e',
     'files' => [
         'user/plugins/admin/blueprints/config' => [
             'media' => [
                 'file' => 'user/plugins/admin/blueprints/config/media.yaml',
-                'modified' => 1542801068
+                'modified' => 1534989886
             ]
         ],
         'system/blueprints/config' => [
             'media' => [
                 'file' => 'system/blueprints/config/media.yaml',
-                'modified' => 1541503594
+                'modified' => 1540581017
             ],
             'security' => [
                 'file' => 'system/blueprints/config/security.yaml',
-                'modified' => 1541503594
+                'modified' => 1540581017
             ],
             'site' => [
                 'file' => 'system/blueprints/config/site.yaml',
-                'modified' => 1541503594
+                'modified' => 1540581017
             ],
             'streams' => [
                 'file' => 'system/blueprints/config/streams.yaml',
-                'modified' => 1541503594
+                'modified' => 1540581017
             ],
             'system' => [
                 'file' => 'system/blueprints/config/system.yaml',
-                'modified' => 1541503594
+                'modified' => 1540581017
             ]
         ],
         'user/plugins' => [
             'plugins/admin' => [
                 'file' => 'user/plugins/admin/blueprints.yaml',
-                'modified' => 1542801068
+                'modified' => 1542804041
             ],
             'plugins/admin-addon-user-manager' => [
                 'file' => 'user/plugins/admin-addon-user-manager/blueprints.yaml',
-                'modified' => 1542801100
+                'modified' => 1542804040
             ],
             'plugins/email' => [
                 'file' => 'user/plugins/email/blueprints.yaml',
-                'modified' => 1541503596
+                'modified' => 1534989886
             ],
             'plugins/error' => [
                 'file' => 'user/plugins/error/blueprints.yaml',
-                'modified' => 1541503596
+                'modified' => 1534989886
             ],
             'plugins/featherlight' => [
                 'file' => 'user/plugins/featherlight/blueprints.yaml',
-                'modified' => 1541987174
+                'modified' => 1541873653
             ],
             'plugins/form' => [
                 'file' => 'user/plugins/form/blueprints.yaml',
-                'modified' => 1542801072
+                'modified' => 1542804041
             ],
             'plugins/login' => [
                 'file' => 'user/plugins/login/blueprints.yaml',
-                'modified' => 1542801076
+                'modified' => 1542804041
             ],
             'plugins/markdown-notices' => [
                 'file' => 'user/plugins/markdown-notices/blueprints.yaml',
-                'modified' => 1541503598
+                'modified' => 1534989886
             ],
             'plugins/pagination' => [
                 'file' => 'user/plugins/pagination/blueprints.yaml',
-                'modified' => 1541671545
+                'modified' => 1541692289
             ],
             'plugins/problems' => [
                 'file' => 'user/plugins/problems/blueprints.yaml',
-                'modified' => 1541503598
+                'modified' => 1534989886
             ],
             'plugins/seo' => [
                 'file' => 'user/plugins/seo/blueprints.yaml',
-                'modified' => 1541503598
+                'modified' => 1537978837
             ],
             'plugins/simplesearch' => [
                 'file' => 'user/plugins/simplesearch/blueprints.yaml',
-                'modified' => 1534495330
+                'modified' => 1541772214
             ],
             'plugins/tinymce-editor' => [
                 'file' => 'user/plugins/tinymce-editor/blueprints.yaml',
-                'modified' => 1541503598
+                'modified' => 1539598555
             ]
         ]
     ],

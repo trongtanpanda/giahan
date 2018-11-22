@@ -175,7 +175,6 @@ button:focus,
 }
 
 .x-section {
-    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1584,12 +1583,12 @@ service-icon-style
 ----------------------------------------------- */
 
 .footer {
-    background: #313131;
+    background: #4e5152;
     color: #fff;
 }
 
 .footer .footer-block {
-    border-right: 1px solid #3a3a3a;
+    border-right: 1px solid #fff;
     padding: 20px 15px;
     min-height: 380px;
 }
@@ -1687,14 +1686,14 @@ service-icon-style
 }
 
 .footer .copyright-section {
-    background-color: #2d2d2d;
-    color: #6b6b6b;
+    background-color: #4e5152;
+    color: #fff;
     padding: 20px 0;
 }
 
 .footer .copyright-section .copytext {
     text-transform: uppercase;
-    color: #6b6b6b;
+    color: #fff;
     font-weight: 600;
 }
 
