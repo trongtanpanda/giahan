@@ -1145,7 +1145,6 @@ Team
     background-position: bottom;
     background-size: cover;
     width: 100%;
-    background-attachment: fixed;
     padding: 13% 0 8%;
     position: relative;
 }
@@ -1157,12 +1156,12 @@ Team
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(0, 0, 0, .7);
+    background: rgba(0, 0, 0, .3);
 }
 
 .single-page-title h2 {
     display: inline-block;
-    font-size: 35px;
+    font-size: 60px;
     text-transform: uppercase;
     font-weight: 700;
     margin-bottom: 0;

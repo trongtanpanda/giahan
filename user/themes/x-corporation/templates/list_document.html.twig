@@ -15,7 +15,7 @@
                 {% for p in collection %}                                   
                     <div class="product-item grid-4">
                        <a href="{{ p.url }}">
-                             {{ p.media.images[p.header.thumbnail].cropZoom(250, 283).html() }}
+                             {{ p.media.images[p.header.thumbnail].cropZoom(300, 260).html() }}
                         </a>
                         <h3 class="product-title"><a href="{{ p.url }}">{{ p.title }}</a></h3>                        
                     </div>

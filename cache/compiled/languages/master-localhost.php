@@ -1,371 +1,371 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledLanguages',
-    'timestamp' => 1542885430,
-    'checksum' => 'd46d004229944cfadb03db6384ead86f',
+    'timestamp' => 1542956332,
+    'checksum' => 'a30de38052b1e4a13f06eb5680e2f003',
     'files' => [
         'system/languages' => [
             'ar' => [
                 'file' => 'system/languages/ar.yaml',
-                'modified' => 1542885358
+                'modified' => 1542956165
             ],
             'ca' => [
                 'file' => 'system/languages/ca.yaml',
-                'modified' => 1542885358
+                'modified' => 1542956165
             ],
             'cs' => [
                 'file' => 'system/languages/cs.yaml',
-                'modified' => 1542885358
+                'modified' => 1542956165
             ],
             'da' => [
                 'file' => 'system/languages/da.yaml',
-                'modified' => 1542885358
+                'modified' => 1542956165
             ],
             'de' => [
                 'file' => 'system/languages/de.yaml',
-                'modified' => 1542885358
+                'modified' => 1542956165
             ],
             'el' => [
                 'file' => 'system/languages/el.yaml',
-                'modified' => 1542885358
+                'modified' => 1542956165
             ],
             'en' => [
                 'file' => 'system/languages/en.yaml',
-                'modified' => 1542885358
+                'modified' => 1542956165
             ],
             'es' => [
                 'file' => 'system/languages/es.yaml',
-                'modified' => 1542885358
+                'modified' => 1542956165
             ],
             'fi' => [
                 'file' => 'system/languages/fi.yaml',
-                'modified' => 1542885358
+                'modified' => 1542956165
             ],
             'fr' => [
                 'file' => 'system/languages/fr.yaml',
-                'modified' => 1542885358
+                'modified' => 1542956165
             ],
             'hr' => [
                 'file' => 'system/languages/hr.yaml',
-                'modified' => 1542885358
+                'modified' => 1542956165
             ],
             'hu' => [
                 'file' => 'system/languages/hu.yaml',
-                'modified' => 1542885358
+                'modified' => 1542956165
             ],
             'it' => [
                 'file' => 'system/languages/it.yaml',
-                'modified' => 1542885358
+                'modified' => 1542956165
             ],
             'ja' => [
                 'file' => 'system/languages/ja.yaml',
-                'modified' => 1542885358
+                'modified' => 1542956165
             ],
             'lt' => [
                 'file' => 'system/languages/lt.yaml',
-                'modified' => 1542885358
+                'modified' => 1542956165
             ],
             'nb' => [
                 'file' => 'system/languages/nb.yaml',
-                'modified' => 1542885358
+                'modified' => 1542956165
             ],
             'nl' => [
                 'file' => 'system/languages/nl.yaml',
-                'modified' => 1542885358
+                'modified' => 1542956165
             ],
             'no' => [
                 'file' => 'system/languages/no.yaml',
-                'modified' => 1542885358
+                'modified' => 1542956165
             ],
             'pl' => [
                 'file' => 'system/languages/pl.yaml',
-                'modified' => 1542885358
+                'modified' => 1542956165
             ],
             'pt' => [
                 'file' => 'system/languages/pt.yaml',
-                'modified' => 1542885358
+                'modified' => 1542956165
             ],
             'ro' => [
                 'file' => 'system/languages/ro.yaml',
-                'modified' => 1542885358
+                'modified' => 1542956165
             ],
             'ru' => [
                 'file' => 'system/languages/ru.yaml',
-                'modified' => 1542885358
+                'modified' => 1542956165
             ],
             'sk' => [
                 'file' => 'system/languages/sk.yaml',
-                'modified' => 1542885358
+                'modified' => 1542956165
             ],
             'sv' => [
                 'file' => 'system/languages/sv.yaml',
-                'modified' => 1542885358
+                'modified' => 1542956165
             ],
             'th' => [
                 'file' => 'system/languages/th.yaml',
-                'modified' => 1542885358
+                'modified' => 1542956165
             ],
             'tr' => [
                 'file' => 'system/languages/tr.yaml',
-                'modified' => 1542885358
+                'modified' => 1542956165
             ],
             'uk' => [
                 'file' => 'system/languages/uk.yaml',
-                'modified' => 1542885358
+                'modified' => 1542956165
             ],
             'vi' => [
                 'file' => 'system/languages/vi.yaml',
-                'modified' => 1542885358
+                'modified' => 1542956165
             ]
         ],
         'user/plugins' => [
             'plugins/email' => [
                 'file' => 'user/plugins/email/languages.yaml',
-                'modified' => 1542885368
+                'modified' => 1542956170
             ],
             'plugins/error' => [
                 'file' => 'user/plugins/error/languages.yaml',
-                'modified' => 1542885369
+                'modified' => 1542956171
             ],
             'plugins/form' => [
                 'file' => 'user/plugins/form/languages.yaml',
-                'modified' => 1542885370
+                'modified' => 1542956172
             ],
             'plugins/simplesearch' => [
                 'file' => 'user/plugins/simplesearch/languages.yaml',
-                'modified' => 1542885370
+                'modified' => 1542956174
             ],
             'plugins/tinymce-editor' => [
                 'file' => 'user/plugins/tinymce-editor/languages.yaml',
-                'modified' => 1542885370
+                'modified' => 1542956175
             ]
         ],
         'user/plugins/admin/languages' => [
             'ar' => [
                 'file' => 'user/plugins/admin/languages/ar.yaml',
-                'modified' => 1542885365
+                'modified' => 1542956169
             ],
             'bg' => [
                 'file' => 'user/plugins/admin/languages/bg.yaml',
-                'modified' => 1542885365
+                'modified' => 1542956169
             ],
             'br' => [
                 'file' => 'user/plugins/admin/languages/br.yaml',
-                'modified' => 1542885365
+                'modified' => 1542956169
             ],
             'ca' => [
                 'file' => 'user/plugins/admin/languages/ca.yaml',
-                'modified' => 1542885365
+                'modified' => 1542956169
             ],
             'cs' => [
                 'file' => 'user/plugins/admin/languages/cs.yaml',
-                'modified' => 1542885365
+                'modified' => 1542956169
             ],
             'cy' => [
                 'file' => 'user/plugins/admin/languages/cy.yaml',
-                'modified' => 1542885365
+                'modified' => 1542956169
             ],
             'da' => [
                 'file' => 'user/plugins/admin/languages/da.yaml',
-                'modified' => 1542885365
+                'modified' => 1542956169
             ],
             'de' => [
                 'file' => 'user/plugins/admin/languages/de.yaml',
-                'modified' => 1542885365
+                'modified' => 1542956169
             ],
             'el' => [
                 'file' => 'user/plugins/admin/languages/el.yaml',
-                'modified' => 1542885365
+                'modified' => 1542956169
             ],
             'en' => [
                 'file' => 'user/plugins/admin/languages/en.yaml',
-                'modified' => 1542885365
+                'modified' => 1542956169
             ],
             'es' => [
                 'file' => 'user/plugins/admin/languages/es.yaml',
-                'modified' => 1542885365
+                'modified' => 1542956169
             ],
             'et' => [
                 'file' => 'user/plugins/admin/languages/et.yaml',
-                'modified' => 1542885365
+                'modified' => 1542956169
             ],
             'eu' => [
                 'file' => 'user/plugins/admin/languages/eu.yaml',
-                'modified' => 1542885365
+                'modified' => 1542956169
             ],
             'fa' => [
                 'file' => 'user/plugins/admin/languages/fa.yaml',
-                'modified' => 1542885365
+                'modified' => 1542956169
             ],
             'fi' => [
                 'file' => 'user/plugins/admin/languages/fi.yaml',
-                'modified' => 1542885365
+                'modified' => 1542956169
             ],
             'fr' => [
                 'file' => 'user/plugins/admin/languages/fr.yaml',
-                'modified' => 1542885365
+                'modified' => 1542956169
             ],
             'he' => [
                 'file' => 'user/plugins/admin/languages/he.yaml',
-                'modified' => 1542885365
+                'modified' => 1542956169
             ],
             'hr' => [
                 'file' => 'user/plugins/admin/languages/hr.yaml',
-                'modified' => 1542885365
+                'modified' => 1542956169
             ],
             'hu' => [
                 'file' => 'user/plugins/admin/languages/hu.yaml',
-                'modified' => 1542885365
+                'modified' => 1542956169
             ],
             'id' => [
                 'file' => 'user/plugins/admin/languages/id.yaml',
-                'modified' => 1542885365
+                'modified' => 1542956169
             ],
             'it' => [
                 'file' => 'user/plugins/admin/languages/it.yaml',
-                'modified' => 1542885365
+                'modified' => 1542956169
             ],
             'ja' => [
                 'file' => 'user/plugins/admin/languages/ja.yaml',
-                'modified' => 1542885365
+                'modified' => 1542956169
             ],
             'ko' => [
                 'file' => 'user/plugins/admin/languages/ko.yaml',
-                'modified' => 1542885365
+                'modified' => 1542956169
             ],
             'lt' => [
                 'file' => 'user/plugins/admin/languages/lt.yaml',
-                'modified' => 1542885365
+                'modified' => 1542956169
             ],
             'nl' => [
                 'file' => 'user/plugins/admin/languages/nl.yaml',
-                'modified' => 1542885365
+                'modified' => 1542956169
             ],
             'no' => [
                 'file' => 'user/plugins/admin/languages/no.yaml',
-                'modified' => 1542885365
+                'modified' => 1542956169
             ],
             'pl' => [
                 'file' => 'user/plugins/admin/languages/pl.yaml',
-                'modified' => 1542885365
+                'modified' => 1542956169
             ],
             'pt' => [
                 'file' => 'user/plugins/admin/languages/pt.yaml',
-                'modified' => 1542885365
+                'modified' => 1542956169
             ],
             'ro' => [
                 'file' => 'user/plugins/admin/languages/ro.yaml',
-                'modified' => 1542885365
+                'modified' => 1542956169
             ],
             'ru' => [
                 'file' => 'user/plugins/admin/languages/ru.yaml',
-                'modified' => 1542885365
+                'modified' => 1542956169
             ],
             'sk' => [
                 'file' => 'user/plugins/admin/languages/sk.yaml',
-                'modified' => 1542885365
+                'modified' => 1542956169
             ],
             'sl' => [
                 'file' => 'user/plugins/admin/languages/sl.yaml',
-                'modified' => 1542885365
+                'modified' => 1542956169
             ],
             'sv' => [
                 'file' => 'user/plugins/admin/languages/sv.yaml',
-                'modified' => 1542885365
+                'modified' => 1542956169
             ],
             'th' => [
                 'file' => 'user/plugins/admin/languages/th.yaml',
-                'modified' => 1542885365
+                'modified' => 1542956169
             ],
             'tlh' => [
                 'file' => 'user/plugins/admin/languages/tlh.yaml',
-                'modified' => 1542885365
+                'modified' => 1542956169
             ],
             'tr' => [
                 'file' => 'user/plugins/admin/languages/tr.yaml',
-                'modified' => 1542885365
+                'modified' => 1542956169
             ],
             'uk' => [
                 'file' => 'user/plugins/admin/languages/uk.yaml',
-                'modified' => 1542885365
+                'modified' => 1542956169
             ],
             'vi' => [
                 'file' => 'user/plugins/admin/languages/vi.yaml',
-                'modified' => 1542885365
+                'modified' => 1542956169
             ],
             'zh' => [
                 'file' => 'user/plugins/admin/languages/zh.yaml',
-                'modified' => 1542885365
+                'modified' => 1542956169
             ]
         ],
         'user/plugins/admin-addon-user-manager/languages' => [
             'cs' => [
                 'file' => 'user/plugins/admin-addon-user-manager/languages/cs.yaml',
-                'modified' => 1542885363
+                'modified' => 1542956169
             ],
             'en' => [
                 'file' => 'user/plugins/admin-addon-user-manager/languages/en.yaml',
-                'modified' => 1542885363
+                'modified' => 1542956169
             ],
             'es' => [
                 'file' => 'user/plugins/admin-addon-user-manager/languages/es.yaml',
-                'modified' => 1542885364
+                'modified' => 1542956169
             ],
             'no' => [
                 'file' => 'user/plugins/admin-addon-user-manager/languages/no.yaml',
-                'modified' => 1542885364
+                'modified' => 1542956169
             ]
         ],
         'user/plugins/login/languages' => [
             'de' => [
                 'file' => 'user/plugins/login/languages/de.yaml',
-                'modified' => 1542885370
+                'modified' => 1542956172
             ],
             'en' => [
                 'file' => 'user/plugins/login/languages/en.yaml',
-                'modified' => 1542885370
+                'modified' => 1542956172
             ],
             'es' => [
                 'file' => 'user/plugins/login/languages/es.yaml',
-                'modified' => 1542885370
+                'modified' => 1542956172
             ],
             'fr' => [
                 'file' => 'user/plugins/login/languages/fr.yaml',
-                'modified' => 1542885370
+                'modified' => 1542956172
             ],
             'hr' => [
                 'file' => 'user/plugins/login/languages/hr.yaml',
-                'modified' => 1542885370
+                'modified' => 1542956172
             ],
             'hu' => [
                 'file' => 'user/plugins/login/languages/hu.yaml',
-                'modified' => 1542885370
+                'modified' => 1542956172
             ],
             'no' => [
                 'file' => 'user/plugins/login/languages/no.yaml',
-                'modified' => 1542885370
+                'modified' => 1542956172
             ],
             'ro' => [
                 'file' => 'user/plugins/login/languages/ro.yaml',
-                'modified' => 1542885370
+                'modified' => 1542956172
             ],
             'ru' => [
                 'file' => 'user/plugins/login/languages/ru.yaml',
-                'modified' => 1542885370
+                'modified' => 1542956172
             ]
         ],
         'user/plugins/seo/languages' => [
             'en' => [
                 'file' => 'user/plugins/seo/languages/en.yaml',
-                'modified' => 1542885370
+                'modified' => 1542956174
             ],
             'nl' => [
                 'file' => 'user/plugins/seo/languages/nl.yaml',
-                'modified' => 1542885370
+                'modified' => 1542956174
             ],
             'ro' => [
                 'file' => 'user/plugins/seo/languages/ro.yaml',
-                'modified' => 1542885370
+                'modified' => 1542956174
             ]
         ]
     ],
@@ -23668,7 +23668,7 @@ Path: `%2$s`
                 6 => 'søndag'
             ]
         ],
-        'checksum' => 'd46d004229944cfadb03db6384ead86f',
-        'timestamp' => 1542885430
+        'checksum' => 'a30de38052b1e4a13f06eb5680e2f003',
+        'timestamp' => 1542956332
     ]
 ];
