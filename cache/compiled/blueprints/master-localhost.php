@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledBlueprints',
-    'timestamp' => 1542956692,
-    'checksum' => '515a7191763029b3a991a5a15cd0e0aa',
+    'timestamp' => 1543221599,
+    'checksum' => 'e75ec72ee26308fb45a919b06c14cac2',
     'files' => [
         'user/plugins/admin/blueprints/config' => [
             'media' => [
@@ -40,6 +40,10 @@ return [
             'plugins/admin-addon-user-manager' => [
                 'file' => 'user/plugins/admin-addon-user-manager/blueprints.yaml',
                 'modified' => 1542956169
+            ],
+            'plugins/backlinks' => [
+                'file' => 'user/plugins/backlinks/blueprints.yaml',
+                'modified' => 1543213492
             ],
             'plugins/email' => [
                 'file' => 'user/plugins/email/blueprints.yaml',
@@ -2647,6 +2651,28 @@ return [
                 'name' => 'plugins.admin-addon-user-manager.custom_permissions',
                 'validation' => 'strict'
             ],
+            'plugins.backlinks' => [
+                'type' => '_root',
+                'form_field' => false,
+                'form' => [
+                    'validation' => 'strict'
+                ]
+            ],
+            'plugins.backlinks.enabled' => [
+                'type' => 'toggle',
+                'label' => 'Plugin status',
+                'highlight' => 1,
+                'default' => 0,
+                'options' => [
+                    1 => 'Enabled',
+                    0 => 'Disabled'
+                ],
+                'validate' => [
+                    'type' => 'bool'
+                ],
+                'name' => 'plugins.backlinks.enabled',
+                'validation' => 'strict'
+            ],
             'plugins.email' => [
                 'type' => '_root',
                 'form_field' => false,
@@ -4578,6 +4604,9 @@ return [
                         'per_page' => 'plugins.admin-addon-user-manager.pagination.per_page'
                     ],
                     'custom_permissions' => 'plugins.admin-addon-user-manager.custom_permissions'
+                ],
+                'backlinks' => [
+                    'enabled' => 'plugins.backlinks.enabled'
                 ],
                 'email' => [
                     'enabled' => 'plugins.email.enabled',

@@ -18,9 +18,8 @@ h3,
 h4,
 h5,
 h6 {
-    margin: 0;
     color: #313131;
-    font-weight: 400;
+    font-weight: bold;
 }
 
 h1 {
@@ -46,6 +45,11 @@ h5 {
 
 h6 {
     font-size: 14px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
 }
 
 
@@ -1145,7 +1149,7 @@ Team
     background-position: bottom;
     background-size: cover;
     width: 100%;
-    padding: 13% 0 8%;
+    padding: 7% 0 3%;
     position: relative;
 }
 
@@ -1589,14 +1593,19 @@ service-icon-style
 ----------------------------------------------- */
 
 .footer {
+    padding-top: 50px;
     background: #4e5152;
     color: #fff;
 }
 
 .footer .footer-block {
-    border-right: 1px solid #fff;
-    padding: 20px 15px;
+    border-right: 1px dashed #fff;
+    padding: 0px 15px;
     min-height: 380px;
+}
+
+.footer .footer-block:last-child {
+    border-right: none;
 }
 
 @media (min-width: 992px) and (max-width: 1199px) {

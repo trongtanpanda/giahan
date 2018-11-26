@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1542956323,
-    'checksum' => '4d3fa048cecc5b8aee2b14384763647d',
+    'timestamp' => 1543221232,
+    'checksum' => '376377431e2b75b736b1ad89da6db88c',
     'files' => [
         'user/config' => [
             'media' => [
@@ -21,6 +21,10 @@ return [
                 'file' => 'user/config/plugins/simplesearch.yaml',
                 'modified' => 1542956166
             ],
+            'plugins/tinymce-editor' => [
+                'file' => 'user/config/plugins/tinymce-editor.yaml',
+                'modified' => 1543217278
+            ],
             'security' => [
                 'file' => 'user/config/security.yaml',
                 'modified' => 1542956166
@@ -35,7 +39,7 @@ return [
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1542956166
+                'modified' => 1543221221
             ],
             'themes/x-corporation' => [
                 'file' => 'user/config/themes/x-corporation.yaml',
@@ -72,6 +76,10 @@ return [
             'plugins/admin-addon-user-manager' => [
                 'file' => 'user/plugins/admin-addon-user-manager/admin-addon-user-manager.yaml',
                 'modified' => 1542956169
+            ],
+            'plugins/backlinks' => [
+                'file' => 'user/plugins/backlinks/backlinks.yaml',
+                'modified' => 1543213492
             ],
             'plugins/email' => [
                 'file' => 'user/plugins/email/email.yaml',
@@ -186,6 +194,10 @@ return [
                 'pagination' => [
                     'per_page' => 20
                 ]
+            ],
+            'backlinks' => [
+                'enabled' => true,
+                'datafile' => 'backlinks.yaml'
             ],
             'email' => [
                 'enabled' => true,
@@ -351,7 +363,7 @@ return [
                 ]
             ],
             'tinymce-editor' => [
-                'enabled' => true,
+                'enabled' => false,
                 'apikey' => '',
                 'plugins' => [
                     0 => 'advlist',
