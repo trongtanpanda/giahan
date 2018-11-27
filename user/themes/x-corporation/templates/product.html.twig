@@ -32,7 +32,39 @@
                 <h4 class="modal-title">Đặt Mua</h4>
               </div>
               <div class="modal-body">
-                {% include "forms/buy.html.twig" %}
+                <form name="product-form" action="/giahan/san-pham/o-cam-thong-minh-lumi" method="POST" id="product-form">
+                    <div class="row">
+                        <input data-grav-field="hidden" data-grav-disabled="false" type="hidden" class="input" name="data[url]" value="http://localhost/giahan/san-pham/o-cam-thong-minh-lumi">
+                        <input data-grav-field="hidden" data-grav-disabled="false" type="hidden" class="input" name="data[product_name]" value="Ổ Cắm Thông Minh Lumi">
+                        <div class="col-md-12">
+                            <div class="form-group user-name">
+                                <label for="name" class="sr-only">Tên của bạn</label>
+                                <input name="data[name]" value="" type="text" class="form-control form-control" placeholder="Tên của bạn" required="required">
+                            </div>
+                            <div class="form-group user-phone">
+                                <label for="phone" class="sr-only">Số Điện Thoại</label>
+                                <input name="data[phone]" value="" type="text" class="form-control form-control" placeholder="Số Điện Thoại" required="required">
+                            </div>
+                            <div class="form-group user-email">
+                                <label for="email" class="sr-only">Email</label>
+                                <input name="data[email]" value="" type="email" class="form-control form-control" placeholder="Email">
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="form-group user-message">
+                                <label for="message" class="sr-only">Địa Chỉ Nhận Hàng</label>
+                                <textarea class="form-control" name="data[message]" placeholder="Địa Chỉ Nhận Hàng" rows="2"></textarea>
+                            </div>
+                        </div>
+                    </div>
+                    <input type="hidden" name="__form-name__" value="product-form">
+                        <div class="buttons">
+                            <button class="btn btn-primary" type="submit">
+                                Đặt Mua
+                            </button>                    
+                        </div>                    
+                    <input type="hidden" name="__unique_form_id__" value="jNvyriSQZY18nOVad5zk">  <input type="hidden" name="form-nonce" value="3e51ade3aa31d0a73d3b1ce0eb37601d">
+                    </form>
               </div>              
             </div>
 
