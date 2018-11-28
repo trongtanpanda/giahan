@@ -12,6 +12,7 @@
     </div>
 </section>
 <section class="ptb-40">
+<div id="sumit-form-preload"></div>
 <div class="container">    
         <div class="col-sm-6 product-image-feature">
             <img class="img-responsive" src="{{page.media.images[page.header.thumbnail].url}}" >
@@ -32,10 +33,10 @@
                 <h4 class="modal-title">Đặt Mua</h4>
               </div>
               <div class="modal-body">
-                <form name="product-form" action="/giahan/san-pham/o-cam-thong-minh-lumi" method="POST" id="product-form">
+                <form name="product-form" action="/giahan/san-pham/dat-mua" method="POST" id="product-form">
                     <div class="row">
-                        <input data-grav-field="hidden" data-grav-disabled="false" type="hidden" class="input" name="data[url]" value="http://localhost/giahan/san-pham/o-cam-thong-minh-lumi">
-                        <input data-grav-field="hidden" data-grav-disabled="false" type="hidden" class="input" name="data[product_name]" value="Ổ Cắm Thông Minh Lumi">
+                        <input data-grav-field="hidden" data-grav-disabled="false" type="hidden" class="input" name="data[url]" value="">
+                        <input data-grav-field="hidden" data-grav-disabled="false" type="hidden" class="input" name="data[product_name]" value="{{page.title}}">
                         <div class="col-md-12">
                             <div class="form-group user-name">
                                 <label for="name" class="sr-only">Tên của bạn</label>
@@ -63,7 +64,7 @@
                                 Đặt Mua
                             </button>                    
                         </div>                    
-                    <input type="hidden" name="__unique_form_id__" value="jNvyriSQZY18nOVad5zk">  <input type="hidden" name="form-nonce" value="3e51ade3aa31d0a73d3b1ce0eb37601d">
+                    <input type="hidden" name="__unique_form_id__" value="7rB0uUX43DihT8QyxSRN">  <input type="hidden" name="form-nonce" value="0f6d10d715221ce44280519a30c11496">
                     </form>
               </div>              
             </div>
@@ -71,6 +72,47 @@
           </div>
         </div>
         <!-- END Modal -->
+        <div class="modal fade" id="successModal" role="dialog">
+            <div class="modal-dialog success-popup">
+
+                <!-- Modal content-->
+                <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>
+                <div class="modal-body">
+                    <div class="inside-body">
+                        <img class="inside-img p-class" src="{{ base_url_absolute }}/user/themes/bootstrap/assets/email.png">
+                    </div>
+                    <div class="inside-text">
+                        <p class="big p-class"><strong>Cảm ơn bạn đã gửi yêu cầu tải xuống tệp hướng dẫn</strong></p>
+                        <p class="below p-class">Chúng tôi đã gửi cho bạn một email có liên kết tải xuống.
+                        </p>
+                        <p class="if-you-need">Nếu bạn gặp khó khăn với việc tải xuống tự động và bạn vẫn muốn nhận được Tài Liệu Hướng Dẫn, vui lòng liên hệ với chúng tôi theo số điện thoại hoặc email bên dưới.</p>
+                        <p class="learn-more"><b>Tìm Hiểu Thêm Về <a href="/">Gia Hân Group</a></b></p>
+                        <div class="row email-phone-row">
+                            <div class="col-xs-6">
+                                <div class="row phone-popup">
+                                        <p>0968.333.268 - 0935.333.268</p>
+                                        <img src="{{ base_url_absolute }}/user/themes/x-corporation/img/phone-popup.png">
+                                </div>
+                            </div>
+                            <div class="col-xs-6">
+                                <div class="row email-popup">
+                                        <img src="{{ base_url_absolute }}/user/themes/x-corporation/img/email-popup.png">
+                                        <p><a href="mailto:GiahanGroup2018@gmail.com">GiahanGroup2018@gmail.com</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    
+                        <button type="button" class="read-more" data-dismiss="modal">OK</button>
+                    </div>
+                </div>
+                </div>
+                <input type="hidden" class="hid-file-path" value="{{ page.media[header.file].url }}">
+                
+            </div>
+        </div>
         <div class="col-xs-12 tabWhy no-padding">
             <h3>{{ page.header.why_heading }}</h3>
             <div role="tabpanel">
@@ -143,6 +185,5 @@
   </div>
 </div>
 </section>
-   
-{% endblock %}
 {% do assets.add('theme://js/product-form.js') %}
+{% endblock %}

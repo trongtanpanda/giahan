@@ -59,9 +59,6 @@ $(document).ready(function() {
     //     ignore: []
     // });
     $('input[name="data[url]"]').val(window.location.href);
-    var file = $(".hid-file-path").val();
-    $(".hid-file-path").remove();
-    $('input[name="data[file_path]"]').val(file);
 
     var contactForm = $('#document-form');
     var responseOutput = $('#myModal');

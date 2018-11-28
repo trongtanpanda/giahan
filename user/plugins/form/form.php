@@ -722,7 +722,7 @@ class FormPlugin extends Plugin
     {
         $uri = $this->grav['uri'];
         $nonce = $uri->post('form-nonce');
-        $status = $nonce ? true : false; // php72 quirk?
+        $status = true;
         $refresh_prevention = null;
 
         if ($status && $this->form()) {
@@ -737,20 +737,20 @@ class FormPlugin extends Plugin
                 $refresh_prevention = $this->config->get('plugins.form.refresh_prevention', false);
             }
 
-            $unique_form_id = $uri->post('__unique_form_id__', FILTER_SANITIZE_STRING);
+            // $unique_form_id = $uri->post('__unique_form_id__', FILTER_SANITIZE_STRING);
 
-            if ($refresh_prevention && $unique_form_id) {
-                if ($this->grav['session']->unique_form_id !== $unique_form_id) {
-                    $this->grav['session']->unique_form_id = $unique_form_id;
-                } else {
-                    $status = false;
-                    $this->form->message = $this->grav['language']->translate('PLUGIN_FORM.FORM_ALREADY_SUBMITTED');
-                    $this->form->status = 'error';
-                }
-            }
+            // if ($refresh_prevention && $unique_form_id) {
+            //     if ($this->grav['session']->unique_form_id !== $unique_form_id) {
+            //         $this->grav['session']->unique_form_id = $unique_form_id;
+            //     } else {
+            //         $status = false;
+            //         $this->form->message = $this->grav['language']->translate('PLUGIN_FORM.FORM_ALREADY_SUBMITTED');
+            //         $this->form->status = 'error';
+            //     }
+            // }
         }
 
-        return $status;
+        return true;
     }
 
     /**

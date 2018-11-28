@@ -1524,12 +1524,16 @@ service-icon-style
 
 .form-control {
     height: 53px;
-    padding: 6px 20px 6px 30px;
+    padding: 6px 5px 6px 30px;
     font-size: 13px;
     line-height: 24px;
     color: #000;
     border-radius: 0;
     box-shadow: none;
+}
+
+.head-search .form-control {
+    padding-left: 10px;
 }
 
 .form-control:focus {
