@@ -10,7 +10,7 @@ slides:
         link: /nha-thong-minh/loa-thong-minh-milo-giong-noi-tieng-viet
     -
         heading: 'Chiếu Sáng <span style="color:#26AB4A">Thông Minh</span>'
-        description: 'Đèn hành lang, cầu thang... sẽ tự động bật khi có người di chuyển và tắt khi không có người. Ngoài ra, bạn có thể bậ/tắt hệ thống chiếu sáng bằng giọng nói tiếng Việt, giải pháp mang đến cuộc sống vạn tiện nghi cho gia đình bạn.'
+        description: 'Đèn hành lang, cầu thang... sẽ tự động bật khi có người di chuyển và tắt khi không có người. Ngoài ra, bạn có thể bật/tắt hệ thống chiếu sáng bằng giọng nói tiếng Việt, giải pháp mang đến cuộc sống vạn tiện nghi cho gia đình bạn.'
         background_image: page-1_slide02.jpg
         background_image_description: 'Chiếu Sáng Thông Minh'
         link: /nha-thong-minh/chieu-sang-thong-minh

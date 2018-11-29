@@ -1,5 +1,5 @@
 {% set pagination = pagination|default(page.collection.params.pagination) %}
-{% set base_url = base_url|default(page.url) %}
+{% set base_url = uri.url(false) %}
 
 {% if pagination|length > 1 %}
 
@@ -17,6 +17,7 @@
             <li class="active"><span>{{ paginate.number }}</span></li>
         {% elseif paginate.isInDelta %}
             {% set url = base_url ~ (pagination.params ~ paginate.url)|replace({'//':'/'}) %}
+            
             <li><a href="{{ url }}">{{ paginate.number }}</a></li>
         {% elseif paginate.isDeltaBorder %}
             <li class="gap"><span>&hellip;</span></li>

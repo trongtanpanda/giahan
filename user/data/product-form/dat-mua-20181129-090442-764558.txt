@@ -1,0 +1,7 @@
+url: 'http://localhost/giahan/san-pham/cam-bien-chuyen-dong'
+product_name: 'Cảm biến chuyển động'
+name: tan
+phone: '902194592'
+email: tannt.itedu@gmail.com
+message: ád
+

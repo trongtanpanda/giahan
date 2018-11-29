@@ -1,4 +1,4 @@
-<section class="search-row">
+<section class="col-xs-12 search-row">
 
     {% set banner = page.media.images|first %}
 
@@ -20,7 +20,7 @@
         </div>
 
         <p>{% if sum %} {{ sum }} {% else %} {{ page.header.summary }} {% endif %}</p>
-        <p class="result-url">{{ page.url(true) }}</p>
+        <div class="event-item-link"><a class="read-more" href="{{ page.url(true) }}">Chi Tiết >></a> </div>
         <hr />
 
     </div>

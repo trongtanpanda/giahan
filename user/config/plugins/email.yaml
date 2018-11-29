@@ -9,8 +9,8 @@ mailer:
     server: smtp.gmail.com
     port: 465
     encryption: ssl
-    user: mythien20112@gmail.com
-    password: 01225573345huong
+    user: tannt.itedu@gmail.com
+    password: avzaviimzkipxyig
   sendmail:
     bin: '/usr/sbin/sendmail -bs'
 content_type: text/html

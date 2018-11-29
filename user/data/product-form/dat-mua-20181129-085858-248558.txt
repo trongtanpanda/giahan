@@ -1,0 +1,7 @@
+url: 'http://localhost/giahan/san-pham/cong-tac-cam-ung-4-nut-lm-s4-trang'
+product_name: 'Công tắc cảm ứng 4 nút lm-s4 trắng'
+name: tan
+phone: '902194592'
+email: tannt.itedu@gmail.com
+message: sdfsd
+

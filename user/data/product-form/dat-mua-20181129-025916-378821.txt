@@ -1,0 +1,7 @@
+url: 'http://localhost/giahan/san-pham/am-thanh-da-vung'
+product_name: 'Âm thanh đa vùng'
+name: tan
+phone: '902194592'
+email: tannt.itedu@gmail.com
+message: dfg
+

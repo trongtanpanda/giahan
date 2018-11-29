@@ -24,16 +24,24 @@
         </div>
 
         {% set count = search_results["collection"] ? search_results["collection"].count : 0 %}
+        
         {% if count == 0 %}
-            <p style="margin-top: 10px"><strong>Sorry, we couldn't find any matches for "{{ query }}"</strong></p>
+            <div class="col-sm-12>
+                <p style="margin-top: 10px"><strong>Xin Lỗi, không tìm thấy kết quả nào cho "{{ query }}"</strong></p>
+            </div>
         {% endif %}
 
-        {% for page in search_results["collection"] %}
+        {% set collection = search_results["collection"] %}
+        {% set limit = 10 %}
+        {% set ignore_url_param_array = [ 'event' ] %}
+        {% do paginate( collection, limit, ignore_url_param_array ) %}
+
+        {% for page in collection %}
             {% include 'partials/simplesearch_item.html.twig' with {'page':page, 'sum':search_results["textSum"][page.id] } %}
         {% endfor %}
-
+        
         <div class="col-sm-12 text-center">            
-            {% include 'partials/pagination.html.twig' with {'base_url':page.url, 'pagination':search_results.params.pagination} %}
+            {% include 'partials/pagination.html.twig' with {'base_url':page.url, 'pagination':collection.params.pagination} %}
         </div>
         </div>
     </div>

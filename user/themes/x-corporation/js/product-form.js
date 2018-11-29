@@ -5,17 +5,10 @@ jQuery(function($) {
         $('input[name="data[product_name]"]').val($('.product-main-info h2').html());
     });
     var productForm = $('#product-form');
-    console.log(productForm);
     var responseOutput = $('#successModal');
     validate(productForm);
     productForm.on('submit', function(event) {
-        console.log("submit");
-        // PREVENT DEFAULT FORM SUBMISSION
         event.preventDefault();
-        //prevent submit when captcha fail
-        // if ($('form').has("#g-recaptcha-response").length && $("#g-recaptcha-response").val() === '') {
-        //     return false;
-        // }
         showSubmitIcon();
         var email = $("input[name='data[email]']").val();
         var formdata = productForm.serialize();
@@ -28,9 +21,9 @@ jQuery(function($) {
             // ON AJAX SUCCES
             success: function(message, status) {
                 HideSubmitIcon();
-                console.log(message);
                 // IF JSON RETURN 'success' as statut
                 if (message.indexOf('success') > -1) {
+                    $('#myModal').modal('hide');
                     responseOutput.modal('toggle');
                     //productForm.find("input, textarea").val("");
                     productForm.trigger("reset");

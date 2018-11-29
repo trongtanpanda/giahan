@@ -1,5 +1,5 @@
 ---
-title: Page not Found
+title: Trang không tồn tại
 robots: noindex,nofollow
 template: error
 routable: false

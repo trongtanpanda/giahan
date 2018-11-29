@@ -82,7 +82,6 @@ $(document).ready(function() {
             // ON AJAX SUCCES
             success: function(message, status) {
                 HideSubmitIcon();
-                console.log(message);
                 // IF JSON RETURN 'success' as statut
                 if (message.indexOf('success') > -1) {
                     responseOutput.modal('toggle');
