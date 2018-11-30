@@ -3,11 +3,10 @@ title: 'Tư vấn giải pháp'
 content:
     items: '@self.children'
     order:
-        by: date
+        by: default
         dir: desc
     limit: 10
-    pagination: true
-pagination: true
+    pagination: '1'
 menu: 'Tư vấn giải pháp'
 twittercardoptions: summary
 articleenabled: false
@@ -22,5 +21,6 @@ restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
     priceRange: $
+pagination: true
 ---
 
