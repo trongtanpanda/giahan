@@ -1,5 +1,5 @@
 ---
-title: 'Lý do chọn Gia Hân'
+title: 'Lý Do Chọn Giải Pháp Nhà Thông Minh LUMI <br /> Do GiaHanGroup Phân Phối Và Thi Công'
 whys:
     -
         title: 'Chứng chỉ quốc tế'

@@ -256,6 +256,12 @@ button:focus,
 
 @media (min-width: 768px) {
     /*custom-padding class*/
+    .carousel-caption {
+        right: 0%;
+        left: 0%;
+        max-width: 1300px;
+        margin: 0 auto;
+    }
     .pl-30 {
         padding-left: 30px;
     }
@@ -731,7 +737,7 @@ Shortcode Content
 }
 
 .hero-slide .carousel-caption h1 {
-    font-size: 140px;
+    font-size: 8.75em;
     line-height: 1;
     font-weight: bold;
     text-transform: uppercase;
@@ -758,11 +764,11 @@ Shortcode Content
 }
 
 .hero-slide .carousel-control.left {
-    left: 1%;
+    left: 50px;
 }
 
 .hero-slide .carousel-control.right {
-    right: 1%;
+    right: 50px;
 }
 
 .hero-slide .carousel-indicators {
@@ -2064,6 +2070,12 @@ div.main-row {
 
 .center {
     text-align: center;
+}
+
+i,
+em {
+    text-align: center;
+    display: inherit;
 }
 
 img {

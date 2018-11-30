@@ -23,7 +23,7 @@ restaurant:
 
 <p>Nhiều kh&aacute;ch h&agrave;ng đ&atilde; v&agrave; đang biết được tiện &iacute;ch của nh&agrave; th&ocirc;ng minh Lumi v&agrave; cũng đang muốn t&igrave;m hiểu để lắp đặt nhưng hiện tại vẫn chưa biết được n&ecirc;n mua những thiết bị đ&oacute; ở đ&acirc;u cho đảm bảo v&agrave; an to&agrave;n, V&igrave; đ&oacute; thật ra đ&acirc;y cũng l&agrave; phải bỏ một số tiến kh&ocirc;ng nhỏ để lắp đặt hệ thống nh&agrave; th&ocirc;ng minh n&agrave;y. Ch&iacute;nh v&igrave; vậy việc băn khoăn kh&ocirc;ng biết mua thiết bị đ&oacute; ở đ&acirc;u l&agrave; c&acirc;u hỏi của nhiều kh&aacute;ch h&agrave;ng.</p>
 <p>H&atilde;y đến với Gia H&acirc;n group trụ sở ch&iacute;nh tại&nbsp;<span class="foo-detail foo-address">Số 304 Nguyễn Đ&igrave;nh Tựu, Q.Thanh Kh&ecirc; Đ&agrave; Nẵng, ngo&agrave;i ra Gia H&acirc;n c&ograve;n c&oacute; thể ph&acirc;n phối to&agrave;n quốc v&agrave; c&oacute; đội ngũ nh&acirc;n vi&ecirc;n lắp đặt đầy kinh nghiệm, nhiệt t&igrave;nh.</span></p>
-<p><img src="/giahan/tin-tuc/thiet-bi-nha-thong-minh-lumi-nen-mua-no-o-dau/khachhangtrainghiemgiaiphapnhathongminhlumi_jpxo.jpg" alt="" /></p>
+<p><img src="/newv1/tin-tuc/thiet-bi-nha-thong-minh-lumi-nen-mua-no-o-dau/khachhangtrainghiemgiaiphapnhathongminhlumi_jpxo.jpg" alt="" /></p>
 <hr />
 <p>&nbsp;</p>
 <p><strong><span class="foo-detail foo-address">&nbsp;NHỮNG HỎI Đ&Aacute;P CỦA KH&Aacute;CH H&Agrave;NG</span></strong></p>

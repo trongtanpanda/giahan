@@ -22,7 +22,7 @@ restaurant:
 ---
 
 <p><strong><a href="http://tapchitaichinh.vn/tags/bmjDoCB0aMO0bmcgbWluaCA=/nha-thong-minh.html" target="_blank" rel="noopener">Nh&agrave; th&ocirc;ng minh</a></strong>&nbsp;đ&atilde; trở th&agrave;nh một kh&aacute;i niệm lạ m&agrave; quen trong thiết kế. Để x&acirc;y dựng một căn nh&agrave; th&ocirc;ng minh đ&uacute;ng nghĩa m&agrave; tiết kiệm chi ph&iacute; nhất, ch&uacute;ng ta cần phải lưu &yacute; những g&igrave;</p>
-<p><img src="/giahan/tin-tuc/nhung-dieu-can-biet-de-ngoi-nha-thong-minh-cua-ban-tro-nen-an-toan-hon/goi-lumihome-giai-phap-nha-thong-minh-lumi-1-cad1fc30-54be-474d-aa05-25de29f3a2dd_2.jpg" alt="" /></p>
+<p><img src="/newv1/tin-tuc/nhung-dieu-can-biet-de-ngoi-nha-thong-minh-cua-ban-tro-nen-an-toan-hon/goi-lumihome-giai-phap-nha-thong-minh-lumi-1-cad1fc30-54be-474d-aa05-25de29f3a2dd_2.jpg" alt="" /></p>
 <p>&nbsp;</p>
 <div><strong>Thiết kế&nbsp;<a href="http://tapchitaichinh.vn/tags/ICBraeG6v24gdHLDumM=/kien-truc.html" target="_blank" rel="noopener">kiến tr&uacute;c</a>&nbsp;khi x&acirc;y&nbsp;<a href="http://tapchitaichinh.vn/tags/bmjDoCB0aMO0bmcgbWluaCA=/nha-thong-minh.html" target="_blank" rel="noopener">nh&agrave; th&ocirc;ng minh</a></strong></div>
 <p>Nh&agrave; th&ocirc;ng minh cũng như một ng&ocirc;i nh&agrave; b&igrave;nh thường, trước khi x&acirc;y dựng cần c&oacute; bản vẽ kiến tr&uacute;c của căn nh&agrave;.&nbsp;</p>

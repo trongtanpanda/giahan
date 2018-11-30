@@ -22,7 +22,7 @@ restaurant:
 ---
 
 <div class="col-sm-9 post_content">
-<p><img src="/giahan/tin-tuc/cuoc-cach-mang-4-0-qua-cai-nhin-cua-quyen-bo-truong-bo-tttt-nguyen-manh-hung/quyan_ba_trAEang_ba_TTTT_Nguyan_Manh_HAng.jpg" alt="" /></p>
+<p><img src="/newv1/tin-tuc/cuoc-cach-mang-4-0-qua-cai-nhin-cua-quyen-bo-truong-bo-tttt-nguyen-manh-hung/quyan_ba_trAEang_ba_TTTT_Nguyan_Manh_HAng.jpg" alt="" /></p>
 <h2 class="sapo">Dưới g&oacute;c nh&igrave;n của quyền Bộ trưởng Bộ TTTT&nbsp; &ocirc;ng Nguyễn Mạnh H&ugrave;ng, c&aacute;ch mạng c&ocirc;ng nghiệp lần thứ 4 đem lại nhiều cơ hội v&agrave; ch&iacute;nh quyền sẽ nhỏ hơn, th&ocirc;ng minh hơn. Trong khi đ&oacute;, người lao động sẽ c&oacute; cơ hội cải thiện kỹ năng mềm v&agrave; đặc biệt l&agrave; cuộc c&aacute;ch mạng về tư duy.</h2>
 <div id="contentdetail" class="contentdetail">
 <p>Quyền Bộ trưởng Bộ TTTT Nguyễn Mạnh H&ugrave;ng l&agrave; diễn giả đại diện Việt Nam tham gia v&agrave;o phi&ecirc;n bế mạc Diễn đ&agrave;n Kinh tế thế giới (WEF) về ASEAN. &Ocirc;ng H&ugrave;ng được giới học giả quốc tế đ&aacute;nh gi&aacute; cao khi từng rất th&agrave;nh c&ocirc;ng trong vai tr&ograve; CEO c&ocirc;ng ty viễn th&ocirc;ng lớn nhất Việt Nam.</p>

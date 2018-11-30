@@ -23,13 +23,13 @@ restaurant:
 ---
 
 <p><strong>Để việc thi c&ocirc;ng lắp đặt ng&ocirc;i nh&agrave; th&ocirc;ng minh được thuận lợi, nhất định bạn phải đặt ra c&aacute;c c&acirc;u hỏi sau đ&acirc;y cho nh&agrave; ph&acirc;n phối, điều n&agrave;y sẽ gi&uacute;p bạn c&oacute; được ng&ocirc;i nh&agrave; tốt nhất.</strong></p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/giahan/tu-van-giai-phap/truoc-khi-lap-dat-ngoi-nha-thong-minh-can-phai-dat-ra-nhung-cau-hoi-nay/13.png" alt="" width="500" /></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/newv1/tu-van-giai-phap/truoc-khi-lap-dat-ngoi-nha-thong-minh-can-phai-dat-ra-nhung-cau-hoi-nay/13.png" alt="" width="500" /></p>
 <p><strong>C&aacute;c c&acirc;u hỏi quan trọng cụ thể như:</strong></p>
 <p><strong>Ng&ocirc;i nh&agrave; sử dụng giao thức kết nối g&igrave;?</strong></p>
 <p>Hiểu được c&aacute;c vấn đề n&agrave;y sẽ gi&uacute;p bạn biết được khả năng t&iacute;ch hợp c&aacute;c thiết bị cho ng&ocirc;i nh&agrave; của bạn trong thời điểm hiện tại v&agrave; tương lai. Giao thức kết nối hiện nay c&oacute; thể l&agrave; Bluetooth, RF, S Wave hay Zigbee&hellip;.C&ocirc;ng nghệ Zigbee hiện tại đang l&agrave; giao thức t&acirc;n tiến nhất, trong tương lai c&oacute; thể sẽ l&agrave; xu hướng mới.</p>
 <p><strong>Ngo&agrave;i c&aacute;c kết nối tr&ecirc;n ng&ocirc;i nh&agrave; c&oacute; được t&iacute;ch hợp c&aacute;c thiết bị kh&aacute;c kh&ocirc;ng?</strong></p>
 <p>Do nhu cầu sử dụng ng&agrave;y c&agrave;ng cao, n&ecirc;n rất c&oacute; thể sau n&agrave;y bạn cần phải sử dụng th&ecirc;m nhiều thiết bị kh&aacute;c nữa, v&igrave; thế bạn phải hỏi kỹ xem sau n&agrave;y c&oacute; thể n&acirc;ng cấp hệ thống ng&ocirc;i nh&agrave; th&ocirc;ng minh của m&igrave;nh gi&uacute;p ho&agrave;n thiện hơn.</p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/giahan/tu-van-giai-phap/truoc-khi-lap-dat-ngoi-nha-thong-minh-can-phai-dat-ra-nhung-cau-hoi-nay/Nai-that-cao-cap-tai-Vinhomes-Symphony.jpg" alt="" width="500" /></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/newv1/tu-van-giai-phap/truoc-khi-lap-dat-ngoi-nha-thong-minh-can-phai-dat-ra-nhung-cau-hoi-nay/Nai-that-cao-cap-tai-Vinhomes-Symphony.jpg" alt="" width="500" /></p>
 <p>C&aacute;c thiết bị cơ bản khi lắp đặt ng&ocirc;i nh&agrave; th&ocirc;ng minh</p>
 <p><strong>Ng&ocirc;i nh&agrave; c&oacute; t&iacute;ch hợp Amazon Echo, Google Home kh&ocirc;ng ?</strong></p>
 <p>C&oacute; thể đến một ng&agrave;y chiếc điện thoại th&ocirc;ng minh cũng kh&ocirc;ng c&ograve;n cần thiết để mang theo b&ecirc;n m&igrave;nh nữa, thay v&igrave; đ&oacute; l&agrave; điều khiển bằng giọng n&oacute;i sẽ l&agrave; xu hướng thời đại mới. V&igrave; thế bạn cũng cần hỏi nh&agrave; ph&acirc;n phối về vấn đề n&agrave;y.</p>
@@ -41,7 +41,7 @@ restaurant:
 <p>Ri&ecirc;ng nh&agrave; th&ocirc;ng minh phần lớn chỉ nh&agrave; cung cấp v&agrave; lắp đặt th&igrave; mới chắc chắn th&agrave;nh thạo. V&igrave; thế vấn đề bảo h&agrave;nh, hỗ trợ sau khi lắp đặt l&agrave; v&ocirc; c&ugrave;ng quan trọng.</p>
 <p><strong>Vậy &yacute; nghĩa thật sự của việc lắp đặt ng&ocirc;i nh&agrave; th&ocirc;ng minh l&agrave; g&igrave;?</strong></p>
 <p>Ng&ocirc;i nh&agrave; th&ocirc;ng minh c&oacute; t&iacute;ch hợp một trung t&acirc;m đầu n&atilde;o để thu thập t&iacute;n hiệu v&agrave; th&ocirc;ng tin c&aacute;c cảm biến b&aacute;o về. Từ đ&oacute; trung t&acirc;m sẽ chỉ huy c&aacute;c thiết bị điện, điện tử kh&aacute;c trong nh&agrave;, phục vụ c&aacute;c nhu cầu của chủ nh&acirc;n.</p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/giahan/tu-van-giai-phap/truoc-khi-lap-dat-ngoi-nha-thong-minh-can-phai-dat-ra-nhung-cau-hoi-nay/15.png" alt="" width="500" /></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/newv1/tu-van-giai-phap/truoc-khi-lap-dat-ngoi-nha-thong-minh-can-phai-dat-ra-nhung-cau-hoi-nay/15.png" alt="" width="500" /></p>
 <p>Điều khiển dễ d&agrave;ng mọi thiết bị ở bất cứ đ&acirc;u</p>
 <p>Việc lắp đặt ng&ocirc;i nh&agrave; th&ocirc;ng minh nhằm giải ph&oacute;ng bớt những c&ocirc;ng việc kh&ocirc;ng cần thiết trong ng&ocirc;i nh&agrave;, chẳng hạn như việc phải leo l&ecirc;n cầu thang để tắt đ&egrave;n, đi xa nh&agrave; phải về tưới c&acirc;y&hellip;Với ng&ocirc;i nh&agrave; th&ocirc;ng minh bạn chỉ cần c&aacute;c n&uacute;t k&iacute;ch hoạt c&aacute;c ngữ cảnh được lập tr&igrave;nh theo &yacute; muốn của bạn, được lưu v&agrave;o 1-2 n&uacute;t nhất định, v&igrave; thế bạn cũng kh&ocirc;ng cần phải lo lắng.</p>
 <p><strong>Nh&agrave; th&ocirc;ng minh mang lại lợi &iacute;ch g&igrave;?</strong></p>

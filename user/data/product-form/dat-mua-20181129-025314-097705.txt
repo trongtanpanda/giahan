@@ -1,4 +1,4 @@
-url: 'http://localhost/giahan/san-pham/am-thanh-da-vung'
+url: 'http://localhost/newv1/san-pham/am-thanh-da-vung'
 product_name: 'Âm thanh đa vùng'
 name: tan
 phone: '902194592'

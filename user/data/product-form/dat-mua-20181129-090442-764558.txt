@@ -1,4 +1,4 @@
-url: 'http://localhost/giahan/san-pham/cam-bien-chuyen-dong'
+url: 'http://localhost/newv1/san-pham/cam-bien-chuyen-dong'
 product_name: 'Cảm biến chuyển động'
 name: tan
 phone: '902194592'

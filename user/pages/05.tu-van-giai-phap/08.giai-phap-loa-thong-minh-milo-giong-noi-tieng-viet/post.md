@@ -23,10 +23,10 @@ restaurant:
 ---
 
 <p><strong>Trong cuộc sống hiện đại th&igrave; những giải ph&aacute;p c&ocirc;ng nghệ hiện đại lu&ocirc;n gi&uacute;p qu&yacute; kh&aacute;ch c&oacute; một cuộc sống hiện đại v&agrave; tiện &iacute;ch nhất. Một trong những tiện &iacute;ch đ&oacute; ch&iacute;nh l&agrave; giải ph&aacute;p loa th&ocirc;ng minh Milo - Điều khiển bằng giọng n&oacute;i tiếng việt, gi&uacute;p bạn c&oacute; thể điều khiển tất cả c&aacute;c thiết bị trong gia đ&igrave;nh bằng giọng n&oacute;i của m&igrave;nh.</strong></p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/giahan/tu-van-giai-phap/giai-phap-loa-thong-minh-milo-giong-noi-tieng-viet/7.png" alt="" /></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/newv1/tu-van-giai-phap/giai-phap-loa-thong-minh-milo-giong-noi-tieng-viet/7.png" alt="" /></p>
 <p><strong>Tiện &iacute;ch của giải ph&aacute;p loa th&ocirc;ng minh Milo- giọng n&oacute;i tiếng việt</strong></p>
 <p>Khi được trang bị giải ph&aacute;p Milo &ndash; Giọng n&oacute;i tiếng Việt, bạn c&oacute; thể dễ d&agrave;ng điều khiển, kiểm so&aacute;t tất cả thiết bị trong gia đ&igrave;nh m&igrave;nh chỉ với một c&acirc;u lệnh</p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/giahan/tu-van-giai-phap/giai-phap-loa-thong-minh-milo-giong-noi-tieng-viet/8.png" alt="" width="800" /></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/newv1/tu-van-giai-phap/giai-phap-loa-thong-minh-milo-giong-noi-tieng-viet/8.png" alt="" width="800" /></p>
 <p><em>Tiện &iacute;ch của giải ph&aacute;p Milo- giọng n&oacute;i tiếng việt</em></p>
 <p>Bạn c&oacute; thể điều khiển hệ thống &aacute;nh s&aacute;ng, hệ thống quạt, điều h&ograve;a, n&oacute;ng lạnh trong ng&ocirc;i nh&agrave; của m&igrave;nh. Giải ph&aacute;p loa th&ocirc;ng minh Milo mang đến rất nhiều tiện &iacute;ch cho cuộc sống của bạn đ&oacute; l&agrave;:</p>
 <p><strong><em>Điều khiển tất cả những thiết bị trong ng&ocirc;i nh&agrave; bằng tiếng việt</em></strong></p>
@@ -37,7 +37,7 @@ restaurant:
 <p><strong><em>Thiết kế tinh tế</em></strong></p>
 <p>Với 2 m&agrave;u sắc n&acirc;u v&agrave; đen c&ugrave;ng thiết kế viền nh&ocirc;m sang trọng v&agrave; th&acirc;n được bọc vải cẩn thận, loa Lumi rất th&acirc;n thiện v&agrave; trang nh&atilde;, mang đến cho &nbsp;kh&ocirc;ng gian vẻ đẹp ho&agrave;n hảo nhất.</p>
 <p>Đặc biệt, n&oacute; cũng c&oacute; thể l&agrave; một vật trang tr&iacute;, gi&uacute;p căn &nbsp;ph&ograve;ng trở n&ecirc;n đẹp, lịch sử v&agrave; trang nh&atilde; hơn</p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/giahan/tu-van-giai-phap/giai-phap-loa-thong-minh-milo-giong-noi-tieng-viet/9.png" alt="" /></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/newv1/tu-van-giai-phap/giai-phap-loa-thong-minh-milo-giong-noi-tieng-viet/9.png" alt="" /></p>
 <p><em>Thiết kế tinh tế của loa th&ocirc;ng minh Milo</em></p>
 <p><strong><em>An to&agrave;n với người d&ugrave;ng</em></strong></p>
 <p>Nếu bạn đang lo lắng rằng kh&ocirc;ng biết sản phẩm n&agrave;y c&oacute; nguy hại v&agrave; g&acirc;y nguy hiểm trong qu&aacute; tr&igrave;nh sử dụng hay kh&ocirc;ng ch&uacute;ng t&ocirc;i xin khẳng định rằng: &ldquo;Sản phẩm n&agrave;y cũng rất an to&agrave;n với người sử dụng, đạt chuẩn Ch&acirc;u &Acirc;u v&agrave; được ph&eacute;p xuất khẩu ra 104 quốc gia tr&ecirc;n thế giới&rdquo;</p>

@@ -40,4 +40,4 @@ restaurant:
 <li>Kiểm tra trạng th&aacute;i thiết bị</li>
 </ul>
 <p>Thiết Kế Tinh Tế<br />Hai m&agrave;u đen, n&acirc;u sang trọng, viền nh&ocirc;m, th&acirc;n bọc vải, Milo thực sự th&acirc;n thiện v&agrave; trang nh&atilde;. Sản phẩm đạt chuẩn ch&acirc;u &Acirc;u - CE v&agrave; UL &ndash; được ph&eacute;p xuất khẩu tới 104 quốc gia tr&ecirc;n thế giới.</p>
-<p><img src="/giahan/nha-thong-minh/loa-thong-minh-milo-giong-noi-tieng-viet/sp3.png" alt="" /></p>
+<p><img src="/newv1/nha-thong-minh/loa-thong-minh-milo-giong-noi-tieng-viet/sp3.png" alt="" /></p>

@@ -1,6 +1,6 @@
 file_name: 'HƯỚNG DẪN SỬ DỤNG MODULE ÂM THANH ĐA VÙNG LUMI'
-file_path: /giahan/user/pages/tai-lieu-huong-dan/01.huong-dan-s-dung-module-am-thanh-da-vung-lumi/HD_lap_Aat_Am_Thanh_Aa_VAng.pdf
-url: 'http://localhost/giahan/tai-lieu-huong-dan/huong-dan-s-dung-module-am-thanh-da-vung-lumi'
+file_path: /newv1/user/pages/tai-lieu-huong-dan/01.huong-dan-s-dung-module-am-thanh-da-vung-lumi/HD_lap_Aat_Am_Thanh_Aa_VAng.pdf
+url: 'http://localhost/newv1/tai-lieu-huong-dan/huong-dan-s-dung-module-am-thanh-da-vung-lumi'
 name: tan
 email: tannt.itedu@gmail.com
 phone: '902194592'

@@ -1,4 +1,4 @@
-url: 'http://localhost/giahan/san-pham/cong-tac-cam-ung-ma-vang'
+url: 'http://localhost/newv1/san-pham/cong-tac-cam-ung-ma-vang'
 product_name: 'Công tắc cảm úng mạ vàng'
 name: tan
 phone: '902194592'

@@ -2,7 +2,7 @@ var countdown = 5;
 var intervalV = 0;
 
 jQuery(document).ready(function() {
-    var file = window.location.origin + "/giahan/lib/downloadfile.php?us=" + jQuery("#email_dl").val() + "&rs=" + jQuery("#file_dl").val();
+    var file = window.location.origin + "/newv1/lib/downloadfile.php?us=" + jQuery("#email_dl").val() + "&rs=" + jQuery("#file_dl").val();
     jQuery("#countDown").text(getTextDisplay(countdown));
     intervalV = setInterval(function() { updateCountDown() }, 1000);
 

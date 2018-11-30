@@ -23,10 +23,10 @@ restaurant:
 ---
 
 <p><strong>Ng&agrave;y nay những căn hộ chung cư ng&agrave;y c&agrave;ng trở n&ecirc;n phổ biến l&agrave; l&agrave; lựa chọn h&agrave;ng đầu của nhiều gia đ&igrave;nh hiện nay, đặc biệt l&agrave; gia đ&igrave;nh của những vợ chồng trẻ. Để c&oacute; thể mang đến một cuộc sống tiện &iacute;ch hơn cho những gia đ&igrave;nh Việt Nam. Lumi đ&atilde; mang đến giải ph&aacute;p thiết kế giải ph&aacute;p nh&agrave; th&ocirc;ng minh Lumi cho nh&agrave; chung cư, gi&uacute;p mọi người trong căn hộ c&oacute; một cuộc sống tiện nghi hơn.</strong></p>
-<p><strong><img src="/giahan/tu-van-giai-phap/giai-phap-nha-thong-minh-lumi-cho-can-ho-chung-cu/4_3.png" alt="" /></strong></p>
+<p><strong><img src="/newv1/tu-van-giai-phap/giai-phap-nha-thong-minh-lumi-cho-can-ho-chung-cu/4_3.png" alt="" /></strong></p>
 <p><strong>Giải ph&aacute;p nh&agrave; th&ocirc;ng minh l&agrave; g&igrave;</strong></p>
 <p>Giải ph&aacute;p n&agrave;y đ&aacute;p ứng được những ti&ecirc;u chuẩn của một căn hộ th&ocirc;ng minh hiện đại như hệ thống chiếu s&aacute;ng, hệ thống điều h&ograve;a, r&egrave;m cửa, b&igrave;nh n&oacute;ng lạnh, quạt&hellip; Tất cả những hệ thống n&agrave;y c&oacute; thể điều khiển dễ d&agrave;ng bằng smartphone hoặc m&aacute;y t&iacute;nh c&oacute; kết nối internet. Đặc biệt giải ph&aacute;p nh&agrave; th&ocirc;ng minh Lumi t&iacute;ch hợp với loa milo c&oacute; thể điều khiển bằng giọng n&oacute;i tiếng việt. Chỉ một c&acirc;u lệnh, to&agrave;n bộ hệ thống trong nh&agrave; sẽ lập tức thực hiện theo &yacute; muốn của bạn như đồng loạt tắt, hay bật c&aacute;c thiết bị.</p>
-<p><img src="/giahan/tu-van-giai-phap/giai-phap-nha-thong-minh-lumi-cho-can-ho-chung-cu/Giai_phAp_nhA_thAng_minh_Lumi_tAch_hap_nhiau_tian_Ach.png" alt="" /></p>
+<p><img src="/newv1/tu-van-giai-phap/giai-phap-nha-thong-minh-lumi-cho-can-ho-chung-cu/Giai_phAp_nhA_thAng_minh_Lumi_tAch_hap_nhiau_tian_Ach.png" alt="" /></p>
 <p><em>Giải ph&aacute;p nh&agrave; th&ocirc;ng minh Lumi t&iacute;ch hợp nhiều tiện &iacute;ch</em></p>
 <p><strong>Giải ph&aacute;p nh&agrave; th&ocirc;ng minh Lumi gồm những g&igrave;</strong></p>
 <p><strong><em>Hệ thống chiếu s&aacute;ng th&ocirc;ng minh</em></strong></p>

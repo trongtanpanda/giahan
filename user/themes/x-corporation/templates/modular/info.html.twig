@@ -13,7 +13,7 @@
                         <h2 class="info-title">{{ info.text|markdown }}</h2>
                         {{ info.content|markdown }}
                     </div>
-                    <div class="col second col-lg-6">
+                    <div class="col second col-lg-6 no-padding">
                         {{ page.media.images[info.thumbnail].cropZoom(540, 380).html() }}
                     </div>
                 </div>
@@ -25,7 +25,7 @@
                 <div class="info" style="background-color:{{info.color}};">
             {%endif%}
                 <div  class=" main-row {{info.postion-image}} {{loop.index}}">
-                    <div class="col first col-lg-6">
+                    <div class="col first col-lg-6 no-padding">
                         {{ page.media.images[info.thumbnail].cropZoom(540, 380).html() }}
                     </div>
                     <div class="col second col-lg-6" style="color:{{info.content_color}}">

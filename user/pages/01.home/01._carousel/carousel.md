@@ -15,7 +15,7 @@ slides:
         background_image_description: 'Chiếu Sáng Thông Minh'
         link: /nha-thong-minh/chieu-sang-thong-minh
     -
-        heading: 'Không Gian <span style="color:#26AB4A">Đa Sắc Màu</span>'
+        heading: 'Không Gian <br /><span style="color:#26AB4A">Đa Sắc Màu</span>'
         description: 'Không gian nhà bạn sẽ trở nên sinh động với 16 triệu màu sắc tùy biến theo từng không gian và sự kiện, giúp bạn có một bữa tiệc sinh nhật, đêm noel hay năm mới lãng mạn và hạnh phúc.'
         background_image: page-1_slide03.jpg
         background_image_description: 'Không Gian Đa Sắc Màu'

@@ -29,7 +29,7 @@ restaurant:
 <div class="smarthome-content">
 <article id="rmjs-1" data-readmore="">
 <p><strong>Một chạm &ndash; vạn tiện nghi :&nbsp;</strong>Th&ocirc;ng thường để điều khiển chiếu s&aacute;ng trong nh&agrave;, bạn phải di chuyển v&agrave; bật tắt rất nhiều c&ocirc;ng tắc cảm ứng, tuy nhi&ecirc;n với nh&agrave; th&ocirc;ng minh của Lumi, c&aacute;c kịch bản chiếu s&aacute;ng được thiết lập sẵn cho từng hoạt cảnh cụ thể, chỉ một chạm l&agrave; bạn c&oacute; thể điều khiển hệ thống chiếu s&aacute;ng theo &yacute; muốn. V&iacute; dụ khi c&oacute; kh&aacute;ch đến nh&agrave;, nhấn v&agrave;o chế độ &ldquo;tiếp kh&aacute;ch&rdquo;&nbsp; một loạt c&aacute;c b&oacute;ng đ&egrave;n sẽ c&ugrave;ng bật s&aacute;ng l&ecirc;n, &nbsp;hoặc khi ra ngo&agrave;i, chỉ cần ấn n&uacute;t &ldquo; đi vắng&rdquo; to&agrave;n bộ hệ thống đ&egrave;n trong nh&agrave; sẽ tắt đồng loạt<strong>.&nbsp;</strong>&nbsp;Bạn ho&agrave;n to&agrave;n c&oacute; thể biết được b&oacute;ng n&agrave;o đang bật, b&oacute;ng n&agrave;o đang s&aacute;ng, cường độ s&aacute;ng l&agrave; bao nhi&ecirc;u % được hiển thị tr&ecirc;n điệnthoại&nbsp;di động hoặc m&aacute;y t&iacute;nh bảng v&agrave; bạn ho&agrave;n to&agrave;n bật hoặc tắt thiết bị đ&oacute; ngay tr&ecirc;n điện thoại khi kh&ocirc;ng cần thiết</p>
-<p><img src="/giahan/tin-tuc/cham-de-cam-nhan/a4a5790cdefa3c25b1cd313b7b54dc90.jpg" alt="" /></p>
+<p><img src="/newv1/tin-tuc/cham-de-cam-nhan/a4a5790cdefa3c25b1cd313b7b54dc90.jpg" alt="" /></p>
 <p><strong>Tự động chiếu s&aacute;ng v&agrave; hẹn giờ chiếu s&aacute;ng cho ng&ocirc;i nh&agrave; của bạn</strong></p>
 <p>&nbsp;Thiết bị chiếu s&aacute;ng sẽ tự động bật l&ecirc;n khi ph&aacute;t hiện c&oacute; chuyển động. Nếu &aacute;nh s&aacute;ng tự nhi&ecirc;n kh&ocirc;ng đủ cường độ s&aacute;ng, đ&egrave;n sẽ tự động bật khi ph&aacute;t hiện c&oacute; người di chuyển v&agrave; tự động tắt sau 1 khoảng thời gian c&agrave;i đặt kể từ khi kh&ocirc;ng ph&aacute;t hiện c&oacute; người di chuyển.</p>
 <div class="smarthome-title">
@@ -41,13 +41,13 @@ restaurant:
 <p><strong>Điều khiển nhiều r&egrave;m cửa c&ugrave;ng 1 l&uacute;c</strong>: Ngo&agrave;i việc điều khiển r&egrave;m tại chỗ như th&ocirc;ng thường, bạn c&oacute; thể&nbsp;điều khiển nhiều r&egrave;m c&ugrave;ng một l&uacute;c chỉ với 1 chạm.</p>
 <p><strong>R&egrave;m tự động</strong>: 5h30h s&aacute;ng, r&egrave;m tự động mở ra đ&aacute;nh thức bạn bằng &aacute;nh s&aacute;ng thi&ecirc;n nhi&ecirc;n, một cảm gi&aacute;c ng&agrave;y mới tr&agrave;n đầy năng lượng. 11h45 r&egrave;m tự động đ&oacute;ng lại cho bạn một giấc nghỉ trưa thoải m&aacute;i. Bạn c&oacute; thể t&ugrave;y chỉnh thời gian đặt lịch đ&oacute;ng, mở cho một hoặc nhiều r&egrave;m c&ugrave;ng l&uacute;c tr&ecirc;n ch&iacute;nh chiếc điện thoại đi động của m&igrave;nh.</p>
 <p><strong>Điều khiển ở bất cứ nơi đ&acirc;u</strong>: Với chiếc Smartphone c&oacute; kết nối Internet, bạn c&oacute; thể kiểm so&aacute;t hệ thống r&egrave;m cửa nh&agrave; m&igrave;nh ở bất cứ l&uacute;c n&agrave;o, trạng th&aacute;i của từng bộ r&egrave;m đang đ&oacute;ng hay mở hoặc đ&oacute;ng bao nhi&ecirc;u % đều được hiển thị tr&ecirc;n điện thoại hay m&aacute;y t&iacute;nh bảng của bạn.</p>
-<p><img src="/giahan/tin-tuc/cham-de-cam-nhan/dong-mo-rem-tu-dong.jpg" alt="" /></p>
+<p><img src="/newv1/tin-tuc/cham-de-cam-nhan/dong-mo-rem-tu-dong.jpg" alt="" /></p>
 </article>
 </div>
 <p>&nbsp;</p>
 <blockquote>
 <ol>
-<li><strong>Điều h&ograve;a kh&ocirc;ng kh&iacute; v&agrave; n&oacute;ng lạnh&nbsp; &nbsp;&nbsp;</strong><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img src="/giahan/tin-tuc/cham-de-cam-nhan/dieu-khien-rem-cua-qua-dien-thoai.jpg" alt="" /></strong></li>
+<li><strong>Điều h&ograve;a kh&ocirc;ng kh&iacute; v&agrave; n&oacute;ng lạnh&nbsp; &nbsp;&nbsp;</strong><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img src="/newv1/tin-tuc/cham-de-cam-nhan/dieu-khien-rem-cua-qua-dien-thoai.jpg" alt="" /></strong></li>
 </ol>
 </blockquote>
 <div class="smarthome-content">
@@ -69,7 +69,7 @@ restaurant:
 <div class="col-md-5 smarthome-img"><img class="img-responsive " src="http://lumi.vn/Cms_Data/Sites/Lumi/Themes/Default/images/imagesmarthome/GianAmThanh.png" alt="" /></div>
 </div>
 <div class=" template-smarthome col-md-12">
-<div class="col-md-5 smarthome-img"><img src="/giahan/tin-tuc/cham-de-cam-nhan/an_ninh_qua_dien_thoai.jpg" alt="" /></div>
+<div class="col-md-5 smarthome-img"><img src="/newv1/tin-tuc/cham-de-cam-nhan/an_ninh_qua_dien_thoai.jpg" alt="" /></div>
 <div class="col-md-7 smart-cont">
 <div class="smarthome-title">
 <h2 style="text-align: left;"><strong>Hệ thống an ninh gi&aacute;m s&aacute;t: Gi&uacute;p bạn y&ecirc;n t&acirc;m hơn khi đi ra ngo&agrave;i cũng như khi đi ngủ .</strong></h2>

@@ -22,7 +22,7 @@ restaurant:
 ---
 
 <p><span class="highlightNode">Lumi h&ocirc; biến ng&ocirc;i nh&agrave; Diệu Kỳ Vạn Tiện Nghi</span></p>
-<p><img src="/giahan/tin-tuc/hay-cung-trai-nghiem-giai-phap-nha-thong-minh-lumi-viet-nam/39203103_258083248139374_6749001614821949440_n.jpg" alt="" /></p>
+<p><img src="/newv1/tin-tuc/hay-cung-trai-nghiem-giai-phap-nha-thong-minh-lumi-viet-nam/39203103_258083248139374_6749001614821949440_n.jpg" alt="" /></p>
 <p><span class="highlightNode">Bạn sẽ bị lạc v&agrave;o thế giới "Diệu Kỳ" nơi m&agrave; c&aacute;c thiết bị trong nh&agrave; c&oacute; thể điều khiển bằng giọng n&oacute;i v&agrave; điện thoại chưa đầy 3 gi&acirc;y khi kết hợp với nh&agrave; th&ocirc;ng minh Lumi</span></p>
 <p><span class="highlightNode">* Tạo l&ecirc;n kh&ocirc;ng gian sống dộng 16 triệu m&agrave;u y&ecirc;u th&iacute;ch</span></p>
 <p><span class="highlightNode">*&nbsp; Ng&ocirc;i nh&agrave; tự động cảnh b&aacute;o v&agrave; k&iacute;ch hoạt an ninh khi c&oacute; đột nhập tr&aacute;i ph&eacute;p</span></p>

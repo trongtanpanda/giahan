@@ -1,6 +1,6 @@
 file_name: 'Hướng dụng sử dụng bộ điều khiển hồng ngoại wifi'
-file_path: '/giahan/user/pages/tai-lieu-huong-dan/09.huong-dan-su-dung-bo-dieu-khien-hong-ngoai-wifi/HDSD Bo Dieu Khien Hong Ngoai-Wifi.pdf'
-url: 'http://localhost/giahan/tai-lieu-huong-dan/huong-dan-su-dung-bo-dieu-khien-hong-ngoai-wifi'
+file_path: '/newv1/user/pages/tai-lieu-huong-dan/09.huong-dan-su-dung-bo-dieu-khien-hong-ngoai-wifi/HDSD Bo Dieu Khien Hong Ngoai-Wifi.pdf'
+url: 'http://localhost/newv1/tai-lieu-huong-dan/huong-dan-su-dung-bo-dieu-khien-hong-ngoai-wifi'
 name: tan
 email: tannt.itedu@gmail.com
 phone: asd

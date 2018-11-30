@@ -1,4 +1,4 @@
-url: 'http://localhost/giahan/san-pham/o-cam-thong-minh-lumi'
+url: 'http://localhost/newv1/san-pham/o-cam-thong-minh-lumi'
 product_name: 'Ổ Cắm Thông Minh Lumi'
 name: tt
 phone: '902194592'
