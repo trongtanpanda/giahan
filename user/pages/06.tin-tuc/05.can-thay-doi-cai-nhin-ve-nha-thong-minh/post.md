@@ -7,6 +7,7 @@ taxonomy:
     category:
         - tintuc
 twittercardoptions: summary
+visible: false
 articleenabled: false
 musiceventenabled: false
 orgaenabled: false

@@ -1,26 +1,18 @@
 $( function() {
+    jQuery(document).ready(function($){
+        var input = $('[data-search-input]');
 
-    var datat =localStorage.getItem("wordlist");
-    if (datat === null) {
-        $.ajax( {
-            url: window.location.origin + "/careers/s/s",
-            data: {
-                q: 'def'
-            },
-            success: function( data ) {
-                localStorage.setItem("wordlist",data);
-                datat = data;
-            },error: function (request, status, error) {
-                console(request.responseText);
+        input.on('keypress', function(event) {
+            if (event.which == 13 && input.val().length >= 3) {
+                console.log('ádasd');
+                event.preventDefault();
+                window.location.href = input.data('search-input') + ';' + input.val();
             }
+        });
 
-        } );
-    }
-    if (datat === null) {
-        datat = [];
-    }
-    $( "#site-search-input" ).autocomplete({
-        source: datat.split(","),
-        minLength: 3,
+        $('.search-submit').on('click', function(event) {
+            event.preventDefault();
+            window.location.href = input.data('search-input') + ';' + input.val();
+        });
     });
-} );
+});

@@ -72,7 +72,8 @@
                 </div>
             </div>
         </div>
-
         {% include 'partials/footer.html.twig' %}
+        {{ assets.js() }}
+        {{ assets.js('bottom') }}
     </body>
 </html>

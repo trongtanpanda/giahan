@@ -3,6 +3,7 @@ title: 'Cuộc cách mạng 4.0 qua cái nhìn của quyền Bộ trưởng Bộ
 media_order: quyan_ba_trAEang_ba_TTTT_Nguyan_Manh_HAng.jpg
 thumbnail: quyan_ba_trAEang_ba_TTTT_Nguyan_Manh_HAng.jpg
 description: 'Dưới góc nhìn của ông Nguyễn Mạnh Hùng, cách mạng công nghiệp lần thứ 4 đem lại nhiều cơ hội và chính quyền sẽ nhỏ hơn, thông minh hơn. Trong khi đó, người lao động sẽ có cơ hội cải thiện kỹ năng mềm và đặc biệt là cuộc cách mạng về tư duy.'
+visible: false
 taxonomy:
     category:
         - tintuc

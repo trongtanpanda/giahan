@@ -35,8 +35,8 @@
                 <span class="icon-bar"></span>
             </button>
             {% if logo != '' %}
-            <a class="navbar-brand" href="{{ base_url == '' ? '/' : base_url }}">
-                <img src="{{ url('theme://img/' ~ logo) }}" alt="">
+            <a class="navbar-brand" href="{{ base_url == '' ? '/' : base_url }}" title="menu">
+                <img src="{{ url('theme://img/' ~ logo) }}" alt="menu">
             </a>
             {% endif %}
         </div>
@@ -44,8 +44,8 @@
         <div class="collapse navbar-collapse" id="#navbar-collapse-1">
             {% if config.plugins.simplesearch.enabled %}
             <ul class="nav-cta">
-                <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle"><i
-                        class="fa fa-search"></i></a></a>
+                <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle" title="tìm kiếm"><i
+                        class="fa fa-search"></i></a>
                     <ul class="dropdown-menu">
                         <li>
                             {% include 'partials/simplesearch_searchbox.html.twig' %}

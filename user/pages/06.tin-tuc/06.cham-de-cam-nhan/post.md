@@ -3,6 +3,7 @@ title: 'Chạm để cảm nhận'
 media_order: 'giai-phap-nha-thong-minh-lumi-abaro1-800x480-crop.jpg,dieu-khien-rem-cua-qua-dien-thoai.jpg,dong-mo-rem-tu-dong.jpg,a4a5790cdefa3c25b1cd313b7b54dc90.jpg,an_ninh_qua_dien_thoai.jpg'
 thumbnail: giai-phap-nha-thong-minh-lumi-abaro1-800x480-crop.jpg
 description: "Lumi\_ là nhà sản xuất\_và cung cấp giải pháp nhà thông minh trong nước cũng như nước ngoài được khách hàng lựa chọn nhiều nhất trong phân khúc hệ thống nhà thông minh với phân khúc trung và cao cấp bởi tính tiện ích, đơn giản và dễ dàng trong sử dụng mang đậm chất Việt."
+visible: false
 taxonomy:
     category:
         - tintuc

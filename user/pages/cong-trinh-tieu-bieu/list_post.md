@@ -3,7 +3,7 @@ title: 'Công trình tiêu biểu'
 content:
     items: '@self.children'
     order:
-        by: date
+        by: default
         dir: desc
     limit: 10
 twittercardoptions: summary

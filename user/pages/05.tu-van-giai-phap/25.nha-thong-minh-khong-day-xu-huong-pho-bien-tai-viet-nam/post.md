@@ -2,13 +2,14 @@
 title: 'Nhà thông minh không dây - xu hướng phổ biến tại Việt Nam'
 media_order: 'image18.png,image27.png,image2.png'
 thumbnail: image18.png
-description: "Hãy tưởng tượng, mỗi sáng thức dậy, bạn chỉ cần click chuột là toàn bộ hệ thống đèn sẽ bật sáng, tivi mở kênh mình yêu thích và rèm cửa được kéo lên để đón ánh bình minh. Hay nước nóng tự động bật lên, điều hòa auto điều chỉnh nhiệt độ ngay khi bạn đặt chân trở về nhà. Đó chính là hệ thống nhà thông minh không dây hiện đại nhất hiện nay giúp bạn kiểm soát ngôi nhà một cách linh hoạt nhất. Nhà thông minh không dây đang trở thành xu hướng phổ biến tại Việt Nam hiện nay. \r\n"
+description: 'Hãy tưởng tượng, mỗi sáng thức dậy, bạn chỉ cần click chuột là toàn bộ hệ thống đèn sẽ bật sáng, tivi mở kênh mình yêu thích và rèm cửa được kéo lên để đón ánh bình minh. Hay nước nóng tự động bật lên, điều hòa auto điều chỉnh nhiệt độ ngay khi bạn đặt chân trở về nhà. Đó chính là hệ thống nhà thông minh không dây hiện đại nhất hiện nay giúp bạn kiểm soát ngôi nhà một cách linh hoạt nhất. Nhà thông minh không dây đang trở thành xu hướng phổ biến tại Việt Nam hiện nay.'
+visible: false
 taxonomy:
     category:
         - giaiphap
-googledesc: "Hãy tưởng tượng, mỗi sáng thức dậy, bạn chỉ cần click chuột là toàn bộ hệ thống đèn sẽ bật sáng, tivi mở kênh mình yêu thích và rèm cửa được kéo lên để đón ánh bình minh. Hay nước nóng tự động bật lên, điều hòa auto điều chỉnh nhiệt độ ngay khi bạn đặt chân trở về nhà. Đó chính là hệ thống nhà thông minh không dây hiện đại nhất hiện nay giúp bạn kiểm soát ngôi nhà một cách linh hoạt nhất. Nhà thông minh không dây đang trở thành xu hướng phổ biến tại Việt Nam hiện nay. \r\n"
+googledesc: 'Hãy tưởng tượng, mỗi sáng thức dậy, bạn chỉ cần click chuột là toàn bộ hệ thống đèn sẽ bật sáng, tivi mở kênh mình yêu thích và rèm cửa được kéo lên để đón ánh bình minh. Hay nước nóng tự động bật lên, điều hòa auto điều chỉnh nhiệt độ ngay khi bạn đặt chân trở về nhà. Đó chính là hệ thống nhà thông minh không dây hiện đại nhất hiện nay giúp bạn kiểm soát ngôi nhà một cách linh hoạt nhất. Nhà thông minh không dây đang trở thành xu hướng phổ biến tại Việt Nam hiện nay.'
 twittercardoptions: summary
-twitterdescription: "Hãy tưởng tượng, mỗi sáng thức dậy, bạn chỉ cần click chuột là toàn bộ hệ thống đèn sẽ bật sáng, tivi mở kênh mình yêu thích và rèm cửa được kéo lên để đón ánh bình minh. Hay nước nóng tự động bật lên, điều hòa auto điều chỉnh nhiệt độ ngay khi bạn đặt chân trở về nhà. Đó chính là hệ thống nhà thông minh không dây hiện đại nhất hiện nay giúp bạn kiểm soát ngôi nhà một cách linh hoạt nhất. Nhà thông minh không dây đang trở thành xu hướng phổ biến tại Việt Nam hiện nay. \r\n"
+twitterdescription: 'Hãy tưởng tượng, mỗi sáng thức dậy, bạn chỉ cần click chuột là toàn bộ hệ thống đèn sẽ bật sáng, tivi mở kênh mình yêu thích và rèm cửa được kéo lên để đón ánh bình minh. Hay nước nóng tự động bật lên, điều hòa auto điều chỉnh nhiệt độ ngay khi bạn đặt chân trở về nhà. Đó chính là hệ thống nhà thông minh không dây hiện đại nhất hiện nay giúp bạn kiểm soát ngôi nhà một cách linh hoạt nhất. Nhà thông minh không dây đang trở thành xu hướng phổ biến tại Việt Nam hiện nay.'
 articleenabled: false
 musiceventenabled: false
 orgaenabled: false
@@ -21,7 +22,7 @@ restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
     priceRange: $
-facebookdesc: "Hãy tưởng tượng, mỗi sáng thức dậy, bạn chỉ cần click chuột là toàn bộ hệ thống đèn sẽ bật sáng, tivi mở kênh mình yêu thích và rèm cửa được kéo lên để đón ánh bình minh. Hay nước nóng tự động bật lên, điều hòa auto điều chỉnh nhiệt độ ngay khi bạn đặt chân trở về nhà. Đó chính là hệ thống nhà thông minh không dây hiện đại nhất hiện nay giúp bạn kiểm soát ngôi nhà một cách linh hoạt nhất. Nhà thông minh không dây đang trở thành xu hướng phổ biến tại Việt Nam hiện nay. \r\n"
+facebookdesc: 'Hãy tưởng tượng, mỗi sáng thức dậy, bạn chỉ cần click chuột là toàn bộ hệ thống đèn sẽ bật sáng, tivi mở kênh mình yêu thích và rèm cửa được kéo lên để đón ánh bình minh. Hay nước nóng tự động bật lên, điều hòa auto điều chỉnh nhiệt độ ngay khi bạn đặt chân trở về nhà. Đó chính là hệ thống nhà thông minh không dây hiện đại nhất hiện nay giúp bạn kiểm soát ngôi nhà một cách linh hoạt nhất. Nhà thông minh không dây đang trở thành xu hướng phổ biến tại Việt Nam hiện nay.'
 ---
 
 Hãy tưởng tượng, mỗi sáng thức dậy, bạn chỉ cần click chuột là toàn bộ hệ thống đèn sẽ bật sáng, tivi mở kênh mình yêu thích và rèm cửa được kéo lên để đón ánh bình minh. Hay nước nóng tự động bật lên, điều hòa auto điều chỉnh nhiệt độ ngay khi bạn đặt chân trở về nhà. Đó chính là hệ thống nhà thông minh không dây hiện đại nhất hiện nay giúp bạn kiểm soát ngôi nhà một cách linh hoạt nhất. Nhà thông minh không dây đang trở thành xu hướng phổ biến tại Việt Nam hiện nay. 

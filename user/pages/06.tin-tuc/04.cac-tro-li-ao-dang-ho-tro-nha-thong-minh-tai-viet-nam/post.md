@@ -3,6 +3,7 @@ title: 'Các trợ lí ảo đang hỗ trợ nhà thông minh tại Việt Nam'
 media_order: 'amazon-alexa-se-den-voi-windows-10-pc.jpg,googlehomemini_1528905721.jpg,applehomepod_1528905667.jpg,intelligent-personal-assistants.png,_MILO.jpg'
 thumbnail: intelligent-personal-assistants.png
 description: 'Sau đây chúng ta cùng điểm qua các trợ lí ảo đang làm mưa làm gió tại thị trường trong nước.liệu có thực sự mê hoặc được cán tín đồ công nghệ.Thị trường nhà thông minh Việt Nam đang phát triển đến mức chóng mặt và hứa hẹn sẽ bùng nổ con số 45 triệu đô này sẽ sớm tăng lên gấp 10 lần chỉ trong vài năm nữa'
+visible: false
 taxonomy:
     category:
         - tintuc

@@ -1,5 +1,6 @@
 ---
 title: '4 ưu điểm vượt trội của giải pháp nhà thông minh Lumi'
+visible: false
 twittercardoptions: summary
 articleenabled: false
 musiceventenabled: false

@@ -3,6 +3,7 @@ title: 'Công nghệ 4.0 là gì,ứng dụng cho giải pháp nhà thông minh'
 media_order: 'cong_nghe_4_0.jpg,anh_page.jpg,cach_mang_40.jpg'
 thumbnail: cong_nghe_4_0.jpg
 description: "Lịch sử của chúng ta\_đã trải qua 4 lần về cải cách công nghiệp \"Cách mạng công nghiệp đầu tiên sử dụng năng lượng nước và hơi nước để cơ giới hóa sản xuất. Cuộc cách mạng lần 2 diễn ra nhờ ứng dụng điện năng để sản xuất hàng loạt. Cuộc cách mạng lần 3 sử dụng điện tử và công nghệ thông tin để tự động hóa sản xuất. Bây giờ, cuộc Cách mạng Công nghiệp Thứ tư đang nảy nở từ cuộc cách mạng lần ba, nó kết hợp các công nghệ lại với nhau, làm mờ ranh giới giữa vật lý, kỹ thuật số và sinh học\"."
+visible: false
 taxonomy:
     category:
         - tintuc

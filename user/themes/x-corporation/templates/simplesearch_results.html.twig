@@ -47,22 +47,5 @@
     </div>
 </section>
 
-<script>
-jQuery(document).ready(function($){
-    var input = $('[data-search-input]');
-
-    input.on('keypress', function(event) {
-        if (event.which == 13 && input.val().length >= {{ config.get('plugins.simplesearch.min_query_length', 3) }}) {
-            event.preventDefault();
-            window.location.href = input.data('search-input') + '{{ config.system.param_sep }}' + input.val();
-        }
-    });
-
-    $('.search-submit').on('click', function(event) {
-        event.preventDefault();
-        window.location.href = input.data('search-input') + '{{ config.system.param_sep }}' + input.val();
-    });
-});
-</script>
 {% endblock %}
-{% do assets.add('theme://js/simple-search.js') %}
+

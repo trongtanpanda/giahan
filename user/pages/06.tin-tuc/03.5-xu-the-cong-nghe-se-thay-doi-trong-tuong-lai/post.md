@@ -3,6 +3,7 @@ title: ' 5 xu thế công nghệ sẽ thay đổi trong tương lai'
 media_order: 'man_hAnh_cong.jpg,sac_pin_ko_dAy.jpg,robot_1.jpg'
 thumbnail: da_liau_lan.jpg
 description: 'Nhiều lĩnh vực sau đây có thể sẽ thay đổi nhiều mặt ngành khoa học công nghệ và đời sống của con người trong vài năm tới.'
+visible: false
 taxonomy:
     category:
         - tintuc
