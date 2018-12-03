@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledLanguages',
-    'timestamp' => 1543221242,
-    'checksum' => 'a30de38052b1e4a13f06eb5680e2f003',
+    'timestamp' => 1543835563,
+    'checksum' => '9bd05c9db94510f553475d0f45c457f8',
     'files' => [
         'system/languages' => [
             'ar' => [
@@ -133,7 +133,7 @@ return [
             ],
             'plugins/simplesearch' => [
                 'file' => 'user/plugins/simplesearch/languages.yaml',
-                'modified' => 1542956174
+                'modified' => 1543465883
             ],
             'plugins/tinymce-editor' => [
                 'file' => 'user/plugins/tinymce-editor/languages.yaml',
@@ -1468,7 +1468,7 @@ You have **2FA** enabled on this account. Please use your **2FA** app to enter t
             ],
             'PLUGIN_SIMPLESEARCH' => [
                 'SEARCH_PLACEHOLDER' => 'Search …',
-                'SEARCH_RESULTS' => 'Search results',
+                'SEARCH_RESULTS' => 'Kết Quả Tìm Kiếm',
                 'SEARCH_RESULTS_SUMMARY_SINGULAR' => 'Query: <strong>%s</strong> found one result',
                 'SEARCH_RESULTS_SUMMARY_PLURAL' => 'Query: <strong>%s</strong> found %s results',
                 'SEARCH_FIELD_MINIMUM_CHARACTERS' => 'Please add at least %s characters'
@@ -23668,7 +23668,7 @@ Path: `%2$s`
                 6 => 'søndag'
             ]
         ],
-        'checksum' => 'a30de38052b1e4a13f06eb5680e2f003',
-        'timestamp' => 1543221242
+        'checksum' => '9bd05c9db94510f553475d0f45c457f8',
+        'timestamp' => 1543835563
     ]
 ];

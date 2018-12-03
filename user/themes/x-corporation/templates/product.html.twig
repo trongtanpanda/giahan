@@ -139,11 +139,19 @@
                         {{ page.content|markdown }}
                     </div>
                     <div class="tab-pane fade" id="tabWhy2">
-                       
+                        <table class="technical">
+                            {% for item in page.header.feature_items %}
+                                <tr class="row">
+                                    <td class="col-xs-6 key"><b>{{item.key}}</b></td>
+                                    <td class="col-xs-6 value">{{item.value}}</td>
+                                </tr>
+                            {% endfor %}
+                        </table>
                     </div>
                     <div class="tab-pane fade" id="tabWhy3">
                         {% for item in page.header.gallery %}
-
+                            {{item.url}}
+                            {{ p.media.images[item].html() }}
                         {% endfor %}
                     </div>
                 </div>
@@ -185,5 +193,9 @@
   </div>
 </div>
 </section>
+{% do assets.add('theme://css/lightgallery.css') %}
 {% do assets.add('theme://js/product-form.js') %}
+{% do assets.add('theme://js/lg-fullscreen.min.js') %}
+{% do assets.add('theme://js/lg-thumbnail.min.js') %}
+{% do assets.add('theme://js/lighgallery.min.js') %}
 {% endblock %}
