@@ -18,7 +18,7 @@
                 <div class="promo-block-wrapper clearfix">                    
                     <div class="promo-content">
                         {% if page.header.thumbnail != "" %}
-                            <img class="img-responsive" src="{{ page.media.images[header.thumbnail].url}}" >
+                            <img class="img-responsive" src="{{ page.media.images[header.thumbnail].url}}" alt="{{page.title}}">
                         {% endif %}
                         {{ page.content }}
                         <a class="{{ header.type }}" href="{{ header.url }}" target="{{ header.target }}" >{{ header.url_text }}</a> 

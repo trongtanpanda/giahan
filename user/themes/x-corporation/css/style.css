@@ -398,9 +398,12 @@ Shortcode Content
 /*Navigation*/
 
 @media screen and (max-width: 768px) {
+    .navbar-nav>li {
+        float: unset;
+    }
     .navbar-default {
         background: #333333 !important;
-        padding: 10px 0;
+        padding: 10px 0 !important;
         border-bottom: none;
     }
     .dropdown.open .dropdown-menu {
@@ -426,8 +429,7 @@ Shortcode Content
     }
     .navbar-fixed-bottom .navbar-collapse,
     .navbar-fixed-top .navbar-collapse {
-        max-height: 270px;
-        margin-top: 15px;
+        max-height: 264px;
     }
     .navbar-collapse {
         box-shadow: unset;
@@ -438,9 +440,25 @@ Shortcode Content
     }
     .navbar-fixed-top .navbar-collapse.collapse.in {
         max-height: unset;
+        display: block;
     }
-    .collapse {
+    .navbar-collapse.collapse {
         display: none;
+    }
+    .main-nav {
+        float: left;
+    }
+    .navbar-header {
+        float: unset;
+    }
+    .visible-xs {
+        display: block !important;
+    }
+    .visible-sm {
+        display: none !important;
+    }
+    .navbar-brand img {
+        max-height: 40px;
     }
 }
 
