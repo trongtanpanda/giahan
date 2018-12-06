@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1543221232,
-    'checksum' => '376377431e2b75b736b1ad89da6db88c',
+    'timestamp' => 1544093660,
+    'checksum' => 'f804d956632da88e0c838ed4bbd32e85',
     'files' => [
         'user/config' => [
             'media' => [
@@ -11,7 +11,7 @@ return [
             ],
             'plugins/email' => [
                 'file' => 'user/config/plugins/email.yaml',
-                'modified' => 1542956166
+                'modified' => 1543481606
             ],
             'plugins/pagination' => [
                 'file' => 'user/config/plugins/pagination.yaml',
@@ -39,7 +39,7 @@ return [
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1543221221
+                'modified' => 1544093551
             ],
             'themes/x-corporation' => [
                 'file' => 'user/config/themes/x-corporation.yaml',
@@ -211,8 +211,8 @@ return [
                         'server' => 'smtp.gmail.com',
                         'port' => 465,
                         'encryption' => 'ssl',
-                        'user' => 'mythien20112@gmail.com',
-                        'password' => '01225573345huong'
+                        'user' => 'tannt.itedu@gmail.com',
+                        'password' => 'avzaviimzkipxyig'
                     ],
                     'sendmail' => [
                         'bin' => '/usr/sbin/sendmail -bs'
@@ -802,7 +802,7 @@ return [
             'absolute_urls' => false,
             'timezone' => '',
             'default_locale' => NULL,
-            'param_sep' => ':',
+            'param_sep' => ';',
             'wrapped_site' => false,
             'reverse_proxy_setup' => false,
             'force_ssl' => false,
