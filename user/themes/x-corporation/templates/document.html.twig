@@ -7,14 +7,14 @@
 {% else %}
     {% set  background_html = "" %}
 {% endif %}
-<section class="single-page-title"{{ background_html }}>
+<div class="single-page-title"{{ background_html }}>
     <div class="container text-center">
-        <h2>{{ page.title }}</h2>
+        <h1>{{ page.title }}</h1>
     </div>
-</section>
+</div>
 <div id="sumit-form-preload"></div>
 <div class="container">
-<section class="ptb-40">
+<div class="ptb-40">
 <h2 class="ptb-40">Nhập vào form dưới đây để nhận được tệp hướng dẫn</h2>
 
     <form name="document-form" action="/newv1/tai-lieu-huong-dan/form" method="POST" id="document-form">    
@@ -45,7 +45,7 @@
         <input name="data[file_path]" value="{{ page.media[header.file].url }}"  type="hidden">
         <input name="data[url]" value="{{ page.url }}"  type="hidden">
         <div class="buttons">    
-            <button class="btn btn-primary" type="submit">
+            <button class="read-more" type="submit">
                 Gửi
             </button>    
         </div>
@@ -90,7 +90,7 @@
             </div>            
         </div>
     </div>
-</section>
+</div>
 
 {% do assets.add('theme://js/document.js') %}
 </div>

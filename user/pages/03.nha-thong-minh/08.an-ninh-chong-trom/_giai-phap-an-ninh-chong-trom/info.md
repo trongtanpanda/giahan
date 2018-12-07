@@ -5,7 +5,7 @@ infos:
     -
         text: 'GIÁM SÁT QUA ĐIỆN THOẠI'
         content: 'Giúp bạn quản lý các hoạt động đang diễn ra tại ngôi nhà của mình mọi lúc mọi nơi chỉ với chiếc smartphone nhỏ gọn trên tay.'
-        thumbnail: 'an ninh qua dien thoai.jpg'
+        thumbnail: 'an-ninh-qua-dien-thoai.jpg'
         postion_image: left
     -
         text: 'CẢM BIẾN CỬA  CHỐNG TRỘM'
@@ -24,7 +24,7 @@ infos:
         postion_image: right
     -
         text: 'AN NINH BAN ĐÊM CHO BẠN GIẤC NGỦ NGON'
-        thumbnail: 'banner ngu ngon.jpg'
+        thumbnail: 'banner-ngu-ngon.jpg'
         postion_image: center
     -
         text: 'CẢM BIẾN CHUYỂN ĐỘNG THIẾT KẾ TINH TẾ  TRÊN TỪNG ĐƯỜNG NÉT'

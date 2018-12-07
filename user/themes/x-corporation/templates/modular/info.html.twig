@@ -21,7 +21,7 @@
             
                 <div class=" main-row {{info.postion-image}} {{loop.index}}">           
                     <div class="col first col-lg-6" style="{{content_color}}">
-                        <h2 class="info-title">{{ info.text|markdown }}</h2>
+                        <h2 class="info-title">{{ info.text }}</h2>
                         {{ info.content|markdown }}
                     </div>
                     <div class="col second col-lg-6 no-padding">
@@ -40,7 +40,7 @@
                         {{ page.media.images[info.thumbnail].cropZoom(540, 380).html() }}
                     </div>
                     <div class="col second col-lg-6" style="{{content_color}}">
-                        <h2 class="info-title">{{ info.text|markdown }}</h2>
+                        <h2 class="info-title">{{ info.text }}</h2>
                         {{ info.content|markdown }}
                     </div>
                 </div>
@@ -54,7 +54,7 @@
             {%endif%}
                 <div  class="row {{info.postion-image}} {{loop.index}}">
                     <div class="col-sm-12 center">
-                        <h2 class="info-title">{{ info.text|markdown }}</h2>
+                        <h2 class="info-title">{{ info.text }}</h2>
                         {{ info.content|markdown }}
                     </div>
                     <div class="col-sm-12" style="{{content_color}}">                       

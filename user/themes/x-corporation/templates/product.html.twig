@@ -6,12 +6,12 @@
 {% else %}
     {% set  background_html = "" %}
 {% endif %}
-<section class="single-page-title"{{ background_html }}>
+<div class="single-page-title"{{ background_html }}>
     <div class="container text-center">
        <h1>{{ page.title }}</h1>
     </div>
-</section>
-<section class="ptb-40">
+</div>
+<div class="ptb-40">
 <div id="sumit-form-preload"></div>
 <div class="container">    
         <div class="col-sm-6 product-image-feature">
@@ -40,21 +40,21 @@
                         <div class="col-md-12">
                             <div class="form-group user-name">
                                 <label for="name" class="sr-only">Tên của bạn</label>
-                                <input name="data[name]" value="" type="text" class="form-control form-control" placeholder="Tên của bạn" required="required">
+                                <input id="name" name="data[name]" value="" type="text" class="form-control form-control" placeholder="Tên của bạn" required="required">
                             </div>
                             <div class="form-group user-phone">
                                 <label for="phone" class="sr-only">Số Điện Thoại</label>
-                                <input name="data[phone]" value="" type="text" class="form-control form-control" placeholder="Số Điện Thoại" required="required">
+                                <input id="phone" name="data[phone]" value="" type="text" class="form-control form-control" placeholder="Số Điện Thoại" required="required">
                             </div>
                             <div class="form-group user-email">
                                 <label for="email" class="sr-only">Email</label>
-                                <input name="data[email]" value="" type="email" class="form-control form-control" placeholder="Email">
+                                <input id="email" name="data[email]" value="" type="email" class="form-control form-control" placeholder="Email">
                             </div>
                         </div>
                         <div class="col-md-12">
                             <div class="form-group user-message">
                                 <label for="message" class="sr-only">Địa Chỉ Nhận Hàng</label>
-                                <textarea class="form-control" name="data[message]" placeholder="Địa Chỉ Nhận Hàng" rows="2"></textarea>
+                                <textarea id="message" class="form-control" name="data[message]" placeholder="Địa Chỉ Nhận Hàng" rows="2"></textarea>
                             </div>
                         </div>
                     </div>
@@ -121,7 +121,7 @@
                             Đặc Điểm Nổi Bật
                         </a>
                     </li>   
-                    <li class="">
+                    <!--<li class="">
                         <a href="#tabWhy2" data-toggle="tab" aria-expanded="true">
                             Thông Số Kỹ Thuật
                         </a>
@@ -130,7 +130,8 @@
                         <a href="#tabWhy3" data-toggle="tab" aria-expanded="true">
                             Hình Ảnh
                         </a>
-                    </li>                
+                    </li>    
+                    -->            
                 </ul>
 
                 <div class="tab-content">                  
@@ -138,7 +139,14 @@
                         {{ page.content|markdown }}
                     </div>
                     <div class="tab-pane fade" id="tabWhy2">
-                       
+                        <table class="technical">
+                            {% for item in page.header.feature_items %}
+                                <tr class="row">
+                                    <td class="col-xs-6 key"><b>{{item.key}}</b></td>
+                                    <td class="col-xs-6 value">{{item.value}}</td>
+                                </tr>
+                            {% endfor %}
+                        </table>
                     </div>
                     <div class="tab-pane fade" id="tabWhy3">
                         {% for item in page.header.gallery %}
@@ -162,14 +170,14 @@
                     {% if loop.first %}
                         <div class="item active">
                             <div class="col-sm-4">
-                                {{ p.media.images[p.header.thumbnail].lightbox(1024,auto).cropZoom(266, 200).html() }}</br>
+                                {{ p.media.images[p.header.thumbnail].lightbox(1024,auto).cropZoom(266, 200).html() }}<br>
                                 <a class="product-link" href="{{ p.url }}">{{ p.title }}</a>
                             </div>
                         </div>
                     {% else %}          
                         <div class="item">
                             <div class="col-sm-4">
-                                {{ p.media.images[p.header.thumbnail].lightbox(1024,auto).cropZoom(266, 200).html() }}</br>
+                                {{ p.media.images[p.header.thumbnail].lightbox(1024,auto).cropZoom(266, 200).html() }}<br>
                                 <a class="product-link" href="{{ p.url }}">{{ p.title }}</a>
                             </div>
                         </div>
@@ -183,6 +191,6 @@
     </div>
   </div>
 </div>
-</section>
+</div>
 {% do assets.add('theme://js/product-form.js') %}
 {% endblock %}

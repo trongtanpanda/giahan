@@ -8,6 +8,7 @@ content:
     limit: 10
     pagination: '1'
 menu: 'Tư vấn giải pháp'
+visible: false
 twittercardoptions: summary
 articleenabled: false
 musiceventenabled: false

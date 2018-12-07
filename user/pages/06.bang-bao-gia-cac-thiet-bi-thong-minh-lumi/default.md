@@ -1,6 +1,7 @@
 ---
 title: 'Bảng báo giá các thiết bị thông minh Lumi'
 media_order: 'BaNG_GIA_LUMI_01.09.2018_4.pdf,0_1.jpg'
+menu: 'Bảng Giá'
 googledesc: 'Nhằm giúp Quý khách có thông tin chính xác nhất về báo giá giải pháp nhà thông minh Lumi, chúng tôi xin đưa ra bảng giá niêm yết trên toàn Quốc. Dưới đây là báo giá đầy đủ các thiết bị bao gồm: Công tắc cảm ứng Lumi, bộ điều khiển trung tâm, Loa thông minh Milo, …'
 twittercardoptions: summary
 twitterdescription: 'Nhằm giúp Quý khách có thông tin chính xác nhất về báo giá giải pháp nhà thông minh Lumi, chúng tôi xin đưa ra bảng giá niêm yết trên toàn Quốc. Dưới đây là báo giá đầy đủ các thiết bị bao gồm: Công tắc cảm ứng Lumi, bộ điều khiển trung tâm, Loa thông minh Milo, …'

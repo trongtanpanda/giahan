@@ -7,19 +7,19 @@
 {% else %}
     {% set  background_html = "" %}
 {% endif %}
-<section class="single-page-title"{{ background_html }}>
+<div class="single-page-title"{{ background_html }}>
     <div class="container text-center">
         <h1>{{ page.title }}</h1>
     </div>
-</section>
+</div>
 <div class="container">
-<section class="ptb-40">
+<div class="ptb-40">
 {{ page.content }}
 
 {% for module in page.collection() %}
     {{ module.content }}
 {% endfor %}
-</section>
+</div>
 </div>
 
 {% endblock %}

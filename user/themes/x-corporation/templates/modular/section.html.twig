@@ -12,13 +12,13 @@
     {% set color = "color:" ~ page.header.color ~ ";" %}
 {% endif %}
 
-<section class="x-section" style="{{ bg_image ~ bg_color ~ color }}">
-    <section class="section-title">
+<div class="x-section" style="{{ bg_image ~ bg_color ~ color }}">
+    <div class="section-title">
         <div class="container text-center">
             <h2 style="color: {{ page.header.color }}"><strong>{{ page.title }}</strong></h2>
             <span class="bordered-icon"><i class="fa fa-circle-thin"></i></span>
         </div>
-    </section>
+    </div>
     <div class="container">
         <div class="row">      
             {% if page.header.align == 'left' %}
@@ -41,4 +41,4 @@
             </div>
         </div>
     </div>
-</section>
+</div>

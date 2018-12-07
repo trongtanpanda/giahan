@@ -1,8 +1,20 @@
 ---
-title: Compellingly implement distinctive outsourcing<br>and 24/365 customer service energistically.
-
+title: 'Contact Form'
+twittercardoptions: summary
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
 form:
-    action: /lien-he
+    action: /lien-he/contact-form
     name: contact-form
     fields:
         - name: name
@@ -11,21 +23,18 @@ form:
           type: text
           validate:
             required: true
-          classes: form-control
         - name: email
           label: Email
           placeholder: 'Email'
           type: email
           validate:
             required: true
-          classes: form-control
         - name: phone
           label: Phone
           placeholder: 'Điện Thoại'
           type: text
           validate:
             required: true
-          classes: form-control
         - name: message
           label: Message
           placeholder: 'Nội Dung'
@@ -56,5 +65,6 @@ form:
             dateformat: Ymd-His-u
             extension: txt
             body: "{% include 'forms/data.txt.twig' %}"
-        - display: /thank-you
+        - message: success
 ---
+

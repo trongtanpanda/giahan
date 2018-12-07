@@ -1,12 +1,12 @@
 {% set num_per_row = page.header.num_per_row > 0 ? page.header.num_per_row : 6 %}
 {% set client_size = 12/num_per_row %}
-<section class="client-logo ptb-100">
-    <section class="section-title">
+<div class="client-logo ptb-100">
+    <div class="section-title">
         <div class="container text-center">
             <h2>{{ page.title }}</h2>
             <span class="bordered-icon"><i class="fa fa-circle-thin"></i></span>
         </div>
-    </section>
+    </div>
     <div class="container">
         {% for row in page.header.clients|batch(num_per_row) %}
             <div class="row">
@@ -21,4 +21,4 @@
         {% endfor %}
     </div>
     <!--end of .container -->
-</section>
+</div>

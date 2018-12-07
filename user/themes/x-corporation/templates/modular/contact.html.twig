@@ -1,16 +1,87 @@
-<section class="contact-form ptb-40">
+<div id="sumit-form-preload"></div>
+<div class="contact-form ptb-40">
     <div class="container">
         <div class="row">
             <div class="col-md-6 contact-form text-center ">
-                {% include "forms/contact.html.twig" %}
+                <form name="document-form" action="/giahan/lien-he/contact-form" method="POST" id="contact-form">    
+                    <div class="row">            
+                        <div class="col-md-6">
+                            <div class="form-group user-name">
+                                <label for="name" class="sr-only">Name</label>
+                                <input id="name" name="data[name]" value="" type="text" class="form-control form-control" placeholder="Họ Và Tên" required="required">
+                            </div>
+                            <div class="form-group user-email">
+                                <label for="email" class="sr-only">Email</label>
+                                <input id="email" name="data[email]" value="" type="email" class="form-control form-control" placeholder="Email" required="required">
+                            </div>
+                            <div class="form-group user-phone">
+                                <label for="phone" class="sr-only">Phone</label>
+                                <input id="phone" name="data[phone]" value="" type="text" class="form-control form-control" placeholder="Điện Thoại" required="required">
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group user-message">
+                                <label for="message" class="sr-only">Message</label>
+                                <textarea id="message" class="form-control" name="data[message]" placeholder="Nội Dung" required="required" rows="6"></textarea>
+                            </div>
+                        </div>
+                    </div>
+                    <input type="hidden" name="__form-name__" value="contact-form">
+                    <div class="buttons">    
+                        <button class="read-more" type="submit">
+                            Gửi
+                        </button>    
+                    </div>
+                    <input type="hidden" name="__unique_form_id__" value="rybFX9Bxa8fJ2LGm1wdC" />  <input type="hidden" name="form-nonce" value="0f6d10d715221ce44280519a30c11496" />
+                </form>
+                <div class="modal fade" id="myModal" role="dialog">
+                    <div class="modal-dialog contact-popup">
+
+                        <!-- Modal content-->
+                        <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        </div>
+                        <div class="modal-body">
+                            <div class="inside-body">
+                                <img class="inside-img p-class" src="{{ base_url_absolute }}/user/themes/bootstrap/assets/email.png" alt="email">
+                            </div>
+                            <div class="inside-text">
+                                <p class="big p-class"><strong>Cám ơn bạn đã liên lạc với chúng tôi!</strong></p>
+                                <p class="below p-class">Chúng tôi đã gửi email của bạn đến một thành viên của GiaHânGroup và bạn có thể sớm nhận được thư trả lời.
+                                </p>
+                                <p class="if-you-need">Nếu bạn cần liên hệ với chúng tôi sớm hơn, vui lòng liên hệ với chúng tôi theo số điện thoại hoặc email bên dưới.</p>
+                                <p class="learn-more"><b>Tìm Hiểu Thêm Về <a href="/">Gia Hân Group</a></b></p>
+                                <div class="row email-phone-row">
+                                    <div class="col-xs-6">
+                                        <div class="row phone-popup">
+                                                <p>0968.333.268 - 0935.333.268</p>
+                                                <img src="{{ base_url_absolute }}/user/themes/x-corporation/img/phone-popup.png" alt="phone">
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-6">
+                                        <div class="row email-popup">
+                                                <img src="{{ base_url_absolute }}/user/themes/x-corporation/img/email-popup.png" alt="email">
+                                                <p><a href="mailto:GiahanGroup2018@gmail.com">GiahanGroup2018@gmail.com</a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            
+                                <button type="button" class="read-more" data-dismiss="modal">OK</button>
+                            </div>
+                        </div>
+                        </div>            
+                    </div>
+                </div>
             </div>
             <div class="col-md-6 contact-content">
             	<h2>Gia Hân Group</h2>
                 <p><i style="margin-right: 5px" class="fa fa-map-marker"></i>Số 304 Nguyễn Đình Tựu, Q.Thanh Khê TP. Đà Nẵng</p>
                 <p><i style="margin-right: 5px" class="fa fa-phone"></i><a href="tel:0968333268">0968.333.268</a> - <a href="tel:0935333268">0935.333.268</a></p>
-                <p><i style="margin-right: 5px" class="fa fa-envelope"></i><a href="mailto:GiahanGroup2018@gmail.com" target="_blank">GiahanGroup2018@gmail.com</p>
+                <p><i style="margin-right: 5px" class="fa fa-envelope"></i><a href="mailto:GiahanGroup2018@gmail.com" target="_blank">GiahanGroup2018@gmail.com</a></p>
             </div>
         </div>
     </div>     
-</section>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3834.1943062686214!2d108.18285241485833!3d16.05540368888949!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31421908a5578423%3A0xe33089a380b4706!2zMzA0IE5ndXnhu4VuIMSQw6xuaCBU4buxdSwgVGhhbmggS2jDqiwgxJDDoCBO4bq1bmc!5e0!3m2!1svi!2s!4v1531381562612" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+</div>
+{% do assets.add('theme://js/contact.js') %}
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3834.1943062686214!2d108.18285241485833!3d16.05540368888949!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31421908a5578423%3A0xe33089a380b4706!2zMzA0IE5ndXnhu4VuIMSQw6xuaCBU4buxdSwgVGhhbmggS2jDqiwgxJDDoCBO4bq1bmc!5e0!3m2!1svi!2s!4v1531381562612" style="border:none; width:100%; height:450px" allowfullscreen=""></iframe>

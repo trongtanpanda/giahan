@@ -2,13 +2,13 @@
 title: 'Nhà thông minh Lumi tỏa sáng tại triển lãm Techfest Vienam 2018 '
 media_order: 'image9.png,image4.png,image20.png,image16.png'
 thumbnail: image9.png
-description: 'Lần đầu tiên, giải pháp ngôi nhà với các thiết bị thông minh hoàn toàn điều khiển bằng giọng nói xuất hiện tại triển lãm Techfest Vienam 2018. Với sự tinh tế, sang trọng và đẳng cấp được thổi hồn một cách trọn vẹn với đầy đủ cung bậc cảm xúc, ngôi nhà đã khiến đối tác vô cùng ngạc nhiên và mê hoặc bất cứ khách tham quan nào.'
+description: 'Lần đầu tiên, giải pháp ngôi nhà với các thiết bị thông minh hoàn toàn điều khiển bằng giọng nói xuất hiện tại triển lãm Techfest Vietnam 2018. Với sự tinh tế, sang trọng và đẳng cấp được thổi hồn một cách trọn vẹn với đầy đủ cung bậc cảm xúc, ngôi nhà đã khiến đối tác vô cùng ngạc nhiên và mê hoặc bất cứ khách tham quan nào.'
 taxonomy:
     category:
         - tintuc
-googledesc: 'Lần đầu tiên, giải pháp ngôi nhà với các thiết bị thông minh hoàn toàn điều khiển bằng giọng nói xuất hiện tại triển lãm Techfest Vienam 2018. Với sự tinh tế, sang trọng và đẳng cấp được thổi hồn một cách trọn vẹn với đầy đủ cung bậc cảm xúc, ngôi nhà đã khiến đối tác vô cùng ngạc nhiên và mê hoặc bất cứ khách tham quan nào.'
+googledesc: 'Lần đầu tiên, giải pháp ngôi nhà với các thiết bị thông minh hoàn toàn điều khiển bằng giọng nói xuất hiện tại triển lãm Techfest Vietnam 2018. Với sự tinh tế, sang trọng và đẳng cấp được thổi hồn một cách trọn vẹn với đầy đủ cung bậc cảm xúc, ngôi nhà đã khiến đối tác vô cùng ngạc nhiên và mê hoặc bất cứ khách tham quan nào.'
 twittercardoptions: summary
-twitterdescription: 'Lần đầu tiên, giải pháp ngôi nhà với các thiết bị thông minh hoàn toàn điều khiển bằng giọng nói xuất hiện tại triển lãm Techfest Vienam 2018. Với sự tinh tế, sang trọng và đẳng cấp được thổi hồn một cách trọn vẹn với đầy đủ cung bậc cảm xúc, ngôi nhà đã khiến đối tác vô cùng ngạc nhiên và mê hoặc bất cứ khách tham quan nào.'
+twitterdescription: 'Lần đầu tiên, giải pháp ngôi nhà với các thiết bị thông minh hoàn toàn điều khiển bằng giọng nói xuất hiện tại triển lãm Techfest Vietnam 2018. Với sự tinh tế, sang trọng và đẳng cấp được thổi hồn một cách trọn vẹn với đầy đủ cung bậc cảm xúc, ngôi nhà đã khiến đối tác vô cùng ngạc nhiên và mê hoặc bất cứ khách tham quan nào.'
 articleenabled: false
 visible: false
 musiceventenabled: false
@@ -22,10 +22,10 @@ restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
     priceRange: $
-facebookdesc: 'Lần đầu tiên, giải pháp ngôi nhà với các thiết bị thông minh hoàn toàn điều khiển bằng giọng nói xuất hiện tại triển lãm Techfest Vienam 2018. Với sự tinh tế, sang trọng và đẳng cấp được thổi hồn một cách trọn vẹn với đầy đủ cung bậc cảm xúc, ngôi nhà đã khiến đối tác vô cùng ngạc nhiên và mê hoặc bất cứ khách tham quan nào.'
+facebookdesc: 'Lần đầu tiên, giải pháp ngôi nhà với các thiết bị thông minh hoàn toàn điều khiển bằng giọng nói xuất hiện tại triển lãm Techfest Vietnam 2018. Với sự tinh tế, sang trọng và đẳng cấp được thổi hồn một cách trọn vẹn với đầy đủ cung bậc cảm xúc, ngôi nhà đã khiến đối tác vô cùng ngạc nhiên và mê hoặc bất cứ khách tham quan nào.'
 ---
 
-Lần đầu tiên, giải pháp ngôi nhà với các thiết bị thông minh hoàn toàn điều khiển bằng giọng nói xuất hiện tại triển lãm Techfest Vienam 2018. Với sự tinh tế, sang trọng và đẳng cấp được thổi hồn một cách trọn vẹn với đầy đủ cung bậc cảm xúc, ngôi nhà đã khiến đối tác vô cùng ngạc nhiên và mê hoặc bất cứ khách tham quan nào.
+Lần đầu tiên, giải pháp ngôi nhà với các thiết bị thông minh hoàn toàn điều khiển bằng giọng nói xuất hiện tại triển lãm Techfest Vietnam 2018. Với sự tinh tế, sang trọng và đẳng cấp được thổi hồn một cách trọn vẹn với đầy đủ cung bậc cảm xúc, ngôi nhà đã khiến đối tác vô cùng ngạc nhiên và mê hoặc bất cứ khách tham quan nào.
 
 **Choáng ngợp với giải pháp nhà thông minh Lumi điều khiển bằng giọng nói tiếng Việt**.
 
