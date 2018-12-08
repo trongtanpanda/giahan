@@ -3,11 +3,13 @@ title: 'Các trợ lí ảo đang hỗ trợ nhà thông minh tại Việt Nam'
 media_order: 'amazon-alexa-se-den-voi-windows-10-pc.jpg,googlehomemini_1528905721.jpg,applehomepod_1528905667.jpg,intelligent-personal-assistants.png,_MILO.jpg'
 thumbnail: intelligent-personal-assistants.png
 description: 'Sau đây chúng ta cùng điểm qua các trợ lí ảo đang làm mưa làm gió tại thị trường trong nước.liệu có thực sự mê hoặc được cán tín đồ công nghệ.Thị trường nhà thông minh Việt Nam đang phát triển đến mức chóng mặt và hứa hẹn sẽ bùng nổ con số 45 triệu đô này sẽ sớm tăng lên gấp 10 lần chỉ trong vài năm nữa'
-visible: false
 taxonomy:
     category:
         - tintuc
+visible: false
+googledesc: 'Sau đây chúng ta cùng điểm qua các trợ lí ảo đang làm mưa làm gió tại thị trường trong nước.liệu có thực sự mê hoặc được cán tín đồ công nghệ.Thị trường nhà thông minh Việt Nam đang phát triển đến mức chóng mặt và hứa hẹn sẽ bùng nổ con số 45 triệu đô này sẽ sớm tăng lên gấp 10 lần chỉ trong vài năm nữa'
 twittercardoptions: summary
+twitterdescription: 'Sau đây chúng ta cùng điểm qua các trợ lí ảo đang làm mưa làm gió tại thị trường trong nước.liệu có thực sự mê hoặc được cán tín đồ công nghệ.Thị trường nhà thông minh Việt Nam đang phát triển đến mức chóng mặt và hứa hẹn sẽ bùng nổ con số 45 triệu đô này sẽ sớm tăng lên gấp 10 lần chỉ trong vài năm nữa'
 articleenabled: false
 musiceventenabled: false
 orgaenabled: false
@@ -20,41 +22,69 @@ restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
     priceRange: $
+facebookdesc: 'Sau đây chúng ta cùng điểm qua các trợ lí ảo đang làm mưa làm gió tại thị trường trong nước.liệu có thực sự mê hoặc được cán tín đồ công nghệ.Thị trường nhà thông minh Việt Nam đang phát triển đến mức chóng mặt và hứa hẹn sẽ bùng nổ con số 45 triệu đô này sẽ sớm tăng lên gấp 10 lần chỉ trong vài năm nữa'
 ---
 
-<p>Sau đ&acirc;y ch&uacute;ng ta c&ugrave;ng điểm qua c&aacute;c trợ l&iacute; ảo đang l&agrave;m mưa l&agrave;m gi&oacute; tại thị trường trong nước.liệu c&oacute; thực sự m&ecirc; hoặc được c&aacute;n t&iacute;n đồ c&ocirc;ng nghệ.Thị trường nh&agrave; th&ocirc;ng minh Việt Nam đang ph&aacute;t triển đến mức ch&oacute;ng mặt v&agrave; hứa hẹn sẽ b&ugrave;ng nổ con số 45 triệu đ&ocirc; n&agrave;y sẽ sớm tăng l&ecirc;n&nbsp;<strong>gấp&nbsp;10 lần chỉ trong&nbsp;v&agrave;i năm</strong>&nbsp;nữa. Hầu như tất cả c&aacute;c h&atilde;ng nh&agrave; th&ocirc;ng minh h&agrave;ng đầu thế giới đều đ&atilde; xuất hiện tại Việt Nam với những sản phẩm ti&ecirc;n phong của m&igrave;nh, v&iacute; dụ như Apple với loa th&ocirc;ng minh&nbsp;<strong>Homepod, Google với Home Mini</strong>..., c&aacute;c h&atilde;ng lớn mạnh n&agrave;y g&acirc;y sức &eacute;p kh&ocirc;ng nhỏ đến c&aacute;c thương hiệu Việt.&nbsp;<strong>Bkav Smarthome v&agrave; Lumi Việt Nam</strong>&nbsp;- những đơn vị đi đầu&nbsp; trong lĩnh vực nh&agrave; th&ocirc;ng minh được đ&aacute;nh gi&aacute; l&agrave; mạnh mẽ nhất thị trường quốc nội buộc phải c&oacute; những bước đi tương tự để khẳng định vị thế.</p>
-<p><strong>1. Apple Homepod - Trợ l&yacute; ảo Siri: thương hiệu Apple đ&atilde; qu&aacute; gần gũi v&agrave; kh&ocirc;ng xa lạ với bất k&igrave; ai ở việt nam, kể từ c&aacute;c đời IPhone 4 trở l&ecirc;n đều trang bị hệ thống trợ l&iacute; &aacute;o Siri</strong></p>
-<p><strong>Điểm mạnh</strong>: Chất lượng &acirc;m thanh tốt nhất, thiết kế tinh tế, nhận diện giọng n&oacute;i cực nhạy.</p>
-<p><strong>Điểm yếu</strong>: Gi&aacute; th&agrave;nh cao hơn kh&aacute; nhiều so với c&aacute;c đối thủ, kh&ocirc;ng c&oacute; Bluetooth Streaming, thị trường bị b&oacute; hẹp c&ugrave;ng với c&aacute;c d&ograve;ng sản phẩm Apple.</p>
-<p>Ngo&agrave;i việc thực thi c&aacute;c mệnh lệnh căn bản bằng giọng n&oacute;i để điều khiển thiết bị trong nh&agrave; th&ocirc;ng minh th&igrave; điều đầu ti&ecirc;n cần phải ch&uacute; &yacute; khi nhắc đến Apple Homepod l&agrave;&nbsp;<strong>chất lượng &acirc;m thanh v&ocirc; c&ugrave;ng tuyệt hảo</strong>. D&ugrave; l&agrave; một chiếc loa di động nhỏ gọn nhưng Homepod thể hiện đẳng cấp khi c&oacute; thể chơi tốt c&aacute;c loại nhạc kh&aacute;c nhau. Thậm ch&iacute; Homepod c&oacute; thể thể hiện tốt c&aacute;c&nbsp;<strong>dải &acirc;m si&ecirc;u trầm</strong>, th&aacute;ch thức cả những chiếc loa nghe nhạc thực thụ của c&aacute;c h&atilde;ng danh tiếng về loa tr&ecirc;n thế giới.</p>
-<p><img src="/newv1/tin-tuc/cac-tro-li-ao-dang-ho-tro-nha-thong-minh-tai-viet-nam/applehomepod_1528905667.jpg" alt="" /></p>
-<p>&nbsp;</p>
-<p>Được c&ocirc;ng bố v&agrave;o th&aacute;ng 6 năm ngo&aacute;i, v&agrave; ra mắt v&agrave;o th&aacute;ng 2/2018, Homepod ho&agrave;n to&agrave;n l&agrave;m ngạc nhi&ecirc;n tất cả c&aacute;c t&iacute;n đồ c&ocirc;ng nghệ nhờ chất lượng &acirc;m thanh. C&oacute; lẽ đ&acirc;y l&agrave; điểm s&aacute;ng duy nhất gi&uacute;p Homepod gỡ gạc lại sự yếu k&eacute;m của Siri, trợ l&yacute; ảo n&agrave;y c&ograve;n thiếu nhiều chức năng v&agrave; c&oacute; &iacute;t số lượng c&acirc;u lệnh hơn c&aacute;c đối thủ như Google Assistant hay Alexa của Amazon. Một giới hạn kh&aacute;c c&oacute; lẽ sẽ khiến Homepod mất thị phần so với đối thủ l&agrave; n&oacute; cũng bị giới hạn thị trường c&ugrave;ng với c&aacute;c d&ograve;ng sản phẩm Apple kh&aacute;c, sẽ chỉ c&oacute; những iFan l&acirc;u năm mới sắm chiếc loa n&agrave;y cho bộ sưu tập quả t&aacute;o của m&igrave;nh m&agrave; th&ocirc;i.</p>
-<p>Hiện tại, Homepod đang được c&aacute;c doanh nghiệp tư nh&acirc;n nhập khẩu v&agrave; b&aacute;n ở thị trường Việt Nam với gi&aacute;&nbsp;<strong>khoảng 8 đến hơn 9 triệu đồng</strong>&nbsp;t&ugrave;y phi&ecirc;n bản m&agrave;u trắng hay m&agrave;u đen.</p>
-<p><strong>2. Google Home Mini - Trợ l&yacute; ảo Google Assistant:</strong></p>
-<p><strong>Điểm mạnh</strong>: Mức gi&aacute; rẻ hấp dẫn nhất thị trường nhưng t&iacute;nh năng vẫn đa dạng phong ph&uacute;.</p>
-<p><strong>Điểm yếu</strong>: Chất &acirc;m chưa được hay, mức độ ho&agrave;n thiện sản phẩm chưa bằng c&aacute;c đối thủ.</p>
-<p>Với c&aacute;i gi&aacute; cực ''sốc" tại thị trường Việt Nam chỉ với khoảng&nbsp;<strong>1 triệu 500 ngh&igrave;n đồng</strong>, Home Mini trở th&agrave;nh sản phẩm loa th&ocirc;ng minh c&oacute; chỉ số p/p&nbsp;<strong>( price/performance - tỉ suất đ&aacute;nh gi&aacute; hiệu năng tr&ecirc;n gi&aacute; th&agrave;nh ) cao nhất</strong>&nbsp;thị trường hiện nay. Thiết kế đơn giản nhỏ gọn, dễ thương, nhiều m&agrave;u sắc bắt mắt...Google Home Mini mang đến ng&ocirc;i nh&agrave; th&ocirc;ng minh của bạn một điểm nhấn v&ocirc; c&ugrave;ng đ&aacute;ng gi&aacute; với k&iacute;ch thước chỉ bằng một c&aacute;i b&aacute;nh donut, nặng vỏn vẹn&nbsp;<strong>173 gram</strong>&nbsp;g&oacute;i gọn trong l&ograve;ng b&agrave;n tay.</p>
-<p><img src="/newv1/tin-tuc/cac-tro-li-ao-dang-ho-tro-nha-thong-minh-tai-viet-nam/googlehomemini_1528905721.jpg" alt="" /></p>
-<p><em>Google Home Mini, nhỏ gọn tiện dụng, gi&aacute; th&agrave;nh hấp dẫn</em></p>
-<p>Khi tung ra sản phẩm Home Mini c&oacute; lẽ Google đ&atilde; muốn bao trọn cả thị trường, tương tự với những sản phẩm đang d&ugrave;ng hệ điều h&agrave;nh Android hiện tại. Trợ l&yacute; ảo Google Assistant mạnh mẽ cũng l&agrave; linh hồn của Home Mini gi&uacute;p cho chiếc loa nhỏ xinh n&agrave;y c&oacute; thể dễ d&agrave;ng kết nối với tất cả c&aacute;c thiết bị kh&aacute;c một c&aacute;ch v&ocirc; c&ugrave;ng dễ d&agrave;ng, bạn chỉ cần kết nối với điện thoại th&ocirc;ng qua ứng dụng Google Home v&agrave; ch&uacute;ng sẽ tự đồng bộ. Ngo&agrave;i ra t&iacute;nh năng ph&aacute;t qua Bluetooth cũng gi&uacute;p Home Mini vượt mặt Apple Homepod về t&iacute;nh phong ph&uacute; đa dạng.</p>
-<p>Hơn thế nữa, Google Home Mini cũng c&oacute; thể kết hợp với&nbsp;<strong>Chromecast</strong>&nbsp;để ph&aacute;t phim ảnh qua TV, hay hỗ trợ k&iacute;ch hoạt c&aacute;c dịch vụ như&nbsp;<strong>Netflix</strong>. Với c&aacute;i gi&aacute; hấp dẫn v&agrave; t&iacute;nh năng tuyệt vời như thế n&agrave;y th&igrave; c&aacute;c t&iacute;n đồ Android đ&ocirc;ng đảo tr&ecirc;n thế giới sẽ kh&ocirc;ng ngần ngại trang bị ngay một ch&uacute; Google Home Mini để trải nghiệm c&ocirc;ng nghệ.</p>
-<p><strong>3. Echo Dot - Trợ l&yacute; ảo Alexa:Thiết bị n&agrave;y cũng được ứng dụng t&iacute;ch hợp v&agrave;o nền tảng trợ l&iacute; ảo của lumi khi loa MILO chưa được đi v&agrave;o hoạt động</strong></p>
-<p><strong>Điểm mạnh</strong>: Trợ l&yacute; ảo Alexa th&ocirc;ng minh, nhiều kỹ năng phong ph&uacute; đa dạng nhất thị trường.</p>
-<p><strong>Điểm yếu</strong>: Kh&ocirc;ng c&oacute; ng&otilde; ra &acirc;m thanh Digital, c&aacute;c chỉ số kh&aacute;c chỉ ở mức trung b&igrave;nh so với đối thủ.</p>
-<div id="AdAsia">&nbsp;</div>
-<p>Với hơn 5000 nh&acirc;n sự được Amazon cắt cử để nghi&ecirc;n cứu v&agrave; l&agrave;m việc nhằm cải thiện Alexa - c&ocirc; n&agrave;ng trợ l&yacute; ảo ẩn m&igrave;nh trong loa Echo Dot ch&iacute;nh l&agrave;&nbsp;<strong>tr&iacute; tuệ nh&acirc;n tạo mạnh mẽ nhất</strong>&nbsp;thị trường nh&agrave; th&ocirc;ng minh hiện nay. Thật vậy, kỹ năng của Alexa đang được cải thiện từng ng&agrave;y với tiềm năng ph&aacute;t triển v&ocirc; c&ugrave;ng hứa hẹn. D&ograve;ng loa th&ocirc;ng minh Echo v&agrave; Echo Dot của Amazon d&ugrave; ra mắt kh&aacute; sớm v&agrave; vướng phải nhiều kh&oacute; khăn trong qu&aacute; tr&igrave;nh ho&agrave;n thiện tuy nhi&ecirc;n vẫn giữ được thị phần v&agrave; dẫn đầu thị trường nh&agrave; th&ocirc;ng minh tại Mỹ.</p>
-<p><img src="/newv1/tin-tuc/cac-tro-li-ao-dang-ho-tro-nha-thong-minh-tai-viet-nam/amazon-alexa-se-den-voi-windows-10-pc.jpg" alt="" /></p>
-<p><em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Echo Dot, t&iacute;nh năng phong ph&uacute;, dẫn đầu thị trường</em></p>
-<p>T&iacute;nh đến th&aacute;ng 1 năm 2018, c&oacute; đến hơn&nbsp;<strong>31 triệu thiết bị Echo được Amazon b&aacute;n ra</strong>&nbsp;bao gồm Echo Dot, v&agrave;&nbsp;<strong>18% người Mỹ tr&ecirc;n 18 tuổi sở hữu thiết bị n&agrave;y</strong>. Hơn thế nữa, Amazon Echo Dot l&agrave; thiết bị loa th&ocirc;ng minh đầu ti&ecirc;n được một doanh nghiệp Việt l&agrave; Lumi Việt Nam hợp t&aacute;c triển khai th&agrave;nh c&ocirc;ng trong hệ thống nh&agrave; th&ocirc;ng minh của họ.</p>
-<p>Hiện tại, Echo Dot thế hệ 2 c&oacute; gi&aacute; chỉ tầm&nbsp;<strong>1 triệu 2 trăm ngh&igrave;n</strong>&nbsp;tại thị trường Việt Nam. Một c&aacute;i gi&aacute; qu&aacute; hời để người d&ugrave;ng Việt được trải nghiệm nh&agrave; th&ocirc;ng minh đẳng cấp quốc tế.</p>
-<p><strong>4. Lumi Milo - Trợ l&yacute; ảo Google Assistant:</strong></p>
-<p><strong>Điểm mạnh</strong>: Ph&aacute; vỡ r&agrave;o cản ng&ocirc;n ngữ, tương t&aacute;c tiếng Việt ho&agrave;n to&agrave;n với mức độ ho&agrave;n thiện sản phẩm cao sản phẩm đầu tay do người Việt chế tạo trợ l&iacute; ảo.</p>
-<p><strong>Điểm yếu</strong>: Vẫn trong thời gian ph&aacute;t triển t&iacute;nh năng, chịu sự cạnh tranh mạnh mẽ của thương hiệu nước ngo&agrave;i, chưa nhận diện hết tất cả c&aacute;c giọng v&ugrave;ng miền( đặc th&ugrave; ng&ocirc;n ngữ Việt Nam rất đa dạng v&agrave; phong ph&uacute;)</p>
-<p>V&acirc;ng một c&aacute;i t&ecirc;n c&oacute; lẽ rất lạ, v&igrave; đ&acirc;y l&agrave; sản phẩm loa th&ocirc;ng minh đầu ti&ecirc;n được một doanh nghiệp Việt ph&aacute;t triển ph&ugrave; hợp với thị trường quốc nội. Tỏa s&aacute;ng tại triển l&atilde;m CES 2018 - Las Vegas ( Mỹ ), Milo được Lumi Việt Nam t&iacute;ch hợp trợ l&yacute; ảo Google Assistant, sử dụng&nbsp;<strong>c&ocirc;ng nghệ s&oacute;ng Zigbee độc đ&aacute;o</strong>&nbsp;ti&ecirc;u thụ điện năng chỉ bằng&nbsp;<strong>10%</strong>&nbsp;so với c&aacute;c thiết bị d&ugrave;ng s&oacute;ng Wifi truyền thống.</p>
-<p><img src="/newv1/tin-tuc/cac-tro-li-ao-dang-ho-tro-nha-thong-minh-tai-viet-nam/_MILO.jpg" alt="" /></p>
-<p><em>Lumi Milo, thương hiệu Việt, ph&aacute; vỡ r&agrave;o cản ng&ocirc;n ngữ t&iacute;ch hợp ng&ocirc;n ngữ 3 v&ugrave;ng miền việt nam (Bắc ,Trung, Nam)</em></p>
-<p>Với sự hợp t&aacute;c giữa Lumi Việt Nam v&agrave; Hogar Controls Ấn Độ, chắc chắn trong thời gian sắp tới loa th&ocirc;ng minh Milo sẽ đ&aacute;nh dấu cột mốc quan trọng của nh&agrave; th&ocirc;ng minh thương hiệu Việt. Tr&ecirc;n hết, sản phẩm n&agrave;y sẽ<strong>&nbsp;ph&aacute; vỡ mọi r&agrave;o cản ng&ocirc;n ngữ</strong>&nbsp;gi&uacute;p cho người d&ugrave;ng phổ th&ocirc;ng Việt Nam c&oacute; thể thỏa sức trải nghiệm c&ocirc;ng nghệ v&agrave; mang đến những gi&aacute; trị sử dụng thiết thực nhất trong cuộc sống. Cho đến thời điểm n&agrave;y, Lumi Milo đ&atilde; ho&agrave;n to&agrave;n c&oacute; thể thực thi tất cả c&aacute;c mệnh lệnh căn bản như bật tắt thiết bị điện chiếu s&aacute;ng, TV, điều h&ograve;a, r&egrave;m cửa, kiểm so&aacute;t hệ thống an ninh...bằng tiếng Việt.</p>
-<p>Được biết, sản phẩm n&agrave;y sẽ sớm được Lumi Việt Nam ra mắt rầm rộ v&agrave;o&nbsp;<strong>27-6 tại s&agrave;i g&ograve;n nơi m&agrave; sản phẩm nh&agrave; th&ocirc;ng minh LUMi được tin d&ugrave;ng nhiều nhất</strong>&nbsp;với gi&aacute;&nbsp; ch&iacute;nh thức cũng rất vừa t&uacute;i tiền của c&aacute;c t&iacute;n đồ c&ocirc;ng nghệ. 4520000 VND</p>
-<p>&nbsp;</p>
-<p><strong>Kết lại</strong>, ch&uacute;ng ta c&oacute; thể dự đo&aacute;n được một tương lai v&ocirc; c&ugrave;ng s&ocirc;i động của thị trường nh&agrave; th&ocirc;ng minh Việt Nam với c&aacute;c sản phẩm đa dạng về nguồn gốc xuất xứ lẫn ngoại h&igrave;nh, t&iacute;nh năng, ph&acirc;n kh&uacute;c gi&aacute; th&agrave;nh. Chắc chắn người d&ugrave;ng Việt d&ugrave; c&oacute; điều kiện t&agrave;i ch&iacute;nh như thế n&agrave;o, thị hiếu ra sao, cũng sẽ t&igrave;m được giải ph&aacute;p hợp l&yacute; v&agrave; hiệu quả để h&ograve;a m&igrave;nh v&agrave;o thế giới c&ocirc;ng nghệ đầy tiện &iacute;ch m&agrave; nh&agrave; th&ocirc;ng minh mang lại.</p>
+Sau đây chúng ta cùng điểm qua các trợ lí ảo đang làm mưa làm gió tại thị trường trong nước.liệu có thực sự mê hoặc được cán tín đồ công nghệ.Thị trường nhà thông minh Việt Nam đang phát triển đến mức chóng mặt và hứa hẹn sẽ bùng nổ con số 45 triệu đô này sẽ sớm tăng lên **gấp 10 lần chỉ trong vài năm nữa**. Hầu như tất cả các hãng nhà thông minh hàng đầu thế giới đều đã xuất hiện tại Việt Nam với những sản phẩm tiên phong của mình, ví dụ như Apple với loa thông minh **Homepod, Google với Home Mini**..., các hãng lớn mạnh này gây sức ép không nhỏ đến các thương hiệu Việt. **Bkav Smarthome và Lumi Việt Nam** - những đơn vị đi đầu  trong lĩnh vực nhà thông minh được đánh giá là mạnh mẽ nhất thị trường quốc nội buộc phải có những bước đi tương tự để khẳng định vị thế.
+
+**1. Apple Homepod - Trợ lý ảo Siri: thương hiệu Apple đã quá gần gũi và không xa lạ với bất kì ai ở việt nam, kể từ các đời IPhone 4 trở lên đều trang bị hệ thống trợ lí áo Siri**
+
+**Điểm mạnh**: Chất lượng âm thanh tốt nhất, thiết kế tinh tế, nhận diện giọng nói cực nhạy.
+
+**Điểm yếu**: Giá thành cao hơn khá nhiều so với các đối thủ, không có Bluetooth Streaming, thị trường bị bó hẹp cùng với các dòng sản phẩm Apple.
+
+Ngoài việc thực thi các mệnh lệnh căn bản bằng giọng nói để điều khiển thiết bị trong nhà thông minh thì điều đầu tiên cần phải chú ý khi nhắc đến Apple Homepod là chất lượng âm thanh vô cùng tuyệt hảo. Dù là một chiếc loa di động nhỏ gọn nhưng Homepod thể hiện đẳng cấp khi có thể chơi tốt các loại nhạc khác nhau. Thậm chí Homepod có thể thể hiện tốt các dải âm siêu trầm, thách thức cả những chiếc loa nghe nhạc thực thụ của các hãng danh tiếng về loa trên thế giới.
+
+![Các trợ lí ảo đang hỗ trợ nhà thông minh tại Việt Nam 1](applehomepod_1528905667.jpg)
+_Các trợ lí ảo đang hỗ trợ nhà thông minh tại Việt Nam_
+
+Được công bố vào tháng 6 năm ngoái, và ra mắt vào tháng 2/2018, Homepod hoàn toàn làm ngạc nhiên tất cả các tín đồ công nghệ nhờ chất lượng âm thanh. Có lẽ đây là điểm sáng duy nhất giúp Homepod gỡ gạc lại sự yếu kém của Siri, trợ lý ảo này còn thiếu nhiều chức năng và có ít số lượng câu lệnh hơn các đối thủ như Google Assistant hay Alexa của Amazon. Một giới hạn khác có lẽ sẽ khiến Homepod mất thị phần so với đối thủ là nó cũng bị giới hạn thị trường cùng với các dòng sản phẩm Apple khác, sẽ chỉ có những iFan lâu năm mới sắm chiếc loa này cho bộ sưu tập quả táo của mình mà thôi.
+
+Hiện tại, Homepod đang được các doanh nghiệp tư nhân nhập khẩu và bán ở thị trường Việt Nam với giá khoảng 8 đến hơn 9 triệu đồng tùy phiên bản màu trắng hay màu đen.
+
+**2. Google Home Mini - Trợ lý ảo Google Assistant:**
+
+**Điểm mạnh**: Mức giá rẻ hấp dẫn nhất thị trường nhưng tính năng vẫn đa dạng phong phú.
+
+**Điểm yếu**: Chất âm chưa được hay, mức độ hoàn thiện sản phẩm chưa bằng các đối thủ.
+
+Với cái giá cực ''sốc" tại thị trường Việt Nam chỉ với khoảng 1 triệu 500 nghìn đồng, Home Mini trở thành sản phẩm loa thông minh có chỉ số p/p ( price/performance - tỉ suất đánh giá hiệu năng trên giá thành ) cao nhất thị trường hiện nay. Thiết kế đơn giản nhỏ gọn, dễ thương, nhiều màu sắc bắt mắt...Google Home Mini mang đến ngôi nhà thông minh của bạn một điểm nhấn vô cùng đáng giá với kích thước chỉ bằng một cái bánh donut, nặng vỏn vẹn 173 gram gói gọn trong lòng bàn tay.
+
+![Google Home Mini, nhỏ gọn tiện dụng, giá thành hấp dẫn](googlehomemini_1528905721.jpg)
+_Google Home Mini, nhỏ gọn tiện dụng, giá thành hấp dẫn_
+
+Khi tung ra sản phẩm Home Mini có lẽ Google đã muốn bao trọn cả thị trường, tương tự với những sản phẩm đang dùng hệ điều hành Android hiện tại. Trợ lý ảo Google Assistant mạnh mẽ cũng là linh hồn của Home Mini giúp cho chiếc loa nhỏ xinh này có thể dễ dàng kết nối với tất cả các thiết bị khác một cách vô cùng dễ dàng, bạn chỉ cần kết nối với điện thoại thông qua ứng dụng Google Home và chúng sẽ tự đồng bộ. Ngoài ra tính năng phát qua Bluetooth cũng giúp Home Mini vượt mặt Apple Homepod về tính phong phú đa dạng.
+
+Hơn thế nữa, Google Home Mini cũng có thể kết hợp với Chromecast để phát phim ảnh qua TV, hay hỗ trợ kích hoạt các dịch vụ như Netflix. Với cái giá hấp dẫn và tính năng tuyệt vời như thế này thì các tín đồ Android đông đảo trên thế giới sẽ không ngần ngại trang bị ngay một chú Google Home Mini để trải nghiệm công nghệ.
+
+**3. Echo Dot - Trợ lý ảo Alexa:Thiết bị này cũng được ứng dụng tích hợp vào nền tảng trợ lí ảo của lumi khi loa MILO chưa được đi vào hoạt động**
+
+**Điểm mạnh**: Trợ lý ảo Alexa thông minh, nhiều kỹ năng phong phú đa dạng nhất thị trường.
+
+**Điểm yếu**: Không có ngõ ra âm thanh Digital, các chỉ số khác chỉ ở mức trung bình so với đối thủ.
+ 
+Với hơn 5000 nhân sự được Amazon cắt cử để nghiên cứu và làm việc nhằm cải thiện Alexa - cô nàng trợ lý ảo ẩn mình trong loa Echo Dot chính là trí tuệ nhân tạo mạnh mẽ nhất thị trường nhà thông minh hiện nay. Thật vậy, kỹ năng của Alexa đang được cải thiện từng ngày với tiềm năng phát triển vô cùng hứa hẹn. Dòng loa thông minh Echo và Echo Dot của Amazon dù ra mắt khá sớm và vướng phải nhiều khó khăn trong quá trình hoàn thiện tuy nhiên vẫn giữ được thị phần và dẫn đầu thị trường nhà thông minh tại Mỹ.
+
+![ Echo Dot, tính năng phong phú, dẫn đầu thị trường](amazon-alexa-se-den-voi-windows-10-pc.jpg)
+_ Echo Dot, tính năng phong phú, dẫn đầu thị trường_
+
+Tính đến tháng 1 năm 2018, có đến hơn 31 triệu thiết bị Echo được Amazon bán ra bao gồm Echo Dot, và 18% người Mỹ trên 18 tuổi sở hữu thiết bị này. Hơn thế nữa, Amazon Echo Dot là thiết bị loa thông minh đầu tiên được một doanh nghiệp Việt là Lumi Việt Nam hợp tác triển khai thành công trong hệ thống nhà thông minh của họ.
+
+Hiện tại, Echo Dot thế hệ 2 có giá chỉ tầm 1 triệu 2 trăm nghìn tại thị trường Việt Nam. Một cái giá quá hời để người dùng Việt được trải nghiệm nhà thông minh đẳng cấp quốc tế.
+
+**4. Lumi Milo - Trợ lý ảo Google Assistant:**
+
+**Điểm mạnh**: Phá vỡ rào cản ngôn ngữ, tương tác tiếng Việt hoàn toàn với mức độ hoàn thiện sản phẩm cao sản phẩm đầu tay do người Việt chế tạo trợ lí ảo.
+
+**Điểm yếu**: Vẫn trong thời gian phát triển tính năng, chịu sự cạnh tranh mạnh mẽ của thương hiệu nước ngoài, chưa nhận diện hết tất cả các giọng vùng miền( đặc thù ngôn ngữ Việt Nam rất đa dạng và phong phú)
+
+Vâng một cái tên có lẽ rất lạ, vì đây là sản phẩm loa thông minh đầu tiên được một doanh nghiệp Việt phát triển phù hợp với thị trường quốc nội. Tỏa sáng tại triển lãm CES 2018 - Las Vegas ( Mỹ ), Milo được Lumi Việt Nam tích hợp trợ lý ảo Google Assistant, sử dụng công nghệ sóng Zigbee độc đáo tiêu thụ điện năng chỉ bằng 10% so với các thiết bị dùng sóng Wifi truyền thống.
+
+![Lumi Milo, thương hiệu Việt, phá vỡ rào cản ngôn ngữ tích hợp ngôn ngữ 3 vùng miền việt nam (Bắc ,Trung, Nam)](_MILO.jpg)
+_Lumi Milo, thương hiệu Việt, phá vỡ rào cản ngôn ngữ tích hợp ngôn ngữ 3 vùng miền việt nam (Bắc ,Trung, Nam)_
+
+Với sự hợp tác giữa Lumi Việt Nam và Hogar Controls Ấn Độ, chắc chắn trong thời gian sắp tới loa thông minh Milo sẽ đánh dấu cột mốc quan trọng của nhà thông minh thương hiệu Việt. Trên hết, sản phẩm này sẽ phá vỡ mọi rào cản ngôn ngữ giúp cho người dùng phổ thông Việt Nam có thể thỏa sức trải nghiệm công nghệ và mang đến những giá trị sử dụng thiết thực nhất trong cuộc sống. Cho đến thời điểm này, Lumi Milo đã hoàn toàn có thể thực thi tất cả các mệnh lệnh căn bản như bật tắt thiết bị điện chiếu sáng, TV, điều hòa, rèm cửa, kiểm soát hệ thống an ninh...bằng tiếng Việt.
+
+Được biết, sản phẩm này sẽ sớm được Lumi Việt Nam ra mắt rầm rộ vào 27-6 tại sài gòn nơi mà sản phẩm nhà thông minh LUMi được tin dùng nhiều nhất với giá  chính thức cũng rất vừa túi tiền của các tín đồ công nghệ. 4520000 VND
+
+Kết lại, chúng ta có thể dự đoán được một tương lai vô cùng sôi động của thị trường nhà thông minh Việt Nam với các sản phẩm đa dạng về nguồn gốc xuất xứ lẫn ngoại hình, tính năng, phân khúc giá thành. Chắc chắn người dùng Việt dù có điều kiện tài chính như thế nào, thị hiếu ra sao, cũng sẽ tìm được giải pháp hợp lý và hiệu quả để hòa mình vào thế giới công nghệ đầy tiện ích mà nhà thông minh mang lại.

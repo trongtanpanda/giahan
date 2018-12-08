@@ -20,7 +20,7 @@ restaurant:
 
 Nhà thông minh đã trở nên phổ biến với mọi gia đình Việt. Chỉ từ 70 – 150 triệu, bạn đã sở hữu ngay ngôi nhà thông minh, tiện nghi hơn cả sự mong đợi, với hệ thống chiếu sáng, điều hòa, bình nóng lạnh, rèm cửa, âm thanh, hình ảnh… được con người kiểm soát, điều khiển trên smartphone, ipad khi kết nối internet.  Hoặc bằng chính giọng nói tiếng Việt 3 miền Bắc, Trung, Nam.
  
-### Ngôi nhà phố thông minh vạn tiện nghi
+## Ngôi nhà phố thông minh vạn tiện nghi
 
 Hệ thống chiếu sáng vạn tiện nghi: Ngôi nhà thông thường, bạn phải đến tận nơi để điều khiển các thiết bị. Nhưng với nhà thông minh Lumi, chỉ cần ngồi 1 chỗ hay ở cơ quan, đi công tác xa hàng trăm kilomet vẫn có thể bật/tắt các thiết bị điện trong ngôi nhà một cách dẽ dàng, trên Smartphone, máy tính, ipad được kết nối Internet, 3G/4G. Đồng thời, bạn có thể biết được các thiết bị đang ở trạng thái nào, độ sáng bao nhiêu %.
 Đặc biệt, khi ở nhà có thể dùng giọng nói tiếng Việt tự nhiên để điều khiển, qua loa thông minh MILO. Dù là giọng đặc trưng của miền Bắc, Trung hay miền Nam thì MILO đều thực hiện dễ dàng. Giải pháp như người “trợ lý” giúp bạn trở thành “siêu nhân” một cách thực thụ. Ví dụ: khi đang nấu ăn, đang yên vị trên giường, thậm chí là khi bạn đang tắm vẫn có thể mở cổng cho khách, tưới nước cho cây... Đây là bí kíp giúp bạn tiết kiệm thời gian hiệu quả, để tận hưởng trọn vẹn cuộc sống bên những người thân.
@@ -40,4 +40,4 @@ Hãy là người tiếp theo sở hữu ngôi nhà thông minh với giá từ 
 
 _Tham khảo **báo giá thiết bị Lumi cho nhà phố** trị giá hơn 150 triệu đồng_
 
-![](du%20toan%20cho%20nha%20pho.png)
+![báo giá thiết bị Lumi cho nhà phố](du%20toan%20cho%20nha%20pho.png)

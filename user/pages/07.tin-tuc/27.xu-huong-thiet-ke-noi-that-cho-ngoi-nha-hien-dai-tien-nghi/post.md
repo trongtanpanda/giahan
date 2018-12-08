@@ -22,10 +22,11 @@ restaurant:
     priceRange: $
 ---
 
-<h2><em>Bạn đang muốn thiết kế lại ng&ocirc;i nh&agrave; theo hướng hiện đại hơn nhưng vẫn chưa nghĩ ra &yacute; tưởng g&igrave;? B&agrave;i viết n&agrave;y&nbsp;sẽ đưa ra những xu hướng thiết kế nội thất&nbsp;</em><em>ng&ocirc;i nh&agrave; mang đến cho bạn một kh&ocirc;ng gian c&oacute; t&iacute;nh tiện lợi cao m&agrave; vẫn kh&ocirc;ng k&eacute;m phần tinh tế.</em></h2>
-<p><em>H&atilde;y tham khảo nh&eacute;!</em></p>
-<p><strong>Trang nh&atilde; v&agrave; sang trọng</strong></p>
-<p>Một trong những c&aacute;ch đơn giản v&agrave; dễ d&agrave;ng nhất để bắt nhịp với xu hướng hiện nay đ&oacute; l&agrave; sự kết hợp những gam m&agrave;u lạnh trong ng&ocirc;i nh&agrave;. Một gợi &yacute; cho c&aacute;ch phối m&agrave;u hiệu quả đ&oacute; l&agrave; t&ocirc;ng nền m&agrave;u s&aacute;ng, tạo điểm nhấn bằng nội thất v&agrave; vật dụng trang tr&iacute; c&oacute; m&agrave;u sắc đậm nổi bật. B&ecirc;n cạnh đ&oacute;, phần lớn c&aacute;c mẫu thiết kế nh&agrave; hiện nay ưu ti&ecirc;n sử dụng tủ gỗ, s&agrave;n nh&agrave; m&agrave;u trắng hoặc m&agrave;u tường. C&aacute;c nh&agrave; thiết kế cho rằng, họ đang nh&igrave;n thấy xu hướng chuyển từ gam m&agrave;u ấm hơn của m&agrave;u n&acirc;u sang t&ocirc;ng m&agrave;u lạnh của m&agrave;u trắng v&agrave; x&aacute;m trong việc lựa chọn nội thất. C&ograve;n g&igrave; hơn l&agrave; to&agrave;n bộ bố cục được phối bằng gam m&agrave;u trắng nhưng kh&ocirc;ng c&oacute; nghĩa l&agrave; trống rỗng hay đơn giản, c&oacute; v&ocirc; số c&aacute;c biến thể của m&agrave;u sắc để tạo chiều s&acirc;u v&agrave; hấp dẫn thị gi&aacute;c. Nếu như cuộc sống x&ocirc; bồ b&ecirc;n ngo&agrave;i l&agrave;m cho ch&uacute;ng ta cảm thấy căng thẳng, mệt mỏi th&igrave; khi về nh&agrave; một kh&ocirc;ng gian y&ecirc;n tĩnh sẽ gi&uacute;p ch&uacute;ng ta cảm thấy thư th&aacute;i hơn.</p>
+Bạn đang muốn thiết kế lại ngôi nhà theo hướng hiện đại hơn nhưng vẫn chưa nghĩ ra ý tưởng gì? Bài viết này sẽ đưa ra những xu hướng thiết kế nội thất ngôi nhà mang đến cho bạn một không gian có tính tiện lợi cao mà vẫn không kém phần tinh tế.
+
+Hãy tham khảo nhé!
+
+
 <p><img style="display: block; margin-left: auto; margin-right: auto;" src="/newv1/tin-tuc/xu-huong-thiet-ke-noi-that-cho-ngoi-nha-hien-dai-tien-nghi/anh_1_1.jpg" alt="" /></p>
 <p><strong>Giấy d&aacute;n tường</strong></p>
 <p>Mặc d&ugrave; giấy d&aacute;n tường l&agrave; sự lựa chọn kh&ocirc;ng c&ograve;n mới mẻ hay độc đ&aacute;o để trang tr&iacute; nh&agrave;. Tuy nhi&ecirc;n nhờ ưu điểm như chi ph&iacute; thấp, tiện dụng nhưng vẫn đảm bảo về mặt thẩm mỹ cho ng&ocirc;i nh&agrave;. N&ecirc;n xu hướng n&agrave;y vẫn đang được rất nhiều người y&ecirc;u th&iacute;ch. B&ecirc;n cạnh đ&oacute;, giấy d&aacute;n tường hiện nay rất đa dạng về chủng loại, m&agrave;u sắc cũng như mẫu m&atilde; ch&iacute;nh v&igrave; vậy t&ugrave;y thuộc v&agrave;o nhu cầu, sở th&iacute;ch của gia chủ m&agrave; c&oacute; những lựa chọn ph&ugrave; hợp hơn.</p>

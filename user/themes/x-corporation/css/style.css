@@ -56,7 +56,9 @@ a:hover {
     color: #F7931E;
 }
 
-
+.home-heading {
+    margin: 0px;
+}
 /* --------------------------------------
 LINK STYLE
 ------------------------------------------*/
@@ -632,7 +634,7 @@ Shortcode Content
     transform: translateY(50%);
 }
 
-.hero-slide .carousel-caption h1 {
+.hero-slide .carousel-caption h2 {
     font-size: 100px;
     line-height: 1;
     font-weight: bold;
@@ -682,7 +684,7 @@ Shortcode Content
     .hero-slide {
         margin-top: 60px;
     }
-    .hero-slide .carousel-caption h1 {
+    .hero-slide .carousel-caption h2 {
         font-size: 24px;
     }
     .hero-slide .carousel-indicators {
@@ -1138,7 +1140,7 @@ Team
     .navbar-default .navbar-nav>li {
         margin-right: 0;
     }
-    .hero-slide .carousel-caption h1 {
+    .hero-slide .carousel-caption h2 {
         font-size: 105px;
     }
 }
@@ -2209,7 +2211,9 @@ div.row.email-phone-row {
     margin-bottom: 20px;
     line-height: 1.2;
 }
-
+.nav-cta.visible-xs .dropdown-toggle{
+    float: right;
+}
 @media (max-width: 1200px) {
     .p-top {
         padding-top: 40px;
@@ -2391,6 +2395,10 @@ div.row.email-phone-row {
         -moz-transform: translateY(0);
         transform: translateY(0);
     }
+   .nav-cta.visible-xs .dropdown.open .dropdown-menu {
+        display: block !important;
+    }
+
     .navbar-default .navbar-nav .open .dropdown-menu>li>a {
         color: #26AB4A;
     }

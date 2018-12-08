@@ -42,7 +42,7 @@ restaurant:
 
 **Thiết kế tinh tế, hiện đại, đẳng cấp sang trọng:**
 
-![](cong-tact-vien-nhom.png)
+![Công tắc viền nhôm](cong-tact-vien-nhom.png)
 
 Là công tắc cảm ứng thông minh, sử dụng mặt mặt kính cường lực, chống xước, chống va đập tốt, kết hợp với vòng tròn tỏa sáng Led bao quanh, kèm theo logo Lumi ở góc phải tạo nên điểm nhấn và sự lôi cuốn cho sản phẩm. Đồng thời, đèn Led luôn được tỏa sáng dù bật hay tắt, nên bạn sẽ thấy ngay chiếc công tắc dù là trong đêm tối.  Đặc biệt, công tắc cảm ứng của Lumi được sử dụng công nghệ điện dung nên rất  an toàn kể cả khi tay ướt chạm vào công tắc điện.
 
@@ -50,7 +50,7 @@ Là công tắc cảm ứng thông minh, sử dụng mặt mặt kính cường 
 
 Bên trong là ReLay có chức năng đóng/cắt nguồn điện . Vỏ ngoài làm bằng chất liệu nhựa PP, có khả năng chống cháy. Sản phẩm được kiểm tra, và test kỹ càng trước khi xuất xưởng nên tuyệt đối không xảy ra trường hợp chập cháy.
 
-![](cong-tac-vien-nhom-1.jpg)
+![Công tắc viền nhôm](cong-tac-vien-nhom-1.jpg)
 
 **Ứng dụng: **
 

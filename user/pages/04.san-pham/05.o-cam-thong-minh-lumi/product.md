@@ -51,6 +51,6 @@ header_image_file: LM-VN-OC1.jpg
 <p>Ổ cắm điện mặt k&iacute;nh LM-SK l&agrave; thiết bị điện do C&ocirc;ng Ty CP Lumi Việt Nam sản xuất. Với bề mặt k&iacute;nh cường lực c&aacute;ch điện,c&aacute;ch nhiệt,đ&acirc;y l&agrave; thiết bị tuyệt đối an to&agrave;n với trẻ, chống mở, c&oacute; nối đất.</p>
 <p>T&iacute;nh năng v&agrave; đặc điểm nổi bật của Ổ cắm Lumi mặt k&iacute;nh LM-SK<br />Ổ cắm lumi l&agrave; một thiết bị điện th&ocirc;ng minh trong bộ giải ph&aacute;p nh&agrave; th&ocirc;ng minh Lumi, n&oacute; kh&ocirc;ng chỉ c&oacute; l&agrave; thiết bị d&ugrave;ng để tiếp điện như những chiếc c&ocirc;ng tắc b&igrave;nh thường m&agrave; c&ograve;n l&agrave; m&oacute;n đồ trang tr&iacute; cho ng&ocirc;i nh&agrave; của bạn.</p>
 <p>Với thiết kế đồng bộ với c&aacute;c c&ocirc;ng tắc cảm ứng, ổ cắm điện th&ocirc;ng minh Lumi c&oacute; vẻ ngo&agrave;i SANG TRỌNG v&agrave; ĐẸP MẮT. Bề mặt được trang bị mặt k&iacute;nh cường lực c&agrave;ng l&agrave;m cho thiết bị n&agrave;y trở n&ecirc;n TINH TẾ hơn</p>
-<p><img src="/newv1/san-pham/o-cam-thong-minh-lumi/4_1.jpg" alt="" /></p>
+<p><img src="/newv1/san-pham/o-cam-thong-minh-lumi/4_1.jpg" alt="o-cam-thong-minh-lumi" /></p>
 <p>Ổ cắm điện Lumi c&oacute; hai m&agrave;u cơ bản l&agrave; m&agrave;u đen v&agrave; m&agrave;u trắng ph&ugrave; hợp với mọi kh&ocirc;ng gian sống v&agrave; nội thất kiến tr&uacute;c của mọi ng&ocirc;i nh&agrave; từ hiện đại cho đến cổ điển.</p>
 <p>Ngo&agrave;i sử dụng cắm điện th&igrave; ổ điện Lumi c&ograve;n sử dụng như một ổ cắm wifi, cắm d&acirc;y cap truyền h&igrave;nh,&hellip;</p>

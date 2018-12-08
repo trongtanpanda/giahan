@@ -42,15 +42,15 @@ Sự bùng nổ của mạng lưới vạn vật kết nối Internet – I
 
 Hãy hình dung về một không gian sống mà bạn hoàn toàn điều khiển được mọi thiết bị điện trong ngôi nhà, từ: hệ thống chiếu sáng, điều hòa, rèm cửa, bình nóng lạnh, tưới nước cho cây… Giải pháp tích hợp bộ điều khiển thông qua smartphone, tablet hoặc giọng nói tiếng Việt mọi miền. Thiết kế tinh tế, chuẩn phong cách châu  u với mặt kính cường lực cảm ứng, viền nhôm nguyên khối mạ vàng sẽ làm cho ngôi nhà càng trở nên sang trọng. Được ứng dụng công nghệ IoT và AI, nhà thông minh Lumi – giải pháp mang đến cuộc sống thông minh, vạn tiện nghi cho mọi gia đình Việt.
 
-![](image9.png)
+![Trọn bộ giải pháp nhà thông minh Lumi do Gia Hân cung cấp](image9.png)
 _Trọn bộ giải pháp nhà thông minh Lumi do Gia Hân cung cấp_
 
 Ngoài việc mang đến giải pháp nhà thông minh, Gia Hân còn chia sẻ những tiện ích cũng như cách lắp đặt, sử dụng ngôi nhà thông minh. Đặc biệt, khách hàng được trải nghiệm các giải pháp nhà thông minh như: giải pháp chiếu sáng thông minh, điều khiển bình nóng lạnh, điều hòa , rèm cửa từ xa, an ninh thông minh... 
 
-![](image4.png)
-_Thủ tướng Nguyễn Xuân Phúc ghé thăm gian hàng Lumi _
+![Thủ tướng Nguyễn Xuân Phúc ghé thăm gian hàng Lumi](image4.png)
+_Thủ tướng Nguyễn Xuân Phúc ghé thăm gian hàng Lumi_
 
-![](image20.png)
+![Khách hàng tham quan và trải nghiệm sản phẩm Lumi](image20.png)
 _Khách hàng tham quan và trải nghiệm sản phẩm Lumi_
 
 Hiện nay, nhà thông minh Lumi đang là giải pháp có số lượng người dùng nhiều nhất tại Việt Nam với hơn 25.000 công trình đã lắp đặt và hàng nghìn dự án lớn trên cả nước đang triển khai. Sản phẩm đã đạt chứng chỉ CE – tiêu chuẩn xuất khẩu sang các nước châu  u và chứng chỉ UL – bo mạch phần cứng đạt chuẩn quốc tế được phép xuất khẩu tới 104 quốc gia trên thế giới. Chỉ với chi phí từ 25 -50 triệu cho một căn hộ thông minh và từ 50 -80 triệu/ căn biệt thự là bạn có thể sở hữu trọn bộ giải pháp nhà thông minh Lumi đẳng cấp hàng đầu.
@@ -59,7 +59,7 @@ Hiện nay, nhà thông minh Lumi đang là giải pháp có số lượng ngư�
 
 Được biết, Gia Hân group đại diện chi nhánh Lumi khu vực miền trung tham gia triển lãm với vai trò đơn vị khởi nghiệp sáng tạo. Không gian hiện đại, cộng với sự tỉ mỉ trong thiết kế từ đội ngũ trong và ngoài nước, Lumi đã mang tới ngôi nhà trọn vẹn nhất dành tặng cho khách tham quạn.
 
-![](image16.png)
+![CEO Lumi Việt nam, Hiệu trưởng trường ĐH Bách Khoa và nhà sáng lập Vbee ghé thăm gian hàng Gia Hân](image16.png)
 _CEO Lumi Việt nam, Hiệu trưởng trường ĐH Bách Khoa và nhà sáng lập Vbee ghé thăm gian hàng Gia Hân_
 
 Đại diện đơn vị Gia Hân group, ông Nguyên Dũng chia sẻ: “Hiện nay phần lớn người dân khi xây nhà, mua căn hộ mới khi nhắc đến nhà thông minh đều cho rằng đó là một khoản đầu tư quá xa xỉ và tốn kém. Nhưng với Gia Hân, chúng tôi mang tới một giải pháp Lumi  toàn diện cho các loại căn hộ từ biệt thự cao cấp cho tới căn hộ chung cư với chi phí chỉ từ 15 đến 80 triệu đồng. Tất cả các linh kiện cấu thành nên sản phẩm của Lumi đều được nhập từ các thương hiệu nổi tiếng trên thế giới như Texas Instrument, Freescale, NXP, Silicon Labs,… để đảm bảo tính ổn định, chất lượng tốt nhất cho từng sản phẩm đến tay khách hàng.

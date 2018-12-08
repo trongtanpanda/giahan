@@ -42,7 +42,7 @@ restaurant:
 
 Cảm biến phát hiện chuyển động được làm bằng nhựa chống cháy PP, thiết kế tinh tế với đường bo tròn sang trọng, màu trắng mang đến nét hiện đại của sản phẩm.
 
-![](cam-bien-chuyen-dong-2.jpg)
+![Cảm biến chuyển động](cam-bien-chuyen-dong-2.jpg)
 
 Cảm biến phát hiện chuyển động Lumi, sử dụng công nghệ không dây Zigbee
 
@@ -62,7 +62,7 @@ Cảm biến phát hiện chuyển động sẽ truyền tín hiệu đến bộ
 
 Thời gian bật/tắt sẽ được bạn cài đặt một cách linh hoạt. Ví dụ: thời gian sáng khi người đi qua hoặc đứng trong vùng cảm biến sẽ l – 3 phút. Và sẽ tắt sau khi người di chuyển qua từ 30s – 1 phút.
 
-![](cam-bien-chuyen-dong-3.jpg)
+![Cảm biến chuyển động](cam-bien-chuyen-dong-3.jpg)
 
 Cảm biến phát hiện chuyển động là 1 trong 7 giải pháp nhà thông minh Lumi
 
@@ -74,7 +74,7 @@ Cảm biến thông thường trên thị trường sẽ dùng dây điện, đ�
 
 Mặt khác, công tắc đèn cảm biến của Lumi có thể cấu hình theo hoạt cảnh và linh động trong việc sử dụng. Ví dụ: Nếu bạn muốn thay đổi công tắc đèn cảm biến thành công tắc rèm, đèn tuyp, quạt … chỉ cần cấu hình lại trên app điện thoại mà không cần đục đẽo đường dây điện như cảm biến thông thường.
 
-![](cam-bien-chuyen-dong-4.jpg)
+![Cảm biến chuyển động](cam-bien-chuyen-dong-4.jpg)
 
 Cảm biến phát hiện chuyển động của Lumi được sử dụng pin, rất dễ cho việc lắp đặt cũng như an toàn cho người dử dụng
 

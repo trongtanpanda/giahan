@@ -10,7 +10,9 @@ content:
             - _map
 menu: 'Liên Hệ'
 cache_enable: false
+googledesc: 'Liên hệ với gia Hân Group'
 twittercardoptions: summary
+twitterdescription: 'Liên hệ với gia Hân Group'
 articleenabled: false
 musiceventenabled: false
 orgaenabled: false
@@ -23,6 +25,7 @@ restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
     priceRange: $
+facebookdesc: 'Liên hệ với gia Hân Group'
 shown_in_footer: true
 background_image: img-page-title.jpg
 ---

@@ -47,9 +47,9 @@
             
             {% endif %}
             {% if logo != '' %}
-            <h1><a class="navbar-brand" href="{{ base_url == '' ? '/' : base_url }}" title="menu">
+            <h1 class="home-heading"><a class="navbar-brand" href="{{ base_url == '' ? '/' : base_url }}" title="menu">
                 <img src="{{ url('theme://img/' ~ logo) }}" alt="menu">
-            </a><h1>
+            </a></h1>
             
             {% endif %}
         </div>

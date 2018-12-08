@@ -1,0 +1,61 @@
+{% spaceless %}
+{% set theme_config = attribute(config.themes, config.system.pages.theme) %}
+
+{% set logo = "" %}
+
+{% if theme_config.logo is iterable %}
+    {% for file in theme_config.logo %}
+        {% set logo = file.name %}
+    {% endfor %}
+{% else %}
+    {% set logo = theme_config.logo %}
+{% endif %}
+
+{% if logo is empty %}
+    {% set logo = 'logo.png' %}
+{% endif %}
+
+{% set favicon = "" %}
+
+{% if theme_config.favicon|length > 0 %}
+    {% for file in theme_config.favicon %}
+        {% set favicon = file.name %}
+    {% endfor %}
+{% endif %}
+
+{% if favicon is empty %}
+    {% set favicon = 'favicon.png' %}
+{% endif %}
+
+{% endspaceless %}
+<!DOCTYPE HTML>
+<html lang="vi">
+    <head>
+        {% include 'partials/head.html.twig' %}
+    </head>
+    <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PCR9DS8"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+        <div id="main-wrapper">
+            <div id="preloader">
+                <div id="status">
+                    <div class="status-mes"></div>
+                </div>
+            </div>
+
+            <div class="uc-mobile-menu-pusher">
+                <div class="content-wrapper">
+                    {% include 'partials/navbar_home.html.twig' %}
+
+                    {% block content %}{% endblock %}
+                </div>
+            </div>
+            
+        </div>
+        {% include 'partials/footer.html.twig' %}
+        {{ assets.js() }}
+        {{ assets.js('bottom') }}
+    </body>
+</html>

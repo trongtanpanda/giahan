@@ -8,7 +8,9 @@ content:
     limit: 10
     pagination: '1'
 menu: 'Tin Tức'
+googledesc: 'Tin tức cập nhật về nhà thông minh'
 twittercardoptions: summary
+twitterdescription: 'Tin tức cập nhật về nhà thông minh'
 articleenabled: false
 musiceventenabled: false
 orgaenabled: false
@@ -21,6 +23,7 @@ restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
     priceRange: $
+facebookdesc: 'Tin tức cập nhật về nhà thông minh'
 pagination: true
 ---
 

@@ -30,4 +30,4 @@ Hãy liên hệ với GiaHangroup theo hotline 0968.333.268 - 0935.333.268  đ�
 
 Bảng giá thiết bị Lumi áp dụng từ 1/9/2018: File mềm [tại đây](bang_gia_thiet_bi_lumi.pdf)
 
-![](0_1.jpg)
+![Bảng giá thiết bị Lumi](0_1.jpg)

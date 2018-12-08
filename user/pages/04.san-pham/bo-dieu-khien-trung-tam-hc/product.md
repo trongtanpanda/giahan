@@ -43,7 +43,7 @@ Là đầu mối tiếp nhận và truyền thông tin “công việc” đến
 **Ứng dụng:**
 Đóng vai trò là bộ não của giải pháp nhà thông minh. Hệ thống các công tắc kết nối thiết bị điện trong gia đình, nếu không có bộ điều khiển trung tâm thì sẽ trở thành công tắc cơ thông thường. Bạn không thể điều điều khiển, kiểm soát cũng như cài đặt chế độ tự hoạt động cho hệ thống thiết bị điện trong ngôi nhà của mình trên điện thoại, máy tính bảng …
 
-![](bo-dieu-khien-trung-tam-hc-1.png)
+![Bộ Điều khiển trung tâm hc](bo-dieu-khien-trung-tam-hc-1.png)
 
 **Phương thức hoạt động:** 
 
@@ -61,7 +61,7 @@ Sử dụng công nghệ chuẩn ZigBee – công nghệ nổi bật hiện nay 
 
 Đặc biệt, sever Lumi đã tích hợp thành công với Sever của Amazon – Mỹ để tạo ra giải pháp nhà thông minh điều khiển bằng giọng nói. Cho phép người dùng hoàn toàn kiểm soát, điều khiển các thiết bị trong ngôi nhà bằng chính “giọng nói quyền năng” của mình. Khi bạn nói câu lệnh“Turn on/off Lumi go home” tất cả các thiết bị trong ngôi nhà sẽ hoàn toàn bật/tắt, tùy theo câu lệnh.
 
-![](bo-dieu-khien-trung-tam-hc-2.png)
+![Bộ Điều khiển trung tâm hc](bo-dieu-khien-trung-tam-hc-2.png)
 
 Hãng ABI Research cho biết: năm 2012 đã có hơn 1,5 triệu hệ thống nhà thông minh đã được lắp đặt ở Mỹ và dự kiến, con số này sẽ tăng đến 8 triệu vào năm 2018. Điều đó cho thấy, nhà thông minh đã và đang trở thành tiêu chuẩn, xu hướng nhà ở hiện đại trong tương lai.
 

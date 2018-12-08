@@ -40,7 +40,8 @@ Bạn có thể thiết lập các hoạt cảnh lặp lại hằng ngày cho ng
 
 Nhà thông minh Lumi, cho phép bạn điều khiển hệ thống rèm từ xa. Ngoài ra, còn điều khiển theo các ngữ cảnh đã được lập trình sẵn như: tiếp khách, xem phim, đi ngủ… Đặc biệt, ngoài điều khiển riêng từng rèm, chúng ta cũng điều khiển được nhiều rèm cùng 1 lúc.
 
-![](10.png)
+![Điều khiển rèm](10.png)
+_Điều khiển rèm_
 
 ### Điều khiển từ xa với điều hòa và bình nóng lạnh
 
@@ -62,18 +63,18 @@ Thời gian thi công nhanh chỉ từ 1 – 2 ngày (bất kể công trình m�
 
  
 **Bảng Báo giá giải pháp nhà thông minh Lumi cho chung cư**: Gói giải pháp trị giá hơn 39 triệu đồng
-![](du%20toan%20cho%20chung%20cu.png)
+![Bảng Báo giá giải pháp nhà thông minh Lumi cho chung cư](du%20toan%20cho%20chung%20cu.png)
 
 **Một số hình ảnh căn hộ chung cư lắp đặt giải pháp nhà thông minh Lumi**
 
-![](11.jpg)
+![hình ảnh căn hộ chung cư lắp đặt giải pháp nhà thông minh Lumi](11.jpg)
 
-![](12.jpg)
+![hình ảnh căn hộ chung cư lắp đặt giải pháp nhà thông minh Lumi](12.jpg)
 
-![](13.jpg)
+![hình ảnh căn hộ chung cư lắp đặt giải pháp nhà thông minh Lumi](13.jpg)
 
-![](14.jpg)
+![hình ảnh căn hộ chung cư lắp đặt giải pháp nhà thông minh Lumi](14.jpg)
 
-![](15.jpg)
+![hình ảnh căn hộ chung cư lắp đặt giải pháp nhà thông minh Lumi](15.jpg)
 
-![](16.jpg)
+![hình ảnh căn hộ chung cư lắp đặt giải pháp nhà thông minh Lumi](16.jpg)
