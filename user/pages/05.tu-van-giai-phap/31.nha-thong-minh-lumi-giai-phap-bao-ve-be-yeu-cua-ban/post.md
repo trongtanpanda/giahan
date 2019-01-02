@@ -27,7 +27,7 @@ Mang đến một môi trường sống tốt đẹp với những tiện ích t
 ![](image18.png)
 _Nhà thông minh Lumi- giải pháp bảo vệ bé yêu của bạn_
 
-**Kiểm soát yếu tố môi trường trong phòng bé**
+## Kiểm soát yếu tố môi trường trong phòng bé
 
 Những yếu tố môi trường trong căn phòng bé như nhiệt độ, độ ẩm, ánh sáng ảnh hưởng rất nhiều đến sức khỏe cũng như sự phát triển toàn diện về thể chất cũng như tinh thần của bé.
 Vì thế, các ông bố bà mẹ luôn cần phải chú ý đến những yếu tố này trong căn phòng bé. Giải pháp môi trường mà Lumi cung cấp sẽ luôn kiểm soát được những yếu tố về môi trường trong căn phòng bé cũng như trong toàn ngôi nhà.
@@ -39,13 +39,13 @@ _Kiểm soát yếu tố môi trường trong phòng bé_
 
 Đặc biệt, các ông bố bà mẹ còn có thể kiểm tra thông tin về những chỉ số môi trường trong căn phòng đó thông qua smartphone. Vì thế, bạn sẽ luôn kiểm soát được những yếu tố môi trường trong phòng bé và trong toàn ngôi nhà dù ở bất kỳ đâu.
 
-**Kiểm soát được những yếu tố gây nguy hại cho bé**
+## Kiểm soát được những yếu tố gây nguy hại cho bé
 
 Nếu khi bạn ra khỏi nhà mà  quên tắt ấm nước điện đang đun sôi, lò vi sóng hay lò nướng thì điều đó sẽ cực kỳ nguy hiểm, đặc biệt là trong những gia đình mà trẻ chỉ ở nhà một mình.
 Tuy nhiên, với giải pháp nhà thông minh Lumi thì những thiết bị điện đang được sử dụng trong nhà sẽ kiểm soát tối đa. Bạn có thể điều khiển tắt bật những thiết bị đó dù đang ở rất xa ngôi nhà của mình.
 Đặc biệt, bạn còn có thể hẹn giờ tắt cho những thiết bị điện trong nhà của mình. Vì thế, bạn sẽ không bao giờ phải lo lắng về tình trạng cháy nổ, chập điện có thể xảy ra trong nhà gây nguy hiểm cho bé nữa. Chính vì thế, với giải pháp nhà thông minh Lumi, sự an toàn của bé sẽ luôn được bảo vệ tối ưu.
 
-**Kiểm soát an ninh trong ngôi nhà, đảm bảo an toàn cho bé**
+## Kiểm soát an ninh trong ngôi nhà, đảm bảo an toàn cho bé
 
 Giải pháp nhà thông minh Lumi còn cung cấp đến  quý khách hàng hệ thống camera an ninh cùng cảm biến an ninh chống trộm tiên tiến nhất. Hệ thống cảm biến chống trộm sẽ giúp bảo vệ an toàn của bé một cách tối ưu.
 

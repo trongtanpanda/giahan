@@ -1,6 +1,8 @@
 ---
 title: 'Câu Hỏi Thường Gặp'
+googledesc: 'Các câu hỏi thường gặp về nhà thông minh Lumi'
 twittercardoptions: summary
+twitterdescription: 'Các câu hỏi thường gặp về nhà thông minh Lumi'
 articleenabled: false
 musiceventenabled: false
 orgaenabled: false
@@ -13,17 +15,59 @@ restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
     priceRange: $
+facebookdesc: 'Các câu hỏi thường gặp về nhà thông minh Lumi'
 ---
 
-<p><strong>1. Chế độ bảo h&agrave;nh của Lumi ra sao?</strong></p>
-<p>Tất cả sản phẩm của Lumi được bảo h&agrave;nh 24 th&aacute;ng. Trong thời gian bảo h&agrave;nh Lumi cam kết 1 đổi 1 tại nơi sử dụng.</p>
-<p><strong>2. Lắp đặt thiết bị của Lumi mất bao l&acirc;u?</strong></p>
-<p>V&igrave; thiết bị Lumi tương th&iacute;ch ho&agrave;n to&agrave;n với c&aacute;c đế &acirc;m tường sẵn c&oacute; tr&ecirc;n thị trường n&ecirc;n nếu hạ tầng hệ thống điện trong ng&ocirc;i nh&agrave; của bạn đ&atilde; ho&agrave;n thiện th&igrave; thi c&ocirc;ng lắp đặt thiết bị Lumi chỉ mất 01 ng&agrave;y.<br />Lưu &yacute;: Lumi c&oacute; 2 kiểu d&aacute;ng sản phẩm tương th&iacute;ch với 2 loại đế &acirc;m tường sẵn c&oacute; l&agrave; đế vu&ocirc;ng v&agrave; đế chữ nhật. Để thuận lợi nhất cho việc thi c&ocirc;ng, qu&yacute; kh&aacute;ch n&ecirc;n ch&ocirc;n đế &acirc;m v&agrave;o s&acirc;u trong mặt tường th&ecirc;m 1,5cm.<br />Thay thiết bị b&igrave;nh thường bằng thiết bị của Lumi c&oacute; kh&oacute; kh&ocirc;ng? C&oacute; cần phải thay đổi cơ sở hạ tầng kh&ocirc;ng?<br />Thiết bị của Lumi c&oacute; t&iacute;nh tương th&iacute;ch cao, ho&agrave;n to&agrave;n ph&ugrave; hợp với đế &acirc;m tường c&oacute; sẵn tr&ecirc;n thị trường v&agrave; được d&ugrave;ng phổ biến trong c&aacute;c c&ocirc;ng tr&igrave;nh, gia đ&igrave;nh&hellip; V&igrave; vậy việc lắp đặt hết sức đơn giản, c&aacute;c thao t&aacute;c tương tự c&aacute;ch lắp đặt c&ocirc;ng tắc cơ b&igrave;nh thường v&agrave; kh&ocirc;ng phải thay đổi kết cấu (khoan, đục) tường nh&agrave;.</p>
-<p><strong>3. C&aacute;c thiết bị của Lumi kết nối với nhau như thế n&agrave;o?</strong></p>
-<p>C&aacute;c thiết bị của Lumi li&ecirc;n kết với nhau bằng c&ocirc;ng nghệ truyền th&ocirc;ng kh&ocirc;ng d&acirc;y Zigbee. Zigbee l&agrave; c&ocirc;ng nghệ kh&ocirc;ng d&acirc;y, sử dụng tần số 2.4Ghz giống với s&oacute;ng Wifi.<br />Sử dụng thiết bị kh&ocirc;ng d&acirc;y của Lumi c&oacute; ảnh hưởng tới sức khoẻ kh&ocirc;ng?<br />Năng lượng t&iacute;n hiệu của s&oacute;ng Zigbee thấp hơn 20 lần so với năng lượng s&oacute;ng Wifi, như vậy h&agrave;ng chục bộ ph&aacute;t t&iacute;n hiệu của Lumi mới c&oacute; năng lượng t&iacute;n hiệu tương đương với 01 modem Wifi. Tr&ecirc;n thế giới cũng chưa từng ghi nhận trường hợp n&agrave;o bị ảnh hưởng sức khỏe bởi t&iacute;n hiệu s&oacute;ng Zigbee.</p>
-<p><strong>4. C&aacute;c thiết bị của Lumi ti&ecirc;u thụ bao nhi&ecirc;u điện năng?</strong></p>
-<p>Ở chế độ kh&ocirc;ng tải, c&aacute;c thiết bị của Lumi chỉ ti&ecirc;u thụ kh&ocirc;ng tới 0.2W để phục vụ cho việc hiển thị LED b&aacute;o hiệu v&agrave; nu&ocirc;i chip điều khiển b&ecirc;n trong. Như vậy, lượng điện ti&ecirc;u thụ của thiết bị Lumi l&agrave; kh&ocirc;ng đ&aacute;ng kể, chưa tới 500đ/th&aacute;ng.<br />Sản phẩm của Lumi điều khiển được những thiết bị n&agrave;o?<br />Sản phẩm của Lumi được t&iacute;ch hợp để điều khiển:<br />&ndash; Hệ thống chiếu s&aacute;ng (tắt-bật; tăng-giảm s&aacute;ng).<br />&ndash; Hệ thống quạt (tắt-bật, tăng-giảm tốc độ).<br />&ndash; Hệ thống r&egrave;m cửa.<br />&ndash; Cửa cuốn.<br />&ndash; B&igrave;nh n&oacute;ng lạnh.<br />&ndash; Điều h&ograve;a nhiệt độ (bật-tắt).<br />&ndash; Ti vi (bật- tắt).</p>
-<p><strong>5. Thiết bị điện th&ocirc;ng minh Lumi l&agrave; g&igrave;?</strong></p>
-<p>C&ocirc;ng ty Cổ phần Lumi Việt Nam l&agrave; đơn vị ti&ecirc;n phong trong lĩnh vực nghi&ecirc;n cứu, ph&aacute;t triển, ứng dụng khoa học c&ocirc;ng nghệ v&agrave;o sản phẩm thiết bị điện th&ocirc;ng minh tại Việt Nam. Bằng việc t&iacute;ch hợp những c&ocirc;ng nghệ ti&ecirc;n tiến nhất hiện nay như: cảm ứng điện dung, nguồn xung, c&ocirc;ng nghệ truyền th&ocirc;ng kh&ocirc;ng d&acirc;y Zigbee, đến nay, c&aacute;c sản phẩm mang thương hiệu Lumi đ&atilde; trở n&ecirc;n phổ biến, được sử dụng rộng r&atilde;i tại c&aacute;c c&ocirc;ng tr&igrave;nh lớn tr&ecirc;n to&agrave;n quốc, biến ước mơ sở hữu ng&ocirc;i nh&agrave; th&ocirc;ng minh kh&ocirc;ng c&ograve;n l&agrave; điều qu&aacute; xa vời.<br />Lumi hiện đang cung cấp ra thị trường 2 d&ograve;ng sản phẩm:<br />&ndash; D&ograve;ng Handy: C&ocirc;ng tắc cảm ứng t&iacute;ch hợp bộ điều khiển từ xa để điều khiển một hoặc một cụm thiết bị trong nh&agrave;, thiết lập sẵn c&aacute;c kịch bản sử dụng thiết bị cho từng ph&ograve;ng.<br />&ndash; D&ograve;ng Elite:T&iacute;ch hợp ứng dụng phần mềm trong điều khiển v&agrave; gi&aacute;m s&aacute;t thiết bị điện qua Smartphone H&atilde;y gọi ngay cho ch&uacute;ng t&ocirc;i theo số hotline: <a href="tel:0968333268">0968.333.268</a> - <a href="tel:0935333268">0935.333.268</a> để được tư vấn chi tiết.</p>
-<p><strong>6. Tại sao t&ocirc;i n&ecirc;n chọn sản phẩm của Lumi?</strong></p>
-<p>Với t&acirc;m huyết mang tới cho người d&ugrave;ng Việt Nam những sản phẩm nội địa với chất lượng v&agrave; đẳng cấp Quốc tế, Lumi đ&atilde; đầu tư nghi&ecirc;n cứu: Nhu cầu, Th&oacute;i quen sử dụng thiết bị điện trong nh&agrave; của người Việt, Điều kiện hoạt động thực tế của thiết bị điện tại Việt Nam&hellip; để đưa ra sản phẩm mới, t&iacute;ch hợp những giải ph&aacute;p ti&ecirc;n tiến mang tới sự tiện lợi, n&acirc;ng cao độ an to&agrave;n, dễ sử dụng.<br />Đặc biệt: sản phẩm của Lumi ho&agrave;n to&agrave;n ph&ugrave; hợp với th&oacute;i quen sử dụng thiết bị điện của người Việt v&agrave; tương th&iacute;ch với c&aacute;c thiết bị sẵn c&oacute; trong gia đ&igrave;nh. Hơn thế, l&agrave; một doanh nghiệp Việt Nam, c&oacute; văn ph&ograve;ng đại diện v&agrave; hệ thống ph&acirc;n phối rộng khắp to&agrave;n quốc, Lumi nhanh ch&oacute;ng hỗ trợ kh&aacute;ch h&agrave;ng bất k&igrave; l&uacute;c n&agrave;o, cũng như ch&acirc;n th&agrave;nh lắng nghe những th&ocirc;ng tin phản hồi, từ đ&oacute; cải tiến sản phẩm, n&acirc;ng cao chất lượng dịch vụ, đ&aacute;p ứng đ&ograve;i hỏi ng&agrave;y c&agrave;ng cao của những kh&aacute;ch h&agrave;ng hiểu biết &ndash; điều m&agrave; kh&ocirc;ng phải doanh nghiệp n&agrave;o cũng thực hiện như một kim chỉ nam cho sứ mệnh của m&igrave;nh.</p>
+**1. Chế độ bảo hành của Lumi ra sao?**
+
+Tất cả sản phẩm của Lumi được bảo hành 24 tháng. Trong thời gian bảo hành Lumi cam kết 1 đổi 1 tại nơi sử dụng.
+
+**2. Lắp đặt thiết bị của Lumi mất bao lâu?**
+
+Vì thiết bị Lumi tương thích hoàn toàn với các đế âm tường sẵn có trên thị trường nên nếu hạ tầng hệ thống điện trong ngôi nhà của bạn đã hoàn thiện thì thi công lắp đặt thiết bị Lumi chỉ mất 01 ngày.
+
+Lưu ý: Lumi có 2 kiểu dáng sản phẩm tương thích với 2 loại đế âm tường sẵn có là đế vuông và đế chữ nhật. Để thuận lợi nhất cho việc thi công, quý khách nên chôn đế âm vào sâu trong mặt tường thêm 1,5cm.
+Thay thiết bị bình thường bằng thiết bị của Lumi có khó không? Có cần phải thay đổi cơ sở hạ tầng không?
+
+Thiết bị của Lumi có tính tương thích cao, hoàn toàn phù hợp với đế âm tường có sẵn trên thị trường và được dùng phổ biến trong các công trình, gia đình… Vì vậy việc lắp đặt hết sức đơn giản, các thao tác tương tự cách lắp đặt công tắc cơ bình thường và không phải thay đổi kết cấu (khoan, đục) tường nhà.
+
+**3. Các thiết bị của Lumi kết nối với nhau như thế nào?**
+
+Các thiết bị của Lumi liên kết với nhau bằng công nghệ truyền thông không dây Zigbee. Zigbee là công nghệ không dây, sử dụng tần số 2.4Ghz giống với sóng Wifi.
+
+Sử dụng thiết bị không dây của Lumi có ảnh hưởng tới sức khoẻ không?
+
+Năng lượng tín hiệu của sóng Zigbee thấp hơn 20 lần so với năng lượng sóng Wifi, như vậy hàng chục bộ phát tín hiệu của Lumi mới có năng lượng tín hiệu tương đương với 01 modem Wifi. Trên thế giới cũng chưa từng ghi nhận trường hợp nào bị ảnh hưởng sức khỏe bởi tín hiệu sóng Zigbee.
+
+**4. Các thiết bị của Lumi tiêu thụ bao nhiêu điện năng?**
+
+Ở chế độ không tải, các thiết bị của Lumi chỉ tiêu thụ không tới 0.2W để phục vụ cho việc hiển thị LED báo hiệu và nuôi chip điều khiển bên trong. Như vậy, lượng điện tiêu thụ của thiết bị Lumi là không đáng kể, chưa tới 500đ/tháng.
+
+Sản phẩm của Lumi điều khiển được những thiết bị nào?
+
+**Sản phẩm của Lumi được tích hợp để điều khiển:**
+
+* Hệ thống chiếu sáng (tắt-bật; tăng-giảm sáng).
+* Hệ thống quạt (tắt-bật, tăng-giảm tốc độ).
+* Hệ thống rèm cửa.
+* Cửa cuốn.
+* Bình nóng lạnh.
+* Điều hòa nhiệt độ (bật-tắt).
+* Ti vi (bật- tắt).
+
+
+**5. Thiết bị điện thông minh Lumi là gì?**
+
+Công ty Cổ phần Lumi Việt Nam là đơn vị tiên phong trong lĩnh vực nghiên cứu, phát triển, ứng dụng khoa học công nghệ vào sản phẩm thiết bị điện thông minh tại Việt Nam. Bằng việc tích hợp những công nghệ tiên tiến nhất hiện nay như: cảm ứng điện dung, nguồn xung, công nghệ truyền thông không dây Zigbee, đến nay, các sản phẩm mang thương hiệu Lumi đã trở nên phổ biến, được sử dụng rộng rãi tại các công trình lớn trên toàn quốc, biến ước mơ sở hữu ngôi nhà thông minh không còn là điều quá xa vời.
+
+**Lumi hiện đang cung cấp ra thị trường 2 dòng sản phẩm:**
+
+* Dòng Handy: Công tắc cảm ứng tích hợp bộ điều khiển từ xa để điều khiển một hoặc một cụm thiết bị trong nhà, thiết lập sẵn các kịch bản sử dụng thiết bị cho từng phòng.
+* Dòng Elite:Tích hợp ứng dụng phần mềm trong điều khiển và giám sát thiết bị điện qua Smartphone Hãy gọi ngay cho chúng tôi theo số hotline: 0968.333.268 - 0935.333.268 để được tư vấn chi tiết.
+
+
+**6. Tại sao tôi nên chọn sản phẩm của Lumi?**
+
+Với tâm huyết mang tới cho người dùng Việt Nam những sản phẩm nội địa với chất lượng và đẳng cấp Quốc tế, Lumi đã đầu tư nghiên cứu: Nhu cầu, Thói quen sử dụng thiết bị điện trong nhà của người Việt, Điều kiện hoạt động thực tế của thiết bị điện tại Việt Nam… để đưa ra sản phẩm mới, tích hợp những giải pháp tiên tiến mang tới sự tiện lợi, nâng cao độ an toàn, dễ sử dụng.
+
+Đặc biệt: sản phẩm của Lumi hoàn toàn phù hợp với thói quen sử dụng thiết bị điện của người Việt và tương thích với các thiết bị sẵn có trong gia đình. Hơn thế, là một doanh nghiệp Việt Nam, có văn phòng đại diện và hệ thống phân phối rộng khắp toàn quốc, Lumi nhanh chóng hỗ trợ khách hàng bất kì lúc nào, cũng như chân thành lắng nghe những thông tin phản hồi, từ đó cải tiến sản phẩm, nâng cao chất lượng dịch vụ, đáp ứng đòi hỏi ngày càng cao của những khách hàng hiểu biết – điều mà không phải doanh nghiệp nào cũng thực hiện như một kim chỉ nam cho sứ mệnh của mình.

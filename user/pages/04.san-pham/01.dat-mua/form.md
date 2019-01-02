@@ -65,6 +65,7 @@ form:
                 from: '{{ config.plugins.email.from }}'
                 to:
                     - '{{ config.plugins.email.to }}'
+                    - dungthau89@gmail.com
                 subject: 'Đặt Mua sản phẩm {{ form.value.product_name }}'
                 body: '{% include ''forms/product_admin_mail.html.twig'' %}'
         -

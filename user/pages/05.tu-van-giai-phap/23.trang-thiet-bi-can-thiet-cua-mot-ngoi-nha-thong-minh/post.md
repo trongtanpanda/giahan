@@ -2,12 +2,14 @@
 title: 'Trang thiết bị cần thiết của một ngôi nhà thông minh'
 media_order: '39906001_318443068904725_2134873654083715072_n_5.jpg,2.jpg,3.jpg,anh_2_3.jpg,4906phatdien3-1515378076557-13-24-632-1126-crop-1515378084325.jpg,anh_2_1.jpg,5.png'
 thumbnail: 4906phatdien3-1515378076557-13-24-632-1126-crop-1515378084325.jpg
-description: ' Cụm từ “nhà thông minh” (smarthome) có vẻ xa vời đối với phần đông mọi người và bạn nghĩ rằng đó là ngôi nhà rất cao siêu, có thể lắp ghép tự động hoặc di chuyển đến bất kỳ nơi đâu. Tuy nhiên, các tính năng đó có thể sẽ thành hiện thực trong tương lai, nhưng hiện tại con người vẫn chưa đạt đến trình độ cao để sở hữu những công nghệ trên.'
+description: 'Cụm từ “nhà thông minh” (smarthome) có vẻ xa vời đối với phần đông mọi người và bạn nghĩ rằng đó là ngôi nhà rất cao siêu, có thể lắp ghép tự động hoặc di chuyển đến bất kỳ nơi đâu. Tuy nhiên, các tính năng đó có thể sẽ thành hiện thực trong tương lai, nhưng hiện tại con người vẫn chưa đạt đến trình độ cao để sở hữu những công nghệ trên.'
+visible: false
+googledesc: 'Cụm từ “nhà thông minh” (smarthome) có vẻ xa vời đối với phần đông mọi người và bạn nghĩ rằng đó là ngôi nhà rất cao siêu, có thể lắp ghép tự động hoặc di chuyển đến bất kỳ nơi đâu. Tuy nhiên, các tính năng đó có thể sẽ thành hiện thực trong tương lai, nhưng hiện tại con người vẫn chưa đạt đến trình độ cao để sở hữu những công nghệ trên.'
 twittercardoptions: summary
+twitterdescription: 'Cụm từ “nhà thông minh” (smarthome) có vẻ xa vời đối với phần đông mọi người và bạn nghĩ rằng đó là ngôi nhà rất cao siêu, có thể lắp ghép tự động hoặc di chuyển đến bất kỳ nơi đâu. Tuy nhiên, các tính năng đó có thể sẽ thành hiện thực trong tương lai, nhưng hiện tại con người vẫn chưa đạt đến trình độ cao để sở hữu những công nghệ trên.'
 articleenabled: false
 musiceventenabled: false
 orgaenabled: false
-visible: false
 orga:
     ratingValue: 2.5
 orgaratingenabled: false
@@ -17,49 +19,70 @@ restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
     priceRange: $
+facebookdesc: 'Cụm từ “nhà thông minh” (smarthome) có vẻ xa vời đối với phần đông mọi người và bạn nghĩ rằng đó là ngôi nhà rất cao siêu, có thể lắp ghép tự động hoặc di chuyển đến bất kỳ nơi đâu. Tuy nhiên, các tính năng đó có thể sẽ thành hiện thực trong tương lai, nhưng hiện tại con người vẫn chưa đạt đến trình độ cao để sở hữu những công nghệ trên.'
 ---
 
-<div class="pkg  mar_top20">
-<div class="author pkg mar_top5 mar_bottom5">
-<div class="time_detail_news f11 fl">&nbsp;Cụm từ &ldquo;nh&agrave; th&ocirc;ng minh&rdquo; (smarthome) c&oacute; vẻ xa vời đối với phần đ&ocirc;ng mọi người v&agrave; bạn nghĩ rằng đ&oacute; l&agrave; ng&ocirc;i nh&agrave; rất cao si&ecirc;u, c&oacute; thể lắp gh&eacute;p tự động hoặc di chuyển đến bất kỳ nơi đ&acirc;u. Tuy nhi&ecirc;n, c&aacute;c t&iacute;nh năng đ&oacute; c&oacute; thể sẽ th&agrave;nh hiện thực trong tương lai, nhưng hiện tại con người vẫn chưa đạt đến tr&igrave;nh độ cao để sở hữu những c&ocirc;ng nghệ tr&ecirc;n.</div>
-</div>
-</div>
-<div class="pkg">
-<div class="col160 fl">&nbsp;</div>
-<div class="col500 fr">
-<div id="cotent_detail" class="pkg">
-<div>
-<div class="m0892">Kinhtedothi -&nbsp;3 từ &ldquo;nh&agrave; th&ocirc;ng minh&rdquo; (smarthome) c&oacute; vẻ xa vời đối với phần đ&ocirc;ng mọi người v&agrave; bạn nghĩ rằng đ&oacute; l&agrave; ng&ocirc;i nh&agrave; rất cao si&ecirc;u, c&oacute; thể lắp gh&eacute;p tự động hoặc di chuyển đến bất kỳ nơi đ&acirc;u. Tuy nhi&ecirc;n, c&aacute;c t&iacute;nh năng đ&oacute; c&oacute; thể sẽ th&agrave;nh hiện thực trong tương lai, nhưng hiện tại con người vẫn chưa đạt đến tr&igrave;nh độ cao để sở hữu những c&ocirc;ng nghệ tr&ecirc;n.</div>
-</div>
-<div>
-<div class="item_gallery" style="box-sizing: border-box; margin: 0px 0px 12px; padding: 0px; list-style: none; outline: 0px; border: 0px; vertical-align: baseline; background: transparent; line-height: 23px !important; font-size: 14px !important; font-family: robotoR, Helvetica, sans-serif !important;" data-src="http://cdn.kinhtedothi.vn/mfiles/data/2015/10/8102FD3A/1.jpeg" data-sub-html="&lt;div class='sapo_slide'&gt;&lt;/div&gt;"><img src="/newv1/tu-van-giai-phap/trang-thiet-bi-can-thiet-cua-mot-ngoi-nha-thong-minh/anh_2_3.jpg" alt="" /></div>
-</div>
-<div>Theo kh&aacute;i niệm dễ hiểu, smarthome l&agrave; ng&ocirc;i nh&agrave; được lắp đặt c&aacute;c thiết bị điện, điện tử c&oacute; khả năng b&aacute;n tự động hoặc tự động ho&agrave;n to&agrave;n. Khi đ&oacute;, con người c&oacute; thể quản l&yacute;, gi&aacute;m s&aacute;t v&agrave; điều khiển tất cả c&aacute;c thiết bị điện từ xa v&agrave;o bất kỳ thời gian n&agrave;o trong ng&agrave;y th&ocirc;ng qua điện thoại, m&aacute;y t&iacute;nh, m&aacute;y t&iacute;nh bảng,&hellip; một c&aacute;ch đơn giản v&agrave; dễ d&agrave;ng.<br />Ngo&agrave;i ra, con người cũng c&oacute; thể thiết lập c&aacute;c thiết bị ở nh&agrave; hoạt động theo kịch bản đ&atilde; c&agrave;i đặt sẵn. Tất cả c&aacute;c ứng dụng nh&agrave; th&ocirc;ng minh nhằm mục đ&iacute;ch mang lại cho con người sự tiện nghi, an ninh v&agrave; tiết kiệm điện năng.<br />Dưới đ&acirc;y, c&aacute;c kỹ sư của Lumi Việt Nam sẽ giới thiệu cho người d&ugrave;ng một số giải ph&aacute;p t&iacute;ch hợp điều khiển một c&aacute;ch đồng bộ c&aacute;c thiết bị điện m&agrave; một ng&ocirc;i nh&agrave; th&ocirc;ng minh tại Việt Nam cần c&oacute;.<br /><strong>Điều khiển hệ thống &aacute;nh s&aacute;ng</strong><br />Hệ thống &aacute;nh s&aacute;ng trong v&agrave; ngo&agrave;i ng&ocirc;i nh&agrave; được chia th&agrave;nh nhều khu vực, chỉ những khu vực n&agrave;o c&oacute; người, đ&egrave;n mới được bật s&aacute;ng v&agrave; tự động tắt khi kh&ocirc;ng c&oacute; người. Kh&ocirc;ng những thế, hệ thống &aacute;nh s&aacute;ng c&ograve;n tự động điều chỉnh ở chế độ ph&ugrave; hợp theo sở th&iacute;ch của gia chủ như: Khi tiếp kh&aacute;ch, &aacute;nh s&aacute;ng ở chế độ rực rỡ, tất cả c&aacute;c đ&egrave;n s&aacute;ng l&ecirc;n, từ đ&egrave;n trần, đ&egrave;n hắt, đ&egrave;n ch&ugrave;m, đ&egrave;n tranh.</div>
-<div>
-<div class="item_gallery" style="box-sizing: border-box; margin: 0px 0px 12px; padding: 0px; list-style: none; outline: 0px; border: 0px; vertical-align: baseline; background: transparent; line-height: 23px !important; font-size: 14px !important; font-family: robotoR, Helvetica, sans-serif !important;" data-src="http://cdn.kinhtedothi.vn/mfiles/data/2015/10/8102FD3A/3.png" data-sub-html="&lt;div class='sapo_slide'&gt;&lt;/div&gt;"><a class="thumb_detail"><img class="img-responsive" src="/newv1/tu-van-giai-phap/trang-thiet-bi-can-thiet-cua-mot-ngoi-nha-thong-minh/5.png" alt="" width="265" height="500" /></a></div>
-</div>
-<div>Mức độ s&aacute;ng của c&aacute;c hệ đ&egrave;n n&agrave;y c&ograve;n được tự động thay đổi v&agrave;o mỗi thời điểm kh&aacute;c nhau. Chẳng hạn v&agrave;o ban ng&agrave;y, &aacute;nh s&aacute;ng sẽ bật tự động ở mức 50% độ s&aacute;ng nhưng v&agrave;o buổi tối hệ th&ocirc;ng &aacute;nh s&aacute;ng sẽ bật ở mức 100% để ph&ugrave; hợp với nhu cầu v&agrave; sinh hoạt của gia chủ, đem tới sự tiện nghi v&agrave; tiết kiệm năng lượng.</div>
-<div><strong>Điều khiển hệ thống r&egrave;m tự động</strong><br />Hệ thống r&egrave;m tại c&aacute;c cửa v&agrave;o, cửa sổ của ng&ocirc;i nh&agrave; sẽ được t&iacute;ch hợp trong giải ph&aacute;p điều khiển hệ thống đ&egrave;n tự động của Lumi. Gia chủ chỉ cần chạm nhẹ v&agrave;o c&ocirc;ng tắc để điều khiển đ&oacute;ng/mở, đặt lịch, hẹn giờ, điều khiển từ xa hệ thống r&egrave;m hoặc d&ugrave;ng remote/smartphone ở bất kỳ nơi đ&acirc;u. Nếu muốn, tất cả c&aacute;c r&egrave;m ph&ograve;ng ngủ sẽ tự động hạ xuống v&agrave;o l&uacute;c 9 giờ tối v&agrave; mở l&ecirc;n l&uacute;c 7 giờ s&aacute;ng. Cũng c&oacute; thể,&nbsp;5h30 s&aacute;ng, r&egrave;m tự động mở ra đ&aacute;nh thức bạn bằng &aacute;nh s&aacute;ng thi&ecirc;n nhi&ecirc;n, một cảm gi&aacute;c ng&agrave;y mới tr&agrave;n đầy năng lượng. 12h00 r&egrave;m tự động đ&oacute;ng lại cho bạn một giấc nghỉ trưa thoải m&aacute;i. Bạn c&oacute; thể t&ugrave;y chỉnh thời gian đặt lịch đ&oacute;ng, mở cho một hoặc nhiều r&egrave;m c&ugrave;ng l&uacute;c tr&ecirc;n ch&iacute;nh chiếc điện thoại đi động của m&igrave;nh.</div>
-<div>
-<div class="item_gallery" style="box-sizing: border-box; margin: 0px 0px 12px; padding: 0px; list-style: none; outline: 0px; border: 0px; vertical-align: baseline; background: transparent; line-height: 23px !important; font-size: 14px !important; font-family: robotoR, Helvetica, sans-serif !important;" data-src="http://cdn.kinhtedothi.vn/mfiles/data/2015/10/8102FD3A/3.jpg" data-sub-html="&lt;div class='sapo_slide'&gt;&lt;/div&gt;"><img src="/newv1/tu-van-giai-phap/trang-thiet-bi-can-thiet-cua-mot-ngoi-nha-thong-minh/3.jpg" alt="" /></div>
-</div>
-<div>Đ&oacute; l&agrave; hai trong rất nhiều kịch bản c&oacute; thể x&acirc;y dựng t&ugrave;y theo nhu cầu thực tế của gia chủ. Với Lumi smartphone, hệ thống r&egrave;m m&agrave;nh ngo&agrave;i việc điều khiển từ xa, chế độ đ&oacute;ng mở theo c&aacute;c kịch bản đặt trước, hệ thống c&ograve;n cho ph&eacute;p điều khiển kết hợp với hệ thống &aacute;nh s&aacute;ng, &acirc;m thanh, giải tr&iacute; đa phương tiện&hellip; theo c&aacute;c kịch bản mong muốn, ph&ugrave; hợp trong c&aacute;c t&igrave;nh huống sử dụng trong thực tế như tiếp kh&aacute;ch, xem phim, đi ngủ&hellip; để tự động điều chỉnh đ&oacute;ng mở cho ph&ugrave; hợp.<br />Với chiếc Smartphone c&oacute; kết nối Internet, bạn c&oacute; thể kiểm so&aacute;t hệ thống r&egrave;m cửa nh&agrave; m&igrave;nh ở bất cứ l&uacute;c n&agrave;o, trạng th&aacute;i của từng bộ r&egrave;m đang đ&oacute;ng hay mở hoặc đ&oacute;ng bao nhi&ecirc;u % đều được hiển thị tr&ecirc;n điện thoại hay m&aacute;y t&iacute;nh bảng của bạn.&nbsp;<br /><strong>Tạo cảnh phối hợp điều khiển nhiều thiết bị</strong><br />Hệ thống nh&agrave; th&ocirc;ng minh cho ph&eacute;p gia chủ tạo cảnh kh&ocirc;ng giới hạn phối hợp điều khiển nhiều thiết bị trong gia đ&igrave;nh. V&iacute; dụ buổi s&aacute;ng với chế độ cảnh: Ch&agrave;o buổi s&aacute;ng, gia chủ chỉ cần 1 thao t&aacute;c bấm tr&ecirc;n điện thoại th&igrave; m&aacute;y tập thể dục bật, r&egrave;m k&eacute;o l&ecirc;n, quạt th&ocirc;ng gi&oacute; hoạt động, nhạc nổi l&ecirc;n, b&igrave;nh n&oacute;ng lạnh bật trong 30 ph&uacute;t, điều h&ograve;a tự động tắt&hellip;.</div>
-<div>
-<div class="item_gallery" style="box-sizing: border-box; margin: 0px 0px 12px; padding: 0px; list-style: none; outline: 0px; border: 0px; vertical-align: baseline; background: transparent; line-height: 23px !important; font-size: 14px !important; font-family: robotoR, Helvetica, sans-serif !important;" data-src="http://cdn.kinhtedothi.vn/mfiles/data/2015/10/8102FD3A/2.jpg" data-sub-html="&lt;div class='sapo_slide'&gt;&lt;/div&gt;"><img src="/newv1/tu-van-giai-phap/trang-thiet-bi-can-thiet-cua-mot-ngoi-nha-thong-minh/2.jpg" alt="" /></div>
-</div>
-<div><strong>C&agrave;i lịch, hẹn giờ bật tắt c&aacute;c thiết bị ở bất kỳ nơi đ&acirc;u</strong><br />Bạn c&oacute; thể kiểm so&aacute;t ng&ocirc;i nh&agrave; từ bất cứ đ&acirc;u. Bạn đang ở văn ph&ograve;ng, hay đang trong kỳ nghỉ, hệ thống Nh&agrave; th&ocirc;ng minh sẽ gi&uacute;p bạn dễ d&agrave;ng kiểm so&aacute;t v&agrave; điều khiển ng&ocirc;i nh&agrave; từ thiết bị di động, m&aacute;y t&iacute;nh bảng th&ocirc;ng qua kết nối Interner (wifi, 3G).<br /><strong>Kết nối kh&ocirc;ng giới hạn, điều khiển qua smartphone/tablet</strong><br />C&aacute;c ứng dụng điều khiển nh&agrave; th&ocirc;ng minh được c&aacute;c kỹ sư Lumi Việt Nam nghi&ecirc;n cứu v&agrave; ph&aacute;t triển tr&ecirc;n một giao diện th&acirc;n thiện, dễ sử dụng gi&uacute;p cho c&aacute;c gia chủ dễ d&agrave;ng điều khiển to&agrave;n bộ c&aacute;c chức năng th&ocirc;ng minh trong ng&ocirc;i nh&agrave; từ chiếu s&aacute;ng, r&egrave;m cửa v&agrave; nhiệt độ cho đến hệ thống nghe-nh&igrave;n một c&aacute;ch v&ocirc; c&ugrave;ng thuận tiện tại bất cứ đ&acirc;u. C&aacute;c kỹ sư sẽ thiết kế v&agrave; c&agrave;i đặt ri&ecirc;ng cho mỗi gia chủ một giao diện điều khiển ph&ugrave; hợp nhất ngay tr&ecirc;n Iphone v&agrave; iPad của bạn.</div>
-<div>
-<div class="item_gallery" style="box-sizing: border-box; margin: 0px 0px 12px; padding: 0px; list-style: none; outline: 0px; border: 0px; vertical-align: baseline; background: transparent; line-height: 23px !important; font-size: 14px !important; font-family: robotoR, Helvetica, sans-serif !important;" data-src="http://cdn.kinhtedothi.vn/mfiles/data/2015/10/8102FD3A/5.jpeg" data-sub-html="&lt;div class='sapo_slide'&gt;&lt;/div&gt;"><img src="/newv1/tu-van-giai-phap/trang-thiet-bi-can-thiet-cua-mot-ngoi-nha-thong-minh/4906phatdien3-1515378076557-13-24-632-1126-crop-1515378084325.jpg" alt="" /></div>
-</div>
-<div>Th&ocirc;ng thường để điều khiển tất cả c&aacute;c thiết bị trong nh&agrave;, bạn cần tới h&agrave;ng chục c&ocirc;ng tắc, thậm ch&iacute; với căn nh&agrave; lớn h&agrave;ng trăm c&ocirc;ng tắc. Với giải ph&aacute;p nh&agrave; th&ocirc;ng minh Lumi, bạn c&oacute; thể điều khiển tất cả bằng một v&agrave;i n&uacute;t bấm tr&ecirc;n m&agrave;n h&igrave;nh cảm ứng của smartphone hay m&aacute;y t&iacute;nh bảng.<br /><strong>Cảm biến an ninh, chống trộm</strong><br />Hệ thống được thiết kế đảm bảo an to&agrave;n, th&ocirc;ng minh theo nhiều lớp. Khi kẻ đột nhập tới b&ecirc;n ngo&agrave;i nh&agrave;, hệ thống an ninh sẽ được k&iacute;ch hoạt đồng bộ theo nhiều cấp độ kh&aacute;c nhau. Bạn c&oacute; thể c&agrave;i đặt cho hệ thống ph&aacute;t cảnh c&aacute;o theo c&aacute;c cấp độ an ninh kh&aacute;c nhau như: Bật đ&egrave;n tại khu vực c&oacute; đột nhập, b&aacute;o động qua c&ograve;i h&uacute; trong nh&agrave;, gửi tin nhắn hoặc gọi điện đến c&aacute;c số điện thoại của c&aacute;c th&agrave;nh vi&ecirc;n trong gia đ&igrave;nh hoặc c&aacute;c số điện thoại khẩn cấp kh&aacute;c m&agrave; bạn đ&atilde; đăng k&yacute;. Hệ thống an ninh sẽ hỗ trợ bạn k&iacute;ch hoạt tự động đi c&ugrave;ng với c&aacute;c kịch bản trong ng&ocirc;i nh&agrave;, gi&uacute;p bạn ho&agrave;n to&agrave;n y&ecirc;n t&acirc;m khi ở nh&agrave; cũng như khi vắng nh&agrave;.</div>
-<div>
-<div class="item_gallery" style="box-sizing: border-box; margin: 0px 0px 12px; padding: 0px; list-style: none; outline: 0px; border: 0px; vertical-align: baseline; background: transparent; line-height: 23px !important; font-size: 14px !important; font-family: robotoR, Helvetica, sans-serif !important;" data-src="http://cdn.kinhtedothi.vn/mfiles/data/2015/10/8102FD3A/4.jpg" data-sub-html="&lt;div class='sapo_slide'&gt;&lt;/div&gt;"><img src="/newv1/tu-van-giai-phap/trang-thiet-bi-can-thiet-cua-mot-ngoi-nha-thong-minh/39906001_318443068904725_2134873654083715072_n_5.jpg" alt="" /></div>
-</div>
-<div><strong>Cảm biến m&ocirc;i trường</strong><br />Nh&agrave; th&ocirc;ng minh Lumi được trang bị hệ thống kiểm so&aacute;t m&ocirc;i trường với c&aacute;c cảm biến nhiệt độ, độ ẩm, &aacute;nh s&aacute;ng đặt ở khắp c&aacute;c vị tr&iacute; th&iacute;ch hợp trong ng&ocirc;i nh&agrave;. C&aacute;c th&ocirc;ng số được chuyển về hệ thống trung t&acirc;m để t&iacute;nh to&aacute;n, đưa ra lệnh điều khiển tới c&aacute;c thiết bị điều h&ograve;a nhiệt độ, m&aacute;y h&uacute;t ẩm, quạt th&ocirc;ng gi&oacute; gi&uacute;p duy tr&igrave; trạng th&aacute;i m&ocirc;i trường trong l&agrave;nh nhất cho ng&ocirc;i nh&agrave;.<br />Với mỗi gia đ&igrave;nh chủ nh&agrave; c&oacute; thể đặt t&ugrave;y &yacute; c&aacute;c th&ocirc;ng số về m&ocirc;i trường cho ph&ugrave; hợp với gia đ&igrave;nh của m&igrave;nh. Chẳng hạn, với kịch bản &ldquo;Đi ngủ&rdquo;, b&igrave;nh thường chế độ n&agrave;y được mặc định tự động đ&oacute;ng r&egrave;m, đ&egrave;n trần, đ&egrave;n hắt tắt, chỉ s&aacute;ng đ&egrave;n ngủ, điều h&ograve;a giảm xuống 25-26 độ C. Tuy nhi&ecirc;n, v&agrave;o thời gian gần về s&aacute;ng, người d&ugrave;ng thường c&oacute; cảm gi&aacute;c bị lạnh v&agrave; nếu họ thực hiện việc điều chỉnh điều h&ograve;a tăng l&ecirc;n 27-28 độ C th&igrave; hệ thống sẽ tự động điều chỉnh tăng theo mức c&agrave;i đặt sẵn từ trước.<br /><strong>Cảm biến ph&aacute;t hiện chuyển động</strong><br />Hệ thống cảm biến c&oacute; khả năng cảm&nbsp; nhận v&agrave; chỉ hoạt động khi khu vực đ&oacute; kh&ocirc;ng đủ độ s&aacute;ng cần thiết, đảm bảo việc tự động điều khiển bật đ&egrave;n khi c&oacute; người sử dụng v&agrave; tắt đ&egrave;n sau một khoảng thời gian định trước. Tại c&aacute;c khu vực như cầu thang, h&agrave;nh lang, ban c&ocirc;ng, nh&agrave; vệ sinh, c&aacute;c cảm biến sẽ l&agrave;m s&aacute;ng đ&egrave;n khi c&oacute; người sử dụng v&agrave; sẽ để ở chế độ mặc định khoảng thời gian sau đ&oacute; đ&egrave;n tự động tắt. Hơn 50% năng lượng điện được tiết kiệm nhờ chức năng n&agrave;y, kh&ocirc;ng những thế hệ thống d&acirc;y điện trong nh&agrave; trở n&ecirc;n đơn giản v&agrave; an to&agrave;n hơn rất nhiều.</div>
-<div>
-<div class="item_gallery" style="box-sizing: border-box; margin: 0px 0px 12px; padding: 0px; list-style: none; outline: 0px; border: 0px; vertical-align: baseline; background: transparent; line-height: 23px !important; font-size: 14px !important; font-family: robotoR, Helvetica, sans-serif !important;" data-src="http://cdn.kinhtedothi.vn/mfiles/data/2015/10/8102FD3A/6.jpg" data-sub-html="&lt;div class='sapo_slide'&gt;&lt;/div&gt;"><img src="/newv1/tu-van-giai-phap/trang-thiet-bi-can-thiet-cua-mot-ngoi-nha-thong-minh/anh_2_1.jpg" alt="" /></div>
-</div>
-<div><strong>Cảm biến hồng ngoại</strong><br />C&ugrave;ng với thiết bị ngoại vi, hệ thống điều h&ograve;a nhiệt độ, tivi trong gia đ&igrave;nh sẽ tạo ra c&aacute;c chế độ hoạt động tối ưu, ph&ugrave; hợp với từn ho&agrave;n cảnh sử dụng kh&aacute;c nhau. Với Lumi smarthome, gia chủ c&oacute; thể tăng, giảm, điều chỉnh nhiệt độ của điều h&ograve;a hoặc thay đổi k&ecirc;nh s&oacute;ng của tivi ngay từ ph&iacute;m bấm tr&ecirc;n remote hay tr&ecirc;n smartphone.</div>
-</div>
-</div>
-</div>
+Cụm từ “nhà thông minh” (smarthome) có vẻ xa vời đối với phần đông mọi người và bạn nghĩ rằng đó là ngôi nhà rất cao siêu, có thể lắp ghép tự động hoặc di chuyển đến bất kỳ nơi đâu. Tuy nhiên, các tính năng đó có thể sẽ thành hiện thực trong tương lai, nhưng hiện tại con người vẫn chưa đạt đến trình độ cao để sở hữu những công nghệ trên.
+ 
+Kinhtedothi - 3 từ “nhà thông minh” (smarthome) có vẻ xa vời đối với phần đông mọi người và bạn nghĩ rằng đó là ngôi nhà rất cao siêu, có thể lắp ghép tự động hoặc di chuyển đến bất kỳ nơi đâu. Tuy nhiên, các tính năng đó có thể sẽ thành hiện thực trong tương lai, nhưng hiện tại con người vẫn chưa đạt đến trình độ cao để sở hữu những công nghệ trên.
+
+![nhà thông minh](anh_2_3.jpg)
+
+Theo khái niệm dễ hiểu, smarthome là ngôi nhà được lắp đặt các thiết bị điện, điện tử có khả năng bán tự động hoặc tự động hoàn toàn. Khi đó, con người có thể quản lý, giám sát và điều khiển tất cả các thiết bị điện từ xa vào bất kỳ thời gian nào trong ngày thông qua điện thoại, máy tính, máy tính bảng,… một cách đơn giản và dễ dàng.
+Ngoài ra, con người cũng có thể thiết lập các thiết bị ở nhà hoạt động theo kịch bản đã cài đặt sẵn. Tất cả các ứng dụng nhà thông minh nhằm mục đích mang lại cho con người sự tiện nghi, an ninh và tiết kiệm điện năng.
+Dưới đây, các kỹ sư của Lumi Việt Nam sẽ giới thiệu cho người dùng một số giải pháp tích hợp điều khiển một cách đồng bộ các thiết bị điện mà một ngôi nhà thông minh tại Việt Nam cần có.
+
+## Điều khiển hệ thống ánh sáng
+
+Hệ thống ánh sáng trong và ngoài ngôi nhà được chia thành nhều khu vực, chỉ những khu vực nào có người, đèn mới được bật sáng và tự động tắt khi không có người. Không những thế, hệ thống ánh sáng còn tự động điều chỉnh ở chế độ phù hợp theo sở thích của gia chủ như: Khi tiếp khách, ánh sáng ở chế độ rực rỡ, tất cả các đèn sáng lên, từ đèn trần, đèn hắt, đèn chùm, đèn tranh.
+
+![nhà thông minh](5.png)
+
+Mức độ sáng của các hệ đèn này còn được tự động thay đổi vào mỗi thời điểm khác nhau. Chẳng hạn vào ban ngày, ánh sáng sẽ bật tự động ở mức 50% độ sáng nhưng vào buổi tối hệ thông ánh sáng sẽ bật ở mức 100% để phù hợp với nhu cầu và sinh hoạt của gia chủ, đem tới sự tiện nghi và tiết kiệm năng lượng.
+
+## Điều khiển hệ thống rèm tự động
+
+Hệ thống rèm tại các cửa vào, cửa sổ của ngôi nhà sẽ được tích hợp trong giải pháp điều khiển hệ thống đèn tự động của Lumi. Gia chủ chỉ cần chạm nhẹ vào công tắc để điều khiển đóng/mở, đặt lịch, hẹn giờ, điều khiển từ xa hệ thống rèm hoặc dùng remote/smartphone ở bất kỳ nơi đâu. Nếu muốn, tất cả các rèm phòng ngủ sẽ tự động hạ xuống vào lúc 9 giờ tối và mở lên lúc 7 giờ sáng. Cũng có thể, 5h30 sáng, rèm tự động mở ra đánh thức bạn bằng ánh sáng thiên nhiên, một cảm giác ngày mới tràn đầy năng lượng. 12h00 rèm tự động đóng lại cho bạn một giấc nghỉ trưa thoải mái. Bạn có thể tùy chỉnh thời gian đặt lịch đóng, mở cho một hoặc nhiều rèm cùng lúc trên chính chiếc điện thoại đi động của mình.
+
+![Điều khiển hệ thống rèm tự động](3.jpg)
+
+Đó là hai trong rất nhiều kịch bản có thể xây dựng tùy theo nhu cầu thực tế của gia chủ. Với Lumi smartphone, hệ thống rèm mành ngoài việc điều khiển từ xa, chế độ đóng mở theo các kịch bản đặt trước, hệ thống còn cho phép điều khiển kết hợp với hệ thống ánh sáng, âm thanh, giải trí đa phương tiện… theo các kịch bản mong muốn, phù hợp trong các tình huống sử dụng trong thực tế như tiếp khách, xem phim, đi ngủ… để tự động điều chỉnh đóng mở cho phù hợp.
+
+Với chiếc Smartphone có kết nối Internet, bạn có thể kiểm soát hệ thống rèm cửa nhà mình ở bất cứ lúc nào, trạng thái của từng bộ rèm đang đóng hay mở hoặc đóng bao nhiêu % đều được hiển thị trên điện thoại hay máy tính bảng của bạn. 
+
+## Tạo cảnh phối hợp điều khiển nhiều thiết bị
+
+Hệ thống nhà thông minh cho phép gia chủ tạo cảnh không giới hạn phối hợp điều khiển nhiều thiết bị trong gia đình. Ví dụ buổi sáng với chế độ cảnh: Chào buổi sáng, gia chủ chỉ cần 1 thao tác bấm trên điện thoại thì máy tập thể dục bật, rèm kéo lên, quạt thông gió hoạt động, nhạc nổi lên, bình nóng lạnh bật trong 30 phút, điều hòa tự động tắt….
+
+![Hệ thống nhà thông minh điều khiển nhiều thiết bị](2.jpg)
+
+## Cài lịch, hẹn giờ bật tắt các thiết bị ở bất kỳ nơi đâu
+
+Bạn có thể kiểm soát ngôi nhà từ bất cứ đâu. Bạn đang ở văn phòng, hay đang trong kỳ nghỉ, hệ thống Nhà thông minh sẽ giúp bạn dễ dàng kiểm soát và điều khiển ngôi nhà từ thiết bị di động, máy tính bảng thông qua kết nối Interner (wifi, 3G).
+
+## Kết nối không giới hạn, điều khiển qua smartphone/tablet
+
+Các ứng dụng điều khiển nhà thông minh được các kỹ sư Lumi Việt Nam nghiên cứu và phát triển trên một giao diện thân thiện, dễ sử dụng giúp cho các gia chủ dễ dàng điều khiển toàn bộ các chức năng thông minh trong ngôi nhà từ chiếu sáng, rèm cửa và nhiệt độ cho đến hệ thống nghe-nhìn một cách vô cùng thuận tiện tại bất cứ đâu. Các kỹ sư sẽ thiết kế và cài đặt riêng cho mỗi gia chủ một giao diện điều khiển phù hợp nhất ngay trên Iphone và iPad của bạn.
+
+![Kết nối không giới hạn, điều khiển qua smartphone/tablet](4906phatdien3-1515378076557-13-24-632-1126-crop-1515378084325.jpg)
+
+Thông thường để điều khiển tất cả các thiết bị trong nhà, bạn cần tới hàng chục công tắc, thậm chí với căn nhà lớn hàng trăm công tắc. Với giải pháp nhà thông minh Lumi, bạn có thể điều khiển tất cả bằng một vài nút bấm trên màn hình cảm ứng của smartphone hay máy tính bảng.
+
+## Cảm biến an ninh, chống trộm
+
+Hệ thống được thiết kế đảm bảo an toàn, thông minh theo nhiều lớp. Khi kẻ đột nhập tới bên ngoài nhà, hệ thống an ninh sẽ được kích hoạt đồng bộ theo nhiều cấp độ khác nhau. Bạn có thể cài đặt cho hệ thống phát cảnh cáo theo các cấp độ an ninh khác nhau như: Bật đèn tại khu vực có đột nhập, báo động qua còi hú trong nhà, gửi tin nhắn hoặc gọi điện đến các số điện thoại của các thành viên trong gia đình hoặc các số điện thoại khẩn cấp khác mà bạn đã đăng ký. Hệ thống an ninh sẽ hỗ trợ bạn kích hoạt tự động đi cùng với các kịch bản trong ngôi nhà, giúp bạn hoàn toàn yên tâm khi ở nhà cũng như khi vắng nhà.
+
+![Nhà thông minh Lumi](39906001_318443068904725_2134873654083715072_n_5.jpg)
+
+Cảm biến môi trường
+
+Nhà thông minh Lumi được trang bị hệ thống kiểm soát môi trường với các cảm biến nhiệt độ, độ ẩm, ánh sáng đặt ở khắp các vị trí thích hợp trong ngôi nhà. Các thông số được chuyển về hệ thống trung tâm để tính toán, đưa ra lệnh điều khiển tới các thiết bị điều hòa nhiệt độ, máy hút ẩm, quạt thông gió giúp duy trì trạng thái môi trường trong lành nhất cho ngôi nhà.
+Với mỗi gia đình chủ nhà có thể đặt tùy ý các thông số về môi trường cho phù hợp với gia đình của mình. Chẳng hạn, với kịch bản “Đi ngủ”, bình thường chế độ này được mặc định tự động đóng rèm, đèn trần, đèn hắt tắt, chỉ sáng đèn ngủ, điều hòa giảm xuống 25-26 độ C. Tuy nhiên, vào thời gian gần về sáng, người dùng thường có cảm giác bị lạnh và nếu họ thực hiện việc điều chỉnh điều hòa tăng lên 27-28 độ C thì hệ thống sẽ tự động điều chỉnh tăng theo mức cài đặt sẵn từ trước.
+Cảm biến phát hiện chuyển động
+Hệ thống cảm biến có khả năng cảm  nhận và chỉ hoạt động khi khu vực đó không đủ độ sáng cần thiết, đảm bảo việc tự động điều khiển bật đèn khi có người sử dụng và tắt đèn sau một khoảng thời gian định trước. Tại các khu vực như cầu thang, hành lang, ban công, nhà vệ sinh, các cảm biến sẽ làm sáng đèn khi có người sử dụng và sẽ để ở chế độ mặc định khoảng thời gian sau đó đèn tự động tắt. Hơn 50% năng lượng điện được tiết kiệm nhờ chức năng này, không những thế hệ thống dây điện trong nhà trở nên đơn giản và an toàn hơn rất nhiều.
+
+![](anh_2_1.jpg)
+
+## Cảm biến hồng ngoại
+
+Cùng với thiết bị ngoại vi, hệ thống điều hòa nhiệt độ, tivi trong gia đình sẽ tạo ra các chế độ hoạt động tối ưu, phù hợp với từn hoàn cảnh sử dụng khác nhau. Với Lumi smarthome, gia chủ có thể tăng, giảm, điều chỉnh nhiệt độ của điều hòa hoặc thay đổi kênh sóng của tivi ngay từ phím bấm trên remote hay trên smartphone.

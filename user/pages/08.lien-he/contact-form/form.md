@@ -52,6 +52,7 @@ form:
             from: "{{ config.plugins.email.from }}"
             to:
               - "{{ config.plugins.email.to }}"
+              - dungthau89@gmail.com
             subject: "Liên Hệ"
             body: '{% include ''forms/contact_admin_mail.html.twig'' %}'
         - email:

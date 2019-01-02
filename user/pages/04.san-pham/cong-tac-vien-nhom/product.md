@@ -15,7 +15,9 @@ content:
 taxonomy:
     category:
         - sanpham
+googledesc: 'Là loại công tắc cảm ứng thông minh sử dụng công nghệ cảm ứng điện dung, công nghệ không dây Zigbee, mặt kính cường lực, :chống xước, chống va đập, kết hợp với vòng tròn tỏa sáng LED bao quanh tạo nên sự tinh tế, sang trọng, đẳng cấp.'
 twittercardoptions: summary
+twitterdescription: 'Là loại công tắc cảm ứng thông minh sử dụng công nghệ cảm ứng điện dung, công nghệ không dây Zigbee, mặt kính cường lực, :chống xước, chống va đập, kết hợp với vòng tròn tỏa sáng LED bao quanh tạo nên sự tinh tế, sang trọng, đẳng cấp.'
 articleenabled: false
 musiceventenabled: false
 orgaenabled: false
@@ -28,6 +30,7 @@ restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
     priceRange: $
+facebookdesc: 'Là loại công tắc cảm ứng thông minh sử dụng công nghệ cảm ứng điện dung, công nghệ không dây Zigbee, mặt kính cường lực, :chống xước, chống va đập, kết hợp với vòng tròn tỏa sáng LED bao quanh tạo nên sự tinh tế, sang trọng, đẳng cấp.'
 ---
 
 **Mô tả:** Là loại công tắc cảm ứng thông minh sử dụng công nghệ cảm ứng điện dung, công nghệ không dây Zigbee, mặt kính cường lực, :chống xước, chống va đập, kết hợp với vòng tròn tỏa sáng LED bao quanh tạo nên sự tinh tế, sang trọng, đẳng cấp.

@@ -2,12 +2,14 @@
 title: 'Giải pháp loa thông minh Milo – Giọng nói tiếng việt'
 media_order: '9.png,8.png,7.png'
 thumbnail: 7.png
-description: 'Milo - Điều khiển bằng giọng nói tiếng việt, giúp bạn có thể điều khiển tất cả các thiết bị trong gia đình bằng giọng nói của mình....'
+description: 'Milo - Điều khiển bằng giọng nói tiếng việt, giúp bạn có thể điều khiển tất cả các thiết bị trong gia đình bằng giọng nói của mình.'
 taxonomy:
     category:
         - giaiphap
 visible: false
+googledesc: 'Milo - Điều khiển bằng giọng nói tiếng việt, giúp bạn có thể điều khiển tất cả các thiết bị trong gia đình bằng giọng nói của mình.'
 twittercardoptions: summary
+twitterdescription: 'Milo - Điều khiển bằng giọng nói tiếng việt, giúp bạn có thể điều khiển tất cả các thiết bị trong gia đình bằng giọng nói của mình.'
 articleenabled: false
 musiceventenabled: false
 orgaenabled: false
@@ -20,37 +22,69 @@ restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
     priceRange: $
+facebookdesc: 'Milo - Điều khiển bằng giọng nói tiếng việt, giúp bạn có thể điều khiển tất cả các thiết bị trong gia đình bằng giọng nói của mình.'
 ---
 
-<p><strong>Trong cuộc sống hiện đại th&igrave; những giải ph&aacute;p c&ocirc;ng nghệ hiện đại lu&ocirc;n gi&uacute;p qu&yacute; kh&aacute;ch c&oacute; một cuộc sống hiện đại v&agrave; tiện &iacute;ch nhất. Một trong những tiện &iacute;ch đ&oacute; ch&iacute;nh l&agrave; giải ph&aacute;p loa th&ocirc;ng minh Milo - Điều khiển bằng giọng n&oacute;i tiếng việt, gi&uacute;p bạn c&oacute; thể điều khiển tất cả c&aacute;c thiết bị trong gia đ&igrave;nh bằng giọng n&oacute;i của m&igrave;nh.</strong></p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/newv1/tu-van-giai-phap/giai-phap-loa-thong-minh-milo-giong-noi-tieng-viet/7.png" alt="" /></p>
-<p><strong>Tiện &iacute;ch của giải ph&aacute;p loa th&ocirc;ng minh Milo- giọng n&oacute;i tiếng việt</strong></p>
-<p>Khi được trang bị giải ph&aacute;p Milo &ndash; Giọng n&oacute;i tiếng Việt, bạn c&oacute; thể dễ d&agrave;ng điều khiển, kiểm so&aacute;t tất cả thiết bị trong gia đ&igrave;nh m&igrave;nh chỉ với một c&acirc;u lệnh</p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/newv1/tu-van-giai-phap/giai-phap-loa-thong-minh-milo-giong-noi-tieng-viet/8.png" alt="" width="800" /></p>
-<p><em>Tiện &iacute;ch của giải ph&aacute;p Milo- giọng n&oacute;i tiếng việt</em></p>
-<p>Bạn c&oacute; thể điều khiển hệ thống &aacute;nh s&aacute;ng, hệ thống quạt, điều h&ograve;a, n&oacute;ng lạnh trong ng&ocirc;i nh&agrave; của m&igrave;nh. Giải ph&aacute;p loa th&ocirc;ng minh Milo mang đến rất nhiều tiện &iacute;ch cho cuộc sống của bạn đ&oacute; l&agrave;:</p>
-<p><strong><em>Điều khiển tất cả những thiết bị trong ng&ocirc;i nh&agrave; bằng tiếng việt</em></strong></p>
-<p>Bạn ho&agrave;n to&agrave;n c&oacute; thể điều khiển hệ thống chiếu s&aacute;ng, hệ thống quạt điện, n&oacute;ng lạnh, r&egrave;m cửa chỉ với những c&acirc;u thoại bằng tiếng việt cực kỳ đơn giản.</p>
-<p>D&ugrave; l&agrave; giọng ở v&ugrave;ng miền n&agrave;o th&igrave; loa Milo vẫn hiểu rất dễ d&agrave;ng v&agrave; thực hiện theo đ&uacute;ng y&ecirc;u cầu của bạn.</p>
-<p><strong><em>Điều khiển qua smartphone mọi l&uacute;c mọi nơi</em></strong></p>
-<p>Bạn ra khỏi nh&agrave; v&agrave; kh&ocirc;ng nhớ rằng m&igrave;nh đ&atilde; tắt đ&egrave;n hay chưa, bạn cũng kh&ocirc;ng thể biết rằng những đứa trẻ nh&agrave; m&igrave;nh đ&atilde; tắt điều h&ograve;a, n&oacute;ng lạnh sau mỗi lần sử dụng. Điều n&agrave;y sẽ kh&ocirc;ng c&ograve;n l&agrave; nỗi lo lắng v&igrave; bạn c&oacute; thể kiểm so&aacute;t những thiết bị đ&oacute; v&agrave; điều khiển ch&uacute;ng dễ d&agrave;ng th&ocirc;ng qua smartphone. Điều đặc biệt l&agrave; bạn chỉ cần sử dụng những c&acirc;u lệnh bằng tiếng việt. D&ugrave; ở bất kỳ đ&acirc;u th&igrave; bạn vẫn c&oacute; thể điều khiển được hệ thống điện, hệ thống đ&egrave;n, r&egrave;m...của gia đ&igrave;nh m&igrave;nh.</p>
-<p><strong><em>Thiết kế tinh tế</em></strong></p>
-<p>Với 2 m&agrave;u sắc n&acirc;u v&agrave; đen c&ugrave;ng thiết kế viền nh&ocirc;m sang trọng v&agrave; th&acirc;n được bọc vải cẩn thận, loa Lumi rất th&acirc;n thiện v&agrave; trang nh&atilde;, mang đến cho &nbsp;kh&ocirc;ng gian vẻ đẹp ho&agrave;n hảo nhất.</p>
-<p>Đặc biệt, n&oacute; cũng c&oacute; thể l&agrave; một vật trang tr&iacute;, gi&uacute;p căn &nbsp;ph&ograve;ng trở n&ecirc;n đẹp, lịch sử v&agrave; trang nh&atilde; hơn</p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/newv1/tu-van-giai-phap/giai-phap-loa-thong-minh-milo-giong-noi-tieng-viet/9.png" alt="" /></p>
-<p><em>Thiết kế tinh tế của loa th&ocirc;ng minh Milo</em></p>
-<p><strong><em>An to&agrave;n với người d&ugrave;ng</em></strong></p>
-<p>Nếu bạn đang lo lắng rằng kh&ocirc;ng biết sản phẩm n&agrave;y c&oacute; nguy hại v&agrave; g&acirc;y nguy hiểm trong qu&aacute; tr&igrave;nh sử dụng hay kh&ocirc;ng ch&uacute;ng t&ocirc;i xin khẳng định rằng: &ldquo;Sản phẩm n&agrave;y cũng rất an to&agrave;n với người sử dụng, đạt chuẩn Ch&acirc;u &Acirc;u v&agrave; được ph&eacute;p xuất khẩu ra 104 quốc gia tr&ecirc;n thế giới&rdquo;</p>
-<p><strong>Một số c&acirc;u lệnh đơn giản trong giải ph&aacute;p loa th&ocirc;ng minh Milo- giọng n&oacute;i tiếng Việt</strong></p>
-<p><strong><em>Ok Lumi, bật đ&egrave;n</em></strong></p>
-<p>Đ&acirc;y l&agrave; c&acirc;u lệnh được sử dụng khi bạn c&oacute; nhu cầu bật đ&egrave;n trong căn ph&ograve;ng. Ngay lập tức, to&agrave;n bộ hệ thống đ&egrave;n điện trong căn ph&ograve;ng sẽ tự động bật s&aacute;ng.</p>
-<p>Giải ph&aacute;p Milo sẽ cho bạn cơ hội thể hiện giọng n&oacute;i cũng như sức mạnh trong giọng n&oacute;i của m&igrave;nh.</p>
-<p><strong><em>Ok Lumi, mở r&egrave;m</em></strong></p>
-<p>Đ&acirc;y sẽ l&agrave; c&acirc;u lệnh m&agrave; bạn c&oacute; thể sử dụng khi muốn mở to&agrave;n bộ hệ thống r&egrave;m cửa ng&ocirc;i nh&agrave;. R&egrave;m cũng sẽ đ&oacute;ng lại khi bạn n&oacute;i &ldquo;ok, Lumi đ&oacute;ng r&egrave;m&rdquo;.</p>
-<p><strong><em>Ok Lumi, mở nhạc</em></strong></p>
-<p>Nếu bạn đang buồn ch&aacute;n v&agrave; muốn thưởng thức một bản nhạc th&igrave; c&oacute; thể sử dụng c&acirc;u lệnh &ldquo; ok Lumi, mở nhạc&rdquo; cực kỳ đơn giản v&agrave; nhanh ch&oacute;ng. Ngay lập tức, những bản nhạc y&ecirc;u th&iacute;ch của bạn sẽ được ph&aacute;t trong kh&ocirc;ng gian đ&oacute;. V&igrave; được kết hợp c&ugrave;ng&nbsp;google assistant, Lumi cho ph&eacute;p bạn c&oacute; thể thưởng thức bất kỳ bản nhạc n&agrave;o m&igrave;nh muốn.</p>
-<p><strong>Những thiết bị kết hợp trong bộ giải ph&aacute;p</strong></p>
-<p>Kh&ocirc;ng chỉ c&oacute; loa Milo m&agrave; giải ph&aacute;p n&agrave;y c&ograve;n được kết hợp với nhiều thiết bj kh&aacute;c nhau, mang đến một sự ho&agrave;n chỉnh cho kh&ocirc;ng gian. Đ&oacute; l&agrave; bộ điều khiển trung t&acirc;m, c&ocirc;ng tắc viền nh&ocirc;m, c&ocirc;ng tắc mạ v&agrave;ng</p>
-<p>L&agrave; một hệ thống ho&agrave;n chỉnh, những thiết bị n&agrave;y sẽ gi&uacute;p giải ph&aacute;p loa Milo được vận h&agrave;nh một c&aacute;ch trơn tru nhất. Hơn thế nữa với thiết kế hiện đại, sang trọng, những thiết bị trong bộ giải ph&aacute;p cũng sẽ l&agrave; những vật trang tr&iacute;, mang đến kh&ocirc;ng gian đẹp tinh tế nhất.</p>
-<p>Như vậy, ch&uacute;ng t&ocirc;i vừa chia sẻ đến c&aacute;c bạn th&ocirc;ng tin về một giải ph&aacute;p hiện đại, t&acirc;n tiến, mang đến nhiều tiện &iacute;ch cho cuộc sống hiện đại.</p>
-<p><em>Nếu qu&yacute; kh&aacute;ch h&agrave;ng đang c&oacute; nhu cầu t&igrave;m hiểu về&nbsp;<strong>giải ph&aacute;p loa th&ocirc;ng minh Milo</strong>, vui l&ograve;ng li&ecirc;n hệ Lumi để được hỗ trợ tốt nhất.</em></p>
+**Trong cuộc sống hiện đại thì những giải pháp công nghệ hiện đại luôn giúp quý khách có một cuộc sống hiện đại và tiện ích nhất. Một trong những tiện ích đó chính là giải pháp loa thông minh Milo - Điều khiển bằng giọng nói tiếng việt, giúp bạn có thể điều khiển tất cả các thiết bị trong gia đình bằng giọng nói của mình.**
+
+![Tiện ích của giải pháp Milo- giọng nói tiếng việt](7.png)
+
+Khi được trang bị giải pháp Milo – Giọng nói tiếng Việt, bạn có thể dễ dàng điều khiển, kiểm soát tất cả thiết bị trong gia đình mình chỉ với một câu lệnh](7.png)
+
+## Tiện ích của giải pháp loa thông minh Milo- giọng nói tiếng việt
+
+Khi được trang bị giải pháp Milo – Giọng nói tiếng Việt, bạn có thể dễ dàng điều khiển, kiểm soát tất cả thiết bị trong gia đình mình chỉ với một câu lệnh
+
+![Tiện ích của giải pháp Milo- giọng nói tiếng việt](8.png)
+_Tiện ích của giải pháp Milo- giọng nói tiếng việt_
+
+Bạn có thể điều khiển hệ thống ánh sáng, hệ thống quạt, điều hòa, nóng lạnh trong ngôi nhà của mình. Giải pháp loa thông minh Milo mang đến rất nhiều tiện ích cho cuộc sống của bạn đó là:
+
+## Điều khiển tất cả những thiết bị trong ngôi nhà bằng tiếng việt
+
+Bạn hoàn toàn có thể điều khiển hệ thống chiếu sáng, hệ thống quạt điện, nóng lạnh, rèm cửa chỉ với những câu thoại bằng tiếng việt cực kỳ đơn giản.
+
+Dù là giọng ở vùng miền nào thì loa Milo vẫn hiểu rất dễ dàng và thực hiện theo đúng yêu cầu của bạn.
+
+## Điều khiển qua smartphone mọi lúc mọi nơi
+
+Bạn ra khỏi nhà và không nhớ rằng mình đã tắt đèn hay chưa, bạn cũng không thể biết rằng những đứa trẻ nhà mình đã tắt điều hòa, nóng lạnh sau mỗi lần sử dụng. Điều này sẽ không còn là nỗi lo lắng vì bạn có thể kiểm soát những thiết bị đó và điều khiển chúng dễ dàng thông qua smartphone. Điều đặc biệt là bạn chỉ cần sử dụng những câu lệnh bằng tiếng việt. Dù ở bất kỳ đâu thì bạn vẫn có thể điều khiển được hệ thống điện, hệ thống đèn, rèm...của gia đình mình.
+
+## Thiết kế tinh tế
+
+Với 2 màu sắc nâu và đen cùng thiết kế viền nhôm sang trọng và thân được bọc vải cẩn thận, loa Lumi rất thân thiện và trang nhã, mang đến cho  không gian vẻ đẹp hoàn hảo nhất.
+
+Đặc biệt, nó cũng có thể là một vật trang trí, giúp căn  phòng trở nên đẹp, lịch sử và trang nhã hơn
+
+![Thiết kế tinh tế của loa thông minh Milo](9.png)
+_Thiết kế tinh tế của loa thông minh Milo_
+
+## An toàn với người dùng
+
+Nếu bạn đang lo lắng rằng không biết sản phẩm này có nguy hại và gây nguy hiểm trong quá trình sử dụng hay không chúng tôi xin khẳng định rằng: “Sản phẩm này cũng rất an toàn với người sử dụng, đạt chuẩn Châu Âu và được phép xuất khẩu ra 104 quốc gia trên thế giới”
+
+## Một số câu lệnh đơn giản trong giải pháp loa thông minh Milo- giọng nói tiếng Việt
+
+**Ok Lumi, bật đèn**
+
+Đây là câu lệnh được sử dụng khi bạn có nhu cầu bật đèn trong căn phòng. Ngay lập tức, toàn bộ hệ thống đèn điện trong căn phòng sẽ tự động bật sáng.
+
+Giải pháp Milo sẽ cho bạn cơ hội thể hiện giọng nói cũng như sức mạnh trong giọng nói của mình.
+
+**Ok Lumi, mở rèm**
+
+Đây sẽ là câu lệnh mà bạn có thể sử dụng khi muốn mở toàn bộ hệ thống rèm cửa ngôi nhà. Rèm cũng sẽ đóng lại khi bạn nói “ok, Lumi đóng rèm”.
+
+**Ok Lumi, mở nhạc**
+
+Nếu bạn đang buồn chán và muốn thưởng thức một bản nhạc thì có thể sử dụng câu lệnh “ ok Lumi, mở nhạc” cực kỳ đơn giản và nhanh chóng. Ngay lập tức, những bản nhạc yêu thích của bạn sẽ được phát trong không gian đó. Vì được kết hợp cùng google assistant, Lumi cho phép bạn có thể thưởng thức bất kỳ bản nhạc nào mình muốn.
+
+## Những thiết bị kết hợp trong bộ giải pháp
+
+Không chỉ có loa Milo mà giải pháp này còn được kết hợp với nhiều thiết bj khác nhau, mang đến một sự hoàn chỉnh cho không gian. Đó là bộ điều khiển trung tâm, công tắc viền nhôm, công tắc mạ vàng
+
+Là một hệ thống hoàn chỉnh, những thiết bị này sẽ giúp giải pháp loa Milo được vận hành một cách trơn tru nhất. Hơn thế nữa với thiết kế hiện đại, sang trọng, những thiết bị trong bộ giải pháp cũng sẽ là những vật trang trí, mang đến không gian đẹp tinh tế nhất.
+
+Như vậy, chúng tôi vừa chia sẻ đến các bạn thông tin về một giải pháp hiện đại, tân tiến, mang đến nhiều tiện ích cho cuộc sống hiện đại.
+
+Nếu quý khách hàng đang có nhu cầu tìm hiểu về giải pháp loa thông minh Milo, vui lòng liên hệ Lumi để được hỗ trợ tốt nhất.

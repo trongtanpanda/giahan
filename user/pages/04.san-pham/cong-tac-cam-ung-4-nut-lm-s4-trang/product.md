@@ -15,7 +15,9 @@ content:
 taxonomy:
     category:
         - sanpham
+googledesc: 'Là công tắc cảm ứng thông minh, sử dụng mặt mặt kính cường lực, chống xước, chống va đập tốt, kết hợp với vòng tròn tỏa sáng Led bao quanh, kèm theo logo Lumi ở góc phải tạo nên điểm nhấn và sự lôi cuốn cho sản phẩm. Đồng thời, đèn Led luôn được tỏa sáng dù bật hay tắt, nên bạn sẽ thấy ngay chiếc công tắc dù là trong đêm tối.  Đặc biệt, công tắc cảm ứng của Lumi được sử dụng công nghệ điện dung nên rất  an toàn kể cả khi tay ướt chạm vào công tắc điện.'
 twittercardoptions: summary
+twitterdescription: 'Là công tắc cảm ứng thông minh, sử dụng mặt mặt kính cường lực, chống xước, chống va đập tốt, kết hợp với vòng tròn tỏa sáng Led bao quanh, kèm theo logo Lumi ở góc phải tạo nên điểm nhấn và sự lôi cuốn cho sản phẩm. Đồng thời, đèn Led luôn được tỏa sáng dù bật hay tắt, nên bạn sẽ thấy ngay chiếc công tắc dù là trong đêm tối.  Đặc biệt, công tắc cảm ứng của Lumi được sử dụng công nghệ điện dung nên rất  an toàn kể cả khi tay ướt chạm vào công tắc điện.'
 articleenabled: false
 musiceventenabled: false
 orgaenabled: false
@@ -28,6 +30,7 @@ restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
     priceRange: $
+facebookdesc: 'Là công tắc cảm ứng thông minh, sử dụng mặt mặt kính cường lực, chống xước, chống va đập tốt, kết hợp với vòng tròn tỏa sáng Led bao quanh, kèm theo logo Lumi ở góc phải tạo nên điểm nhấn và sự lôi cuốn cho sản phẩm. Đồng thời, đèn Led luôn được tỏa sáng dù bật hay tắt, nên bạn sẽ thấy ngay chiếc công tắc dù là trong đêm tối.  Đặc biệt, công tắc cảm ứng của Lumi được sử dụng công nghệ điện dung nên rất  an toàn kể cả khi tay ướt chạm vào công tắc điện.'
 ---
 
 **Thiết kế tinh tế, hiện đại, đẳng cấp sang trọng:**

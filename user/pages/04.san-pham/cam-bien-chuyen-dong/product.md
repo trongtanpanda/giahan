@@ -15,7 +15,9 @@ content:
 taxonomy:
     category:
         - sanpham
+googledesc: 'Tự động bật/tắt đèn khi phát hiện chuyển động, cảm biến môi trường còn đóng vai trò là "người bác sỹ" đo nhiệt độ, ánh sáng, độ ẩm … trong ngôi nhà của bạn. Ngoài ra, cảm biến còn được tích hợp trong giải pháp an ninh như: kích hoạt còi hú, bật đèn… khi phát hiện sự xâm nhập trái phép.'
 twittercardoptions: summary
+twitterdescription: 'Tự động bật/tắt đèn khi phát hiện chuyển động, cảm biến môi trường còn đóng vai trò là "người bác sỹ" đo nhiệt độ, ánh sáng, độ ẩm … trong ngôi nhà của bạn. Ngoài ra, cảm biến còn được tích hợp trong giải pháp an ninh như: kích hoạt còi hú, bật đèn… khi phát hiện sự xâm nhập trái phép.'
 articleenabled: false
 musiceventenabled: false
 orgaenabled: false
@@ -28,6 +30,7 @@ restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
     priceRange: $
+facebookdesc: 'Tự động bật/tắt đèn khi phát hiện chuyển động, cảm biến môi trường còn đóng vai trò là "người bác sỹ" đo nhiệt độ, ánh sáng, độ ẩm … trong ngôi nhà của bạn. Ngoài ra, cảm biến còn được tích hợp trong giải pháp an ninh như: kích hoạt còi hú, bật đèn… khi phát hiện sự xâm nhập trái phép.'
 ---
 
 ## CẢM BIẾN PHÁT HIỆN CHUYỂN ĐỘNG

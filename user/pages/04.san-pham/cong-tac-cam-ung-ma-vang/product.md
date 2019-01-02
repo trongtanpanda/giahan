@@ -1,9 +1,9 @@
 ---
-title: 'Công tắc cảm úng mạ vàng'
+title: 'Công tắc cảm ứng mạ vàng'
 media_order: VANG_CN_DEN_2_ngang_1.JPG
 price: 2.255.000₫
-state: 'Còn Hàng'
 thumbnail: VANG_CN_DEN_2_ngang_1.JPG
+state: 'Còn Hàng'
 content:
     items:
         '@taxonomy':
@@ -15,7 +15,9 @@ content:
 taxonomy:
     category:
         - sanpham
+googledesc: 'là loại công tắc cảm ứng thông minh sử dụng công nghệ cảm ứng điện dung, công nghệ không dây Zigbee, mặt kính cường lực, chống xước, chống va đập, kết hợp với vòng tròn tỏa sáng LED bao quanh tạo nên sự tinh tế, sang trọng, đẳng cấp'
 twittercardoptions: summary
+twitterdescription: 'là loại công tắc cảm ứng thông minh sử dụng công nghệ cảm ứng điện dung, công nghệ không dây Zigbee, mặt kính cường lực, chống xước, chống va đập, kết hợp với vòng tròn tỏa sáng LED bao quanh tạo nên sự tinh tế, sang trọng, đẳng cấp'
 articleenabled: false
 musiceventenabled: false
 orgaenabled: false
@@ -28,23 +30,43 @@ restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
     priceRange: $
+facebookdesc: 'là loại công tắc cảm ứng thông minh sử dụng công nghệ cảm ứng điện dung, công nghệ không dây Zigbee, mặt kính cường lực, chống xước, chống va đập, kết hợp với vòng tròn tỏa sáng LED bao quanh tạo nên sự tinh tế, sang trọng, đẳng cấp'
 ---
 
-<p>M&ocirc; tả: l&agrave; loại c&ocirc;ng tắc cảm ứng th&ocirc;ng minh sử dụng c&ocirc;ng nghệ cảm ứng điện dung, c&ocirc;ng nghệ kh&ocirc;ng d&acirc;y Zigbee, mặt k&iacute;nh cường lực, chống xước, chống va đập, kết hợp với v&ograve;ng tr&ograve;n tỏa s&aacute;ng LED bao quanh tạo n&ecirc;n sự tinh tế, sang trọng, đẳng cấp</p>
-<p>Điện &aacute;p: 150 - 250 VAC</p>
-<p>Nhiệt độ hoạt động: 0 - 40&ordm;C max</p>
-<p>C&ocirc;ng suất: 700w(Đ&egrave;n sợi đốt)-150w(Đ&egrave;n led)/1 n&uacute;t</p>
-<p>K&iacute;ch thước: H&igrave;nh vu&ocirc;ng (95 x 95 mm) - H&igrave;nh chữ nhật (121,5 x 80 mm)</p>
-<p>C&Ocirc;NG TẮC CẢM ỨNG VIỀN NH&Ocirc;M MẠ V&Agrave;NG</p>
-<p>THIẾT KẾ TINH TẾ, HIỆN ĐẠI, ĐẲNG CẤP SANG TRỌNG:</p>
-<p>L&agrave; loại c&ocirc;ng tắc cảm ứng th&ocirc;ng minh sử dụng c&ocirc;ng nghệ cảm ứng điện dung, mặt k&iacute;nh cường lực, chống xước, chống va đập tốt, kết hợp với v&ograve;ng tr&ograve;n tỏa s&aacute;ng LED bao quanh tạo n&ecirc;n sự l&ocirc;i cuốn, tinh tế v&agrave; sang trọng.</p>
-<p><em>Với Relay bật tắt l&ecirc;n đến 100.000 ngh&igrave;n lần, tuổi thọ của c&ocirc;ng tắc cảm ứng th&ocirc;ng minh c&oacute; thể l&ecirc;n đến 20 năm&nbsp;</em></p>
-<p><em>Đặc biệt, với giải ph&aacute;p nhận dạng giọng n&oacute;i của Lumi, c&ograve;n cho ph&eacute;p bạn điều khiển hệ thống c&aacute;c thiết bị trong ng&ocirc;i nh&agrave; bằng ch&iacute;nh &ldquo;giọng n&oacute;i quyền năng&rdquo; của m&igrave;nh. V&iacute; dụ: khi bạn n&oacute;i c&acirc;u lệnh&ldquo;OK LUMI, VỀ NH&Agrave;&rdquo;&nbsp;tất cả c&aacute;c thiết bị trong ng&ocirc;i nh&agrave; sẽ ho&agrave;n to&agrave;n bật/tắt, t&ugrave;y theo c&acirc;u lệnh.</em></p>
-<p><em>Giải ph&aacute;p an to&agrave;n v&igrave; hạn chế tiếp x&uacute;c điện, th&acirc;n thiện, dễ sử dụng đối với người cao tuổi, nh&agrave; th&ocirc;ng minh điều khiển bằng giọng n&oacute;i đang l&agrave; sự lựa chọn l&yacute; tưởng cho mọi gia đ&igrave;nh Việt</em></p>
-<h5><em>Ưu điểm nổi bật của c&ocirc;ng tắc điện cảm ứng Lumi:</em></h5>
-<p>Đế &acirc;m tường c&ocirc;ng tắc cảm ứng của Lumi ho&agrave;n to&agrave;n th&iacute;ch hợp được với đế &acirc;m tường nh&agrave; bạn c&oacute; sẵn. V&igrave; vậy, thời gian thi c&ocirc;ng nhanh (chỉ từ 1 &ndash; 3 ng&agrave;y bất kể c&ocirc;ng tr&igrave;nh mới hay cũ, kh&ocirc;ng phải đục đẽo tường ). Đặc biệt, sản phẩm của Lumi Việt Nam để nguồn cấp từ &nbsp;110V &ndash; 240V rất ph&ugrave; hợp với hệ thống lưới điện tại Việt Nam, v&igrave; nguồn cấp cho hệ thống điện nh&agrave; bạn kh&ocirc;ng phải khi n&agrave;o cũng ở mức ổn định 220V. Điều đ&oacute; sẽ gi&uacute;p c&aacute;c thiết bị điện nh&agrave; bạn tr&aacute;nh được những hư hỏng khi nguồn cấp kh&ocirc;ng ổn định.</p>
-<p><em>C&ocirc;ng tắc viền nh&ocirc;m nguy&ecirc;n khối mạ v&agrave;ng m&agrave;u đen/trắng, phi&ecirc;n bản h&igrave;nh chữ nhật</em></p>
-<p>Bằng điện thoại, bạn c&oacute; thể điều khiển được hệ thống thiết bị điện trong ng&ocirc;i nh&agrave; d&ugrave; ở bất cứ đ&acirc;u. Ngo&agrave;i ra, bạn c&oacute; thể c&agrave;i đặt hoạt cảnh như &ldquo;về nh&agrave;&rdquo;, trước khi rời khỏi cơ quan, chỉ cần chạm nhẹ tr&ecirc;n smartphone &ldquo;về nh&agrave;&rdquo; l&agrave; một hệ thống bao gồm: đ&egrave;n chiếu s&aacute;ng &nbsp;r&egrave;m cửa, b&igrave;nh n&oacute;ng lạnh, điều h&ograve;a &hellip; đ&atilde; sẵn s&agrave;ng ch&agrave;o đ&oacute;n bạn. Đặc biệt, v&ograve;ng tr&ograve;n Led tỏa s&aacute;ng gi&uacute;p bạn sẽ thấy ngay c&ocirc;ng tắc đ&egrave;n m&agrave; kh&ocirc;ng cần l&ograve; d&ograve; trong b&oacute;ng tối t&igrave;m c&ocirc;ng tắc đ&egrave;n như những sản phẩm th&ocirc;ng thường kh&aacute;c.</p>
-<p><em>C&ocirc;ng tắc 4 nốt, cho ph&eacute;p bạn kết nối tối thiểu l&agrave; 4 thiết bị v&agrave; tối đa l&agrave; 10 thiết bị điện (nếu bạn thiết lập hoạt cảnh)</em></p>
-<p>Với gần 25.000 ng&ocirc;i nh&agrave; đ&atilde; ho&agrave;n thiện, h&agrave;ng chục dự &aacute;n đang triển khai v&agrave; k&yacute; kết hợp đồng, Lumi tự h&agrave;o trở th&agrave;nh thương hiệu Việt được kh&aacute;ch h&agrave;ng lựa chọn nhiều nhất trong thị trường nh&agrave; th&ocirc;ng minh tại Việt Nam. Chỉ từ 25 &ndash; 70 triệu/căn hộ hoặc 40 &ndash; 150 triệu/biệt thự liền kề l&agrave; bạn đ&atilde; sở hữu ngay ng&ocirc;i nh&agrave; tiện nghi, hiện đại, sang trọng, đẳng cấp Ch&acirc;u &Acirc;u, gi&aacute; chỉ bằng 1/2 giải ph&aacute;p nhập khẩu tr&ecirc;n thị trường.</p>
-<p>H&atilde;y li&ecirc;n hệ ngay với ch&uacute;ng t&ocirc;i theo số hotline 0968.333.268 - 0935.333.268&nbsp; để trở th&agrave;nh người tiếp theo sở hữu c&ocirc;ng nghệ th&ocirc;ng minh v&agrave; tận hưởng trọn vẹn cuộc sống tiện nghi, hiện đại của giải ph&aacute;p nh&agrave; th&ocirc;ng minh Lumi Việt Nam mang đến.</p>
+**Mô tả**: là loại công tắc cảm ứng thông minh sử dụng công nghệ cảm ứng điện dung, công nghệ không dây Zigbee, mặt kính cường lực, chống xước, chống va đập, kết hợp với vòng tròn tỏa sáng LED bao quanh tạo nên sự tinh tế, sang trọng, đẳng cấp
+
+**Điện áp**: 150 - 250 VAC
+
+**Nhiệt độ hoạt động**: 0 - 40ºC max
+
+**Công suấ**t: 700w(Đèn sợi đốt)-150w(Đèn led)/1 nút
+
+**Kích thước**: Hình vuông (95 x 95 mm) - Hình chữ nhật (121,5 x 80 mm)
+
+## CÔNG TẮC CẢM ỨNG VIỀN NHÔM MẠ VÀNG
+
+![CÔNG TẮC CẢM ỨNG VIỀN NHÔM MẠ VÀNG](VANG_CN_DEN_2_ngang_1.JPG)
+
+**THIẾT KẾ TINH TẾ, HIỆN ĐẠI, ĐẲNG CẤP SANG TRỌNG:**
+
+Là loại công tắc cảm ứng thông minh sử dụng công nghệ cảm ứng điện dung, mặt kính cường lực, chống xước, chống va đập tốt, kết hợp với vòng tròn tỏa sáng LED bao quanh tạo nên sự lôi cuốn, tinh tế và sang trọng.
+
+Với Relay bật tắt lên đến 100.000 nghìn lần, tuổi thọ của công tắc cảm ứng thông minh có thể lên đến 20 năm 
+
+Đặc biệt, với giải pháp nhận dạng giọng nói của Lumi, còn cho phép bạn điều khiển hệ thống các thiết bị trong ngôi nhà bằng chính “giọng nói quyền năng” của mình. Ví dụ: khi bạn nói câu lệnh“OK LUMI, VỀ NHÀ” tất cả các thiết bị trong ngôi nhà sẽ hoàn toàn bật/tắt, tùy theo câu lệnh.
+
+Giải pháp an toàn vì hạn chế tiếp xúc điện, thân thiện, dễ sử dụng đối với người cao tuổi, nhà thông minh điều khiển bằng giọng nói đang là sự lựa chọn lý tưởng cho mọi gia đình Việt
+
+**Ưu điểm nổi bật của công tắc điện cảm ứng Lumi:**
+
+Đế âm tường công tắc cảm ứng của Lumi hoàn toàn thích hợp được với đế âm tường nhà bạn có sẵn. Vì vậy, thời gian thi công nhanh (chỉ từ 1 – 3 ngày bất kể công trình mới hay cũ, không phải đục đẽo tường ). Đặc biệt, sản phẩm của Lumi Việt Nam để nguồn cấp từ  110V – 240V rất phù hợp với hệ thống lưới điện tại Việt Nam, vì nguồn cấp cho hệ thống điện nhà bạn không phải khi nào cũng ở mức ổn định 220V. Điều đó sẽ giúp các thiết bị điện nhà bạn tránh được những hư hỏng khi nguồn cấp không ổn định.
+
+## Công tắc viền nhôm nguyên khối mạ vàng màu đen/trắng, phiên bản hình chữ nhật
+
+Bằng điện thoại, bạn có thể điều khiển được hệ thống thiết bị điện trong ngôi nhà dù ở bất cứ đâu. Ngoài ra, bạn có thể cài đặt hoạt cảnh như “về nhà”, trước khi rời khỏi cơ quan, chỉ cần chạm nhẹ trên smartphone “về nhà” là một hệ thống bao gồm: đèn chiếu sáng  rèm cửa, bình nóng lạnh, điều hòa … đã sẵn sàng chào đón bạn. Đặc biệt, vòng tròn Led tỏa sáng giúp bạn sẽ thấy ngay công tắc đèn mà không cần lò dò trong bóng tối tìm công tắc đèn như những sản phẩm thông thường khác.
+
+Công tắc 4 nốt, cho phép bạn kết nối tối thiểu là 4 thiết bị và tối đa là 10 thiết bị điện (nếu bạn thiết lập hoạt cảnh)
+
+Với gần 25.000 ngôi nhà đã hoàn thiện, hàng chục dự án đang triển khai và ký kết hợp đồng, Lumi tự hào trở thành thương hiệu Việt được khách hàng lựa chọn nhiều nhất trong thị trường nhà thông minh tại Việt Nam. Chỉ từ 25 – 70 triệu/căn hộ hoặc 40 – 150 triệu/biệt thự liền kề là bạn đã sở hữu ngay ngôi nhà tiện nghi, hiện đại, sang trọng, đẳng cấp Châu Âu, giá chỉ bằng 1/2 giải pháp nhập khẩu trên thị trường.
+
+Hãy liên hệ ngay với chúng tôi theo số hotline 0968.333.268 - 0935.333.268  để trở thành người tiếp theo sở hữu công nghệ thông minh và tận hưởng trọn vẹn cuộc sống tiện nghi, hiện đại của giải pháp nhà thông minh Lumi Việt Nam mang đến.

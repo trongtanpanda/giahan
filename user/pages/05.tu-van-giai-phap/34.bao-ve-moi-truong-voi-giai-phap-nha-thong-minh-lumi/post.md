@@ -30,7 +30,7 @@ Môi trường đang là vấn đề nóng trên toàn cầu. Vì thế, bảo v
 ![](image5.png)
 _Giải pháp nhà thông minh Lumi bảo vệ môi trường_
 
-**Tiết kiệm năng lượng**
+## Tiết kiệm năng lượng
 
 Giải pháp nhà thông minh Lumi giúp quý khách hàng có thể tiết kiệm năng lượng một cách tối ưu nhất. Cụ thể như sau:
 
@@ -40,7 +40,7 @@ Hơn thế nữa, trong việc sử dụng điều hòa, nếu nhiệt độ tro
 
 Trong trường hợp nếu không may ra khỏi nhà nhưng bạn quên tắt các thiết bị điện đang hoạt động thì bạn có thể kiểm soát và tắt nó dù đang ở bất kỳ nơi đâu. Chính vì thế, lượng điện năng tiêu thụ trong ngôi nhà không bao giờ bị lãng phí và được sử dụng một cách tối ưu nhất.
 
-**Sử dụng những nguồn năng lượng sạch từ thiên nhiên**
+## Sử dụng những nguồn năng lượng sạch từ thiên nhiên
 
 Bên cạnh việc tiết kiệm điện năng tiêu thụ và hạn chế xả chất độc hại ra môi trường thì giải pháp nhà thông minh Lumi còn giúp quý khách hàng sử dụng những nguồn năng lượng sạch từ thiên nhiên, bảo vệ môi trường một cách tối ưu nhất.
 

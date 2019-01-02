@@ -27,7 +27,7 @@ facebookdesc: 'Sau đây chúng ta cùng điểm qua các trợ lí ảo đang l
 
 Sau đây chúng ta cùng điểm qua các trợ lí ảo đang làm mưa làm gió tại thị trường trong nước.liệu có thực sự mê hoặc được cán tín đồ công nghệ.Thị trường nhà thông minh Việt Nam đang phát triển đến mức chóng mặt và hứa hẹn sẽ bùng nổ con số 45 triệu đô này sẽ sớm tăng lên **gấp 10 lần chỉ trong vài năm nữa**. Hầu như tất cả các hãng nhà thông minh hàng đầu thế giới đều đã xuất hiện tại Việt Nam với những sản phẩm tiên phong của mình, ví dụ như Apple với loa thông minh **Homepod, Google với Home Mini**..., các hãng lớn mạnh này gây sức ép không nhỏ đến các thương hiệu Việt. **Bkav Smarthome và Lumi Việt Nam** - những đơn vị đi đầu  trong lĩnh vực nhà thông minh được đánh giá là mạnh mẽ nhất thị trường quốc nội buộc phải có những bước đi tương tự để khẳng định vị thế.
 
-**1. Apple Homepod - Trợ lý ảo Siri: thương hiệu Apple đã quá gần gũi và không xa lạ với bất kì ai ở việt nam, kể từ các đời IPhone 4 trở lên đều trang bị hệ thống trợ lí áo Siri**
+## 1. Apple Homepod - Trợ lý ảo Siri: thương hiệu Apple đã quá gần gũi và không xa lạ với bất kì ai ở việt nam, kể từ các đời IPhone 4 trở lên đều trang bị hệ thống trợ lí áo Siri
 
 **Điểm mạnh**: Chất lượng âm thanh tốt nhất, thiết kế tinh tế, nhận diện giọng nói cực nhạy.
 
@@ -42,7 +42,7 @@ _Các trợ lí ảo đang hỗ trợ nhà thông minh tại Việt Nam_
 
 Hiện tại, Homepod đang được các doanh nghiệp tư nhân nhập khẩu và bán ở thị trường Việt Nam với giá khoảng 8 đến hơn 9 triệu đồng tùy phiên bản màu trắng hay màu đen.
 
-**2. Google Home Mini - Trợ lý ảo Google Assistant:**
+## 2. Google Home Mini - Trợ lý ảo Google Assistant:
 
 **Điểm mạnh**: Mức giá rẻ hấp dẫn nhất thị trường nhưng tính năng vẫn đa dạng phong phú.
 
@@ -57,7 +57,7 @@ Khi tung ra sản phẩm Home Mini có lẽ Google đã muốn bao trọn cả t
 
 Hơn thế nữa, Google Home Mini cũng có thể kết hợp với Chromecast để phát phim ảnh qua TV, hay hỗ trợ kích hoạt các dịch vụ như Netflix. Với cái giá hấp dẫn và tính năng tuyệt vời như thế này thì các tín đồ Android đông đảo trên thế giới sẽ không ngần ngại trang bị ngay một chú Google Home Mini để trải nghiệm công nghệ.
 
-**3. Echo Dot - Trợ lý ảo Alexa:Thiết bị này cũng được ứng dụng tích hợp vào nền tảng trợ lí ảo của lumi khi loa MILO chưa được đi vào hoạt động**
+## 3. Echo Dot - Trợ lý ảo Alexa:Thiết bị này cũng được ứng dụng tích hợp vào nền tảng trợ lí ảo của lumi khi loa MILO chưa được đi vào hoạt động
 
 **Điểm mạnh**: Trợ lý ảo Alexa thông minh, nhiều kỹ năng phong phú đa dạng nhất thị trường.
 
@@ -72,7 +72,7 @@ Tính đến tháng 1 năm 2018, có đến hơn 31 triệu thiết bị Echo đ
 
 Hiện tại, Echo Dot thế hệ 2 có giá chỉ tầm 1 triệu 2 trăm nghìn tại thị trường Việt Nam. Một cái giá quá hời để người dùng Việt được trải nghiệm nhà thông minh đẳng cấp quốc tế.
 
-**4. Lumi Milo - Trợ lý ảo Google Assistant:**
+## 4. Lumi Milo - Trợ lý ảo Google Assistant:
 
 **Điểm mạnh**: Phá vỡ rào cản ngôn ngữ, tương tác tiếng Việt hoàn toàn với mức độ hoàn thiện sản phẩm cao sản phẩm đầu tay do người Việt chế tạo trợ lí ảo.
 

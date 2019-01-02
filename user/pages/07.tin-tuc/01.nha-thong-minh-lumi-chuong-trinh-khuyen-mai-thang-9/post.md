@@ -59,8 +59,10 @@ Nhà thông minh Lumi ngôi nhà dành cho người Việt
 
 Hội tụ đủ yếu tốt về kinh tế, kỹ thuật, công nghệ cùng nhiều tiện nghi khác mà giải pháp nhà thông minh lumi mang lại. Lumi Việt Nam đã khẳng định vị trí của mình trong thị trường nhà thông minh trên thế giới nói chung và Việt Nam nói riêng. Nhờ vậy càng ngày càng có nhiều ngôi nhà thông minh được lắp đặt trên khắp đất nước với hơn 25.000 công trình đã lắp đặt và sử dụng. Vậy còn chờ gì nữa mà không liên hệ với chúng tôi để có được ngôi nhà thông minh cho riêng mình.
 
-Để biết thêm thông tin chi tiết về sản phẩm xin vui lòng liên hệ 0968.333.268 - 0935.333.268 để đươc tư vấn hỗ trợ hoặc liên hệ:
+ĐHãy liên hệ với Gia Hân để sở hữu giải pháp nhà thông minh Lumi và tận hưởng trọn vẹn cuộc sống tiện nghi đẳng cấp ngay hôm nay.
 
- Địa chỉ: Số 304 Nguyễn Đình Tựu, Q.Thanh Khê, TP. Đà Nẵng
- Hotline: 0968.333.268 - 0935.333.268
- Email: GiahanGroup2018@gmail.com
+Địa chỉ: Số 304 Nguyễn Đình Tựu, Q.Thanh Khê, TP. Đà Nẵng
+
+Hotline: 0968.333.268 - 0935.333.268
+
+Email: [GiahanGroup2018@gmail.com](mailto:GiahanGroup2018@gmail.com)

@@ -27,7 +27,7 @@ Giải pháp nhà thông minh là mạng lưới kết hợp giữa hệ thống
 
 ![](image13.png)
 
-**Cách quản lý hệ thống điện nhà thông minh**
+## Cách quản lý hệ thống điện nhà thông minh
 
 Để quản lý tốt hoạt động của nhà thông minh, bạn cần nắm bắt các bộ phận cơ bản cấu hình nên giải pháp này. Một hệ thống điện thông minh thường bao gồm các thiết bị: 
 - Một bộ điều khiển trung tâm có nhiệm vụ kết nối và điều khiển toàn bộ hệ thống điện. Đây được xem như bộ não của ngôi nhà. 
@@ -47,7 +47,7 @@ _Chọn mua thiết bị điện chất lượng từ thương hiệu uy tín_
 
 Để việc quản lý hệ thống điện nhà thông minh đảm bảo an toàn, bạn cần cẩn trọng ngay trong khâu mua thiết bị. Chỉ nên mua các thiết bị điện dễ lắp đặt, không cần phải đi dây lại hay đục khoét tường để tránh ảnh hưởng đến cấu trúc ngôi nhà. Nên chọn mua các thiết bị tích hợp công nghệ không dây Zigbee để đảm bảo sóng ổn định và độ phủ rộng. Đặc biệt, các thiết bị điện giá rẻ thường hoạt động không tốt nên hãy chọn các sản phẩm xuất xứ uy tín với mức giá hợp lý. Đừng ham rẻ mà lựa chọn các sản phẩm kém chất lượng tránh tình trạng xảy ra hiện tượng chập chờn, đơ hay thậm chí là cháy nổ. 
 
-**Gia Hân group - đơn vị thi công lắp đặt hệ thống điện nhà thông minh uy tín**
+## Gia Hân group - đơn vị thi công lắp đặt hệ thống điện nhà thông minh uy tín
 
 Hiện nay trên thị trường, có khoảng hơn 50 thương hiệu smarthome tuy nhiễn không phải sản phẩm nào cũng đảm bảo đủ 3 yếu tố cần và đủ bao gồm chất lượng tốt, dễ dàng lắp đặt và an toàn khi sử dụng. Theo khảo sát từ hơn 1000 khách hàng, Lumi đang là thương hiệu nhà thông minh đáp ứng tốt nhất các tiêu chí đó. 
 

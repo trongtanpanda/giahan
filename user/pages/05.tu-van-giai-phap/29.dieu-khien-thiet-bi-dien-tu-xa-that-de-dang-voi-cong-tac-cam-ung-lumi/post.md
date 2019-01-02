@@ -27,26 +27,26 @@ Bạn đã chán ngấy cái cảnh phải chạy lòng vòng từ tầng này s
 
 ![](image20.png)
 
-**Công tắc cảm ứng Lumi - người đồng hành tin cậy**
+## Công tắc cảm ứng Lumi - người đồng hành tin cậy
 
-**Hiểu bạn cần gì**
+### Hiểu bạn cần gì
 Cuộc sống hiện đại đem lại tiện ích vượt trội cho cuộc sống con người. Công tắc cảm ứng chính là thiết bị mang đến sự tiện nghi ấy. Hãy tưởng tượng, ngay khi bạn đặt chân về nhà, đèn bật sáng, điều hòa đã mát lạnh, bình nóng lạnh đã sẵn sàng phục vụ. Chỉ cần cài đặt ứng dụng SmartHome của Lumi vào điện thoại, bạn sẽ dễ dàng điều khiển mọi hoạt động của tất cả thiết bị điện trong nhà chỉ với một nút chạm. Hệ thống công tắc cảm ứng kết nối với ứng dụng smarthome sẽ ngay lập tức nhận lệnh và hoạt động theo ý muốn của bạn. 
 
 ![](image14.png)
 _Công tắc cảm ứng Lumi - một chạm vạn tiện ích_
 
-**Khẳng định đẳng cấp ngôi nhà**
+### Khẳng định đẳng cấp ngôi nhà
 Công tắc cảm ứng Lumi là dòng thiết bị điện thông minh ghi điểm cả về chất lượng lẫn thiết kế. Kiểu dáng siêu mỏng với lớp kính cường lực và vòng tròn đèn LED sang trọng sẽ mang đến vẻ đẹp tinh tế cho ngôi nhà bạn. Hãy xem công tắc cảm ứng như món đồ trang trí xinh đẹp cho khoảng tường nhà bạn thêm sinh động. 
 
 ![](image6.png)
 _Công tắc điện Lumi với thiết kế tinh tế như món đồ trang trí trong nhà_
 
-**An tâm mỗi khi vắng nhà**
+### An tâm mỗi khi vắng nhà
 
 Bề mặt công tắc cảm ứng được bảo vệ bởi lớp kính cường lực cách điện, cách nhiệt an toàn cả khi tay ướt nên rất phù hợp với gia đình có người lớn tuổi và trẻ nhỏ.
 Khác với các loại công tắc thường, công tắc cảm ứng tích hợp điều khiển từ xa. Nếu bạn ra ngoài mà lỡ quên bật/tắt đèn hay bất cứ thiết bị nào trong nhà, bạn chỉ cần mở ứng dụng smarthome trên điện thoại và thao tác là xong. Đặc biệt cơ chế tự động ngắt khi dòng điện quá tải hay xuất hiện tình trạng cháy nổ sẽ đảm bảo an toàn cho cả gia đình bạn.
 
-**Sở hữu công tắc điện cảm ứng Lumi chỉ với 10 triệu đồng**
+### Sở hữu công tắc điện cảm ứng Lumi chỉ với 10 triệu đồng
 
 Với những tính năng và ưu điểm vượt trội, công tắc cảm ứng đã trở thành một bộ phận không thể thiếu cho giải pháp nhà thông minh hiện nay. Hiểu được vai trò đó, Lumi Việt Nam đã nghiên cứu và phát triển các thiết bị điện thông minh chất lượng và phù hợp với túi tiền của người Việt. Với Lumi, việc sở hữu các thiết bị điện thông minh như công tắc cảm ứng không còn là ước mơ. Chỉ cần bỏ ra một khoản chi phí 10 triệu đồng, bạn đã có thể sử dụng gói các thiết bị bao gồm:
 

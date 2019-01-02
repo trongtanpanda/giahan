@@ -15,7 +15,9 @@ content:
 taxonomy:
     category:
         - sanpham
+googledesc: 'Là bộ não của ngôi nhà thông minh, tích hợp công nghệ truyền thông không dây Zigbee cho phép: Kết nối và quản lý các thiết bị điện, lưu trữ các thông tin cấu hình cài đặt của người dùng, cập nhật trạng thái các thiết bị cho người sử dụng'
 twittercardoptions: summary
+twitterdescription: 'Là bộ não của ngôi nhà thông minh, tích hợp công nghệ truyền thông không dây Zigbee cho phép: Kết nối và quản lý các thiết bị điện, lưu trữ các thông tin cấu hình cài đặt của người dùng, cập nhật trạng thái các thiết bị cho người sử dụng'
 articleenabled: false
 musiceventenabled: false
 orgaenabled: false
@@ -28,6 +30,7 @@ restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
     priceRange: $
+facebookdesc: 'Là bộ não của ngôi nhà thông minh, tích hợp công nghệ truyền thông không dây Zigbee cho phép: Kết nối và quản lý các thiết bị điện, lưu trữ các thông tin cấu hình cài đặt của người dùng, cập nhật trạng thái các thiết bị cho người sử dụng'
 ---
 
 **Mô tả:** Là bộ não của ngôi nhà thông minh, tích hợp công nghệ truyền thông không dây Zigbee cho phép: Kết nối và quản lý các thiết bị điện, lưu trữ các thông tin cấu hình cài đặt của người dùng, cập nhật trạng thái các thiết bị cho người sử dụng

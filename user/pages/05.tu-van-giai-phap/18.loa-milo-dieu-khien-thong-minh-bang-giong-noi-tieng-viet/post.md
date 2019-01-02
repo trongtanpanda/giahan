@@ -3,8 +3,10 @@ title: 'Loa Milo - điều khiển thông minh bằng giọng nói tiếng Việ
 media_order: 'loa_milo_1.jpg,chac_nAng_loa_milo.png,loa_milo.png'
 thumbnail: loa_milo.png
 description: 'Loa Milo - thiết bị điều khiển thông minh bằng giọng nói tiếng Việt linh hoạt và tiện lợi.'
-twittercardoptions: summary
 visible: false
+googledesc: 'Loa Milo - thiết bị điều khiển thông minh bằng giọng nói tiếng Việt linh hoạt và tiện lợi.'
+twittercardoptions: summary
+twitterdescription: 'Loa Milo - thiết bị điều khiển thông minh bằng giọng nói tiếng Việt linh hoạt và tiện lợi.'
 articleenabled: false
 musiceventenabled: false
 orgaenabled: false
@@ -17,22 +19,44 @@ restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
     priceRange: $
+facebookdesc: 'Loa Milo - thiết bị điều khiển thông minh bằng giọng nói tiếng Việt linh hoạt và tiện lợi.'
 ---
 
-<p><strong>Thấu hiểu v&agrave; tương t&aacute;c với mọi mong muốn của gia chủ l&agrave; c&aacute;ch m&agrave; nh&agrave; th&ocirc;ng minh Lumi chinh phục mọi kh&aacute;ch h&agrave;ng. Trong đ&oacute;, một trong những tiện &iacute;ch h&agrave;ng đầu l&agrave;m n&ecirc;n kh&ocirc;ng gian sống hiện đại ưu việt của Lumi phải kể đến loa Milo - thiết bị điều khiển th&ocirc;ng minh bằng giọng n&oacute;i tiếng Việt linh hoạt v&agrave; tiện lợi.</strong></p>
-<p style="text-align: center;"><strong><img src="/newv1/tu-van-giai-phap/loa-milo-dieu-khien-thong-minh-bang-giong-noi-tieng-viet/loa_milo.png" alt="" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </strong><em>loa MILO-điều khiển th&ocirc;ng minh bằng giọng n&oacute;i tiếng Việt</em></p>
-<p><strong>Điều khiển th&ocirc;ng minh bằng giọng n&oacute;i tiếng Việt</strong></p>
-<p>Milo l&agrave; một chiếc loa c&oacute; thể điều khiển v&agrave; kiểm so&aacute;t hoạt động c&aacute;c thiết bị điện trong nh&agrave; bằng giọng n&oacute;i. Từ hệ thống đ&egrave;n chiếu s&aacute;ng, tivi, điều h&ograve;a, b&igrave;nh n&oacute;ng lạnh, r&egrave;m cửa...., bạn c&oacute; thể dễ d&agrave;ng ra lệnh chi bằng những c&acirc;u thoại đơn giản.&nbsp;<br />Điểm đặc biệt của loa Milo l&agrave; d&ugrave; bạn sử dụng giọng n&oacute;i miền Bắc, Trung hay Nam th&igrave; n&oacute; vẫn c&oacute; thể hiểu v&agrave; thực hiện đ&uacute;ng theo mọi y&ecirc;u cầu nhờ ứng dụng AI. Ứng dụng n&agrave;y đang tiếp tục được ph&aacute;t triển v&agrave; trong tương lai, AI c&oacute; thể ghi nhớ v&agrave; tự động thực hiện những c&acirc;u n&oacute;i tự nhi&ecirc;n nhất của người d&ugrave;ng. Bắt đầu từ những c&acirc;u thoại đơn giản &ldquo;OK LUMI&rdquo;, phẩm mềm b&ecirc;n trong loa Milo sẽ lắng nghe, thấu hiểu v&agrave; hoạt động đ&uacute;ng theo mệnh lệnh của bạn.</p>
-<p><strong>Tiện lợi, tiện nghi, tiện dụng</strong></p>
-<p>Trước đ&acirc;y, nếu như để điều khiển một thiết bị bất kỳ trong nh&agrave; bạn phải bật tắt c&ocirc;ng tắc hay hiện đại hơn v&agrave; c&aacute;c n&uacute;t chạm cảm ứng hay smartphone. Tuy nhi&ecirc;n, với loa Milo điều khiển th&ocirc;ng minh bằng giọng n&oacute;i tiếng Việt, bạn chẳng cần động tay cũng c&oacute; thể bật/tắt ngay c&aacute;c thiết bị. Th&ocirc;ng qua giọng n&oacute;i bằng ng&ocirc;n ngữ tiếng Việt, bạn c&oacute; thể dễ d&agrave;ng điều khiển mọi thiết bị điện trong nh&agrave; như đ&egrave;n chiếu s&aacute;ng, tivi, điều h&ograve;a, r&egrave;m cửa...một c&aacute;ch linh hoạt v&agrave; tiện lợi.</p>
-<p>H&atilde;y thử h&igrave;nh dung về một kh&ocirc;ng gian sống - nơi m&agrave; giọng n&oacute;i của bạn trở n&ecirc;n quyền năng. Chỉ cần ra lệnh "OK LUMI, BẬT Đ&Egrave;N", hệ thống đ&egrave;n chiếu s&aacute;ng sẽ ngay lập tức được bật l&ecirc;n. "OK LUMI, BẬT NHẠC", bạn sẽ thưởng thức &acirc;m nhạc theo mong muốn nhờ kết nối trực tiếp với google assistant. Hay khi bạn n&oacute;i &ldquo;OK Lumi, Ch&agrave;o buổi s&aacute;ng&rdquo;, r&egrave;m sẽ tự động mở để đ&oacute;n ch&agrave;o &aacute;nh s&aacute;ng b&igrave;nh minh.&nbsp;<br />B&ecirc;n cạnh khả năng điều khiển th&ocirc;ng minh bằng giọng n&oacute;i tiếng Việt cho c&aacute;c thiết bị trong nh&agrave;, Lumi c&ograve;n t&iacute;ch hợp nhiều chức năng kh&aacute;c như ph&aacute;t nhạc theo y&ecirc;u cầu, tạo lịch, k&iacute;ch hoạt cảnh lịch hay kiểm tra trạng th&aacute;i thiết bị trong nh&agrave;. x<img src="/newv1/tu-van-giai-phap/loa-milo-dieu-khien-thong-minh-bang-giong-noi-tieng-viet/chac_nAng_loa_milo.png" alt="" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<em>Loa Milo đa chức năng</em></p>
-<p>Loa th&ocirc;ng minh MILO thực sự l&agrave; &ldquo;người trợ l&yacute;&rdquo; đắc lực gi&uacute;p bạn l&agrave;m chủ ng&ocirc;i nh&agrave; của m&igrave;nh, đặc biệt l&agrave; trong những l&uacute;c kh&ocirc;ng rảnh tay như đang nấu nướng, nghỉ ngơi hay bận bịu c&ocirc;ng việc kh&aacute;c. Chỉ bằng v&agrave;i c&acirc;u lệnh đơn giản, mọi thiết bị sẽ &ldquo;v&acirc;ng lời&rdquo; theo &yacute; muốn của bạn. Milo gi&uacute;p bạn thể hiện giọng n&oacute;i &ldquo;quyền năng&rdquo; trong ch&iacute;nh ng&ocirc;i nh&agrave; của m&igrave;nh.</p>
-<p><strong>Thiết kế hiện đại tinh tế</strong></p>
-<p>Kh&ocirc;ng chỉ đa dạng về chức năng, loa th&ocirc;ng minh Milo c&ograve;n ghi điểm bởi thiết kế hiện đại v&agrave; tinh tế. Thiết kế h&igrave;nh trụ nhỏ tương tự Apple HomePod được bọc vải xung quanh khung nh&ocirc;m. B&ecirc;n tr&ecirc;n l&agrave; c&aacute;c ph&iacute;m cảm ứng tr&ecirc;n mặt k&iacute;nh cường lực cho ph&eacute;p thực hiện c&aacute;c chức năng điều khiển thay đổi hoạt cảnh c&aacute;c thiết bị trong nh&agrave;, tạo lịch hoạt động, bật tắt nhạc, tăng giảm &acirc;m lượng,&hellip;</p>
-<p>Với hai m&agrave;u đen n&acirc;u sang trọng, th&acirc;n bọc vải v&agrave; viền nh&ocirc;m, Milo mang một vẻ đẹp đơn giản hiện đại m&agrave; kh&ocirc;ng k&eacute;m phần trang nh&atilde;. Bạn c&oacute; thể đặt n&oacute; bất cứ đ&acirc;u như một m&oacute;n trang tr&iacute; nhỏ xinh cho kh&ocirc;ng gian ng&ocirc;i nh&agrave;.</p>
-<p>&nbsp;</p>
-<p><img src="/newv1/tu-van-giai-phap/loa-milo-dieu-khien-thong-minh-bang-giong-noi-tieng-viet/loa_milo_1.jpg" alt="" /></p>
-<p><em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Thiết kế đơn giản tinh tế từ loa th&ocirc;ng minh Milo</em></p>
-<p>Nếu bạn đang c&oacute; nhu cầu sở hữu một chiếc loa Milo th&ocirc;ng minh hay tư vấn thiết kế lắp đặt nh&agrave; th&ocirc;ng minh Lumi, h&atilde;y đến với Gia H&acirc;n để trải nghiệm sản phẩm v&agrave; chất lượng dịch vụ h&agrave;ng đầu.&nbsp;<br />C&aacute;c thiết bị th&ocirc;ng minh đều nhận được chứng chỉ CE (ti&ecirc;u chuẩn xuất khẩu sang c&aacute;c nước Ch&acirc;u &Acirc;u) v&agrave; chứng chỉ UL. Hiện nay, sản phẩm đ&atilde; v&agrave; đang được ph&acirc;n phối rộng r&atilde;i tại nhiều nước tr&ecirc;n thế giới như Ấn Độ, Australia, Th&aacute;i Lan, L&agrave;o, Campuchia &hellip;</p>
-<p>Giải ph&aacute;p nh&agrave; th&ocirc;ng minh Lumi, từ loa Milo - điều khiển th&ocirc;ng minh bằng giọng n&oacute;i tiếng Việt cho đến hệ thống chiếu s&aacute;ng tự động, an ninh chống trộm, kiểm so&aacute;t m&ocirc;i trường...đ&atilde; mang lại sự tiện &iacute;ch vượt trội cho kh&aacute;ch h&agrave;ng với mức gi&aacute; chỉ bằng 1/3 so với c&aacute;c giải ph&aacute;p tương tự tr&ecirc;n thị trường. Sự t&iacute;n nhiệm của c&aacute;c đối t&aacute;c v&agrave; kh&aacute;ch h&agrave;ng đang sử dụng sản phẩm cộp m&aacute;c Lumi l&agrave; bằng chứng thuyết phục nhất về khả năng, chất lượng v&agrave; t&iacute;nh ứng dụng của giải ph&aacute;p nh&agrave; th&ocirc;ng minh Lumi. &nbsp;</p>
-<p>H&atilde;y li&ecirc;n hệ ngay với Gia H&acirc;n để sở hữu loa Milo -&nbsp;<strong>điều khiển th&ocirc;ng minh bằng giọng n&oacute;i tiếng Việt&nbsp;</strong>c&ugrave;ng c&aacute;c giải ph&aacute;p smarthome hiện đại, tiện lợi nhất hiện nay.</p>
+**Thấu hiểu và tương tác với mọi mong muốn của gia chủ là cách mà nhà thông minh Lumi chinh phục mọi khách hàng. Trong đó, một trong những tiện ích hàng đầu làm nên không gian sống hiện đại ưu việt của Lumi phải kể đến loa Milo - thiết bị điều khiển thông minh bằng giọng nói tiếng Việt linh hoạt và tiện lợi.**
+
+![loa MILO-điều khiển thông minh bằng giọng nói tiếng Việt](loa_milo.png)
+_loa MILO-điều khiển thông minh bằng giọng nói tiếng Việt_
+
+## Điều khiển thông minh bằng giọng nói tiếng Việt
+
+Milo là một chiếc loa có thể điều khiển và kiểm soát hoạt động các thiết bị điện trong nhà bằng giọng nói. Từ hệ thống đèn chiếu sáng, tivi, điều hòa, bình nóng lạnh, rèm cửa...., bạn có thể dễ dàng ra lệnh chi bằng những câu thoại đơn giản. 
+Điểm đặc biệt của loa Milo là dù bạn sử dụng giọng nói miền Bắc, Trung hay Nam thì nó vẫn có thể hiểu và thực hiện đúng theo mọi yêu cầu nhờ ứng dụng AI. Ứng dụng này đang tiếp tục được phát triển và trong tương lai, AI có thể ghi nhớ và tự động thực hiện những câu nói tự nhiên nhất của người dùng. Bắt đầu từ những câu thoại đơn giản “OK LUMI”, phẩm mềm bên trong loa Milo sẽ lắng nghe, thấu hiểu và hoạt động đúng theo mệnh lệnh của bạn.
+
+## Tiện lợi, tiện nghi, tiện dụng
+
+Trước đây, nếu như để điều khiển một thiết bị bất kỳ trong nhà bạn phải bật tắt công tắc hay hiện đại hơn và các nút chạm cảm ứng hay smartphone. Tuy nhiên, với loa Milo điều khiển thông minh bằng giọng nói tiếng Việt, bạn chẳng cần động tay cũng có thể bật/tắt ngay các thiết bị. Thông qua giọng nói bằng ngôn ngữ tiếng Việt, bạn có thể dễ dàng điều khiển mọi thiết bị điện trong nhà như đèn chiếu sáng, tivi, điều hòa, rèm cửa...một cách linh hoạt và tiện lợi.
+
+Hãy thử hình dung về một không gian sống - nơi mà giọng nói của bạn trở nên quyền năng. Chỉ cần ra lệnh "OK LUMI, BẬT ĐÈN", hệ thống đèn chiếu sáng sẽ ngay lập tức được bật lên. "OK LUMI, BẬT NHẠC", bạn sẽ thưởng thức âm nhạc theo mong muốn nhờ kết nối trực tiếp với google assistant. Hay khi bạn nói “OK Lumi, Chào buổi sáng”, rèm sẽ tự động mở để đón chào ánh sáng bình minh. 
+Bên cạnh khả năng điều khiển thông minh bằng giọng nói tiếng Việt cho các thiết bị trong nhà, Lumi còn tích hợp nhiều chức năng khác như phát nhạc theo yêu cầu, tạo lịch, kích hoạt cảnh lịch hay kiểm tra trạng thái thiết bị trong nhà. 
+
+![Loa Milo đa chức năng](chac_nAng_loa_milo.png)
+_Loa Milo đa chức năng_
+
+Loa thông minh MILO thực sự là “người trợ lý” đắc lực giúp bạn làm chủ ngôi nhà của mình, đặc biệt là trong những lúc không rảnh tay như đang nấu nướng, nghỉ ngơi hay bận bịu công việc khác. Chỉ bằng vài câu lệnh đơn giản, mọi thiết bị sẽ “vâng lời” theo ý muốn của bạn. Milo giúp bạn thể hiện giọng nói “quyền năng” trong chính ngôi nhà của mình.
+
+## Thiết kế hiện đại tinh tế
+
+Không chỉ đa dạng về chức năng, loa thông minh Milo còn ghi điểm bởi thiết kế hiện đại và tinh tế. Thiết kế hình trụ nhỏ tương tự Apple HomePod được bọc vải xung quanh khung nhôm. Bên trên là các phím cảm ứng trên mặt kính cường lực cho phép thực hiện các chức năng điều khiển thay đổi hoạt cảnh các thiết bị trong nhà, tạo lịch hoạt động, bật tắt nhạc, tăng giảm âm lượng,…
+
+Với hai màu đen nâu sang trọng, thân bọc vải và viền nhôm, Milo mang một vẻ đẹp đơn giản hiện đại mà không kém phần trang nhã. Bạn có thể đặt nó bất cứ đâu như một món trang trí nhỏ xinh cho không gian ngôi nhà.
+
+![Thiết kế đơn giản tinh tế từ loa thông minh Milo](loa_milo_1.jpg)
+_Thiết kế đơn giản tinh tế từ loa thông minh Milo_
+
+Nếu bạn đang có nhu cầu sở hữu một chiếc loa Milo thông minh hay tư vấn thiết kế lắp đặt nhà thông minh Lumi, hãy đến với Gia Hân để trải nghiệm sản phẩm và chất lượng dịch vụ hàng đầu. 
+Các thiết bị thông minh đều nhận được chứng chỉ CE (tiêu chuẩn xuất khẩu sang các nước Châu Âu) và chứng chỉ UL. Hiện nay, sản phẩm đã và đang được phân phối rộng rãi tại nhiều nước trên thế giới như Ấn Độ, Australia, Thái Lan, Lào, Campuchia …
+
+Giải pháp nhà thông minh Lumi, từ loa Milo - điều khiển thông minh bằng giọng nói tiếng Việt cho đến hệ thống chiếu sáng tự động, an ninh chống trộm, kiểm soát môi trường...đã mang lại sự tiện ích vượt trội cho khách hàng với mức giá chỉ bằng 1/3 so với các giải pháp tương tự trên thị trường. Sự tín nhiệm của các đối tác và khách hàng đang sử dụng sản phẩm cộp mác Lumi là bằng chứng thuyết phục nhất về khả năng, chất lượng và tính ứng dụng của giải pháp nhà thông minh Lumi.  
+
+Hãy liên hệ ngay với Gia Hân để sở hữu loa Milo - điều khiển thông minh bằng giọng nói tiếng Việt cùng các giải pháp smarthome hiện đại, tiện lợi nhất hiện nay.
+

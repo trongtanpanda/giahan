@@ -2,9 +2,11 @@
 title: 'Làm chủ ánh sáng với giải pháp chiếu sáng thông minh LUMI'
 media_order: 'Aiau_khian_chiau_sAng_thAng_minh_1.png,chiau_sAng_thAng_minh_1.png'
 thumbnail: Aiau_khian_chiau_sAng_thAng_minh_1.png
-description: ' Lumi xây dựng hệ thống tiện ích đồng bộ giúp cuộc sống trở nên tiện nghi và thoải mái hơn. Đặc biệt với giải pháp chiếu sáng thông minh, bạn sẽ dễ dàng điều khiển và kiểm soát hệ thống đèn chiếu sáng trong nhà chỉ bằng một cú chạm'
-twittercardoptions: summary
+description: 'Lumi xây dựng hệ thống tiện ích đồng bộ giúp cuộc sống trở nên tiện nghi và thoải mái hơn. Đặc biệt với giải pháp chiếu sáng thông minh, bạn sẽ dễ dàng điều khiển và kiểm soát hệ thống đèn chiếu sáng trong nhà chỉ bằng một cú chạm.'
 visible: false
+googledesc: 'Lumi xây dựng hệ thống tiện ích đồng bộ giúp cuộc sống trở nên tiện nghi và thoải mái hơn. Đặc biệt với giải pháp chiếu sáng thông minh, bạn sẽ dễ dàng điều khiển và kiểm soát hệ thống đèn chiếu sáng trong nhà chỉ bằng một cú chạm.'
+twittercardoptions: summary
+twitterdescription: 'Lumi xây dựng hệ thống tiện ích đồng bộ giúp cuộc sống trở nên tiện nghi và thoải mái hơn. Đặc biệt với giải pháp chiếu sáng thông minh, bạn sẽ dễ dàng điều khiển và kiểm soát hệ thống đèn chiếu sáng trong nhà chỉ bằng một cú chạm.'
 articleenabled: false
 musiceventenabled: false
 orgaenabled: false
@@ -17,19 +19,42 @@ restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
     priceRange: $
+facebookdesc: 'Lumi xây dựng hệ thống tiện ích đồng bộ giúp cuộc sống trở nên tiện nghi và thoải mái hơn. Đặc biệt với giải pháp chiếu sáng thông minh, bạn sẽ dễ dàng điều khiển và kiểm soát hệ thống đèn chiếu sáng trong nhà chỉ bằng một cú chạm.'
 ---
 
-<p><strong>Ti&ecirc;n phong trong lĩnh vực smarthome, Lumi x&acirc;y dựng hệ thống tiện &iacute;ch đồng bộ gi&uacute;p cuộc sống trở n&ecirc;n tiện nghi v&agrave; thoải m&aacute;i hơn. Đặc biệt với giải ph&aacute;p chiếu s&aacute;ng th&ocirc;ng minh, bạn sẽ dễ d&agrave;ng điều khiển v&agrave; kiểm so&aacute;t hệ thống đ&egrave;n chiếu s&aacute;ng trong nh&agrave; chỉ bằng một c&uacute; chạm. Cuộc sống sẽ trở n&ecirc;n th&uacute; vị hơn khi bạn c&oacute; thể l&agrave;m chủ mọi thứ trong ng&ocirc;i nh&agrave; theo &yacute; muốn</strong></p>
-<p><strong><img src="/newv1/tu-van-giai-phap/lam-chu-anh-sang-voi-giai-phap-chieu-sang-thong-minh-lumi/chiau_sAng_thAng_minh_1.png" alt="" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong>&nbsp;<em>giải</em><strong>&nbsp;</strong><em>ph&aacute;p chiếu s&aacute;ng th&ocirc;ng minh Lumi</em></p>
-<p><strong>Điều khiển đa năng bằng smartphone v&agrave; c&ocirc;ng tắc chạm cảm ứng</strong></p>
-<p>Giải ph&aacute;p chiếu s&aacute;ng th&ocirc;ng minh mang lại cho chủ nh&agrave; nhiều sự tiện lợi khi điều khiển linh động tr&ecirc;n smartphone v&agrave; bằng giọng n&oacute;i.</p>
-<p>Chỉ cần c&oacute; một chiếc smartphone kết nối internet, bạn ho&agrave;n to&agrave;n c&oacute; thể điều khiển v&agrave; kiểm s&aacute;t hệ thống đ&egrave;n chiếu s&aacute;ng trong nh&agrave; bất cứ l&uacute;c n&agrave;o. Bạn sẽ kh&ocirc;ng phải lăn tăn khi đi ra ngo&agrave;i m&agrave; kh&ocirc;ng nhớ đ&egrave;n đ&atilde; tắt hay chưa. Bởi to&agrave;n bộ th&ocirc;ng tin, trạng th&aacute;i, độ s&aacute;ng của từng thiết bị đều được hiển thị tr&ecirc;n điện thoại. Bạn chỉ cần mở điện thoại để kiểm tra thay v&igrave; ngồi lo lắng hay x&oacute;t xa tiền điện như trước đ&acirc;y.<br />Ngo&agrave;i điều khiển bằng smartphone, Lumi c&ograve;n t&iacute;ch hợp điều khiển giọng n&oacute;i bằng c&ocirc;ng nghệ truyền th&ocirc;ng Zigbee v&agrave; cảm ứng điện dung. V&ograve;ng tr&ograve;n tỏa s&aacute;ng led gi&uacute;p bạn nhận biết nhanh trạng th&aacute;i đang bật/tắt của c&ocirc;ng tắc v&agrave; rất an to&agrave;n kể cả khi tay ướt chạm v&agrave;o.</p>
-<p><strong>Cảm biến chuyển động</strong></p>
-<p>Cảm biến chuyển động l&agrave; một trong những tiện &iacute;ch nổi bật của giải ph&aacute;p chiếu s&aacute;ng th&ocirc;ng minh Lumi. Với thiết bị cảm biến hồng ngoại, hệ thống đ&egrave;n trong nh&agrave; sẽ tự động bật khi c&oacute; chuyển động. V&ugrave;ng cảm biến n&agrave;y hoạt động theo cơ chế, khi ph&aacute;t hiện c&oacute; người di chuyển, đ&egrave;n sẽ tự động bật v&agrave; sau một khoảng thời gian c&agrave;i đặt kể từ khi kh&ocirc;ng ph&aacute;t hiện chuyển động n&agrave;o, đ&egrave;n lại auto tắt.&nbsp;<br />Ngo&agrave;i ra, Lumi c&ograve;n c&oacute; chức năng cảm biến mở cửa. Đ&egrave;n sẽ tự động s&aacute;ng khi cửa được mở ra v&agrave; tắt khi cửa đ&oacute;ng. Cơ chế n&agrave;y gi&uacute;p &aacute;nh s&aacute;ng được điều chỉnh một c&aacute;ch linh hoạt m&agrave; bạn kh&ocirc;ng cần phải động tay.</p>
-<p><strong>Chức năng hẹn giờ chiếu s&aacute;ng</strong></p>
-<p>Cũng như c&aacute;c tiện &iacute;ch kh&aacute;ch trong hệ thống giải ph&aacute;p nh&agrave; th&ocirc;ng minh Lumi, đ&egrave;n chiếu s&aacute;ng cũng tự hoạt động theo thời gian bạn c&agrave;i đặt. Bạn c&oacute; thể thiết lập c&aacute;c khung giờ bật/tắt một hoặc nhiều thiết bị chiếu s&aacute;ng v&agrave; để n&oacute; tự vận h&agrave;nh ch&iacute;nh x&aacute;c.&nbsp;<br />Đ&acirc;y l&agrave; một chức năng thực sự gi&aacute; trị, bạn c&oacute; thể tiết kiệm được một khoản chi ph&iacute; chiếu s&aacute;ng kha kh&aacute; v&igrave; kh&ocirc;ng lo qu&ecirc;n tắt b&oacute;ng đ&egrave;n khi đi ra ngo&agrave;i hay ngủ sớm. Đặc biệt, chức năng n&agrave;y c&agrave;ng ph&aacute;t huy t&aacute;c dụng tại c&aacute;c khu vực cần được chiếu s&aacute;ng thường xuy&ecirc;n trong một khung giờ cố định trong ng&agrave;y. V&iacute; dụ: đ&egrave;n cổng nh&agrave; tự động bật l&ecirc;n l&uacute;c 6h tối v&agrave; auto tắt v&agrave;o 11h đ&ecirc;m.</p>
-<p><strong>Gia H&acirc;n - đơn vị cung cấp giải ph&aacute;p chiếu s&aacute;ng th&ocirc;ng minh Lumi h&agrave;ng đầu Việt Nam</strong></p>
-<p><em>Cuộc sống của bạn sẽ tiện lợi hơn nhiều khi hệ thống đ&egrave;n chiếu s&aacute;ng trong nh&agrave; được điều khiển, kiểm so&aacute;t d&ugrave; ở bất cứ nơi đ&acirc;u. Với giải ph&aacute;p chiếu s&aacute;ng th&ocirc;ng minh Lumi, bạn c&oacute; thể bật/tắt hệ thống chiếu s&aacute;ng tr&ecirc;n smartphone hay m&aacute;y t&iacute;nh khi được kết nối Internet, 3G/4G, điều khiển bằng giọng n&oacute;i tiếng Việt hay c&ocirc;ng tắc chạm cảm ứng. Ngo&agrave;i ra, đ&egrave;n h&agrave;nh lang, cầu thang, cửa... sẽ tự động bật khi c&oacute; người di chuyển v&agrave; tắt khi kh&ocirc;ng c&oacute; người</em></p>
-<p><em><img src="/newv1/tu-van-giai-phap/lam-chu-anh-sang-voi-giai-phap-chieu-sang-thong-minh-lumi/Aiau_khian_chiau_sAng_thAng_minh_1.png" alt="" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</em><em>Điều khiển chiếu s&aacute;ng th&ocirc;ng minh Lumi</em></p>
-<p>Giải ph&aacute;p chiếu s&aacute;ng Lumi đi k&egrave;m bộ sản phẩm k&egrave;m theo bao gồm: c&ocirc;ng tắc cảm ứng viền mạ v&agrave;ng, c&ocirc;ng tắc cảm ứng viền nh&ocirc;m, cảm biến cửa, cảm biến ph&aacute;t hiện chuyển động.</p>
-<p>Ngo&agrave;i ra, Lumi c&ograve;n ph&aacute;t triển đồng bộ c&aacute;c giải ph&aacute;p th&ocirc;ng minh kh&aacute;c cho ng&ocirc;i nh&agrave; như: Milo - giọng n&oacute;i Tiếng Việt, chiếu s&aacute;ng th&ocirc;ng minh, điều h&ograve;a TV th&ocirc;ng minh, &acirc;m thanh đa v&ugrave;ng, Led 16 triệu m&agrave;u, bật/tắt b&igrave;nh n&oacute;ng lạnh, r&egrave;m cửa tự động, an ninh chống trộm, kiểm so&aacute;t m&ocirc;i trường.&nbsp;<br />Tại Gia H&acirc;n, tất cả c&aacute;c sản phẩm đều đạt chuẩn CE ti&ecirc;u chuẩn xuất khẩu ch&acirc;u &Acirc;u v&agrave; UL &ndash; bo mạch phần cứng đạt chuẩn quốc tế được xuất khẩu rộng r&atilde;i tr&ecirc;n 104 quốc gia tr&ecirc;n thế giới. &nbsp;<strong>&nbsp;</strong>Đặc biệt, Gia H&acirc;n c&oacute; đội ngũ kỹ thuật nhiều năm kinh nghiệm lu&ocirc;n sẵn s&agrave;ng triển khai c&aacute;c hệ thống nh&agrave; th&ocirc;ng minh, hệ thống thiết bị an ninh rộng khắp. Thiết kế sang trọng, tinh tế 80% kh&aacute;ch h&agrave;ng lựa chọn Lumi v&igrave; thiết kế của c&aacute;c sản phẩm.&nbsp;<br />Nếu bạn đang t&igrave;m kiếm một tiện &iacute;ch tuyệt vời cho cuộc sống hiện đại, h&atilde;y cập nhật&nbsp;<strong>giải ph&aacute;p chiếu s&aacute;ng th&ocirc;ng minh</strong>&nbsp;Lumi cho gia đ&igrave;nh m&igrave;nh ngay h&ocirc;m nay.</p>
+**Tiên phong trong lĩnh vực smarthome, Lumi xây dựng hệ thống tiện ích đồng bộ giúp cuộc sống trở nên tiện nghi và thoải mái hơn. Đặc biệt với giải pháp chiếu sáng thông minh, bạn sẽ dễ dàng điều khiển và kiểm soát hệ thống đèn chiếu sáng trong nhà chỉ bằng một cú chạm. Cuộc sống sẽ trở nên thú vị hơn khi bạn có thể làm chủ mọi thứ trong ngôi nhà theo ý muốn.**
+
+![giải pháp chiếu sáng thông minh Lumi](chiau_sAng_thAng_minh_1.png)
+_Giải pháp chiếu sáng thông minh Lumi_
+
+## Điều khiển đa năng bằng smartphone và công tắc chạm cảm ứng
+
+Giải pháp chiếu sáng thông minh mang lại cho chủ nhà nhiều sự tiện lợi khi điều khiển linh động trên smartphone và bằng giọng nói.
+
+Chỉ cần có một chiếc smartphone kết nối internet, bạn hoàn toàn có thể điều khiển và kiểm sát hệ thống đèn chiếu sáng trong nhà bất cứ lúc nào. Bạn sẽ không phải lăn tăn khi đi ra ngoài mà không nhớ đèn đã tắt hay chưa. Bởi toàn bộ thông tin, trạng thái, độ sáng của từng thiết bị đều được hiển thị trên điện thoại. Bạn chỉ cần mở điện thoại để kiểm tra thay vì ngồi lo lắng hay xót xa tiền điện như trước đây.
+Ngoài điều khiển bằng smartphone, Lumi còn tích hợp điều khiển giọng nói bằng công nghệ truyền thông Zigbee và cảm ứng điện dung. Vòng tròn tỏa sáng led giúp bạn nhận biết nhanh trạng thái đang bật/tắt của công tắc và rất an toàn kể cả khi tay ướt chạm vào.
+
+## Cảm biến chuyển động
+
+Cảm biến chuyển động là một trong những tiện ích nổi bật của giải pháp chiếu sáng thông minh Lumi. Với thiết bị cảm biến hồng ngoại, hệ thống đèn trong nhà sẽ tự động bật khi có chuyển động. Vùng cảm biến này hoạt động theo cơ chế, khi phát hiện có người di chuyển, đèn sẽ tự động bật và sau một khoảng thời gian cài đặt kể từ khi không phát hiện chuyển động nào, đèn lại auto tắt. 
+Ngoài ra, Lumi còn có chức năng cảm biến mở cửa. Đèn sẽ tự động sáng khi cửa được mở ra và tắt khi cửa đóng. Cơ chế này giúp ánh sáng được điều chỉnh một cách linh hoạt mà bạn không cần phải động tay.
+
+## Chức năng hẹn giờ chiếu sáng
+
+Cũng như các tiện ích khách trong hệ thống giải pháp nhà thông minh Lumi, đèn chiếu sáng cũng tự hoạt động theo thời gian bạn cài đặt. Bạn có thể thiết lập các khung giờ bật/tắt một hoặc nhiều thiết bị chiếu sáng và để nó tự vận hành chính xác. 
+Đây là một chức năng thực sự giá trị, bạn có thể tiết kiệm được một khoản chi phí chiếu sáng kha khá vì không lo quên tắt bóng đèn khi đi ra ngoài hay ngủ sớm. Đặc biệt, chức năng này càng phát huy tác dụng tại các khu vực cần được chiếu sáng thường xuyên trong một khung giờ cố định trong ngày. Ví dụ: đèn cổng nhà tự động bật lên lúc 6h tối và auto tắt vào 11h đêm.
+
+## Gia Hân - đơn vị cung cấp giải pháp chiếu sáng thông minh Lumi hàng đầu Việt Nam
+
+Cuộc sống của bạn sẽ tiện lợi hơn nhiều khi hệ thống đèn chiếu sáng trong nhà được điều khiển, kiểm soát dù ở bất cứ nơi đâu. Với giải pháp chiếu sáng thông minh Lumi, bạn có thể bật/tắt hệ thống chiếu sáng trên smartphone hay máy tính khi được kết nối Internet, 3G/4G, điều khiển bằng giọng nói tiếng Việt hay công tắc chạm cảm ứng. Ngoài ra, đèn hành lang, cầu thang, cửa... sẽ tự động bật khi có người di chuyển và tắt khi không có người.
+
+![Điều khiển chiếu sáng thông minh Lumi](Aiau_khian_chiau_sAng_thAng_minh_1.png)
+_Điều khiển chiếu sáng thông minh Lumi_
+
+Giải pháp chiếu sáng Lumi đi kèm bộ sản phẩm kèm theo bao gồm: công tắc cảm ứng viền mạ vàng, công tắc cảm ứng viền nhôm, cảm biến cửa, cảm biến phát hiện chuyển động.
+
+Ngoài ra, Lumi còn phát triển đồng bộ các giải pháp thông minh khác cho ngôi nhà như: Milo - giọng nói Tiếng Việt, chiếu sáng thông minh, điều hòa TV thông minh, âm thanh đa vùng, Led 16 triệu màu, bật/tắt bình nóng lạnh, rèm cửa tự động, an ninh chống trộm, kiểm soát môi trường. 
+Tại Gia Hân, tất cả các sản phẩm đều đạt chuẩn CE tiêu chuẩn xuất khẩu châu Âu và UL – bo mạch phần cứng đạt chuẩn quốc tế được xuất khẩu rộng rãi trên 104 quốc gia trên thế giới.   Đặc biệt, Gia Hân có đội ngũ kỹ thuật nhiều năm kinh nghiệm luôn sẵn sàng triển khai các hệ thống nhà thông minh, hệ thống thiết bị an ninh rộng khắp. Thiết kế sang trọng, tinh tế 80% khách hàng lựa chọn Lumi vì thiết kế của các sản phẩm. 
+Nếu bạn đang tìm kiếm một tiện ích tuyệt vời cho cuộc sống hiện đại, hãy cập nhật giải pháp chiếu sáng thông minh Lumi cho gia đình mình ngay hôm nay.
+
+

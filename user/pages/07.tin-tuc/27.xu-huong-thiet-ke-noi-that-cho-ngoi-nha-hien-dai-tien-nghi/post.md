@@ -6,8 +6,10 @@ description: "Bạn đang muốn thiết kế lại ngôi nhà theo hướng hi�
 taxonomy:
     category:
         - tintuc
-twittercardoptions: summary
 visible: false
+googledesc: "Bạn đang muốn thiết kế lại ngôi nhà theo hướng hiện đại hơn nhưng vẫn chưa nghĩ ra ý tưởng gì? Bài viết này\_sẽ đưa ra những xu hướng thiết kế nội thất\_ngôi nhà mang đến cho bạn một không gian có tính tiện lợi cao mà vẫn không kém phần tinh tế."
+twittercardoptions: summary
+twitterdescription: "Bạn đang muốn thiết kế lại ngôi nhà theo hướng hiện đại hơn nhưng vẫn chưa nghĩ ra ý tưởng gì? Bài viết này\_sẽ đưa ra những xu hướng thiết kế nội thất\_ngôi nhà mang đến cho bạn một không gian có tính tiện lợi cao mà vẫn không kém phần tinh tế."
 articleenabled: false
 musiceventenabled: false
 orgaenabled: false
@@ -20,37 +22,39 @@ restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
     priceRange: $
+facebookdesc: "Bạn đang muốn thiết kế lại ngôi nhà theo hướng hiện đại hơn nhưng vẫn chưa nghĩ ra ý tưởng gì? Bài viết này\_sẽ đưa ra những xu hướng thiết kế nội thất\_ngôi nhà mang đến cho bạn một không gian có tính tiện lợi cao mà vẫn không kém phần tinh tế."
 ---
 
 Bạn đang muốn thiết kế lại ngôi nhà theo hướng hiện đại hơn nhưng vẫn chưa nghĩ ra ý tưởng gì? Bài viết này sẽ đưa ra những xu hướng thiết kế nội thất ngôi nhà mang đến cho bạn một không gian có tính tiện lợi cao mà vẫn không kém phần tinh tế.
 
-Hãy tham khảo nhé!
+**Hãy tham khảo nhé!**
 
+![Xu hướng thiết kế nội thất cho ngôi nhà hiện đại, tiện nghi](anh_1_1.jpg)
 
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/newv1/tin-tuc/xu-huong-thiet-ke-noi-that-cho-ngoi-nha-hien-dai-tien-nghi/anh_1_1.jpg" alt="" /></p>
-<p><strong>Giấy d&aacute;n tường</strong></p>
-<p>Mặc d&ugrave; giấy d&aacute;n tường l&agrave; sự lựa chọn kh&ocirc;ng c&ograve;n mới mẻ hay độc đ&aacute;o để trang tr&iacute; nh&agrave;. Tuy nhi&ecirc;n nhờ ưu điểm như chi ph&iacute; thấp, tiện dụng nhưng vẫn đảm bảo về mặt thẩm mỹ cho ng&ocirc;i nh&agrave;. N&ecirc;n xu hướng n&agrave;y vẫn đang được rất nhiều người y&ecirc;u th&iacute;ch. B&ecirc;n cạnh đ&oacute;, giấy d&aacute;n tường hiện nay rất đa dạng về chủng loại, m&agrave;u sắc cũng như mẫu m&atilde; ch&iacute;nh v&igrave; vậy t&ugrave;y thuộc v&agrave;o nhu cầu, sở th&iacute;ch của gia chủ m&agrave; c&oacute; những lựa chọn ph&ugrave; hợp hơn.</p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/newv1/tin-tuc/xu-huong-thiet-ke-noi-that-cho-ngoi-nha-hien-dai-tien-nghi/anh_2_1_1.jpg" alt="" /></p>
-<p><strong>Hướng về thi&ecirc;n nhi&ecirc;n</strong></p>
-<p>Bằng c&aacute;ch đặt một v&agrave;i c&acirc;y cảnh trong nh&agrave; kh&ocirc;ng những l&agrave;m ng&ocirc;i nh&agrave; của bạn mới mẻ hơn m&agrave; c&ograve;n đem lại cảm gi&aacute;c gần gũi với thi&ecirc;n nhi&ecirc;n. Ngo&agrave;i ra, đối với những căn hộ c&oacute; ph&ograve;ng ngủ hay ph&ograve;ng kh&aacute;ch hướng ra b&ecirc;n ngo&agrave;i th&igrave; việc lắp những &ocirc; cửa k&iacute;nh trong suốt sẽ l&agrave;m cho căn ph&ograve;ng trở n&ecirc;n tho&aacute;ng m&aacute;t hơn. Gia chủ c&oacute; thể thư giản bằng việc vừa nh&acirc;m nhi một t&aacute;ch tr&agrave; vừa ngắm quan cảnh b&ecirc;n ngo&agrave;i, cảm gi&aacute;c sẽ v&ocirc; c&ugrave;ng thư th&aacute;i.</p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/newv1/tin-tuc/xu-huong-thiet-ke-noi-that-cho-ngoi-nha-hien-dai-tien-nghi/anh_3_1_1.jpg" alt="" /></p>
-<p><strong>Nh&agrave; th&ocirc;ng minh</strong></p>
-<p>Nh&agrave; th&ocirc;ng minh thật sự đang trở th&agrave;nh một xu hướng mới trong c&aacute;c gia đ&igrave;nh Việt. Bằng c&aacute;ch lắp đặt c&aacute;c thiết bị điện th&ocirc;ng minh cho ng&ocirc;i nh&agrave; của bạn, việc điều khiển, gi&aacute;m s&aacute;t, quản l&yacute; mọi hoạt động của ng&ocirc;i nh&agrave; sẽ trở n&ecirc;n dễ d&agrave;ng hơn bao giờ hết. B&ecirc;n cạnh đ&oacute;, bạn c&oacute; thể thoải m&aacute;i đi c&ocirc;ng t&aacute;c xa, đi du lịch nước ngo&agrave;i m&agrave; vẫn c&oacute; thể quan s&aacute;t ng&ocirc;i nh&agrave; với giải ph&aacute;p an ninh th&ocirc;ng qua c&aacute;c thiết bị di động.</p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/newv1/tin-tuc/xu-huong-thiet-ke-noi-that-cho-ngoi-nha-hien-dai-tien-nghi/anh_4_1.jpg" alt="" /></p>
-<p>Hơn nữa, c&aacute;c t&iacute;nh năng của nh&agrave; th&ocirc;ng minh kh&ocirc;ng chỉ dừng lại ở việc điều khiển qua smartphone m&agrave; c&ograve;n c&oacute; thể điều khiển bằng giọng n&oacute;i. Đ&acirc;y cũng ch&iacute;nh l&agrave; l&yacute; do tại sao m&agrave; xu hướng n&agrave;y đang rất thịnh h&agrave;nh</p>
-<div class="col-sm-9 post_content">
-<div>
-<div>
-<div>Mọi chi tiết xin li&ecirc;n hệ :</div>
-<div>
-<div class="foo-content foo-contact demo">
-<ul class="list-menu">
-<li>&nbsp;<span class="foo-detail foo-address">Số 304 Nguyễn Đ&igrave;nh Tựu, Q.Thanh Kh&ecirc;&nbsp;<br />TP. Đ&agrave; Nẵng</span></li>
-<li>&nbsp;<span class="foo-detail"><a href="tel:0968333268">0968.333.268</a>&nbsp;-&nbsp;<a href="tel:0935333268">0935.333.268</a></span></li>
-<li>&nbsp;<span class="foo-detail"><a href="mailto:GiahanGroup2018@gmail.com">GiahanGroup2018@gmail.com</a></span></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
+## Giấy dán tường
+
+Mặc dù giấy dán tường là sự lựa chọn không còn mới mẻ hay độc đáo để trang trí nhà. Tuy nhiên nhờ ưu điểm như chi phí thấp, tiện dụng nhưng vẫn đảm bảo về mặt thẩm mỹ cho ngôi nhà. Nên xu hướng này vẫn đang được rất nhiều người yêu thích. Bên cạnh đó, giấy dán tường hiện nay rất đa dạng về chủng loại, màu sắc cũng như mẫu mã chính vì vậy tùy thuộc vào nhu cầu, sở thích của gia chủ mà có những lựa chọn phù hợp hơn.
+
+![Giấy dán tường](anh_2_1_1.jpg)
+
+## Hướng về thiên nhiên
+
+Bằng cách đặt một vài cây cảnh trong nhà không những làm ngôi nhà của bạn mới mẻ hơn mà còn đem lại cảm giác gần gũi với thiên nhiên. Ngoài ra, đối với những căn hộ có phòng ngủ hay phòng khách hướng ra bên ngoài thì việc lắp những ô cửa kính trong suốt sẽ làm cho căn phòng trở nên thoáng mát hơn. Gia chủ có thể thư giản bằng việc vừa nhâm nhi một tách trà vừa ngắm quan cảnh bên ngoài, cảm giác sẽ vô cùng thư thái.
+
+![Hướng về thiên nhiên](anh_3_1_1.jpg)
+
+## Nhà thông minh
+
+Nhà thông minh thật sự đang trở thành một xu hướng mới trong các gia đình Việt. Bằng cách lắp đặt các thiết bị điện thông minh cho ngôi nhà của bạn, việc điều khiển, giám sát, quản lý mọi hoạt động của ngôi nhà sẽ trở nên dễ dàng hơn bao giờ hết. Bên cạnh đó, bạn có thể thoải mái đi công tác xa, đi du lịch nước ngoài mà vẫn có thể quan sát ngôi nhà với giải pháp an ninh thông qua các thiết bị di động.
+
+![Nhà thông minh](anh_4_1.jpg)
+
+Hơn nữa, các tính năng của nhà thông minh không chỉ dừng lại ở việc điều khiển qua smartphone mà còn có thể điều khiển bằng giọng nói. Đây cũng chính là lý do tại sao mà xu hướng này đang rất thịnh hành.
+
+Hãy liên hệ với Gia Hân để sở hữu giải pháp nhà thông minh Lumi và tận hưởng trọn vẹn cuộc sống tiện nghi đẳng cấp ngay hôm nay.
+
+Địa chỉ: Số 304 Nguyễn Đình Tựu, Q.Thanh Khê, TP. Đà Nẵng
+
+Hotline: 0968.333.268 - 0935.333.268
+
+Email: [GiahanGroup2018@gmail.com](mailto:GiahanGroup2018@gmail.com)

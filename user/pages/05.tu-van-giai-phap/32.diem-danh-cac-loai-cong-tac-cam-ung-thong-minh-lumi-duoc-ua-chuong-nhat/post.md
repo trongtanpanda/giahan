@@ -29,7 +29,7 @@ facebookdesc: '“Một chạm, vạn tiện nghi”, đó là slogan thể hi�
 
 ![](image8.png)
 
-**Công tắc cảm ứng thông minh là gì?**
+## Công tắc cảm ứng thông minh là gì?
 
 Công tắc cảm ứng thông minh Lumi là loại công tắc điện được trang bị các thiết bị hiện đại và có những tính năng tiện ích thông minh giúp bạn tận hưởng cuộc sống tiện nghi và sang trọng.
 
@@ -42,7 +42,7 @@ Công tắc cảm ứng thông minh Lumi còn đưa ra những lựa chọn bậ
 
 Ngoài ra, bạn có thể thay thế công tắc cơ truyền thống tại Việt Nam mà không cần đi lại bất kỳ đường dây điện nào trong nhà. Vì thế, loại công tắc tự động Lumi thích hợp với cả công trình cải tạo hoặc xây mới từ đầu do không có yêu cầu đặc biệt nào trong thi công.
 
-Các loại công tắc cảm ứng thông minh Lumi được ưa chuộng hiện nay
+## Các loại công tắc cảm ứng thông minh Lumi được ưa chuộng hiện nay
 
 (hình minh họa - đang chờ bổ sung)
 Công tắc cảm ứng viền vàng 1,2,3,4 nút

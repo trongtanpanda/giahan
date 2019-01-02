@@ -29,7 +29,7 @@ Ngôi nhà thông minh không còn là ước mơ của nhiều người với L
 
 ![](image26.png)
 
-**Giải pháp nhà thông minh là gì?**
+##Giải pháp nhà thông minh là gì?
 Nhà thông minh tích hợp hệ thống điều khiển không dây (Wifi, Zigbee, mạng LAN,..) để kết nối các thiết bị điện thông minh. Nhờ vậy, bạn có thể kiểm soát và điều khiển ngôi nhà theo ý muốn cũng như thiết lập các hoạt động cho thiết bị dựa theo kịch bản. 
 Thử tưởng tượng xem, mỗi sáng thức dậy, đèn bật sáng, âm nhạc ngân lên du dương và rèm cửa tự động mở ra chào đón ánh nắng. Khi bạn ra ngoài và lỡ quên tắt đèn hay đóng cửa phòng, chỉ cần mở điện thoại ra và bật tắt mọi thiết bị tùy ý.
 
@@ -51,7 +51,7 @@ Chỉ với 16 triệu đồng, mức giá chỉ bằng ⅓ so với thị trư�
 
 Gói giải pháp nhà thông minh bao gồm các thiết bị: bộ điều khiển trung tâm, 3 công tắc điều khiển từ xa công suất lớn, 4 mặt công tắc điều khiển từ xa 4 nút và chiết áp. Số lượng thiết bị này có thể thay đổi tùy thuộc vào nhu cầu sử dụng của từng gia đình. Lưu ý, chi phí trên chưa bao gồm công lắp đặt. 
 
-**Gia Hân group - đơn vị cung cấp và thi công giải pháp nhà thông minh Lumi uy tín**
+##Gia Hân group - đơn vị cung cấp và thi công giải pháp nhà thông minh Lumi uy tín
 
 Để sở hữu giải pháp nhà thông minh chất lượng với mức giá hợp lý, hãy liên hệ với Gia Hân để được hỗ trợ tốt nhất.
 Các sản phẩm Lumi được Gia Hân phân phối đều nhận được chứng chỉ CE – tiêu chuẩn xuất khẩu sang các nước Châu  u và chứng chỉ UL – được xuất khẩu đến 104 quốc gia trên thế giới. Các sản phẩm của Lumi đã xuất khẩu tới 6 nước trên thế giới: Ấn Độ, Australia, Thái Lan, Lào, Campuchia.

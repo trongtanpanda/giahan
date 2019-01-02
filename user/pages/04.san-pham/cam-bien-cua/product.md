@@ -15,7 +15,9 @@ content:
 taxonomy:
     category:
         - sanpham
+googledesc: 'Phát hiện đóng mở cửa trái phép, kích hoạt hệ thống các thiết bị nào như: còi hú, đèn xoáy, mở rèm, bật đèn sáng … đồng thời cảnh báo lên ứng dụng trên điện thoại hoặc máy tính bảng. Cảm biến sử dụng công nghệ không dây Zigbee - tiêu chuẩn 802.15.4 bảo mật cao. Mặt khác, cảm biến phát hiện chuyển động còn tích hợp sẵn bên trong cảm biến môi trường để đo các thông tin như: nhiệt độ, độ ẩm, ánh sáng ... giúp tạo không gian trong lành, đảm bảo sức khỏe tốt nhất cho gia đình bạn.'
 twittercardoptions: summary
+twitterdescription: 'Phát hiện đóng mở cửa trái phép, kích hoạt hệ thống các thiết bị nào như: còi hú, đèn xoáy, mở rèm, bật đèn sáng … đồng thời cảnh báo lên ứng dụng trên điện thoại hoặc máy tính bảng. Cảm biến sử dụng công nghệ không dây Zigbee - tiêu chuẩn 802.15.4 bảo mật cao. Mặt khác, cảm biến phát hiện chuyển động còn tích hợp sẵn bên trong cảm biến môi trường để đo các thông tin như: nhiệt độ, độ ẩm, ánh sáng ... giúp tạo không gian trong lành, đảm bảo sức khỏe tốt nhất cho gia đình bạn.'
 articleenabled: false
 musiceventenabled: false
 orgaenabled: false
@@ -28,22 +30,42 @@ restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
     priceRange: $
+facebookdesc: 'Phát hiện đóng mở cửa trái phép, kích hoạt hệ thống các thiết bị nào như: còi hú, đèn xoáy, mở rèm, bật đèn sáng … đồng thời cảnh báo lên ứng dụng trên điện thoại hoặc máy tính bảng. Cảm biến sử dụng công nghệ không dây Zigbee - tiêu chuẩn 802.15.4 bảo mật cao. Mặt khác, cảm biến phát hiện chuyển động còn tích hợp sẵn bên trong cảm biến môi trường để đo các thông tin như: nhiệt độ, độ ẩm, ánh sáng ... giúp tạo không gian trong lành, đảm bảo sức khỏe tốt nhất cho gia đình bạn.'
 ---
 
-<p>M&ocirc; tả: Ph&aacute;t hiện đ&oacute;ng mở cửa tr&aacute;i ph&eacute;p, k&iacute;ch hoạt hệ thống c&aacute;c thiết bị n&agrave;o như: c&ograve;i h&uacute;, đ&egrave;n xo&aacute;y, mở r&egrave;m, bật đ&egrave;n s&aacute;ng &hellip; đồng thời cảnh b&aacute;o l&ecirc;n ứng dụng tr&ecirc;n điện thoại hoặc m&aacute;y t&iacute;nh bảng. Cảm biến sử dụng c&ocirc;ng nghệ kh&ocirc;ng d&acirc;y Zigbee - ti&ecirc;u chuẩn 802.15.4 bảo mật cao. Mặt kh&aacute;c, cảm biến ph&aacute;t hiện chuyển động c&ograve;n t&iacute;ch hợp sẵn b&ecirc;n trong cảm biến m&ocirc;i trường để đo c&aacute;c th&ocirc;ng tin như: nhiệt độ, độ ẩm, &aacute;nh s&aacute;ng ... gi&uacute;p tạo kh&ocirc;ng gian trong l&agrave;nh, đảm bảo sức khỏe tốt nhất cho gia đ&igrave;nh bạn.</p>
-<p>Điện &aacute;p: Pin CR2477 - 3V<br />Nhiệt độ hoạt động: 50&ordm;C Max<br />CẢM BIẾN PH&Aacute;T HIỆN ĐỘT NHẬP</p>
-<h5>Thiết kế tinh tế, hiện đại với m&agrave;u trắng bắt mắt:</h5>
-<p>Cảm biến được thiết kế th&agrave;nh 2 phần ri&ecirc;ng biệt, được gắn tại cửa ra v&agrave;o của ng&ocirc;i nh&agrave; hay của từng ph&ograve;ng, được lắp với tối đa c&aacute;ch nhau l&agrave; 2cm. Được l&agrave;m từ chất liệu nhựa chống ch&aacute;y PP, thiết kế tinh tế, tỉ mỉ với c&aacute;c đầu v&aacute;t tr&ograve;n. Cảm biến ph&aacute;t hiện đột nhập chỉ duy nhất c&oacute; m&agrave;u trắng, thể hiện sự hiện đại, sang trọng.</p>
-<p><em>Cảm ứng ph&aacute;t hiện chuyển động của Lumi sử dụng c&ocirc;ng nghệ kh&ocirc;ng d&acirc;y Zigbee</em></p>
-<p><em>Ứng dụng:</em></p>
-<p>Được ứng dụng v&agrave;o giải ph&aacute;p an ninh th&ocirc;ng minh cho nh&agrave; ở, căn hộ chung cư, xe &ocirc; t&ocirc; &hellip; v&iacute; dụ: Khi lắp cảm biến ph&aacute;t hiện chuyển động như cửa ra v&agrave;o, bạn c&agrave;i đặt theo khung thời gian&nbsp;từ 23h &ndash; 5h s&aacute;ng, 8h &ndash; 11h v&agrave; 13h &ndash; 17h. Trong khoảng thời gian n&agrave;y, khi c&aacute;nh cửa bị mở, cảm biến ph&aacute;t hiện chuyển động ngay lập tức truyền t&iacute;n hiệu đến bộ điều khiển trung t&acirc;m HC. Tại đ&acirc;y, HC c&oacute; chức năng k&iacute;ch hoạt c&aacute;c c&ocirc;ng tắc để bật đ&egrave;n, mở r&egrave;m, c&ograve;i b&aacute;o động &hellip;</p>
-<p>Việc gửi cảnh b&aacute;o đến điện thoại v&agrave; huy động c&aacute;c thiết bị tham gia qu&aacute; tr&igrave;nh &ldquo;chống trộm&rdquo; đ&atilde; g&oacute;p phần v&agrave;o việc bảo vệ ng&ocirc;i nh&agrave; bạn trước những t&aacute;c nh&acirc;n xấu.</p>
-<p><em>C&aacute;ch thức hoạt động:</em></p>
-<p>Cảm biến ph&aacute;t hiện chuyển động sẽ gửi t&iacute;n hiệu tới bộ điều khiển trung t&acirc;m (HC) khi ph&aacute;t hiện c&oacute; sự x&acirc;m nhập tr&aacute;i ph&eacute;p. Tại đ&acirc;y, HC thực hiện chức năng gửi cảnh b&aacute;o đến điện thoại di động của bạn, đồng thời gửi th&ocirc;ng b&aacute;o đến c&ocirc;ng tắc k&iacute;ch hoạt 1 hệ thống c&aacute;c thiết bị c&ugrave;ng tham gia &ldquo;chống trộm&rdquo; như: c&ograve;i h&uacute;, r&egrave;m mở, đ&egrave;n bật s&aacute;ng &hellip;</p>
-<p>Lưu &yacute;: Để cảm biến hoạt động hiệu quả, bạn n&ecirc;n c&agrave;i đặt thời gian hoạt động cho cảm biến theo khung giờ. V&iacute; dụ: từ 23h &ndash; 5h s&aacute;ng, 8h &ndash; 11h v&agrave; 13h &ndash; 17h.</p>
-<h5><em>Đảm bảo an to&agrave;n tuyệt đối cho ng&ocirc;i nh&agrave; bạn:</em></h5>
-<p>Việc gửi cảnh b&aacute;o đến điện thoại v&agrave; huy động c&aacute;c thiết bị tham gia qu&aacute; tr&igrave;nh &ldquo;chống trộm&rdquo; đ&atilde; g&oacute;p phần v&agrave;o việc bảo vệ ng&ocirc;i nh&agrave; bạn trước những t&aacute;c nh&acirc;n xấu. Ngo&agrave;i ra, cảm biến c&ograve;n c&oacute; chức năng như cảm biến m&ocirc;i trường, c&oacute; thể đo được c&aacute;c th&ocirc;ng số như: độ ẩm, nhiệt độ, &aacute;nh s&aacute;ng m&ocirc;i trường v&agrave; b&aacute;o đến điện thoại, gi&uacute;p gia đ&igrave;nh bạn lu&ocirc;n c&oacute; m&ocirc;i trường đảm bảo sức khỏe.</p>
-<p>Sử dụng c&ocirc;ng nghệ kh&ocirc;ng d&acirc;y zigbee, ti&ecirc;u chuẩn 802.15.4 &ndash; sử dụng t&iacute;n hiệu radio c&oacute; tần s&oacute;ng ngắn, c&oacute; 2 tầng v&agrave; vận h&agrave;nh trong v&ugrave;ng bảo mật của hệ thống. N&ecirc;n trộm kh&ocirc;ng thể x&acirc;m nhập v&agrave;o hệ thống mạng kh&ocirc;ng d&acirc;y zigbee nh&agrave; bạn để mở cửa một c&aacute;ch dễ d&agrave;ng.</p>
-<p><strong><em>Lumi l&agrave; đơn vị đầu ti&ecirc;n tại Việt Nam đạt chứng chỉ CE &ndash; ti&ecirc;u chuẩn xuất khẩu sang Ch&acirc;u &Acirc;u v&agrave; chứng chỉ UL &ndash; được ph&eacute;p xuất khẩu đến 104 quốc gia tr&ecirc;n thế giới</em></strong></p>
-<p>Đến nay, với gần 25.000 ng&ocirc;i nh&agrave; đ&atilde; ho&agrave;n thiện, h&agrave;ng chục dự &aacute;n đang triển khai v&agrave; k&yacute; kết hợp đồng, Lumi tự h&agrave;o trở th&agrave;nh thương hiệu Việt được kh&aacute;ch h&agrave;ng lựa chọn nhiều nhất trong thị trường nh&agrave; th&ocirc;ng minh tại Việt Nam. An to&agrave;n, th&acirc;n thiện v&agrave; dễ sử dụng, nh&agrave; th&ocirc;ng minh Lumi đang l&agrave; sự lựa chọn l&yacute; tưởng cho mọi gia đ&igrave;nh Việt.</p>
-<p>H&atilde;y li&ecirc;n hệ ngay với ch&uacute;ng t&ocirc;i theo số hotline: 0968.333.268 - 0935.333.268&nbsp; để trở th&agrave;nh người tiếp theo sở hữu ng&ocirc;i nh&agrave; th&ocirc;ng minh, hiện đại, đẳng cấp Ch&acirc;u &Acirc;u&nbsp; made in Việt Nam với gi&aacute; chỉ từ 25 triệu.</p>
+**Mô tả**: Phát hiện đóng mở cửa trái phép, kích hoạt hệ thống các thiết bị nào như: còi hú, đèn xoáy, mở rèm, bật đèn sáng … đồng thời cảnh báo lên ứng dụng trên điện thoại hoặc máy tính bảng. Cảm biến sử dụng công nghệ không dây Zigbee - tiêu chuẩn 802.15.4 bảo mật cao. Mặt khác, cảm biến phát hiện chuyển động còn tích hợp sẵn bên trong cảm biến môi trường để đo các thông tin như: nhiệt độ, độ ẩm, ánh sáng ... giúp tạo không gian trong lành, đảm bảo sức khỏe tốt nhất cho gia đình bạn.
+
+**Điện áp**: Pin CR2477 - 3V
+
+**Nhiệt độ hoạt động**: 50ºC Max
+
+## CẢM BIẾN PHÁT HIỆN ĐỘT NHẬP
+
+### Thiết kế tinh tế, hiện đại với màu trắng bắt mắt:
+
+Cảm biến được thiết kế thành 2 phần riêng biệt, được gắn tại cửa ra vào của ngôi nhà hay của từng phòng, được lắp với tối đa cách nhau là 2cm. Được làm từ chất liệu nhựa chống cháy PP, thiết kế tinh tế, tỉ mỉ với các đầu vát tròn. Cảm biến phát hiện đột nhập chỉ duy nhất có màu trắng, thể hiện sự hiện đại, sang trọng.
+
+### Cảm ứng phát hiện chuyển động của Lumi sử dụng công nghệ không dây Zigbee
+
+**Ứng dụng:**
+
+Được ứng dụng vào giải pháp an ninh thông minh cho nhà ở, căn hộ chung cư, xe ô tô … ví dụ: Khi lắp cảm biến phát hiện chuyển động như cửa ra vào, bạn cài đặt theo khung thời gian từ 23h – 5h sáng, 8h – 11h và 13h – 17h. Trong khoảng thời gian này, khi cánh cửa bị mở, cảm biến phát hiện chuyển động ngay lập tức truyền tín hiệu đến bộ điều khiển trung tâm HC. Tại đây, HC có chức năng kích hoạt các công tắc để bật đèn, mở rèm, còi báo động …
+
+Việc gửi cảnh báo đến điện thoại và huy động các thiết bị tham gia quá trình “chống trộm” đã góp phần vào việc bảo vệ ngôi nhà bạn trước những tác nhân xấu.
+
+**Cách thức hoạt động:**
+
+Cảm biến phát hiện chuyển động sẽ gửi tín hiệu tới bộ điều khiển trung tâm (HC) khi phát hiện có sự xâm nhập trái phép. Tại đây, HC thực hiện chức năng gửi cảnh báo đến điện thoại di động của bạn, đồng thời gửi thông báo đến công tắc kích hoạt 1 hệ thống các thiết bị cùng tham gia “chống trộm” như: còi hú, rèm mở, đèn bật sáng …
+
+**Lưu ý:** Để cảm biến hoạt động hiệu quả, bạn nên cài đặt thời gian hoạt động cho cảm biến theo khung giờ. Ví dụ: từ 23h – 5h sáng, 8h – 11h và 13h – 17h.
+
+Đảm bảo an toàn tuyệt đối cho ngôi nhà bạn:
+Việc gửi cảnh báo đến điện thoại và huy động các thiết bị tham gia quá trình “chống trộm” đã góp phần vào việc bảo vệ ngôi nhà bạn trước những tác nhân xấu. Ngoài ra, cảm biến còn có chức năng như cảm biến môi trường, có thể đo được các thông số như: độ ẩm, nhiệt độ, ánh sáng môi trường và báo đến điện thoại, giúp gia đình bạn luôn có môi trường đảm bảo sức khỏe.
+
+Sử dụng công nghệ không dây zigbee, tiêu chuẩn 802.15.4 – sử dụng tín hiệu radio có tần sóng ngắn, có 2 tầng và vận hành trong vùng bảo mật của hệ thống. Nên trộm không thể xâm nhập vào hệ thống mạng không dây zigbee nhà bạn để mở cửa một cách dễ dàng.
+
+Lumi là đơn vị đầu tiên tại Việt Nam đạt chứng chỉ CE – tiêu chuẩn xuất khẩu sang Châu Âu và chứng chỉ UL – được phép xuất khẩu đến 104 quốc gia trên thế giới
+
+Đến nay, với gần 25.000 ngôi nhà đã hoàn thiện, hàng chục dự án đang triển khai và ký kết hợp đồng, Lumi tự hào trở thành thương hiệu Việt được khách hàng lựa chọn nhiều nhất trong thị trường nhà thông minh tại Việt Nam. An toàn, thân thiện và dễ sử dụng, nhà thông minh Lumi đang là sự lựa chọn lý tưởng cho mọi gia đình Việt.
+
+Hãy liên hệ ngay với chúng tôi theo số hotline: 0968.333.268 - 0935.333.268  để trở thành người tiếp theo sở hữu ngôi nhà thông minh, hiện đại, đẳng cấp Châu Âu  made in Việt Nam với giá chỉ từ 25 triệu.

@@ -2,12 +2,14 @@
 title: 'Trước khi lắp đặt ngôi nhà thông minh cần phải đặt ra những câu hỏi này'
 media_order: '15.png,Nai-that-cao-cap-tai-Vinhomes-Symphony.jpg,13.png'
 thumbnail: 13.png
-description: 'Để việc thi công lắp đặt ngôi nhà thông minh được thuận lợi, nhất định bạn phải đặt ra các câu hỏi sau đây cho nhà phân phối, điều này sẽ giúp bạn có được ngôi nhà tốt nhất. ...'
+description: 'Để việc thi công lắp đặt ngôi nhà thông minh được thuận lợi, nhất định bạn phải đặt ra các câu hỏi sau đây cho nhà phân phối, điều này sẽ giúp bạn có được ngôi nhà tốt nhất.'
 taxonomy:
     category:
         - giaiphap
 visible: false
+googledesc: 'Để việc thi công lắp đặt ngôi nhà thông minh được thuận lợi, nhất định bạn phải đặt ra các câu hỏi sau đây cho nhà phân phối, điều này sẽ giúp bạn có được ngôi nhà tốt nhất.'
 twittercardoptions: summary
+twitterdescription: 'Để việc thi công lắp đặt ngôi nhà thông minh được thuận lợi, nhất định bạn phải đặt ra các câu hỏi sau đây cho nhà phân phối, điều này sẽ giúp bạn có được ngôi nhà tốt nhất.'
 articleenabled: false
 musiceventenabled: false
 orgaenabled: false
@@ -20,31 +22,58 @@ restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
     priceRange: $
+facebookdesc: 'Để việc thi công lắp đặt ngôi nhà thông minh được thuận lợi, nhất định bạn phải đặt ra các câu hỏi sau đây cho nhà phân phối, điều này sẽ giúp bạn có được ngôi nhà tốt nhất.'
 ---
 
-<p><strong>Để việc thi c&ocirc;ng lắp đặt ng&ocirc;i nh&agrave; th&ocirc;ng minh được thuận lợi, nhất định bạn phải đặt ra c&aacute;c c&acirc;u hỏi sau đ&acirc;y cho nh&agrave; ph&acirc;n phối, điều n&agrave;y sẽ gi&uacute;p bạn c&oacute; được ng&ocirc;i nh&agrave; tốt nhất.</strong></p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/newv1/tu-van-giai-phap/truoc-khi-lap-dat-ngoi-nha-thong-minh-can-phai-dat-ra-nhung-cau-hoi-nay/13.png" alt="" width="500" /></p>
-<p><strong>C&aacute;c c&acirc;u hỏi quan trọng cụ thể như:</strong></p>
-<p><strong>Ng&ocirc;i nh&agrave; sử dụng giao thức kết nối g&igrave;?</strong></p>
-<p>Hiểu được c&aacute;c vấn đề n&agrave;y sẽ gi&uacute;p bạn biết được khả năng t&iacute;ch hợp c&aacute;c thiết bị cho ng&ocirc;i nh&agrave; của bạn trong thời điểm hiện tại v&agrave; tương lai. Giao thức kết nối hiện nay c&oacute; thể l&agrave; Bluetooth, RF, S Wave hay Zigbee&hellip;.C&ocirc;ng nghệ Zigbee hiện tại đang l&agrave; giao thức t&acirc;n tiến nhất, trong tương lai c&oacute; thể sẽ l&agrave; xu hướng mới.</p>
-<p><strong>Ngo&agrave;i c&aacute;c kết nối tr&ecirc;n ng&ocirc;i nh&agrave; c&oacute; được t&iacute;ch hợp c&aacute;c thiết bị kh&aacute;c kh&ocirc;ng?</strong></p>
-<p>Do nhu cầu sử dụng ng&agrave;y c&agrave;ng cao, n&ecirc;n rất c&oacute; thể sau n&agrave;y bạn cần phải sử dụng th&ecirc;m nhiều thiết bị kh&aacute;c nữa, v&igrave; thế bạn phải hỏi kỹ xem sau n&agrave;y c&oacute; thể n&acirc;ng cấp hệ thống ng&ocirc;i nh&agrave; th&ocirc;ng minh của m&igrave;nh gi&uacute;p ho&agrave;n thiện hơn.</p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/newv1/tu-van-giai-phap/truoc-khi-lap-dat-ngoi-nha-thong-minh-can-phai-dat-ra-nhung-cau-hoi-nay/Nai-that-cao-cap-tai-Vinhomes-Symphony.jpg" alt="" width="500" /></p>
-<p>C&aacute;c thiết bị cơ bản khi lắp đặt ng&ocirc;i nh&agrave; th&ocirc;ng minh</p>
-<p><strong>Ng&ocirc;i nh&agrave; c&oacute; t&iacute;ch hợp Amazon Echo, Google Home kh&ocirc;ng ?</strong></p>
-<p>C&oacute; thể đến một ng&agrave;y chiếc điện thoại th&ocirc;ng minh cũng kh&ocirc;ng c&ograve;n cần thiết để mang theo b&ecirc;n m&igrave;nh nữa, thay v&igrave; đ&oacute; l&agrave; điều khiển bằng giọng n&oacute;i sẽ l&agrave; xu hướng thời đại mới. V&igrave; thế bạn cũng cần hỏi nh&agrave; ph&acirc;n phối về vấn đề n&agrave;y.</p>
-<p><strong>Độ bảo mật của ng&ocirc;i nh&agrave; c&oacute; an to&agrave;n kh&ocirc;ng?</strong></p>
-<p>Nh&agrave; th&ocirc;ng minh được hoạt động với hệ thống tự động h&oacute;a, dựa tr&ecirc;n nền tảng internet. Bởi thế khả năng bị tấn c&ocirc;ng bảo mật qua hệ thống internet cũng kh&aacute; cao, n&ecirc;n vấn đề n&agrave;y nhất định bạn phải quan t&acirc;m h&agrave;ng đầu. Bạn cần biết ch&uacute;t &iacute;t về dịch vụ lưu trữ đ&aacute;m m&acirc;y m&agrave; c&ocirc;ng ty lắp đặt hiện đang tư vấn cho bạn, gi&uacute;p bạn biết khả năng an to&agrave;n cho ng&ocirc;i nh&agrave; của m&igrave;nh.</p>
-<p><strong>Phải l&agrave;m g&igrave; khi ng&ocirc;i nh&agrave; gặp sự cố - Khắc phục c&oacute; dễ d&agrave;ng kh&ocirc;ng?</strong></p>
-<p>Những ng&ocirc;i nh&agrave; th&ocirc;ng minh mới chỉ xuất hiện tại Việt Nam trong thời gian gần đ&acirc;y n&ecirc;n c&ograve;n rất mới mẻ. Tuy nhi&ecirc;n với c&aacute;c nước ph&aacute;t triển tr&ecirc;n thế giới, ng&ocirc;i nh&agrave; đ&atilde; c&oacute; từ rất l&acirc;u.</p>
-<p>Do sự mới mẻ n&ecirc;n khi lắp đặt ng&ocirc;i nh&agrave; th&ocirc;ng minh kh&ocirc;ng thể tr&aacute;nh khỏi việc bạn thao t&aacute;c sai do chưa th&agrave;nh thạo. Đơn giản nhất như khi sử dụng chiếc laptop hay bất cứ loại c&ocirc;ng nghệ n&agrave;o, tuy đ&atilde; c&oacute; từ l&acirc;u, nhưng vẫn c&ograve;n rất nhiều chức năng ta chưa khai th&aacute;c hết.</p>
-<p>Ri&ecirc;ng nh&agrave; th&ocirc;ng minh phần lớn chỉ nh&agrave; cung cấp v&agrave; lắp đặt th&igrave; mới chắc chắn th&agrave;nh thạo. V&igrave; thế vấn đề bảo h&agrave;nh, hỗ trợ sau khi lắp đặt l&agrave; v&ocirc; c&ugrave;ng quan trọng.</p>
-<p><strong>Vậy &yacute; nghĩa thật sự của việc lắp đặt ng&ocirc;i nh&agrave; th&ocirc;ng minh l&agrave; g&igrave;?</strong></p>
-<p>Ng&ocirc;i nh&agrave; th&ocirc;ng minh c&oacute; t&iacute;ch hợp một trung t&acirc;m đầu n&atilde;o để thu thập t&iacute;n hiệu v&agrave; th&ocirc;ng tin c&aacute;c cảm biến b&aacute;o về. Từ đ&oacute; trung t&acirc;m sẽ chỉ huy c&aacute;c thiết bị điện, điện tử kh&aacute;c trong nh&agrave;, phục vụ c&aacute;c nhu cầu của chủ nh&acirc;n.</p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/newv1/tu-van-giai-phap/truoc-khi-lap-dat-ngoi-nha-thong-minh-can-phai-dat-ra-nhung-cau-hoi-nay/15.png" alt="" width="500" /></p>
-<p>Điều khiển dễ d&agrave;ng mọi thiết bị ở bất cứ đ&acirc;u</p>
-<p>Việc lắp đặt ng&ocirc;i nh&agrave; th&ocirc;ng minh nhằm giải ph&oacute;ng bớt những c&ocirc;ng việc kh&ocirc;ng cần thiết trong ng&ocirc;i nh&agrave;, chẳng hạn như việc phải leo l&ecirc;n cầu thang để tắt đ&egrave;n, đi xa nh&agrave; phải về tưới c&acirc;y&hellip;Với ng&ocirc;i nh&agrave; th&ocirc;ng minh bạn chỉ cần c&aacute;c n&uacute;t k&iacute;ch hoạt c&aacute;c ngữ cảnh được lập tr&igrave;nh theo &yacute; muốn của bạn, được lưu v&agrave;o 1-2 n&uacute;t nhất định, v&igrave; thế bạn cũng kh&ocirc;ng cần phải lo lắng.</p>
-<p><strong>Nh&agrave; th&ocirc;ng minh mang lại lợi &iacute;ch g&igrave;?</strong></p>
-<p>Một trong những lợi &iacute;ch thiết thực nhất của ng&ocirc;i nh&agrave; th&ocirc;ng minh đ&oacute; l&agrave; c&oacute; thể quan s&aacute;t, điều khiển, kiểm so&aacute;t ng&ocirc;i nh&agrave; mọi l&uacute;c, mọi nơi. Ng&ocirc;i nh&agrave; th&ocirc;ng minh đem lại cuộc sống tiện nghi v&agrave; an to&agrave;n, đem đến sự an t&acirc;m hơn cho người sử dụng.</p>
-<p>Trong tương lai, tr&ecirc;n thế giới cũng như tại Việt nam, với hệ thống thiết bị hiện đại, nhiều đơn vị c&oacute; thể lắp đặt ng&ocirc;i nh&agrave; th&ocirc;ng minh mang lại lợi &iacute;ch nhiều hơn nữa, cụ thể:</p>
-<p>Gi&uacute;p bạn khỏe mạnh hơn<br />Chăm s&oacute;c người gi&agrave; gi&ugrave;m cho bạn<br />Gi&uacute;p bạn tương t&aacute;c với c&aacute;c mạng x&atilde; hội rộng r&atilde;i hơn.<br />Hi vọng qua b&agrave;i viết sẽ gi&uacute;p bạn hiểu hơn về c&aacute;c vấn đề li&ecirc;n quan đến việc lắp đặt ng&ocirc;i nh&agrave; th&ocirc;ng minh cụ thể nhất.</p>
+**Để việc thi công lắp đặt ngôi nhà thông minh được thuận lợi, nhất định bạn phải đặt ra các câu hỏi sau đây cho nhà phân phối, điều này sẽ giúp bạn có được ngôi nhà tốt nhất.**
+
+![Trước khi lắp đặt ngôi nhà thông minh cần phải đặt ra những câu hỏi này](13.png)
+
+##Các câu hỏi quan trọng cụ thể như:
+
+### Ngôi nhà sử dụng giao thức kết nối gì?**
+
+Hiểu được các vấn đề này sẽ giúp bạn biết được khả năng tích hợp các thiết bị cho ngôi nhà của bạn trong thời điểm hiện tại và tương lai. Giao thức kết nối hiện nay có thể là Bluetooth, RF, S Wave hay Zigbee….Công nghệ Zigbee hiện tại đang là giao thức tân tiến nhất, trong tương lai có thể sẽ là xu hướng mới.
+
+### Ngoài các kết nối trên ngôi nhà có được tích hợp các thiết bị khác không?
+
+Do nhu cầu sử dụng ngày càng cao, nên rất có thể sau này bạn cần phải sử dụng thêm nhiều thiết bị khác nữa, vì thế bạn phải hỏi kỹ xem sau này có thể nâng cấp hệ thống ngôi nhà thông minh của mình giúp hoàn thiện hơn.
+
+![Các thiết bị cơ bản khi lắp đặt ngôi nhà thông minh](Nai-that-cao-cap-tai-Vinhomes-Symphony.jpg)
+_Các thiết bị cơ bản khi lắp đặt ngôi nhà thông minh_
+
+### Ngôi nhà có tích hợp Amazon Echo, Google Home không?
+
+Có thể đến một ngày chiếc điện thoại thông minh cũng không còn cần thiết để mang theo bên mình nữa, thay vì đó là điều khiển bằng giọng nói sẽ là xu hướng thời đại mới. Vì thế bạn cũng cần hỏi nhà phân phối về vấn đề này.
+
+### Độ bảo mật của ngôi nhà có an toàn không?
+
+Nhà thông minh được hoạt động với hệ thống tự động hóa, dựa trên nền tảng internet. Bởi thế khả năng bị tấn công bảo mật qua hệ thống internet cũng khá cao, nên vấn đề này nhất định bạn phải quan tâm hàng đầu. Bạn cần biết chút ít về dịch vụ lưu trữ đám mây mà công ty lắp đặt hiện đang tư vấn cho bạn, giúp bạn biết khả năng an toàn cho ngôi nhà của mình.
+
+### Phải làm gì khi ngôi nhà gặp sự cố - Khắc phục có dễ dàng không?
+
+Những ngôi nhà thông minh mới chỉ xuất hiện tại Việt Nam trong thời gian gần đây nên còn rất mới mẻ. Tuy nhiên với các nước phát triển trên thế giới, ngôi nhà đã có từ rất lâu.
+
+Do sự mới mẻ nên khi lắp đặt ngôi nhà thông minh không thể tránh khỏi việc bạn thao tác sai do chưa thành thạo. Đơn giản nhất như khi sử dụng chiếc laptop hay bất cứ loại công nghệ nào, tuy đã có từ lâu, nhưng vẫn còn rất nhiều chức năng ta chưa khai thác hết.
+
+Riêng nhà thông minh phần lớn chỉ nhà cung cấp và lắp đặt thì mới chắc chắn thành thạo. Vì thế vấn đề bảo hành, hỗ trợ sau khi lắp đặt là vô cùng quan trọng.
+
+### Vậy ý nghĩa thật sự của việc lắp đặt ngôi nhà thông minh là gì?
+
+Ngôi nhà thông minh có tích hợp một trung tâm đầu não để thu thập tín hiệu và thông tin các cảm biến báo về. Từ đó trung tâm sẽ chỉ huy các thiết bị điện, điện tử khác trong nhà, phục vụ các nhu cầu của chủ nhân.
+
+![Điều khiển dễ dàng mọi thiết bị ở bất cứ đâu](15.png)
+_Điều khiển dễ dàng mọi thiết bị ở bất cứ đâu_
+
+Việc lắp đặt ngôi nhà thông minh nhằm giải phóng bớt những công việc không cần thiết trong ngôi nhà, chẳng hạn như việc phải leo lên cầu thang để tắt đèn, đi xa nhà phải về tưới cây…Với ngôi nhà thông minh bạn chỉ cần các nút kích hoạt các ngữ cảnh được lập trình theo ý muốn của bạn, được lưu vào 1-2 nút nhất định, vì thế bạn cũng không cần phải lo lắng.
+
+### Nhà thông minh mang lại lợi ích gì?
+
+Một trong những lợi ích thiết thực nhất của ngôi nhà thông minh đó là có thể quan sát, điều khiển, kiểm soát ngôi nhà mọi lúc, mọi nơi. Ngôi nhà thông minh đem lại cuộc sống tiện nghi và an toàn, đem đến sự an tâm hơn cho người sử dụng.
+
+Trong tương lai, trên thế giới cũng như tại Việt nam, với hệ thống thiết bị hiện đại, nhiều đơn vị có thể lắp đặt ngôi nhà thông minh mang lại lợi ích nhiều hơn nữa, cụ thể:
+
+Giúp bạn khỏe mạnh hơn.
+Chăm sóc người già giùm cho bạn.
+Giúp bạn tương tác với các mạng xã hội rộng rãi hơn.
+Hi vọng qua bài viết sẽ giúp bạn hiểu hơn về các vấn đề liên quan đến việc lắp đặt ngôi nhà thông minh cụ thể nhất.

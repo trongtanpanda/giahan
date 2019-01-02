@@ -15,7 +15,9 @@ content:
 taxonomy:
     category:
         - sanpham
+googledesc: 'Amply có chức năng khuếch đại tín hiệu xử lý hay nguồn điện tăng lên ra các tín hiệu đầu ra. Công dụng và chức năng của amply tự cung cấp nguồn điện cho các loa. Ví dụ như (hệ thống loa âm trần nghe nhạc) Amply sử dụng công nghệ truyền thông không dây Zigbee - tiêu chuẩn 802.15.4 bảo mật cao'
 twittercardoptions: summary
+twitterdescription: 'Amply có chức năng khuếch đại tín hiệu xử lý hay nguồn điện tăng lên ra các tín hiệu đầu ra. Công dụng và chức năng của amply tự cung cấp nguồn điện cho các loa. Ví dụ như (hệ thống loa âm trần nghe nhạc) Amply sử dụng công nghệ truyền thông không dây Zigbee - tiêu chuẩn 802.15.4 bảo mật cao'
 articleenabled: false
 musiceventenabled: false
 orgaenabled: false
@@ -28,6 +30,7 @@ restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
     priceRange: $
+facebookdesc: 'Amply có chức năng khuếch đại tín hiệu xử lý hay nguồn điện tăng lên ra các tín hiệu đầu ra. Công dụng và chức năng của amply tự cung cấp nguồn điện cho các loa. Ví dụ như (hệ thống loa âm trần nghe nhạc) Amply sử dụng công nghệ truyền thông không dây Zigbee - tiêu chuẩn 802.15.4 bảo mật cao'
 ---
 
 **Mô tả:** Amply có chức năng khuếch đại tín hiệu xử lý hay nguồn điện tăng lên ra các tín hiệu đầu ra. Công dụng và chức năng của amply tự cung cấp nguồn điện cho các loa. Ví dụ như (hệ thống loa âm trần nghe nhạc) Amply sử dụng công nghệ truyền thông không dây Zigbee - tiêu chuẩn 802.15.4 bảo mật cao 

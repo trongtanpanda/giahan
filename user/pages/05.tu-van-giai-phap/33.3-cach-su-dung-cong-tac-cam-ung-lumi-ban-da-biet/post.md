@@ -30,7 +30,7 @@ Siêu phẩm “công tắc cảm ứng Lumi” với những ưu điểm vượ
 ![](image12.png)
 _3 cách sử dụng công tắc cảm ứng Lumi _
 
-**Chạm vào công tắc cảm ứng Lumi**
+## Chạm vào công tắc cảm ứng Lumi
 
 Thiết bị điện thông minh này được tích hợp công nghệ cảm ứng điện dung “vô cùng nhạy” vì vậy khi muốn sử dụng trực tiếp, người dùng chỉ cần lấy ngón tay chạm nhẹ vào vòng tròn đèn LED (khu vực cảm ứng), ngay lập tức đèn sẽ sáng lên hoặc tắt đi theo ý muốn của người dùng.
 
@@ -40,7 +40,7 @@ _Chạm vào công tắc cảm ứng Lumi_
 Đặc biệt, độ nhạy của công tắc cảm ứng Lumi còn khiến người dùng phải ngạc nhiên bởi ngay cả khi tay ướt, người dùng vẫn có thể điều khiển được mà chẳng phải lo điện giật hay cháy nổ.
 Thay vì điều khiển bật/tắt bằng cách dùng lực như những chiếc công tắc bình thường, với công tắc điện cảm ứng Lumi việc điều khiển thiết bị sẽ trở nên vô cùng nhẹ nhàng.
 
-**Điều khiển từ xa qua App Lumi**
+## Điều khiển từ xa qua App Lumi
 
 Điều khiển từ xa qua App Lumi chính là tính năng khiến nhiều khách hàng tò mò và thích thú nhất. Chỉ cần cài đặt ứng dụng nhà thông minh vào điện thoại hoặc máy tính bảng có kết nối Internet hoặc 3G là người dùng hoàn toàn có thể điều khiển tất cả các thiết bị điện trong nhà dù đang đi du lịch ở nước ngoài.
 Công tắc cảm ứng ánh sáng Lumi còn được tích hợp công nghệ không dây Zigbee cho phép người dùng bật/tắt hay điều chỉnh đèn điện và một số thiết bị điện khác trong nhà bằng Smartphone hoặc Ipad.  
@@ -52,7 +52,7 @@ Bên cạnh các biểu tượng bật/tắt hay điều chỉnh độ sáng cho
 
 Việc cài đặt ứng dụng nhà thông minh Lumi vô cùng đơn giản như cách bạn vẫn cài đặt các ứng dụng nghe nhạc, game hay tin tức ở trên điện thoại hay máy tính bảng. Cài đặt xong, người dùng có thể trải nghiệm được ngay tính năng tuyệt vời này rồi.
 
-**Điều khiển bằng giọng nói Tiếng Việt**
+## Điều khiển bằng giọng nói Tiếng Việt
 
 Mới đây Lumi đã tích hợp thành công công tắc cảm ứng Lumi với loa thông minh Amazon Echo Dot và cho ra đời giải pháp nhà thông minh điều khiển bằng giọng nói.
 

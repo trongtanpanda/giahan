@@ -28,7 +28,7 @@ Thiết bị điện chính là chìa khóa vạn năng mang đến những ti�
 
 ![](image5.png)
 
-**Thiết bị bật tắt đèn thông minh**
+##Thiết bị bật tắt đèn thông minh
 
 Giờ đây việc điều khiển hệ thống ánh sáng trong nhà không còn khiến bạn phải bận tâm nữa khi mọi hoạt động đều được lập trình nhanh gọn và tiết kiệm công sức. Các loại thiết bị bật tắt đèn phổ biến hiện nay bao gồm: 
 * Thiết bị bật tắt đèn từ xa hoặc qua cảm ứng (hay còn gọi là công tắc thông minh) giúp bạn dễ dàng điều khiển hệ thống chiếu sáng trong và ngoài nhà. 
@@ -36,7 +36,7 @@ Giờ đây việc điều khiển hệ thống ánh sáng trong nhà không cò
 * Thiết bị cảm biến chuyển động: Dựa vào sự chuyển động hồng ngoại trong một phạm vi nhất định, đèn sẽ tự động bật hoặc tắt. Đây là thiết bị điện dân dụng thông minh phù hợp với không hành lang, cầu thang của biệt thự, nhà cao tầng. 
 
 
-**Thiết bị điều khiển hồng ngoại thông minh**
+##Thiết bị điều khiển hồng ngoại thông minh
 
 Thiết bị điều khiển hồng ngoại hoạt động theo nguyên tắc cảm biến thụ động. Khi có sóng hồng ngoại đi vào khu vực cảm biến, tín hiệu sẽ được ghi nhận và gửi về trung tâm điều khiển. Các lệnh có sẵn sẽ được kích hoạt và điều khiển trạng thái bật tắt của thiết bị được sử dụng rất nhiều trong cuộc sống hiện nay. 
 

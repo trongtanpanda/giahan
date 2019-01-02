@@ -3,8 +3,10 @@ title: '3 ưu điểm tuyêt vời của giải pháp rèm của thông minh LUM
 media_order: 'rAm_caa.jpg,rAm_caa_ta_Aang.jpg,rAm_caa_cAng_Aiau_khian.jpg'
 thumbnail: rAm_caa_cAng_Aiau_khian.jpg
 description: 'giải pháp rèm cửa thông minh hỗ trợ bạn đóng mở rèm cửa một cách nhanh chóng và dễ dàng chỉ bằng smartphone hay giọng nói. Ngoài ra, chức năng tự động mở/đóng theo khung giờ bạn cài đặt giúp bạn tiết kiệm và tận dụng ánh sáng tự nhiên cho ngôi nhà.'
-twittercardoptions: summary
 visible: false
+googledesc: 'giải pháp rèm cửa thông minh hỗ trợ bạn đóng mở rèm cửa một cách nhanh chóng và dễ dàng chỉ bằng smartphone hay giọng nói. Ngoài ra, chức năng tự động mở/đóng theo khung giờ bạn cài đặt giúp bạn tiết kiệm và tận dụng ánh sáng tự nhiên cho ngôi nhà.'
+twittercardoptions: summary
+twitterdescription: 'giải pháp rèm cửa thông minh hỗ trợ bạn đóng mở rèm cửa một cách nhanh chóng và dễ dàng chỉ bằng smartphone hay giọng nói. Ngoài ra, chức năng tự động mở/đóng theo khung giờ bạn cài đặt giúp bạn tiết kiệm và tận dụng ánh sáng tự nhiên cho ngôi nhà.'
 articleenabled: false
 musiceventenabled: false
 orgaenabled: false
@@ -17,21 +19,44 @@ restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
     priceRange: $
+facebookdesc: 'giải pháp rèm cửa thông minh hỗ trợ bạn đóng mở rèm cửa một cách nhanh chóng và dễ dàng chỉ bằng smartphone hay giọng nói. Ngoài ra, chức năng tự động mở/đóng theo khung giờ bạn cài đặt giúp bạn tiết kiệm và tận dụng ánh sáng tự nhiên cho ngôi nhà.'
 ---
 
-<p><strong>Ti&ecirc;n phong trong lĩnh vực smarthome, nh&agrave; th&ocirc;ng minh Lumi hướng đến ph&aacute;t triển tối đa c&aacute;c tiện &iacute;ch phục vụ cuộc sống con người. Trong đ&oacute;, giải ph&aacute;p r&egrave;m cửa th&ocirc;ng minh hỗ trợ bạn đ&oacute;ng mở r&egrave;m cửa một c&aacute;ch nhanh ch&oacute;ng v&agrave; dễ d&agrave;ng chỉ bằng smartphone hay giọng n&oacute;i. Ngo&agrave;i ra, chức năng tự động mở/đ&oacute;ng theo khung giờ bạn c&agrave;i đặt gi&uacute;p bạn tiết kiệm v&agrave; tận dụng &aacute;nh s&aacute;ng tự nhi&ecirc;n cho ng&ocirc;i nh&agrave;.</strong></p>
-<p><strong><img src="/newv1/tu-van-giai-phap/3-uu-diem-tuyet-voi-cua-giai-phap-rem-cua-thong-minh-lumi/rAm_caa_cAng_Aiau_khian.jpg" alt="" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</strong><em>giải ph&aacute;p r&egrave;m cửa th&ocirc;ng minh</em></p>
-<p><strong>Điều khiển từ xa mọi l&uacute;c mọi nơi</strong><br />Với giải ph&aacute;p r&egrave;m cửa th&ocirc;ng minh Lumi, bạn c&oacute; thể dễ d&agrave;ng điều khiển hệ thống r&egrave;m cửa chỉ bằng smartphone hoặc giọng n&oacute;i.</p>
-<p>Thay v&igrave; phải đến tận nơi v&agrave; điều khiển bằng tay, chỉ cần một chiếc smartphone kết nối internet (3G/4G), bạn c&oacute; thể dễ d&agrave;ng đ&oacute;ng mở một hay nhiều r&egrave;m cửa trong nh&agrave; chỉ với một c&uacute; chạm. Mọi th&ocirc;ng tin trạng th&aacute;i đ&oacute;ng mở r&egrave;m cửa đều được hiển thị chi tiết tr&ecirc;n m&agrave;n h&igrave;nh điện thoại/m&aacute;y t&iacute;nh bảng.</p>
-<p>Ngo&agrave;i ra, Lumi c&ograve;n ph&aacute;t triển sản phẩm loa th&ocirc;ng minh Milo gi&uacute;p bạn điều khiển hệ thống r&egrave;m cửa chỉ bằng giọng n&oacute;i. Giải ph&aacute;p n&agrave;y cực hữu &iacute;ch khi bạn kh&ocirc;ng thể đến tận nơi hay khi kh&ocirc;ng rảnh tay để mở smartphone.</p>
-<p><img src="/newv1/tu-van-giai-phap/3-uu-diem-tuyet-voi-cua-giai-phap-rem-cua-thong-minh-lumi/rAm_caa_ta_Aang.jpg" alt="" />&nbsp; &nbsp;&nbsp;</p>
-<p><img src="/newv1/tu-van-giai-phap/3-uu-diem-tuyet-voi-cua-giai-phap-rem-cua-thong-minh-lumi/rAm_caa.jpg" alt="" /></p>
-<p><strong>Hẹn giờ đ&oacute;ng mở r&egrave;m theo &yacute; muốn</strong></p>
-<p>Kh&ocirc;ng phải l&uacute;c n&agrave;o bạn cũng ở nh&agrave; hoặc c&oacute; đủ thời gian để quản l&yacute; ng&ocirc;i nh&agrave;. Ch&iacute;nh v&igrave; vậy, Lumi đ&atilde; ph&aacute;t triển t&iacute;nh năng hẹn giờ để bạn thiết lập hoạt động/trạng th&aacute;i cho hệ thống r&egrave;m cửa ngay tr&ecirc;n nền tảng điện thoại. Bạn c&oacute; thể t&ugrave;y chỉnh c&agrave;i đặt thời gian đ&oacute;ng mở cho một hoặc nhiều r&egrave;m cửa trong hệ thống theo &yacute; muốn của m&igrave;nh.&nbsp;<br />V&iacute; dụ, bạn c&agrave;i đặt thời gian đ&oacute;ng mở theo đồng hồ sinh học c&aacute; nh&acirc;n. 6h s&aacute;ng, r&egrave;m cửa sẽ tự động mở v&agrave; đ&aacute;nh thức bạn dậy bằng &aacute;nh s&aacute;ng tự nhi&ecirc;n. 12h trưa r&egrave;m tự động đ&oacute;ng lại để bạn nghỉ ngơi thư gi&atilde;n v&agrave; chiều đến khung cửa sổ lại rộng mở để bạn tận hưởng thời khắc ho&agrave;ng h&ocirc;n l&atilde;ng mạn.</p>
-<p><strong>Điều khiển linh hoạt đa phương tiện</strong></p>
-<p>Ngo&agrave;i chức năng điều khiển v&agrave; hẹn giờ từ xa, Lumi c&ograve;n gi&uacute;p bạn kết hợp nhiều tiện &iacute;ch đa phương tiện. Hệ thống cho ph&eacute;p bạn điều khiển r&egrave;m cửa kết hợp với chiếu s&aacute;ng th&ocirc;ng minh, &acirc;m thanh, giải tr&iacute; đa phương tiện&hellip;ngay tr&ecirc;n chiếc điện thoại của m&igrave;nh.</p>
-<p>Ứng dụng Lumi t&iacute;ch hợp c&aacute;c ngữ cảnh đ&atilde; được lập tr&igrave;nh sẵn như đi ngủ, xem phim, tiếp kh&aacute;ch...để bạn lựa chọn trạng th&aacute;i ph&ugrave; hợp với c&aacute;c t&igrave;nh huống trong thực tế. V&iacute; dụ, nếu bạn đang tr&ecirc;n đường về nh&agrave;, chỉ cần bấm chọn &ldquo;về nh&agrave;&rdquo;, hệ thống r&egrave;m cửa sẽ tự động mở cho kh&ocirc;ng kh&iacute; tho&aacute;ng đ&atilde;ng v&agrave; sẵn s&agrave;ng ch&agrave;o đ&oacute;n bạn trở về. Nếu bạn đang chuẩn bị tiếp đ&oacute;n một vị kh&aacute;ch qu&yacute;, n&uacute;t bấm &ldquo;tiếp kh&aacute;ch&rdquo; sẽ mang &acirc;m nhạc vui tươi rộn r&atilde; khi mở r&egrave;m, khiến thượng kh&aacute;ch cả bạn cảm thấy được tiếp đ&oacute;n một c&aacute;ch đặc biệt.&nbsp;<br />Ngo&agrave;i việc hẹn giờ theo &yacute; muốn, giải ph&aacute;p r&egrave;m cửa th&ocirc;ng minh Lumi c&ograve;n tự động theo d&otilde;i v&agrave; ghi nhớ th&oacute;i quen của người d&ugrave;ng, ph&acirc;n biệt được nhu cầu &aacute;nh s&aacute;ng giữa c&aacute;c m&ugrave;a/c&aacute;c thời điểm trong ng&agrave;y để tự động điều chỉnh đ&oacute;ng mở cho ph&ugrave; hợp.</p>
-<p><strong>Gia H&acirc;n - đơn vị cung cấp giải ph&aacute;p r&egrave;m cửa th&ocirc;ng minh Lumi h&agrave;ng đầu Việt Nam</strong></p>
-<p>L&agrave; đơn vị duy nhất tại Việt Nam đạt chứng chỉ chất lượng CE v&agrave; UL, Gia H&acirc;n mang đến cho bạn những tiện &iacute;ch tuyệt vời v&agrave; đồng bộ từ giải ph&aacute;p r&egrave;m cửa th&ocirc;ng minh, Milo - giọng n&oacute;i Tiếng Việt, chiếu s&aacute;ng th&ocirc;ng minh, Led 16 triệu m&agrave;u, bật tắt b&igrave;nh n&oacute;ng lạnh, &acirc;m thanh đa v&ugrave;ng, kiểm so&aacute;t m&ocirc;i trường...</p>
-<p>Đặc biệt, Gia H&acirc;n mang đến cho bạn giải ph&aacute;p r&egrave;m cửa th&ocirc;ng minh v&agrave; đồng bộ. C&aacute;c sản phẩm đi k&egrave;m bao gồm: c&ocirc;ng tắc cảm ứng viền v&agrave;ng, c&ocirc;ng tắc cảm ứng viền nh&ocirc;m, bộ điều khiển trung t&acirc;m v&agrave; loa Milo. Tất cả c&aacute;c sản phẩm đều đạt chuẩn CE ti&ecirc;u chuẩn xuất khẩu ch&acirc;u &Acirc;u v&agrave; UL &ndash; bo mạch phần cứng đạt chuẩn quốc tế được xuất khẩu rộng r&atilde;i tr&ecirc;n 104 quốc gia tr&ecirc;n thế giới. &nbsp;</p>
-<p>Đặc biệt, Gia H&acirc;n c&oacute; đội ngũ kỹ thuật nhiều năm kinh nghiệm lu&ocirc;n sẵn s&agrave;ng triển khai c&aacute;c hệ thống nh&agrave; th&ocirc;ng minh, hệ thống thiết bị an ninh rộng khắp. Hệ thống đại l&yacute; tr&ecirc;n to&agrave;n quốc v&agrave; li&ecirc;n tục mở rộng hệ thống đại l&yacute; tới c&aacute;c tỉnh th&agrave;nh.<br />H&atilde;y đến với Gia H&acirc;n ngay h&ocirc;m nay để cập nhật những tiện &iacute;ch tuyệt vời cho kh&ocirc;ng gian sống ng&ocirc;i nh&agrave; bạn c&ugrave;ng&nbsp;<strong>giải ph&aacute;p r&egrave;m cửa th&ocirc;ng minh</strong>&nbsp;Lumi.</p>
+**Tiên phong trong lĩnh vực smarthome, nhà thông minh Lumi hướng đến phát triển tối đa các tiện ích phục vụ cuộc sống con người. Trong đó, giải pháp rèm cửa thông minh hỗ trợ bạn đóng mở rèm cửa một cách nhanh chóng và dễ dàng chỉ bằng smartphone hay giọng nói. Ngoài ra, chức năng tự động mở/đóng theo khung giờ bạn cài đặt giúp bạn tiết kiệm và tận dụng ánh sáng tự nhiên cho ngôi nhà.**
+
+![giải pháp rèm cửa thông minh](rAm_caa_cAng_Aiau_khian.jpg)
+_Giải pháp rèm cửa thông minh_
+
+## Điều khiển từ xa mọi lúc mọi nơi
+
+Với giải pháp rèm cửa thông minh Lumi, bạn có thể dễ dàng điều khiển hệ thống rèm cửa chỉ bằng smartphone hoặc giọng nói.
+
+Thay vì phải đến tận nơi và điều khiển bằng tay, chỉ cần một chiếc smartphone kết nối internet (3G/4G), bạn có thể dễ dàng đóng mở một hay nhiều rèm cửa trong nhà chỉ với một cú chạm. Mọi thông tin trạng thái đóng mở rèm cửa đều được hiển thị chi tiết trên màn hình điện thoại/máy tính bảng.
+
+Ngoài ra, Lumi còn phát triển sản phẩm loa thông minh Milo giúp bạn điều khiển hệ thống rèm cửa chỉ bằng giọng nói. Giải pháp này cực hữu ích khi bạn không thể đến tận nơi hay khi không rảnh tay để mở smartphone.
+
+![giải pháp rèm cửa thông minh Lumi](rAm_caa.jpg)
+
+## Hẹn giờ đóng mở rèm theo ý muốn
+
+Không phải lúc nào bạn cũng ở nhà hoặc có đủ thời gian để quản lý ngôi nhà. Chính vì vậy, Lumi đã phát triển tính năng hẹn giờ để bạn thiết lập hoạt động/trạng thái cho hệ thống rèm cửa ngay trên nền tảng điện thoại. Bạn có thể tùy chỉnh cài đặt thời gian đóng mở cho một hoặc nhiều rèm cửa trong hệ thống theo ý muốn của mình. 
+Ví dụ, bạn cài đặt thời gian đóng mở theo đồng hồ sinh học cá nhân. 6h sáng, rèm cửa sẽ tự động mở và đánh thức bạn dậy bằng ánh sáng tự nhiên. 12h trưa rèm tự động đóng lại để bạn nghỉ ngơi thư giãn và chiều đến khung cửa sổ lại rộng mở để bạn tận hưởng thời khắc hoàng hôn lãng mạn.
+
+## Điều khiển linh hoạt đa phương tiện
+
+Ngoài chức năng điều khiển và hẹn giờ từ xa, Lumi còn giúp bạn kết hợp nhiều tiện ích đa phương tiện. Hệ thống cho phép bạn điều khiển rèm cửa kết hợp với chiếu sáng thông minh, âm thanh, giải trí đa phương tiện…ngay trên chiếc điện thoại của mình.
+
+![Điều khiển linh hoạt đa phương tiện](rAm_caa_ta_Aang.jpg)
+
+Ứng dụng Lumi tích hợp các ngữ cảnh đã được lập trình sẵn như đi ngủ, xem phim, tiếp khách...để bạn lựa chọn trạng thái phù hợp với các tình huống trong thực tế. Ví dụ, nếu bạn đang trên đường về nhà, chỉ cần bấm chọn “về nhà”, hệ thống rèm cửa sẽ tự động mở cho không khí thoáng đãng và sẵn sàng chào đón bạn trở về. Nếu bạn đang chuẩn bị tiếp đón một vị khách quý, nút bấm “tiếp khách” sẽ mang âm nhạc vui tươi rộn rã khi mở rèm, khiến thượng khách cả bạn cảm thấy được tiếp đón một cách đặc biệt. 
+Ngoài việc hẹn giờ theo ý muốn, giải pháp rèm cửa thông minh Lumi còn tự động theo dõi và ghi nhớ thói quen của người dùng, phân biệt được nhu cầu ánh sáng giữa các mùa/các thời điểm trong ngày để tự động điều chỉnh đóng mở cho phù hợp.
+
+## Gia Hân - đơn vị cung cấp giải pháp rèm cửa thông minh Lumi hàng đầu Việt Nam
+
+Là đơn vị duy nhất tại Việt Nam đạt chứng chỉ chất lượng CE và UL, Gia Hân mang đến cho bạn những tiện ích tuyệt vời và đồng bộ từ giải pháp rèm cửa thông minh, Milo - giọng nói Tiếng Việt, chiếu sáng thông minh, Led 16 triệu màu, bật tắt bình nóng lạnh, âm thanh đa vùng, kiểm soát môi trường...
+
+Đặc biệt, Gia Hân mang đến cho bạn giải pháp rèm cửa thông minh và đồng bộ. Các sản phẩm đi kèm bao gồm: công tắc cảm ứng viền vàng, công tắc cảm ứng viền nhôm, bộ điều khiển trung tâm và loa Milo. Tất cả các sản phẩm đều đạt chuẩn CE tiêu chuẩn xuất khẩu châu Âu và UL – bo mạch phần cứng đạt chuẩn quốc tế được xuất khẩu rộng rãi trên 104 quốc gia trên thế giới.  
+
+Đặc biệt, Gia Hân có đội ngũ kỹ thuật nhiều năm kinh nghiệm luôn sẵn sàng triển khai các hệ thống nhà thông minh, hệ thống thiết bị an ninh rộng khắp. Hệ thống đại lý trên toàn quốc và liên tục mở rộng hệ thống đại lý tới các tỉnh thành.
+
+Hãy đến với Gia Hân ngay hôm nay để cập nhật những tiện ích tuyệt vời cho không gian sống ngôi nhà bạn cùng giải pháp rèm cửa thông minh Lumi.

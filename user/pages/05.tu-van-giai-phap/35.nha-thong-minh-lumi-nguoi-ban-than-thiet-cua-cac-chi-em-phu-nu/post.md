@@ -31,7 +31,7 @@ Nhưng giải pháp nhà thông minh Lumi đã hoàn toàn xóa tan điều đó
 ![](image21.png)
 _Nhà thông minh Lumi- người bạn thân thiết của các chị em phụ nữ _
 
-**Giải pháp nhà thông minh Lumi giúp bảo vệ sức khỏe của các chị em phụ nữ**
+## Giải pháp nhà thông minh Lumi giúp bảo vệ sức khỏe của các chị em phụ nữ
 
 Hệ thống cảm biến nhiệt, cảm biến môi trường trong giải pháp nhà thông minh Lumi sẽ giúp các chị em phụ nữ bảo vệ được sức khỏe của mình một cách tốt nhất.
 Khi nhiệt độ trong căn phòng tăng quá cao hay xuống quá thấp thì nhiệt độ trong căn phòng sẽ tự động điều chỉnh phù hợp với cơ thể của chị em. Hơn thế nữa, độ ẩm trong căn phòng cũng sẽ được tự động điều chỉnh, để cân bằng độ độ ẩm trong ngôi nhà, đảm bảo các chị em không bao giờ gặp phải những vấn đề về sức khỏe khi sống trong nhà thông minh.
@@ -41,14 +41,14 @@ Lượng ánh sáng trong căn phòng cũng sẽ được điều chỉnh để 
 ![](image2.png)
 _Tự động điều chỉnh ánh sáng phù hợp với nhu cầu sử dụng_
 
-**Giải pháp nhà thông minh Lumi giúp bảo vệ làn da của các chị em phụ nữ**
+## Giải pháp nhà thông minh Lumi giúp bảo vệ làn da của các chị em phụ nữ
 
 Làn da luôn được các chị em phụ nữ chăm sóc cẩn thận, tỉ mỉ nhất. Những vấn đề xuất hiện trên làn da như đen sạm, khô rám luôn khiến các chị em phụ nữ đau đầu.
 Tuy nhiên, giải pháp nhà thông minh Lumi luôn kiểm soát được những điều đó và mang đến cho các chị em phụ nữ làn da sáng, mịn và rạng rỡ nhất.
 Nhiệt độ và độ ẩm trong căn phòng sẽ luôn được kiểm soát một cách tối ưu nhất, để giúp làn da các chị em phụ nữ được phục hồi cũng như được chăm sóc một cách tốt nhất.
 Lượng ánh sáng cung cấp đến ngôi nhà cũng là vừa đủ để giúp cung cấp năng lượng vừa đủ và không làm hư hại, hư tổn đến làn da của các chị em phụ nữ .
 
-**Các chị em phụ nữ sẽ không còn nhiều nỗi lo lắng nữa**
+## Các chị em phụ nữ sẽ không còn nhiều nỗi lo lắng nữa
 
 Một trong những điều khiến các chị em luôn băn khoăn và không có thời gian để chăm sóc cho gia đình mình chính là những nỗi lo rằng bé nhà mình đã dậy hay chưa, bé nhà mình ở nhà mình một mình có an toàn hay không, ấm điện ở nhà đã tắt hay chưa.
 Chính những nỗi lo này luôn khiến các chị em phụ nữ mất quá nhiều thời gian và không có thời gian để chăm lo cho bản thân mình Nhưng với giải pháp nhà thông minh Lumi thì hoàn toàn khác. 

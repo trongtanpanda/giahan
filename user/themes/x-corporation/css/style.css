@@ -59,6 +59,8 @@ a:hover {
 .home-heading {
     margin: 0px;
 }
+
+
 /* --------------------------------------
 LINK STYLE
 ------------------------------------------*/
@@ -85,7 +87,8 @@ a:focus {
     text-decoration: none;
 }
 
-ul {
+nav ul,
+footer ul {
     margin: 0;
     padding: 0;
     list-style: none;
@@ -2211,9 +2214,11 @@ div.row.email-phone-row {
     margin-bottom: 20px;
     line-height: 1.2;
 }
-.nav-cta.visible-xs .dropdown-toggle{
+
+.nav-cta.visible-xs .dropdown-toggle {
     float: right;
 }
+
 @media (max-width: 1200px) {
     .p-top {
         padding-top: 40px;
@@ -2395,10 +2400,9 @@ div.row.email-phone-row {
         -moz-transform: translateY(0);
         transform: translateY(0);
     }
-   .nav-cta.visible-xs .dropdown.open .dropdown-menu {
+    .nav-cta.visible-xs .dropdown.open .dropdown-menu {
         display: block !important;
     }
-
     .navbar-default .navbar-nav .open .dropdown-menu>li>a {
         color: #26AB4A;
     }
